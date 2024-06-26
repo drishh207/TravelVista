@@ -1,0 +1,2363 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ",
+      "id": "ChIJ4V3yn-3YqDsRy6vHHu6tKPQ",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "1800 4253 1111",
+      "internationalPhoneNumber": "+91 1800 4253 1111",
+      "formattedAddress": "National Highway 209, Sathyamangalam Taluk, Erode District, Bannari, Talamalai R.F., Tamil Nadu 638401, India",
+      "addressComponents": [
+        {
+          "longText": "Bannari",
+          "shortText": "Bannari",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638401",
+          "shortText": "638401",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J3VH43Q+3M",
+        "compoundCode": "H43Q+3M Bannari, Tamil Nadu, India"
+      },
+      "location": {
+        "latitude": 11.552670299999999,
+        "longitude": 77.139221499999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.551243919708497,
+          "longitude": 77.137647319708492
+        },
+        "high": {
+          "latitude": 11.553941880291502,
+          "longitude": 77.1403452802915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=17593503182553066443",
+      "websiteUri": "https://hrce.tn.gov.in/hrcehome/index_temple.php?tid=10245",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 9:00 PM",
+          "Tuesday: 5:00 AM – 9:00 PM",
+          "Wednesday: 5:00 AM – 9:00 PM",
+          "Thursday: 5:00 AM – 9:00 PM",
+          "Friday: 5:00 AM – 9:00 PM",
+          "Saturday: 5:00 AM – 9:00 PM",
+          "Sunday: 5:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "National Highway 209, \u003cspan class=\"street-address\"\u003eSathyamangalam Taluk, Erode District\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBannari, Talamalai R.F.\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638401\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 19083,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "ARULMIGU SRI BANNARIAMMAN TEMPLE",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 9:00 PM",
+          "Tuesday: 5:00 AM – 9:00 PM",
+          "Wednesday: 5:00 AM – 9:00 PM",
+          "Thursday: 5:00 AM – 9:00 PM",
+          "Friday: 5:00 AM – 9:00 PM",
+          "Saturday: 5:00 AM – 9:00 PM",
+          "Sunday: 5:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "National Highway 209, Sathyamangalam Taluk, Erode District, Bannari",
+      "editorialSummary": {
+        "text": "Popular Hindu temple for the goddess of rain, with colorful details & a vibrant annual festival.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5NWVXMExREAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "This temple is very famous and has good vibrations. and a good Maintenance like drinking water, the restroom is there. at the same  time it is a very peaceful place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is very famous and has good vibrations. and a good Maintenance like drinking water, the restroom is there. at the same  time it is a very peaceful place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "VIMAL RAJ",
+            "uri": "https://www.google.com/maps/contrib/115250232984870046827/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3ayw2r5iqv8OjtZbZpQSD_zHvg1hhunJcfYe1k8ncrvY0qzGs=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-19T07:47:13Z"
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5dU42SHJnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very Famous Temple in Tamilnadu. Bannari Mariyamman Temple located in border of Tamilnadu & Karnataka so Lot of Karnataka people also visit here. All Lorry & Truck Drivers cross here make Pooja in this Temple. Marriage Occurs here. Group of\nPeople visit and Goat & Hen cut here for god and make cook and eat.\nThere are huge parking Place available here. Mandabam also available. Limited shops only. Around the temple fully forest area.\nBuses available from Sathiyamangalam.\nFamous Festival is Agni Kundam falls in Every Year March Month End.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very Famous Temple in Tamilnadu. Bannari Mariyamman Temple located in border of Tamilnadu & Karnataka so Lot of Karnataka people also visit here. All Lorry & Truck Drivers cross here make Pooja in this Temple. Marriage Occurs here. Group of\nPeople visit and Goat & Hen cut here for god and make cook and eat.\nThere are huge parking Place available here. Mandabam also available. Limited shops only. Around the temple fully forest area.\nBuses available from Sathiyamangalam.\nFamous Festival is Agni Kundam falls in Every Year March Month End.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mr Chandru",
+            "uri": "https://www.google.com/maps/contrib/105009091194217880350/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWe0smx1UQ3kCaTg_c5K8_6AJTRVewp7bY1mjPg9iVXLwiRgtFN=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-01T16:11:30Z"
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqeU5fcU5nEAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 5,
+          "text": {
+            "text": "Must visit temple after getting down from Dhimbham ghats or before going up. Blessings from the Goddess is a must for any trip towards this side",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Must visit temple after getting down from Dhimbham ghats or before going up. Blessings from the Goddess is a must for any trip towards this side",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sharath Shekar M S",
+            "uri": "https://www.google.com/maps/contrib/106662936140574411685/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEIlaIyUFOR-ygjsHb2W8uzbdPgNm9ZgEXWQZYRoE-SZ7UDQAr=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-04-17T09:45:19Z"
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxMC1lajFRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "As of Jan 2024, the rajagopuram work is going on, and it will take a few years to get completed.\nVery vast temple and very vast space around the temple. Car parking is available.\nFrom free darhsan to paid darshan like Rs.15, Rs.30 and Rs.50 are there. Very crowded during weekends and special days. Very neatly routed on all the paths. They give puthu mann (sand) as prasadam. Daily after 5.30 pm pooja, Golden charriot will be run once with security. Need to pay in advance for the same.\nSalt and pepper kundam is there. Many are worshiping on the same, just like vanabadrakaliamman temple in Mettupalayam.\nTonsure can also be done near the original statue which is near riverside.\nAnnadhanam is provided. We can also donate for the same.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "As of Jan 2024, the rajagopuram work is going on, and it will take a few years to get completed.\nVery vast temple and very vast space around the temple. Car parking is available.\nFrom free darhsan to paid darshan like Rs.15, Rs.30 and Rs.50 are there. Very crowded during weekends and special days. Very neatly routed on all the paths. They give puthu mann (sand) as prasadam. Daily after 5.30 pm pooja, Golden charriot will be run once with security. Need to pay in advance for the same.\nSalt and pepper kundam is there. Many are worshiping on the same, just like vanabadrakaliamman temple in Mettupalayam.\nTonsure can also be done near the original statue which is near riverside.\nAnnadhanam is provided. We can also donate for the same.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Wandering Willager's Official",
+            "uri": "https://www.google.com/maps/contrib/112208229304036015823/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIynMkXq1Xht_6y6J9t8KM-lZx9EfSIZvYt2zgpuOS2qoAd=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-01-03T09:19:52Z"
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURGMV9xOG9BRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 3,
+          "text": {
+            "text": "For newcomers:\n\n-\u003e car parking available\n-\u003e restroom available\n-\u003e lactation room available\n-\u003e annadhanam was there at the time of writing this (11 nov 2023, 13:14)\n\nReview:\n\nThe temple is usual, nothing special. But the traveling part is amazing. Roads are smooth, best place to cruise. The temple is located in a forest kinda place where there are frequent speed breaks due to animal activities. Good place for devotional enthus, i would not recommend this place for non-devotional persons but overall this is a 3/5 star place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "For newcomers:\n\n-\u003e car parking available\n-\u003e restroom available\n-\u003e lactation room available\n-\u003e annadhanam was there at the time of writing this (11 nov 2023, 13:14)\n\nReview:\n\nThe temple is usual, nothing special. But the traveling part is amazing. Roads are smooth, best place to cruise. The temple is located in a forest kinda place where there are frequent speed breaks due to animal activities. Good place for devotional enthus, i would not recommend this place for non-devotional persons but overall this is a 3/5 star place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pan Cake",
+            "uri": "https://www.google.com/maps/contrib/107419615650482400820/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWAJLM3u27HzvG2GsLjC65rgwjaq3h8oGoP-76FUUCDx52gkNi=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-11T07:46:09Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJZE33r8xH6obX3b-UhKHbfdTQqqGH8dFxi2V7z44LWbF8LUUalvOLmI4FBOnjfgJRkgdWSceWCX4S1IWas2MCMk-URPAw7HLl6_N0zqUiTu--qLp0bovDmo9C8CIUwpMoVZTLHeLB4RPjhB-Q9cbSrQA38jk6QzxlEF",
+          "widthPx": 720,
+          "heightPx": 900,
+          "authorAttributions": [
+            {
+              "displayName": "Selvaraj V",
+              "uri": "//maps.google.com/maps/contrib/108503696712187114103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKebGi0nMElfPonCTtE0hKoqf7UbfaH9F9g2N2_ViYLYqV59g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJa6InCri0f87yBJSOwkinFwCw3VpHeOUaeNLud7_l8Wfl8_B1lBqzyfexXzWP1xZQhr2swWyonCpGj7-5MbD7PAw9Cx-BdUULwXQ1N5c_scVmmLH1-MUdiSe0Sgv9nrDGoyMmH4b2Gs4Hs9extlcIGgZDG3rwJcW-ni",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Kannan S",
+              "uri": "//maps.google.com/maps/contrib/107445381959259648259",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW7Wu5ktVPCIGjcR9AcL3Hf8EBDYot-SD0uHT3b-eH6Vl4Vqkax=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJZFGeatvJd1xjScEtiSeMVmu1OTQow_tSrIttMyLLenycHu4miOtc02j4i9IpHQz9ohW6GiWjjEgimfRZBR0jwPjH4fOWQCa1ajeEx-xPpkaouVIcVwh68In0whEK2I_i4PCjGh9-Z8QAgT5EB-vUlK6iaNS65Ibf0p",
+          "widthPx": 4004,
+          "heightPx": 3006,
+          "authorAttributions": [
+            {
+              "displayName": "Manoj kumar .V",
+              "uri": "//maps.google.com/maps/contrib/110445591368447837058",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWU1Amg28PwRW2YEiMChboYk0XjnfBBbxwnztOlyi4LIrvqLJn-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJZzKBv60l0TWk2yMC19ONqnv-yFxe8IEr9OOY11BdTfUdCN6OLkNu1yBLDz7zwH86MRnFU_J5dlOcj6sRd5T56vvfVyD0Wo41DxYKaEKW-KNOGKDzo5jgjaErsvYg2UFV3wyCQWEvkX1MM1_qWhny6iZMkxpcwKzXAX",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "KARTHIK V",
+              "uri": "//maps.google.com/maps/contrib/115450377911732290054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkNpPmmvD6LHWSmO2Fz0ZCjalJP9ZCztl4z5GfBzyPkw9ba204ig=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJb1wkPg6-Eno05SRi7oMOtWkzqYppbZWd9jB82rSh5ZOQfy_qOgdkTVlb25sLj66kHMxXg9WCfg_TAtBTNbkGhl9SnW5hQ_j51L2O62vZSR4i7sultwtyRZQFh6QeZL7HUTqgO-ZmenH1m8E9E5FNcEk5m61n0T_FRI",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Thangaraj Murugan",
+              "uri": "//maps.google.com/maps/contrib/115407565276283977779",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUI1c2T9wrWUQlBjVMXLBdhd0PBnFAOhbE0Qfj235WFW_DQcJhAnw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJaIgoqR8lLbjWPsXkO2VSSL_aAxlOkJUAMmMyXSUtknM9zg-Gsu92E1cmxuGVXb6tU3NoNhsSgE94WjqYUVWdySAcmTokMNO0PEkkoeoSarhuDok2Uj_FTLHISpL-A7BW26d6oQuWJGFGPE6_ORKnMktlAARrwEyIEV",
+          "widthPx": 5760,
+          "heightPx": 4312,
+          "authorAttributions": [
+            {
+              "displayName": "Ponnusamy P",
+              "uri": "//maps.google.com/maps/contrib/110623827784140516448",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXU0DVK8FrPMzAhQKG800KIWaNjP-JKqVCEQwHVCLf6Ed3bQdT4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJanEWdUw_TgImfWMrc5bRkHC5ZlUFK3t9MIbDdA_28EfrLUJMVnroe663nJGf8Y3MFffmONiOiqgBB78y6-jT9hAOx1BbXA0NK3a9xja2aoOp6E84GrZwq0QdHI1wFWLMcKX57Ywdv_GsJiS8ZvfqFiu7vBfNcCygEL",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Praveen Kumar",
+              "uri": "//maps.google.com/maps/contrib/113275885905312118579",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWgQzpL8s__iRlsZ0Mtvspr8E-iNryvwCZvrc1rmX5BAYMrUb2-0Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJbzcwh_n5WbMA0rHOjbgyxLU1-RQpGo23cBl6YVFRiwHmjL234QjB9LlvuSsMimQqygmo7c75AOueVkSAK9o9Y7QbhyQlFbjz--lXEorB_fhfqYltgCtrpnIgUKU5I8cQinLQ4b8b8PGsrZqFloTuwcxQFYXrZRWIyj",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Kanagamuthu Kanagamuthu",
+              "uri": "//maps.google.com/maps/contrib/104126674540005441482",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJUmGmNQ9ua3PL3PcMEyyC8_Nxk04o_WxNqDIFkVRQa5KNF2g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJbQe6zj-jY_RQW0wR0PfrGXIv0fKKObu6xB0QoA-6_YFrh3q-M86fnX10yQ2NpF1HnHd7fNfpu-YVzpYvY6fbyy4NgdDQh8y1rwkW-5CeY4o6yJUFFVHT3HGTqkma4I6U9-he_PTN25BrSy2MciJ1ntQv3QjZ4TgyG2",
+          "widthPx": 2456,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "James Fra",
+              "uri": "//maps.google.com/maps/contrib/110041622501141863047",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWGlrPVT0dUwJR0Na2wLDmbUND3-SwMbsnLJNsU2hrjp_E9n2n-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4V3yn-3YqDsRy6vHHu6tKPQ/photos/ATplDJamzLSeAHOeOKDL6_DvhYLqtv0FIFKV2cMb8bq0UWuSdRI3KKW643NsW7wJRdVHdQj4WpeBByTBt0ftaDogWDSyIEaP_xZj6zXWfeWFqjMQD1MTlI-kwOMTEf7jqMYmyELJ6fVUZaXxm1_KKirM7CFTR4Ea4SdpfdPC",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "praveen raj",
+              "uri": "//maps.google.com/maps/contrib/106553877427059287400",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVh1pUuNd2qMWLQIvuLRx7EkusnREulO-QuCE-s_YIfZ9SzQlY=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ8bzCaZvZqDsRIkecDu4DVOM",
+      "id": "ChIJ8bzCaZvZqDsRIkecDu4DVOM",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "H42R+MFG, Bannari, Talamalai R.F., Tamil Nadu 638461, India",
+      "addressComponents": [
+        {
+          "longText": "H42R+MFG",
+          "shortText": "H42R+MFG",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bannari",
+          "shortText": "Bannari",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638461",
+          "shortText": "638461",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.5516809,
+        "longitude": 77.1411959
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.550757419708496,
+          "longitude": 77.1399842197085
+        },
+        "high": {
+          "latitude": 11.553455380291501,
+          "longitude": 77.1426821802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=16380722065635559202",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "H42R+MFG, \u003cspan class=\"locality\"\u003eBannari, Talamalai R.F.\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638461\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Bannari great temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "H42R+MFG, Bannari, Talamalai R.F.",
+      "reviews": [
+        {
+          "name": "places/ChIJ8bzCaZvZqDsRIkecDu4DVOM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEaExxT2dBRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "dhanapal .d",
+            "uri": "https://www.google.com/maps/contrib/106564553449651896843/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGJpNaqCRfT0d-BEJYAJ5nTwsbPMOV0D1o70h9uCrkGEIGN3Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-24T11:43:57Z"
+        },
+        {
+          "name": "places/ChIJ8bzCaZvZqDsRIkecDu4DVOM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxa2VtVXN3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Pannari Amman Temple is a place where wild animals come and go and show the natural beauty.",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "பண்ணாரி அம்மன் கோவில் சுற்றியும்  இயற்கை அழகை காட்டும் இடம் வன விலங்குகள் வந்து போகும் இடம்.",
+            "languageCode": "ta"
+          },
+          "authorAttribution": {
+            "displayName": "Murugan Press",
+            "uri": "https://www.google.com/maps/contrib/106433851680301371278/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEHOkotch1IfEMqqTXI0pW03l0FdoBhRCg3ezwXFJFP9fDhSiz=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-31T10:13:50Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJSxzyOTTZqDsR2Qa4vFCDVVA",
+      "id": "ChIJSxzyOTTZqDsR2Qa4vFCDVVA",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "G5W4+VR4, Rajan Nagar - Pudukuiyanur, Pudukuiyanur, Tamil Nadu 638503, India",
+      "addressComponents": [
+        {
+          "longText": "G5W4+VR4",
+          "shortText": "G5W4+VR4",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Rajan Nagar - Pudukuiyanur",
+          "shortText": "Rajan Nagar - Pudukuiyanur",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pudukuiyanur",
+          "shortText": "Pudukuiyanur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638503",
+          "shortText": "638503",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.547148499999999,
+        "longitude": 77.15708
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.545792419708498,
+          "longitude": 77.155739119708485
+        },
+        "high": {
+          "latitude": 11.548490380291502,
+          "longitude": 77.1584370802915
+        }
+      },
+      "rating": 3.3,
+      "googleMapsUri": "https://maps.google.com/?cid=5788677278841439961",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "G5W4+VR4, \u003cspan class=\"street-address\"\u003eRajan Nagar - Pudukuiyanur\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePudukuiyanur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638503\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Kuiyanur Pirivu",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "G5W4+VR4, Rajan Nagar - Pudukuiyanur, Pudukuiyanur",
+      "reviews": [
+        {
+          "name": "places/ChIJSxzyOTTZqDsR2Qa4vFCDVVA/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxdXJfVmNREAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Place near forest range..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Place near forest range..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Asheek",
+            "uri": "https://www.google.com/maps/contrib/115728392145269888348/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKMz_906EDwWeA8R8Xg28CkLxqCBuJhSUhGzW9zdhUyIMrjdro=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-28T10:20:43Z"
+        },
+        {
+          "name": "places/ChIJSxzyOTTZqDsR2Qa4vFCDVVA/reviews/ChdDSUhNMG9nS0VJQ0FnSUROeXZhMnlBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "Gopal Krishnan",
+            "uri": "https://www.google.com/maps/contrib/108864716346420869503/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTg4HVg0j1WMrGbLWIzhMgvtdIFLF8avQNnD-AbJ3BGFtDUHBc=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-21T14:18:19Z"
+        },
+        {
+          "name": "places/ChIJSxzyOTTZqDsR2Qa4vFCDVVA/reviews/ChZDSUhNMG9nS0VJQ0FnSUROOGRISVl3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "DHINESH M",
+            "uri": "https://www.google.com/maps/contrib/109202240897270474788/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUWjGYprPYE30trVemiErFfuFeLftAfPM9sPsy_it4cEarpTVZ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-23T13:10:05Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJSxzyOTTZqDsR2Qa4vFCDVVA/photos/ATplDJYVNCygiDZj-ABK5M9BMKQ-SteDrmHMn_yEtqKfqPb7s02AM3WWW2u0WJ_lVlpB_iVSUipdwY70_whVb9PjQMtSSX7Ncb_gUeuf06US-fb1CkBbv14TP7CaNjKdhhqEOHtlnVNNdgYUDImxyLJR8UQcxo6IhJxePKCI",
+          "widthPx": 2252,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Dino john rh",
+              "uri": "//maps.google.com/maps/contrib/111329795015429079847",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU2bsXti1uL-_hCctP66GJlLTm7CYGrV5RmKbXvIySl_6kOyF2a=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo",
+      "id": "ChIJowbM1QfZqDsR7GrxtTE9aNo",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "po),sathyamangalam(tk),dt), H42P+FMX, Bannari, Talamalai R.F., Tamil Nadu 638461, India",
+      "addressComponents": [
+        {
+          "longText": "H42P+FMX",
+          "shortText": "H42P+FMX",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bannari",
+          "shortText": "Bannari",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638461",
+          "shortText": "638461",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.551246599999999,
+        "longitude": 77.13674189999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.550040819708498,
+          "longitude": 77.135351319708491
+        },
+        "high": {
+          "latitude": 11.552738780291502,
+          "longitude": 77.1380492802915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=15737896181561387756",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "po),sathyamangalam(tk),dt), H42P+FMX, \u003cspan class=\"locality\"\u003eBannari, Talamalai R.F.\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638461\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 18,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Sarugu Mariamman Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "H42P+FMX, po),sathyamangalam(tk),dt), Bannari",
+      "reviews": [
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/reviews/ChdDSUhNMG9nS0VJQ0FnSURDcTkzLWx3RRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Saruku mariamman temple is second most goddess in bannari.\n\nHere people's are doing function like ear punching to their children and goat cutting, feast,...etc..,",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Saruku mariamman temple is second most goddess in bannari.\n\nHere people's are doing function like ear punching to their children and goat cutting, feast,...etc..,",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashok Mano",
+            "uri": "https://www.google.com/maps/contrib/106331232731099515045/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVcJCcsHK4pOm8A_KVeWeOSX8YVnWxWBHuSOVbS0G2OBbwzn2T=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2020-10-12T10:09:24Z"
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/reviews/ChZDSUhNMG9nS0VJQ0FnSURJLThDUlFREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Sarugu Mariamman Temple near of Bannari Amman temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Sarugu Mariamman Temple near of Bannari Amman temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Elangovan",
+            "uri": "https://www.google.com/maps/contrib/110047083211330005970/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxbwnokhaJAsFE-NlxTf7QKBQ7zuwIIFG_f8Rpsg0FiBoXeHzy=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-01-23T16:24:21Z"
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHci16eHVnRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "The well has anytime water",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The well has anytime water",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vishnu Kathirvel",
+            "uri": "https://www.google.com/maps/contrib/114609259842767198074/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBHrpKwaG7ESysk64CFT7-yu_XojMI1YakHw-WYkYkk3H7UJ3B=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-11-13T08:37:30Z"
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdzU3VUVBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "🙏🙏🙏🚩",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "🙏🙏🙏🚩",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vinod Rao Bhorath",
+            "uri": "https://www.google.com/maps/contrib/111386998371261947300/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDlhuHsXfZ_mMaN-_fcaozfgnWEX6Paq4afxaAqJTW3L8irQeB=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-01-27T09:36:17Z"
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/reviews/ChZDSUhNMG9nS0VJQ0FnSURvLTZIYlZnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "K Sampath kumar",
+            "uri": "https://www.google.com/maps/contrib/117062091541075231587/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4G8PkSOQRZoL8RAEo_cVW0bOKRBQKeHBWP-xAWE08dbSP1EzI=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-03-23T04:40:35Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJZ532NCdQns0_heqyw_0kXVAIkXVnQvRRpUyXoif4EWPIVRVY6dYiU8WMOTgdMptdBO8ll2x5uXeYO0fCkQxLBteivecyK23Q5GIz0Sb1_OpTWglZUD9zw_kiP0DVifIiE1p7EKuIAylZJls0BGdS5dyK154U5lZ-FQ",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Thangavel 97",
+              "uri": "//maps.google.com/maps/contrib/104004314731872416542",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXxB4K44USvtuBE4qPxpI3G9MaYJFYnKcyS5fNxPZ3L0KwfAso=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJZ9kD1lifkA-FxTFHSrQYZ7k0VE3-U4CrnvsxtXZ2ddr4SrXKS3B3bGdBMF7QSBCb4GKxLvUzM57z1cvg-ysLqfobli5Rsw6HaTNglNgGoql7eMD1U4Vwrw0Adz7bOiREtsjw1XylwGhzGP42t_KB_MWXg_DJby7ed-",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Vinod Rao Bhorath",
+              "uri": "//maps.google.com/maps/contrib/111386998371261947300",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUDlhuHsXfZ_mMaN-_fcaozfgnWEX6Paq4afxaAqJTW3L8irQeB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJbpmxsGrODpzYgLGCuE3BFXfmNTKj-So7p9eiJccqIku4peNF202atfKmKvEfEtf_0ICZmpAo16CcsNYgVbBTSBk4DVJHEyCiyVBIKGtNz_I3ZPdIa8YHamPUefT4-uaPmuC-_GFAh-ATOjeVDELsAVkL7dbORau6kM",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "K Sampath kumar",
+              "uri": "//maps.google.com/maps/contrib/117062091541075231587",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW4G8PkSOQRZoL8RAEo_cVW0bOKRBQKeHBWP-xAWE08dbSP1EzI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJYH4Bp3FEM1eKXL0aHLCp7xA5wRNQM7MqMNIsC4KNwcum68C8baqTYEUMajh2jWaJiUpbJZlQUQvbL_3JB3gEO2YfW8Wh5-SZaDoNWFr-pYQClIF4lGpnA5N-bwd7vpe42i-eQNeWc73IcAbDkT4ZbnfSr_qIE0tuAz",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "gokul raj",
+              "uri": "//maps.google.com/maps/contrib/113065361248840707258",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZbweWPBSVcv79fWq8NOmf5FfsfquLILGeXW3-lc3X0OM11baQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJal9LsPWsaMS21AEWirVgVOzEyOfd0MErCnyBBTLARyZM3NjtWUms4EMZULtuaEEZHnazkRXBAlT9u3yWs6L4C1Ix6LyitA1SoU5WBnA0nwg-WHhcHQbeWsX_yZeqKS16VTQCktZ1QnCek8oZDpiadQR7OlvIzA0Kvj",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Pushpavel V",
+              "uri": "//maps.google.com/maps/contrib/114905047975884853330",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQqi3beQb9Z9aQPKK3XODnKGOSo4N4WCZQPIUuMdwlzRSpDECzNg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJaNw8HPx0md6DSiye5ubALs0ViZT58_CMR7PsT4OAGn3_cSnnZf_bBa0ys9hS5i574Rk89QZH1u1haoC7mz2xV6rN0zU2QJaN-o9W1HMrvX53GC7Q5f47cIQ7m0cyrXnlX2Js2jr2ojR62t9jKRQMFcigK9aPe6EF-h",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "gokul raj",
+              "uri": "//maps.google.com/maps/contrib/113065361248840707258",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZbweWPBSVcv79fWq8NOmf5FfsfquLILGeXW3-lc3X0OM11baQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJYKDC3HgCLBB_vHsT8_930H4XlhZF2fy5uQElx2-mgYo66bQPnVRtpWDN4NfVnPhxrRDz3OvGJSc_krF6Rl-daWxyg_szsOi6xbCrHJcCuDDvXASNjQAUP433PTrTyWJvhq6Yv8vEl5gLdgbnNU15nx0Q1oOjLZuZcN",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "K Sampath kumar",
+              "uri": "//maps.google.com/maps/contrib/117062091541075231587",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW4G8PkSOQRZoL8RAEo_cVW0bOKRBQKeHBWP-xAWE08dbSP1EzI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJbjvm1X9ab0sF8_WGtLc2vDzbD4MdAKkLjgQ27Ck3c30uJ03HosEaHhjS7QxAcWgOMw9ExbhMlmqwfSy_UTqA3ahhqx2OP_BLvscH0sRgbU87nX7__avVn9Jb7PbAQubormqRja0qhJT7Hdp0-pWF65wa0Y-nfcM_eN",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "gokul raj",
+              "uri": "//maps.google.com/maps/contrib/113065361248840707258",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZbweWPBSVcv79fWq8NOmf5FfsfquLILGeXW3-lc3X0OM11baQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJYOluuUdgLVhix86dpNG_u9w28G08CwJhQCfcanclDW7kKv_WWGEtqtWAeWUrapxBL0kcYMtGRro9sGgwK5bQDK7KAHM1nOsOoMml77GCslRToER3Ti-Ik3r4C1yJt1e5BK6dNbFtshHLXkaJH4n38P6hAllw8o8tfy",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "gokul raj",
+              "uri": "//maps.google.com/maps/contrib/113065361248840707258",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZbweWPBSVcv79fWq8NOmf5FfsfquLILGeXW3-lc3X0OM11baQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJowbM1QfZqDsR7GrxtTE9aNo/photos/ATplDJZ-uQMNC3uBXLJyqzFmjO0phwjtEnFMNnvjfos4d5pvxu6l4uSWwYxGNl-Oq55X11cM4nZpGCRgnNyirJ5Nf06k7UhyAMj3Hc12HsUtSgXw03c7PL6FZ3eTL1Ez38jlFkYxJ7zoD1YlyezLPfitUQexgCXNRilT_UXs",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Pushpavel V",
+              "uri": "//maps.google.com/maps/contrib/114905047975884853330",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQqi3beQb9Z9aQPKK3XODnKGOSo4N4WCZQPIUuMdwlzRSpDECzNg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg",
+      "id": "ChIJUS0DhQjZqDsRboFM8HdebEg",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "H42P+CHG, Bannari, Talamalai R.F., Tamil Nadu 638461, India",
+      "addressComponents": [
+        {
+          "longText": "H42P+CHG",
+          "shortText": "H42P+CHG",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bannari",
+          "shortText": "Bannari",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638461",
+          "shortText": "638461",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.5510614,
+        "longitude": 77.136458199999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.549935669708496,
+          "longitude": 77.135173369708482
+        },
+        "high": {
+          "latitude": 11.552633630291501,
+          "longitude": 77.1378713302915
+        }
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=5218649937441227118",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "H42P+CHG, \u003cspan class=\"locality\"\u003eBannari, Talamalai R.F.\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638461\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Karrupanar Temple Bannari",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "H42P+CHG, Bannari, Talamalai R.F.",
+      "reviews": [
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSLXV2TnZBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Thanks",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "நன்றி",
+            "languageCode": "ta"
+          },
+          "authorAttribution": {
+            "displayName": "SuDhAN SuDhEEr",
+            "uri": "https://www.google.com/maps/contrib/101244325329815592709/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFj8n7moRtlef474IsUuOyIpMqVJaf0POwMf8gjTxUZftz8a8c=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-03-31T06:53:11Z"
+        },
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/reviews/ChZDSUhNMG9nS0VJQ0FnSURSaC1PVE9BEAE",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 1,
+          "authorAttribution": {
+            "displayName": "Gaya chitra Shanmugam.c",
+            "uri": "https://www.google.com/maps/contrib/112870282439108805913/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK77HzmjaMdt2Z2IHeg7030lOoKliuC5gjJ9IrGcgUy8g2FRg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-05-05T04:14:36Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/photos/ATplDJZ5Ew1-sh6bkxbuy3V8NVwxtjFd-5FzoYBG2a3ksDmsYTj_rDeK1IInHKORUhBiP9BCwyBZyC77iDIzj-4TXHyfQI5k9zVpgSJScxqcbPjPpSIOCzK6Jz7EeYkQ3L5H-SR347e0n3C3KuTxciQa-EgjsWX3d--r9afZ",
+          "widthPx": 2340,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Pushpavel V",
+              "uri": "//maps.google.com/maps/contrib/114905047975884853330",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQqi3beQb9Z9aQPKK3XODnKGOSo4N4WCZQPIUuMdwlzRSpDECzNg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/photos/ATplDJaxtTgU8dvyfNQVZidlRT11TbE4RJoXrfGsb0rLjtT9RaCajVjtt6Lzbxb7tP1-rfik8MBaytLjDU4DlyJ7j62N4nAtBzGzFgLwaZK8WpTUHvjgT68d48uv1FypyPYXd2UO7DLsS5gFfm7s5U8isL46NnAV_z53lOgf",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Lingaraj Lingu",
+              "uri": "//maps.google.com/maps/contrib/108529821189058237515",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIQ-8TX6xBZlGgp9xuaFqc0nvE2110ayqLz6g09NfE4iRqUFQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/photos/ATplDJZfH1liM_8K6NEzyEV8EEZ6e7wU6Hx-TvKm6ofgu1MJkBaZsfLjQnSzHqQUluu4XT-ryZMK3rS41Ugqbk6wLJRNNVPzNOL6CKY-SzeJSZeYa_vE4wa4g_nNKVTud1_AkzcJwAVscHEi_F5JLoADUjterGBM1jEKxRpC",
+          "widthPx": 4608,
+          "heightPx": 2128,
+          "authorAttributions": [
+            {
+              "displayName": "SENTHILKUMAR R",
+              "uri": "//maps.google.com/maps/contrib/107373837728224183605",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXzqaELW90MvihdJkrBuWZf-rSzX3VlgnXNX996lY-W6uz7rqsG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/photos/ATplDJYtTPerMuerDpKa8DRuD6Ty8jPSNj3-kW9DSUI38-Baa3sSCG4cAM58_-qxmhh-_5ATfYlLd3tjkFvzHVeqxKiFMAQ-szJXIGVaTGm72pPI2r70RHBT8XTmfFAtomBZ22Ww54TfxDqgoRBOiLWpEXge854yy9zaCFpq",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Pushpavel V",
+              "uri": "//maps.google.com/maps/contrib/114905047975884853330",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQqi3beQb9Z9aQPKK3XODnKGOSo4N4WCZQPIUuMdwlzRSpDECzNg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/photos/ATplDJZHcA6vAgfnFocdTHF5UeLHR09nF-VGkU1MobJbaK04JsooDsf8EigKb5GmsnqsuQanZ1sph0zyr3ciehT2GHEm36gRZfG510GNkrKeW5vGeo40_QYLoiEWhoUydpd5-axzon_l1Kx5NcljgZJw1GKEbLlmcC1To6FV",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Pushpavel V",
+              "uri": "//maps.google.com/maps/contrib/114905047975884853330",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQqi3beQb9Z9aQPKK3XODnKGOSo4N4WCZQPIUuMdwlzRSpDECzNg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/photos/ATplDJbeVM1Obcz3cWJltQhGyYaWb99LbHC76QkFF3UgpHENhW-tN1ZyTOGYLJKXs7KNwg0OFiuqHFxMSgcbs8FnU9AVspEGO3a6VY_Qv_z7c9eJ7590NeC3TpF-AcN_1VGwGkP1RKO8Hqitrhd-ZbTnpmjMkL5UW7DG3HGy",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Lingaraj Lingu",
+              "uri": "//maps.google.com/maps/contrib/108529821189058237515",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIQ-8TX6xBZlGgp9xuaFqc0nvE2110ayqLz6g09NfE4iRqUFQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/photos/ATplDJZ9zcqZCZDn2bzasSk9skHUeksOaZd3zw2ZkNmoGqAenvQ9bYLo-dZ9c2tb893BvEyKYdu5jSZeIJwUjUtf4HEGzxEynUdcwyr0DhdlorPFo-dmdrgdsqnzeoMoGfF34i5qx_a2irU2Zz28ro5h5nNIJQhVgmiuOWhW",
+          "widthPx": 4608,
+          "heightPx": 2128,
+          "authorAttributions": [
+            {
+              "displayName": "SENTHILKUMAR R",
+              "uri": "//maps.google.com/maps/contrib/107373837728224183605",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXzqaELW90MvihdJkrBuWZf-rSzX3VlgnXNX996lY-W6uz7rqsG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUS0DhQjZqDsRboFM8HdebEg/photos/ATplDJbReg41X5mK7ZU3bdQ3ee8gcQaNvKy8q5clLahXAnzJuWlaZcJObh-vvdJpnVCJ2pTMrkQZJnIiaQ-tseYGRtEsW_WGKooBcKZ1nHFwK1n5s2kjYqMz61_TGQ4_MW7v8M6vwsbvW9srvB1okOQPeizmz8hXGII6xgHb",
+          "widthPx": 4608,
+          "heightPx": 2128,
+          "authorAttributions": [
+            {
+              "displayName": "SENTHILKUMAR R",
+              "uri": "//maps.google.com/maps/contrib/107373837728224183605",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXzqaELW90MvihdJkrBuWZf-rSzX3VlgnXNX996lY-W6uz7rqsG=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw",
+      "id": "ChIJiS_doAfZqDsR1aFE_UpuWtw",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "H43Q+5W2, Bannari, Talamalai R.F., Tamil Nadu 638461, India",
+      "addressComponents": [
+        {
+          "longText": "H43Q+5W2",
+          "shortText": "H43Q+5W2",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bannari",
+          "shortText": "Bannari",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638461",
+          "shortText": "638461",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.552897,
+        "longitude": 77.1397502
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.551639219708498,
+          "longitude": 77.1384336197085
+        },
+        "high": {
+          "latitude": 11.554337180291503,
+          "longitude": 77.1411315802915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=15878124704603873749",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "H43Q+5W2, \u003cspan class=\"locality\"\u003eBannari, Talamalai R.F.\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638461\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Vinayagar Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "H43Q+5W2, Bannari, Talamalai R.F.",
+      "reviews": [
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNjkzdnFRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "sanmathi sn",
+            "uri": "https://www.google.com/maps/contrib/112588212143827042937/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9FJCq9SW1k_OxQn1CaTZ9kpBKaIg_ThxkjnKNEdbES4g7HFYdvA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2017-09-19T15:29:12Z"
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/reviews/ChdDSUhNMG9nS0VJQ0FnSURzMExxVmhBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Preran Melanta",
+            "uri": "https://www.google.com/maps/contrib/118039916548435043090/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwyPvWaCCpnjD65vv6LHudqV2wF2a2GJa0eG44wwAWmKFBli8evQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2020-02-21T05:36:53Z"
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtbnFmRGFBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Navjot Singh",
+            "uri": "https://www.google.com/maps/contrib/102869894058424763915/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5OIu9jo43SbVm3-jzcwmsaqy1UZVqP7t5a1LTOWJAGdGNIrEK=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-11-30T15:53:53Z"
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVZ29TX0RBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "Padmanabhan Nair",
+            "uri": "https://www.google.com/maps/contrib/116453562237119828049/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTuAd51Ub1bOgpGCrTkVcKkkFcjwApGoEX_9daQ8DAmL2d1DuHlA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-07-21T12:57:05Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/photos/ATplDJZ2B2XQlexAlncEo6_2tmD53GUYu4Cxz1IkI27c7O3MQHuocQVqw20hsIc7uXOZ1wwVqTJbRwoRnT4fiGnd6h16493wMQGyhj3KJc6vDVmOZHvQea3OCnwSCS56eWvVchEyncMfZZ-6ofyhyWvzlo7ME7TG2a4u-9Ks",
+          "widthPx": 2805,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Chiranjeevi V P",
+              "uri": "//maps.google.com/maps/contrib/102593625136430135239",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWJy7MXk6llcKWhJohH4_ZJrxkNuiBLMWU1EahXzMzsbq8bknIy=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/photos/ATplDJakqKaJS2u7IBRgWHyuuZJBbqApMgF2wx6p6z1xKVFa0kps18B7-OZuuyRJZq_PqUpZ00cl_6qXKW7pXkLQtYZ06zQlymd3GGaPmQdaoz5vYDXcg1zk8QMCzpP4ehj6p8OPnegOraVeUatlhMx-9ChNYXQK94b1VdOS",
+          "widthPx": 2322,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "sanmathi sn",
+              "uri": "//maps.google.com/maps/contrib/112588212143827042937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9FJCq9SW1k_OxQn1CaTZ9kpBKaIg_ThxkjnKNEdbES4g7HFYdvA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/photos/ATplDJZlLeuttishIQFAi98JukI9TIjYc1O0Vr0sIw0tppZZDMQGmIx3zC6H7S2u5bXbwfK7jy80td6QJ6HLUbNjni_yFJVfMqFtU7nSo-EejuYWwUZMe2q8qB0Z1Z9f7QvkdthXPVmVQWeHVQpqGiAHeJ1UO9ssCxzsZM3g",
+          "widthPx": 4128,
+          "heightPx": 2322,
+          "authorAttributions": [
+            {
+              "displayName": "sanmathi sn",
+              "uri": "//maps.google.com/maps/contrib/112588212143827042937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9FJCq9SW1k_OxQn1CaTZ9kpBKaIg_ThxkjnKNEdbES4g7HFYdvA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/photos/ATplDJZ_GKAaYeVS-NPzKn-xBNt_6AYFGfm6cvDSbzN0e9YAOXlbJaUhYSiYtVlHaPoy3qYvOpLLOrFM011Pr0ktmOehy9SWde9oDfOTK0SsOkX6jne5fygxgmU6mYESGAGCJ4YBGWR8vHc26PiAh36EksFHkyvp8mpkY-wv",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Praba Karan",
+              "uri": "//maps.google.com/maps/contrib/117059387044944374881",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXPAEc4pBy-7lW7564KZlaH1-d0nVrgrvb_gT52nm-FxNt-4A7-fA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/photos/ATplDJbgWNKxt8nClddhhZcDKcUDXv46GHPjTBJdg08PMvK-faHeGmQK6IxPw4XqZ4tsqposgdMdodb-SiRfihHV_0fMhKxCZnb5gOw5LpDHbeXZVtpKG3zXi4WY8ZOWEtiNPjf9U3g327HyjrFfWcpEDZfpFyng9bpWiGmZ",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "BTG JOY",
+              "uri": "//maps.google.com/maps/contrib/115097548476898459690",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJS4_wABVrrR8wVOhh-mBqL4FyzsvLjO1km-YTTu9sihy-Pdw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/photos/ATplDJZ_iDSXEGI7zTGGLW6UFBAX6DcD9xVIk3vThvYGMh8rKbrJ4Ve94Yxn1Ft26DVUx-7o6J0B-XEeSzmwh-uJcqRTucYUP1MLp1Yto8hiOH8202qcGUr6uWoV7Iw8-oVJHPq3egATWSwXHZ4m5XRbymR3aZL8CNhEw_Sq",
+          "widthPx": 2340,
+          "heightPx": 2686,
+          "authorAttributions": [
+            {
+              "displayName": "Pushpavel V",
+              "uri": "//maps.google.com/maps/contrib/114905047975884853330",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQqi3beQb9Z9aQPKK3XODnKGOSo4N4WCZQPIUuMdwlzRSpDECzNg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiS_doAfZqDsR1aFE_UpuWtw/photos/ATplDJbeL4bvSeDrUVVo6P31Wgt8rnxwTlpebjFDKtSvRQa8Cl7VsoZQXGDP0q3s7YWN8hWE5SdQrTFXeXxWgxhrTeQeEp9FBDA72umOGhMIJ6PKLO4kOo_LyONqksNwqBshUshw0C4A2_UcHdyV_a4d8Ysw6HMCqQ2qLxoe",
+          "widthPx": 3711,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Chiranjeevi V P",
+              "uri": "//maps.google.com/maps/contrib/102593625136430135239",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWJy7MXk6llcKWhJohH4_ZJrxkNuiBLMWU1EahXzMzsbq8bknIy=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJaQSA-CDZqDsRjVemjvZ-mpw",
+      "id": "ChIJaQSA-CDZqDsRjVemjvZ-mpw",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "H43Q+3MR, Bannari, Talamalai R.F., Tamil Nadu 638461, India",
+      "addressComponents": [
+        {
+          "longText": "H43Q+3MR",
+          "shortText": "H43Q+3MR",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bannari",
+          "shortText": "Bannari",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638461",
+          "shortText": "638461",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.5527473,
+        "longitude": 77.1391314
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.551319769708497,
+          "longitude": 77.1375467197085
+        },
+        "high": {
+          "latitude": 11.554017730291502,
+          "longitude": 77.1402446802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11284471413750519693",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "H43Q+3MR, \u003cspan class=\"locality\"\u003eBannari, Talamalai R.F.\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638461\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Forest temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "H43Q+3MR, Bannari, Talamalai R.F."
+    },
+    {
+      "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA",
+      "id": "ChIJGTjHseTYqDsRBh5C52z4LUA",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "G5V4+F25, Pudukuiyanur, Tamil Nadu 638451, India",
+      "addressComponents": [
+        {
+          "longText": "G5V4+F25",
+          "shortText": "G5V4+F25",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Pudukuiyanur",
+          "shortText": "Pudukuiyanur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638451",
+          "shortText": "638451",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.5436401,
+        "longitude": 77.1550996
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.542219419708497,
+          "longitude": 77.15381801970851
+        },
+        "high": {
+          "latitude": 11.544917380291501,
+          "longitude": 77.156515980291516
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=4624625538999393798",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "G5V4+F25, \u003cspan class=\"locality\"\u003ePudukuiyanur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638451\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 13,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Solai Amman Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "G5V4+F25, Pudukuiyanur",
+      "reviews": [
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/reviews/ChdDSUhNMG9nS0VJQ0FnSURwenBqdzhBRRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Silent and peace full places",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Silent and peace full places",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "note books",
+            "uri": "https://www.google.com/maps/contrib/105096873778630216823/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI-seb_Ze_v32wGxLPEzNSpcsbZVqUyxMzq6VtgAXNIEB17oA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-08-22T04:21:27Z"
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBXzVXZkNBEAE",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Powerful Goddess in border of Reserve forest",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Powerful Goddess in border of Reserve forest",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raju Shankar",
+            "uri": "https://www.google.com/maps/contrib/114173460591374731635/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgF5FoRZ5c_ERv_lnRBN9W9ngmB6it7uJBxArnblNkPcki_oTG=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2017-03-04T07:07:18Z"
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/reviews/ChdDSUhNMG9nS0VJQ0FnSURndUp1SHRRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 3,
+          "text": {
+            "text": "This is a temple where I felt am at peace",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is a temple where I felt am at peace",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "DHAMU KDN",
+            "uri": "https://www.google.com/maps/contrib/117778767481392920382/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoLCe8_K827b0bMxstM7xT1fCJJvw31z0i4anZ5NmonXTjitiI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2017-06-23T18:02:58Z"
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3aWNQTnhnRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 1,
+          "authorAttribution": {
+            "displayName": "Sakthi Vel",
+            "uri": "https://www.google.com/maps/contrib/114233741215957786038/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2hlJuTJWe3ra7iHTdpWzNsK50fyQ6D-vcdoRc0MzNFqdY2XR9=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2017-11-17T07:25:44Z"
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/reviews/ChZDSUhNMG9nS0VJQ0FnSURndGJTa2ZREAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "s.santhosh Kumar",
+            "uri": "https://www.google.com/maps/contrib/106125133204108942320/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVieJeso8n5Z_QFFCen1-BLSn9lDai625XC5hp9InJ4SttjC9qiLg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-02-01T07:05:46Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJZPIBIWhBgMEReTwNogFqS6BpoBaJMyUripEeSqc3blBboeA1e91Vh9DeY562rlKZ3B0m1ujPPe79Qo6SZtjgFGeYJK8kEOscdK4WQXUSh0UsQ3KRGZ-4T9CCiAVU_U2HlCvcm39gso2zpVVLgDUTrkAVO_LxC7fMIm",
+          "widthPx": 1872,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Dinesh Kumar",
+              "uri": "//maps.google.com/maps/contrib/112333826880981827383",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIMBQVX28df3bxQCLcEVyrKFmnDLUE2gbNLIueOTzQLF7TTpw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJbJ3Tgcc_P9AX6atLpplHDgPRn0jjjHHCSV0V8_mtIWH0UJ00bdIMZmBhbnHF9HvSx0W5203ZSgM0tUHWWz1p9Vcfmqiy8FqSleTJAFRUCl7vKrkiIYIy-Y7-mqjVNxAN618VifZVr9Y3cXZ_mWX--D2hKl4IHUUWex",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Raju Shankar",
+              "uri": "//maps.google.com/maps/contrib/114173460591374731635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgF5FoRZ5c_ERv_lnRBN9W9ngmB6it7uJBxArnblNkPcki_oTG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJZqic2vT4lMgDfEqcPtNcqNNGp6xzX0hw7LkyeOfQCxxbokSHkwb9GR0NbrFAuwGaILTPz_3th5RtHMwZv08EB9fKXEhy4FKGYegk9KqQHwwy048cueOqhNQHfIN87XGoWMZAbLaYA7hTv2WVEmwWhD2cVeb_8ycZ5R",
+          "widthPx": 4208,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Naharjun Arjun",
+              "uri": "//maps.google.com/maps/contrib/114162016841943493356",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXi7EeUv9mA72pZ9ee6aJGZ2HSS5HDNjz0guDWm8AYoUJsivus7rw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJY-qYUYouTHvDoU2qJpP82cAjmGgCVU1Ks13NmpQ1V4EASJ20DD9y5MgMJZkRGsG8GYLgFveW4v9lNen4qD8D7SvuuHvO2TziOm7ELPH4d9_3ZxZLo18oP5X0ChTCS9Z7BhwE-QhqJptgjlcKCrXFOd4uoqzCS6Ks69",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Raju Shankar",
+              "uri": "//maps.google.com/maps/contrib/114173460591374731635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgF5FoRZ5c_ERv_lnRBN9W9ngmB6it7uJBxArnblNkPcki_oTG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJZs0UTSYFaTf7yAgZWzq1XrA3zfI47lLmLLGoipj8sKrgcns42HlQK_XdasB8E5ZmPpMRSjKRFaULhwA1mIeqaNfdjAFDJ9dwItpvKPy1u0sMr6Vc6CIy6P9XwPY6A_pl7415K2R7M9BwJBck3w9XofQgEck02qYOaf",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Raju Shankar",
+              "uri": "//maps.google.com/maps/contrib/114173460591374731635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgF5FoRZ5c_ERv_lnRBN9W9ngmB6it7uJBxArnblNkPcki_oTG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJaLpeXFZHNOuSZySLwvvWRBnLfLIRv0ZOqAdSCs_yxiEbj5hBKtdV4KoG7Gbo60-Q6IQRX-UUzjpJm34Cz_jHExI8J6AF4aJtVtOXu3A2Thbk7aPlfkmjjMdvcYgNOCHyPBp-pplk-_0imrVXdrMO3myj-5SwbWPXvV",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Raju Shankar",
+              "uri": "//maps.google.com/maps/contrib/114173460591374731635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgF5FoRZ5c_ERv_lnRBN9W9ngmB6it7uJBxArnblNkPcki_oTG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJbPg1kbrkUqafAnPQ1PEQCyTTS1ykCFNPRrePxaPzIAfH6Cg104KFc-iRBxz3-l7j2TgsiFOr7mS4fcKlsQwhVi6ImlW1cY-grWPsKzg8A5bAl42ttLB-FCNUVQL5CCOZmTh3yR4X_vmO87vT-gHSne162KYUCRU5mg",
+          "widthPx": 1200,
+          "heightPx": 1599,
+          "authorAttributions": [
+            {
+              "displayName": "Nithyananthan K (Nithy K)",
+              "uri": "//maps.google.com/maps/contrib/114360811458034624468",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRVsOPJn7cdgVSU61P-K_Xkkl0J00so9BscnvMfLxI6e9iB4xCAQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJaVbvBX2dMimRCp4iKrzqzmStI9Joh6qnQcXqAF8PaYot8l63J9usTS8Jrsh53AcQdEUe4JjNNs6KXFln2h_CHdbUsOcr3VE9uqdqoyGuSJsZ0kxt1MfuiH30nd5Si5p5__rV8dQdP8BWzVARGidKAseqK-Ti-kCgvQ",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Raju Shankar",
+              "uri": "//maps.google.com/maps/contrib/114173460591374731635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgF5FoRZ5c_ERv_lnRBN9W9ngmB6it7uJBxArnblNkPcki_oTG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJbB8DI8--jqsa5GDDKF6PDp6aQZw2bzkqKN9nAHtbTWT5u285DSnSWdBD9QdIrnffjYFgtoxV-WFOJ95uotNKH4MGNznZJXpcOQIh2r17-3DnJR5KIcknrXIeGmB-tnemXAAlMUdIDHTqtArKuzDMxSuQX1GOPS_O7g",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Kamalaraja Vijayakumar",
+              "uri": "//maps.google.com/maps/contrib/101360831384745107397",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWPJZUY7AMWCxtCxMaR2f83CB3MRoWlJ2zWff51BQEpdY4RWPkfwg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGTjHseTYqDsRBh5C52z4LUA/photos/ATplDJbmCT2paXU7U7dSvFuyTTyiDtCq9RvE2O9ai2AePjewZS2ItB4IbdOt0BgWc-GQf5XbwTijw_FCZzmNNw04pPk7Y8ZGZTYUXwkFBGNPtz1BYPZ7A6QPe3jfsGMDPHznfvKWBAwOFJTXtmWvi-c2EPTMVuonR4RFlXTR",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Raju Shankar",
+              "uri": "//maps.google.com/maps/contrib/114173460591374731635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgF5FoRZ5c_ERv_lnRBN9W9ngmB6it7uJBxArnblNkPcki_oTG=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJI4m5NeXYqDsRT3Sep0T5GmU",
+      "id": "ChIJI4m5NeXYqDsRT3Sep0T5GmU",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094884 91698",
+      "internationalPhoneNumber": "+91 94884 91698",
+      "formattedAddress": "G5V5+J98, NH 948, Pudukuiyanur, Tamil Nadu 638451, India",
+      "addressComponents": [
+        {
+          "longText": "G5V5+J98",
+          "shortText": "G5V5+J98",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "National Highway 948",
+          "shortText": "NH 948",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pudukuiyanur",
+          "shortText": "Pudukuiyanur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638451",
+          "shortText": "638451",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.5440401,
+        "longitude": 77.158445399999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.542651319708497,
+          "longitude": 77.15705006970849
+        },
+        "high": {
+          "latitude": 11.545349280291502,
+          "longitude": 77.1597480302915
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=7285409420490470479",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "G5V5+J98, \u003cspan class=\"street-address\"\u003eNH 948\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePudukuiyanur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638451\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Mahali Amman Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "G5V5+J98, NH 948, Pudukuiyanur",
+      "reviews": [
+        {
+          "name": "places/ChIJI4m5NeXYqDsRT3Sep0T5GmU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMTgtUkRBEAE",
+          "relativePublishTimeDescription": "8 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Nithyananthan K (Nithy K)",
+            "uri": "https://www.google.com/maps/contrib/114360811458034624468/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRVsOPJn7cdgVSU61P-K_Xkkl0J00so9BscnvMfLxI6e9iB4xCAQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2015-05-16T06:42:31Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJFdLi_PnZqDsRcGjQLgq-X5E",
+      "id": "ChIJFdLi_PnZqDsRcGjQLgq-X5E",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "G4JG+9Q2, Tamil Nadu 638451, India",
+      "addressComponents": [
+        {
+          "longText": "G4JG+9Q2",
+          "shortText": "G4JG+9Q2",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Erode",
+          "shortText": "Erode",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "638451",
+          "shortText": "638451",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 11.5308785,
+        "longitude": 77.1268817
+      },
+      "viewport": {
+        "low": {
+          "latitude": 11.529567669708497,
+          "longitude": 77.1255025197085
+        },
+        "high": {
+          "latitude": 11.532265630291501,
+          "longitude": 77.128200480291511
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10475300209231423600",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "G4JG+9Q2, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e638451\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Pattramangalam,Sri Madeshwarar Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "G4JG+9Q2",
+      "reviews": [
+        {
+          "name": "places/ChIJFdLi_PnZqDsRcGjQLgq-X5E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNocWEyV3VRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Good place for mind to worship lord Shiva",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place for mind to worship lord Shiva",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "PTM GOWDAS",
+            "uri": "https://www.google.com/maps/contrib/111978047566661882439/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEvdACFWx1UnqLDC3-TvG60fxS4OlpxQFRdZyeZAEdfthUldMa=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-02-16T12:24:34Z"
+        },
+        {
+          "name": "places/ChIJFdLi_PnZqDsRcGjQLgq-X5E/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5Z2VmczF3RRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Prasanth S",
+            "uri": "https://www.google.com/maps/contrib/101203437782944126522/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXz3mExLi9eZoFerV7hWuUDXPCsXcz9U82qAasBDO54GQroJ0L0=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-03-09T18:43:12Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJFdLi_PnZqDsRcGjQLgq-X5E/photos/ATplDJa_x8_tL-A9UEopM2rf3giWuLGxzjQbRwykDlNqQAqbZ6i58jsepRagwRQhqQ8soC51JHr6yKk3mp-r9HT0xc4Dd7l4jqngJZkCTw9DNoQXN2KeZrk_qnGZkmIU42uIevE9g2xelmfM9Zm9SzC_4n63kk5OaEi-OBDT",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Prasanth S",
+              "uri": "//maps.google.com/maps/contrib/101203437782944126522",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXz3mExLi9eZoFerV7hWuUDXPCsXcz9U82qAasBDO54GQroJ0L0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFdLi_PnZqDsRcGjQLgq-X5E/photos/ATplDJbNHYICb6qJTzPEDVHbnWKSmskNhci02UyaCWHoDmduL4m5F1O0cMEFJX87TIRK4wYV6BNsr3IcdAVSvmmgYvLkDNyxeWnASjD_KlzfgnBhmFkfe6K7FrVMtn5W9PvI2t_nN1TSncHnaWjweysY4aJiBG2Ai5F2G6WW",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Prasanth S",
+              "uri": "//maps.google.com/maps/contrib/101203437782944126522",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXz3mExLi9eZoFerV7hWuUDXPCsXcz9U82qAasBDO54GQroJ0L0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFdLi_PnZqDsRcGjQLgq-X5E/photos/ATplDJbOSTtm2uwF55xmYjXeYm4Y76YPQ3brCjetm7TR7433X1kVG7yFmchWhSTbLlpEYPRJ6FrfQVFVeQydj7iRMBauioQD_1-pXvldYZg1W45JKAP8guOlWfkxCOa1446PF753oUruV1tE55HF4AAngDMxMqXa-7gcMqxp",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Prasanth S",
+              "uri": "//maps.google.com/maps/contrib/101203437782944126522",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXz3mExLi9eZoFerV7hWuUDXPCsXcz9U82qAasBDO54GQroJ0L0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFdLi_PnZqDsRcGjQLgq-X5E/photos/ATplDJZ7Z3jSSxUs75yxQvtPcMkZXbclTZZkGAYtVKhO3PXyyHTZZCzms_trcJ1vB4mA5b-GeToeGFAUoV64ERKfxuRhW-uNjHX28hncyjaefpC0-G9MZlyDtM71xQc001855PBWs6NfzdghWd-ourQqOUtQWAaiaxWQYpKt",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Prasanth S",
+              "uri": "//maps.google.com/maps/contrib/101203437782944126522",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXz3mExLi9eZoFerV7hWuUDXPCsXcz9U82qAasBDO54GQroJ0L0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFdLi_PnZqDsRcGjQLgq-X5E/photos/ATplDJbOL6WE2LKgGm8aAlBJT0EmEw8HPTQoT30JDMcuPfr6rdgU4R8QsWLCa2GfpA1j9_HNgyswJ1QI0vciZr_swArZ_Xty0FSf5bBEyCjuBrYwCNicAAzMOY4-GB1VDbgNWSxljGEFYPU1H8WX3m1gEJdvRKOWqvoKGWD4",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Gowtham S",
+              "uri": "//maps.google.com/maps/contrib/118303973981144878581",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUvZftfmgTth5lT6tMOw4u1fzUOKCEIwByJSlUcRURgBzDgYF2x=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

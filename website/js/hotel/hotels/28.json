@@ -1,0 +1,3750 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k",
+      "id": "ChIJQX-7JuTntTsRX3kDScCK70k",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "formattedAddress": "V4Q6+W5R, Alampur Rd, Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "V4Q6+W5R",
+          "shortText": "V4Q6+W5R",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Alampur Road",
+          "shortText": "Alampur Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 15.889864000000001,
+        "longitude": 78.1103918
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.888425669708498,
+          "longitude": 78.10900526970849
+        },
+        "high": {
+          "latitude": 15.891123630291501,
+          "longitude": 78.1117032302915
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=5327629442665904479",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 11:00 PM",
+          "Tuesday: 10:00 AM – 11:00 PM",
+          "Wednesday: 10:00 AM – 11:00 PM",
+          "Thursday: 10:00 AM – 11:00 PM",
+          "Friday: 10:00 AM – 11:00 PM",
+          "Saturday: 10:00 AM – 11:00 PM",
+          "Sunday: 10:00 AM – 11:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V4Q6+W5R, \u003cspan class=\"street-address\"\u003eAlampur Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 46,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Mayuka Family Restaurant",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 11:00 PM",
+          "Tuesday: 10:00 AM – 11:00 PM",
+          "Wednesday: 10:00 AM – 11:00 PM",
+          "Thursday: 10:00 AM – 11:00 PM",
+          "Friday: 10:00 AM – 11:00 PM",
+          "Saturday: 10:00 AM – 11:00 PM",
+          "Sunday: 10:00 AM – 11:00 PM"
+        ]
+      },
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "V4Q6+W5R, Alampur Rd, Alampur (P)",
+      "reviews": [
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMV8tLVBBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Visited in Dec 2022, stayed in Haritha hotel - it had no restaurant then. This hotel was life saver - ate there 3 times every day. No fancy food, but reasonably clean, prompt service, friendly owner, decent tiffin & meals. Curd rice & Chicken Fry dinner was good. About 2 km before Haritha. Five star considering it is in Alampur.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Visited in Dec 2022, stayed in Haritha hotel - it had no restaurant then. This hotel was life saver - ate there 3 times every day. No fancy food, but reasonably clean, prompt service, friendly owner, decent tiffin & meals. Curd rice & Chicken Fry dinner was good. About 2 km before Haritha. Five star considering it is in Alampur.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Saumitra Datta",
+            "uri": "https://www.google.com/maps/contrib/115845578911526685840/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJo0vBCD07X2BpXX_zpsi4uiFDJmFdGS4anynKY1SxSE1a8OA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-01-31T07:26:21Z"
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/reviews/ChdDSUhNMG9nS0VJQ0FnSURoZ3I2VGxRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 2,
+          "text": {
+            "text": "Please note this is not a file functional restaurant for dinner. When we went this restaurant was not open. After we went there, the owner was called and he came in ten minutes and opened the restaurant. After which we were given food. So better to try to call ahead before going to save your time.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Please note this is not a file functional restaurant for dinner. When we went this restaurant was not open. After we went there, the owner was called and he came in ten minutes and opened the restaurant. After which we were given food. So better to try to call ahead before going to save your time.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ishan Mehta",
+            "uri": "https://www.google.com/maps/contrib/106630979794748264516/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5_sPIUdUDkbD61KsLGSdugnIUaNUfaIHe6ydyg-rbrpK09jFS=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-03-04T14:18:13Z"
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtM08ya3FBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Meal is good. its veg restaurant. Fresh and Tasty food.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Meal is good. its veg restaurant. Fresh and Tasty food.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abhishek Parauha",
+            "uri": "https://www.google.com/maps/contrib/110638029980426164919/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRjpgsTz3KiUfeQiy_iU-mSCKGaNDVHNQRsSC38ANKNoWecn2Y=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-10-29T16:23:40Z"
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCblppbklnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "This place is like an oasis in the desert.\n\nHygiene meals, good ambience and great service staff make it totally worth a visit.\n\nWashrooms could have been better.\n\nTaste - 5/5\nAmbience - 3/5\nPrice for Quality - 4/5",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This place is like an oasis in the desert.\n\nHygiene meals, good ambience and great service staff make it totally worth a visit.\n\nWashrooms could have been better.\n\nTaste - 5/5\nAmbience - 3/5\nPrice for Quality - 4/5",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kranthi Kumar Pogaku",
+            "uri": "https://www.google.com/maps/contrib/116946495639120163032/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJeEmOQcun0-icj9Q16MxNYZMcOd9DZj3-UtNujwHqiC4ZeNZDvw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-01-02T01:03:41Z"
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPbEpHMW9nRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "It's moderately good hotel. Also has AC section but we had lunch in non AC veg.\n\nCost around 90/- per one Veg meals. Quality and taste decent.\n\nIt's on main road to Jogulamba temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's moderately good hotel. Also has AC section but we had lunch in non AC veg.\n\nCost around 90/- per one Veg meals. Quality and taste decent.\n\nIt's on main road to Jogulamba temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shekar Kaki",
+            "uri": "https://www.google.com/maps/contrib/101541588733130178901/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULz0LxlYs8dMIx1OE0ToRVIYJvN_1NqpI1sBhG9wIfD8K6Uwuiig=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-06-02T13:15:42Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/photos/ATplDJbnR8ibWO3BbZ4v7jpgd8L917UkK0RiLfhOTiqi05AQ9JNthqHL4et9YU3nr8GDhNMypp0t99CG_-S0sBzdvvUGO6NeONJ0cGMyVJlu9hj8Y9q6O57TwJvHQIN08WL20pdEGCCrV7J59uLscb0SqxAYn7O9qpLbCf4E",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Parauha",
+              "uri": "//maps.google.com/maps/contrib/110638029980426164919",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRjpgsTz3KiUfeQiy_iU-mSCKGaNDVHNQRsSC38ANKNoWecn2Y=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/photos/ATplDJamtG_r13mvR8AiFc0GEO8U9iuRx36f0z9gmyxzWe4JywAv8J8bbDcfbgXfBEJwU6RTHlT8MU02mnkoi2577eKW29-jFDg4LYBdO0knRxxQpaYRczExu_BlmcyYPXp5QaanQSO6SLLtxWjZJcBzT7QnlLNENG3rkCwV",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Parauha",
+              "uri": "//maps.google.com/maps/contrib/110638029980426164919",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRjpgsTz3KiUfeQiy_iU-mSCKGaNDVHNQRsSC38ANKNoWecn2Y=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/photos/ATplDJZo-S6xcpgjC41rndp9BCwC2clT6kCQgt0hs5MdHh-32v2G25bQe9ppHJ9qLX4keZCYJXgsdmBjSgs33MZRpCOK7a5QnNSNRutUtKzyul_JLZU7z0w_O56kJgfwww0HCZLTRTLVySf9oWvkLhgaPxv-2WKfJjrXHN8S",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Saumitra Datta",
+              "uri": "//maps.google.com/maps/contrib/115845578911526685840",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJo0vBCD07X2BpXX_zpsi4uiFDJmFdGS4anynKY1SxSE1a8OA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/photos/ATplDJbbXGprz3K-PDOi-LT3Eue3vyvAT__YstmKQIb_9LQ3mIiOn2zXwCPnEsE8-AYsvu-YVbdJRxypfWA1324NsPPMQy7Zg2pvhKI3H2K-CA383FpYDgKgS2-ngDasIzUcX2KDf0KPQULL448_iYR7zCkt98BqjmvnNcO7",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Debanan Singha",
+              "uri": "//maps.google.com/maps/contrib/116110976055471890259",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKwzhmASRAEiUX425cuqz6eb3dwtK6ePZqKWeDBGybGDR-BHuc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/photos/ATplDJbFwEjeRdvRY9IZJCBqNIgf7vLzzfC_FxEKN1ZonJFhKWIeoRF1VqO3loyUlXGzKNYgWUC6nZzjVDXXlsBbZykxWZfKHwzwM2pj2DqT2JCVZdQnT0nMT4yz0UvOyLdMUYsBcz4IqUNaS6Ozy1zCRmJrN64lW_drkM7V",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Ishan Mehta",
+              "uri": "//maps.google.com/maps/contrib/106630979794748264516",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI5_sPIUdUDkbD61KsLGSdugnIUaNUfaIHe6ydyg-rbrpK09jFS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/photos/ATplDJaDvz_OkTnsNPT0xwWIW55ktI0uwfnUBk3J3jmRL4VeAE0fRMSgjL2bCZDYKHoJgeN_VVPmX2FKdV-9-6uug9nmYNqrzZ2Y-WhXedWLuTzRqkM3LoB4uwt3AvRjGfNlTqy_kMJVwKv1fzMwFmrBT2zdw3DGZIudap8n",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "AG SRUJAN",
+              "uri": "//maps.google.com/maps/contrib/110731728462551279704",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVDbk1bHFlYwjvc8Bab2iIQhSSCmoSMt6XrwLeGwybkKQy_QHu4yA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQX-7JuTntTsRX3kDScCK70k/photos/ATplDJaUuvCza4qZtszyjXTNxhx4Mb2CZiCAsepzC97ticomNmO4PO5EeCNEzxIB3QIHvioj8WsWUOAivis7iIei2UYSy03_e-Yrx1lotMxg8bJhEC1bgNbdJQfoFj4x8GLtbHNEoFOcQMRcw7IRi4NoZY-Q9r0niW8wXRE7",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Parauha",
+              "uri": "//maps.google.com/maps/contrib/110638029980426164919",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRjpgsTz3KiUfeQiy_iU-mSCKGaNDVHNQRsSC38ANKNoWecn2Y=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "liveMusic": false,
+      "goodForChildren": true,
+      "restroom": true,
+      "goodForGroups": true,
+      "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg",
+      "id": "ChIJFz0ByorotTsR2_tC8IvtADg",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094411 14199",
+      "internationalPhoneNumber": "+91 94411 14199",
+      "formattedAddress": "Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J7WV4HM+58",
+        "compoundCode": "V4HM+58 Alampur (P), Telangana, India"
+      },
+      "location": {
+        "latitude": 15.877934199999999,
+        "longitude": 78.1333105
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.876617719708499,
+          "longitude": 78.1319777697085
+        },
+        "high": {
+          "latitude": 15.879315680291503,
+          "longitude": 78.1346757302915
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=4035486451411123163",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 10:30 PM",
+          "Tuesday: 6:00 AM – 10:30 PM",
+          "Wednesday: 6:00 AM – 10:30 PM",
+          "Thursday: 6:00 AM – 10:30 PM",
+          "Friday: 6:00 AM – 10:30 PM",
+          "Saturday: 6:00 AM – 10:30 PM",
+          "Sunday: 6:00 AM – 10:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 37,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Padma Hotel & lodge",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 10:30 PM",
+          "Tuesday: 6:00 AM – 10:30 PM",
+          "Wednesday: 6:00 AM – 10:30 PM",
+          "Thursday: 6:00 AM – 10:30 PM",
+          "Friday: 6:00 AM – 10:30 PM",
+          "Saturday: 6:00 AM – 10:30 PM",
+          "Sunday: 6:00 AM – 10:30 PM"
+        ]
+      },
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "Alampur (P)",
+      "reviews": [
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5bU03cE5BEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Never judge a book by its cover.\nAbove quote absolutely suits this hotel, if you want to enjoy a homely food visit here. They serve good food, but the only problem is it's a small hotel, sitting option is limited.. takeaway is better option.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Never judge a book by its cover.\nAbove quote absolutely suits this hotel, if you want to enjoy a homely food visit here. They serve good food, but the only problem is it's a small hotel, sitting option is limited.. takeaway is better option.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Stryker Shashi",
+            "uri": "https://www.google.com/maps/contrib/100685260106751734867/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-YhfM75KXsGCk3ZugmBSavdN05-lMbigCNkpetntA0siTgRkz=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-01T09:16:06Z"
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNacW95cjZBRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Had lunch of plate meals here. Very good taste. But no hygiene. They were serving food in steel plates which are washed and served to other people. And they are serving water in same steel glasses which are used by other people. I don't know if they wash plates properly or not.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had lunch of plate meals here. Very good taste. But no hygiene. They were serving food in steel plates which are washed and served to other people. And they are serving water in same steel glasses which are used by other people. I don't know if they wash plates properly or not.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amaresh Kotakonda",
+            "uri": "https://www.google.com/maps/contrib/109493038135632104329/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXknKuy-JAM-X7bBBifDefGtWieAi1TYZj556ajW37eNZj_fPXtrA=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-09-08T10:00:15Z"
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/reviews/ChdDSUhNMG9nS0VJQ0FnSUREOU4tczFRRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 4,
+          "text": {
+            "text": "Food is excellent, Village style veg-meals. Serving persons are very patiently serving food. Owner is good person. Amdience is little congested.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Food is excellent, Village style veg-meals. Serving persons are very patiently serving food. Owner is good person. Amdience is little congested.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "seeta rama raju",
+            "uri": "https://www.google.com/maps/contrib/112510457170623075076/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLwTY8O6UFgQj31aubSUUsdcMXy0sTiebUgazKi_G5ubI_wTA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-06T09:22:36Z"
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxZ3J2R1pBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good food, good service whatever u can get in a tourist place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good food, good service whatever u can get in a tourist place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bala Gangadhar G",
+            "uri": "https://www.google.com/maps/contrib/105330577216659927361/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlFfMqUV-X3ibEvs8bhp5-8vSudiEV11L1ETGvHwaB0_WnYUoW=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-06T02:13:23Z"
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvdWZHQm5BRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Affordable best food available here. Tiffin's( dosa, puri, idli etc) and tea available in mornings. Excellent meals( two curries, sambar, curd) available during lunch and dinner for 60 rupees.\nAccommodation is also available here\nThis place also have car rentals for travelling",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Affordable best food available here. Tiffin's( dosa, puri, idli etc) and tea available in mornings. Excellent meals( two curries, sambar, curd) available during lunch and dinner for 60 rupees.\nAccommodation is also available here\nThis place also have car rentals for travelling",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Siripuram Sai Bharadwaj",
+            "uri": "https://www.google.com/maps/contrib/115410941512684174557/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3Lnevi8p2p_A_OclJw-HdxEkmCd8ZwrfyM-ovXmW2cLBFUCbiag=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-12-03T08:07:27Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJZtU2tarpVvjXExwATO92w7fdrkdKe04becK_Ch4JkiS8mZ_Q8PX0UF5oYz9dl2iZxeqlT1Cu7RivUhdfjtluobTUAhrPCvqv-VEH8v-F7BrsyyCKSbofUSgWmf7al9RWMQzcyf59qwiynFt59MWe8QhkoMLRu5c52Z",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Amaresh Kotakonda",
+              "uri": "//maps.google.com/maps/contrib/109493038135632104329",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXknKuy-JAM-X7bBBifDefGtWieAi1TYZj556ajW37eNZj_fPXtrA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJbCaB9t4K9QkC_2wFibSbLbV5nuX9cPShbwWuB5mvh89rReNfLsRTGt0Stt-lgd1pfsvcfpT8qonfpWB0Mgrrs3XLDzHjQHSaz4nMdGAB6eDcy7myC_TAqF6Yzf29NPU-b5ImKb9D0NT1mImbu6x_atnVn4qB57cUA2",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "prashanth kapilchits",
+              "uri": "//maps.google.com/maps/contrib/110809443574172041849",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUH8fTxz5G8nWBxmKksg4WcmtECl5RtuMFQ-2Ue1o8uxS3vc8AY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJaEq-cSxZcec4AiL2PsEpbRjf9t2dgr5pSCNQcoEvLgNEZO24G8Tq7zLPU4mJVZy9sDScYOKLYaci4rGpJTMJl294XUY2qnMiPpYgYmqspH7sM1opPBpl9Ls-aZU0T5ngVC5RqitWwFauw8B-axX10TBt-MmO6OF90d",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "ANIL AMS",
+              "uri": "//maps.google.com/maps/contrib/100618077148721788101",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVwxuQ7f9i8KefG1jeSMTJsWndmBWVOI_xsHPXyaaZSkA4bX0LJxg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJYEDRiw88KcqMR5s4HoSVLCRE-aWIYr1taYa_cBipQAxe75rVy_kW8EKhvoaqmVeZnR_k6i57TRIfNUHiuqg7vpOZdNcxU_uJ2wReL0y_mQ1Feq4zOOOsZ1imDDhqGgLB4PMs42FMBTJz_5uqMrBsTHNBSykkTDVxAC",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "ANIL AMS",
+              "uri": "//maps.google.com/maps/contrib/100618077148721788101",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVwxuQ7f9i8KefG1jeSMTJsWndmBWVOI_xsHPXyaaZSkA4bX0LJxg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJZXI1x1NFPMzan_oYaQTMPRpHFDXNQ1hnEFsGEIXCts3rLRg4vBkksRjHeKLBgYsAEwZU-qq44Mz_LaidUpYU0AchsBZcn1wNzm3fb4H_XeG8r-DtV2xXU9Og4OMYV4nZQWXYdwqGIGf-TWrysJm1vAMe5iJvXjzQQW",
+          "widthPx": 1968,
+          "heightPx": 4144,
+          "authorAttributions": [
+            {
+              "displayName": "prashanth kapilchits",
+              "uri": "//maps.google.com/maps/contrib/110809443574172041849",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUH8fTxz5G8nWBxmKksg4WcmtECl5RtuMFQ-2Ue1o8uxS3vc8AY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJZMEmSm6y0Jsu6EkkB9nVh4JH7lxRN5ZDPK_SXb8x6GzgK6DsA_Sws-9Jrr4_bVFtxrJPIP7c1CuHPK_Ug20REMMtmW17BHhNGqCaoaMMH3Q1BDJBUMq8a10hM9vd6hdaH_52WW-z-nDaGtZT_JS6xlg1rNCrVn25gu",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "linga reddy Gudise",
+              "uri": "//maps.google.com/maps/contrib/104241950598550082682",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFp86foDz5fPcBbZ-DFI5e-O9tqMqsWRuYqiPBxPU2tV6Nx7M=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJZ_IMkE4pMhTxKAepUWeNyLNMxT1Qv9bs_xcggPu8gwkb3965-WUdUezZF80fwv2NgurPTEu7r_yu8_6fjOjghHGhT9r4KMRnHRm6B5kFp-2f8ORBzYVbt5sjEN0LIqtQcocbEakJlfqHaj9yqqo_9M1YRV9BGrlHqM",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Sheshulu R",
+              "uri": "//maps.google.com/maps/contrib/116720539186886087582",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJGPCX0EF_iPhRhNmO10LNLnEJSldR2gLJY1_61QM4s1upfMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJYJ1AA-RDmSzsIRErZyFahf_0wPcJqi7bs0TBn0t-M2ezpJKfDNRKfKNW06ljPkfPMspkJeb3S_8KVIdzuweeekof0NbY9_0gLGbLlJaJsBhfaCJ5LNtZT5DK4NbcxMUH4VC09GVn4JQR-AxJ3BvEoeAXRKH_zPcz4F",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "prasad nalluri",
+              "uri": "//maps.google.com/maps/contrib/100174189178090233686",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI-_5VShAS59ZHsQd256jiue4qoiJOI-ISH6HBW-X7wHz6Ovg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJY1o3KhuXZMG2LQowIpDMEG_h1CtoMLyOCxuPr4mWIwRAKG-QKrWJQOdDyBnz7LRUBi3UPGxMkdYYf8cbYF518XOsQBpYyu0WArBB4r72tbU3YgCieKcYZRjm5_NXAvoMM6_XzytezNuqN7erczQO1APHe0acywd9KV",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "prashanth kapilchits",
+              "uri": "//maps.google.com/maps/contrib/110809443574172041849",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUH8fTxz5G8nWBxmKksg4WcmtECl5RtuMFQ-2Ue1o8uxS3vc8AY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFz0ByorotTsR2_tC8IvtADg/photos/ATplDJY-i4AReesbxvvXEc_4-iWCGbvnIFObwffBQAdYB3Ls_RrGlrzFfrO3s7LSS-BGuzGFxj76m3tM_9BHfRsbzwQU9iGdATz0NikR42V3UUoau56y1U-LKU2fti2b-4OIDstRYo_F_8-ANMF4bZEZHGsMbRw0cp1noElq",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Siripuram Sai Bharadwaj",
+              "uri": "//maps.google.com/maps/contrib/115410941512684174557",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU3Lnevi8p2p_A_OclJw-HdxEkmCd8ZwrfyM-ovXmW2cLBFUCbiag=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "liveMusic": false,
+      "menuForChildren": false,
+      "servesCocktails": false,
+      "servesCoffee": true,
+      "goodForChildren": true,
+      "goodForGroups": true
+    },
+    {
+      "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0",
+      "id": "ChIJw-XVFj3ptTsR2jDIeWtZz-0",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "097032 33088",
+      "internationalPhoneNumber": "+91 97032 33088",
+      "formattedAddress": "V4JG+C3H, Alampur Rd, Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "V4JG+C3H",
+          "shortText": "V4JG+C3H",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Alampur Road",
+          "shortText": "Alampur Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 15.881057900000002,
+        "longitude": 78.1252398
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.879762469708496,
+          "longitude": 78.1239209697085
+        },
+        "high": {
+          "latitude": 15.8824604302915,
+          "longitude": 78.1266189302915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=17136013425307562202",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 10:00 PM",
+          "Tuesday: 7:00 AM – 10:00 PM",
+          "Wednesday: 7:00 AM – 10:00 PM",
+          "Thursday: 7:00 AM – 10:00 PM",
+          "Friday: 7:00 AM – 10:00 PM",
+          "Saturday: 7:00 AM – 10:00 PM",
+          "Sunday: 7:00 AM – 10:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V4JG+C3H, \u003cspan class=\"street-address\"\u003eAlampur Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 18,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Srija mess",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "servesLunch": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 10:00 PM",
+          "Tuesday: 7:00 AM – 10:00 PM",
+          "Wednesday: 7:00 AM – 10:00 PM",
+          "Thursday: 7:00 AM – 10:00 PM",
+          "Friday: 7:00 AM – 10:00 PM",
+          "Saturday: 7:00 AM – 10:00 PM",
+          "Sunday: 7:00 AM – 10:00 PM"
+        ]
+      },
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "V4JG+C3H, Alampur Rd, Alampur (P)",
+      "reviews": [
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaLTdmSzlBRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Homely food. So tasty 😋.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Homely food. So tasty 😋.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prudhvi Kanth Reddy Ganta",
+            "uri": "https://www.google.com/maps/contrib/118414956190136283291/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6oDnUiOKYMninE-TynMIyppZpXe74sZ2aLsdKneZ3dWYacB4k=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-09-19T08:34:19Z"
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEdU1QQTlnRRAB",
+          "relativePublishTimeDescription": "4 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Homely food and home atmosphere",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Homely food and home atmosphere",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mahalakshmi Pavani Bandaru",
+            "uri": "https://www.google.com/maps/contrib/109900915641941177616/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWP7Sh9exxT2w56jTZin0_DN3EYfOHZvIkBGEF2rfBpGHyY8FczFw=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-03-24T08:32:13Z"
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCM2RLbE13EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Pure vegetation homely food with much satisfaction. Eat your lunch here before visiting the Devi temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Pure vegetation homely food with much satisfaction. Eat your lunch here before visiting the Devi temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "v meenakshi",
+            "uri": "https://www.google.com/maps/contrib/117186492670257516164/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtQI5zmQ8O0a4z5ACz2AeJfJoW1LvJ-Uap0AWKWFZrXXCCXw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-01-02T08:30:36Z"
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5NXRXN0tBEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Homely Food Good Taste",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Homely Food Good Taste",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kittu",
+            "uri": "https://www.google.com/maps/contrib/106749987730146886563/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUm-VuYV2Asy3gKqT-enxVJnK3rQF4A3qdxjsuDelnPpB7nOgZb1w=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-03-06T02:25:25Z"
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/reviews/ChdDSUhNMG9nS0VJQ0FnSURlNXFHS3J3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Good food. Satisfied",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good food. Satisfied",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "srinivas reddy",
+            "uri": "https://www.google.com/maps/contrib/104969399226906762320/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhCQRLcsa4Snts71QiTEIO25tvREccw7vDa5JWXzo02BO0RL9f=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-10-09T11:17:24Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJb9YNCJLFQv-cOIFId_ILrlelnLJqufJ4HHx3JXWiTexO3EaNFNuEu9cBSRM-feYSkVn4tL12zc0SuCmmZ2SxEUn-5cJ7tTAbyPpOOltcd8mRa_ARSFLtPqVmwJmeDZPmADi4jGgHtOw4GqxphSb_bnKJrMV-nxOokR",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Dheeraj Kumar",
+              "uri": "//maps.google.com/maps/contrib/106977070301885263905",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLYzZfKdmYWiQandPkugIRmUFknOr6H59Xs7y9itLIuBIet5A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJYhBFN2rVAtNK9JNqkmBJzFTOFuF3oI69fSsBEcRZS7XuEHvo0vCs4zPARCjsoQbzQ-r2vg5XcMdn_E4sdCsHCaphDj0YzQ7CH7qBWndY19gWYDP9f_md1TTS2X8xIuAcYkQE1ie0gFdU1P6w6PxK-sAXnhIhrA47x5",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Raghu Nandan",
+              "uri": "//maps.google.com/maps/contrib/100921611768842120434",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWURXHEywfsNFZmT4lcuglkV7naAEwX_OZzSInsUMIBg7tdMczbFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJYDpwV2nBAQTyT7EqEcj861KWjiCqPtFQyPqxrb6gf1ik6jcRkP2gAFQ3PFnM2Rf9dl6SZyJHob7SJua7gEcBc0_Gv8uT_2-AZofzYLXE1b7r_qUmrwDvFgRJsuQz1OxLc3PwPRYXKe29lK8GyG6CAlXhb1CwECDPEb",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Raghu Nandan",
+              "uri": "//maps.google.com/maps/contrib/100921611768842120434",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWURXHEywfsNFZmT4lcuglkV7naAEwX_OZzSInsUMIBg7tdMczbFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJYtyS7LqAyAUKEadT5xo5QbvetJJvqgucXFW7SYXfv8HLgFYgJbntpJzPazDO3ilPHrwEgTO_AxsYh5hNxJjUanGc96JyAaysco5sizJ3FqmNvoBSCWzqxAzQp7uNpJ36seuolNkRE6ZgUtG1qi9dvyvo4TzGf_VJms",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Dheeraj Kumar",
+              "uri": "//maps.google.com/maps/contrib/106977070301885263905",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLYzZfKdmYWiQandPkugIRmUFknOr6H59Xs7y9itLIuBIet5A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJbvrvlmGEW_3LEBF3ycQfqeZW-Rd0bXJ4WFund6i-CHFO9RpqYSYviNx32q8WGJCaWdgpxdIrSLc7uoixlf3Hx6N_2UKdochxX_MA32EoHqf7l0Dz9jmBnuIMUKXuo8UFsfYBmGKBqYfrESGizGZlfMD-kcg0rM8Zk3",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Raghu Nandan",
+              "uri": "//maps.google.com/maps/contrib/100921611768842120434",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWURXHEywfsNFZmT4lcuglkV7naAEwX_OZzSInsUMIBg7tdMczbFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJbvhRKyMFQBBRwAEhq0l-CN-nwDcpDdY_NbssjNtl4eY3kHnaO24X2ZT4JCo394GTkeJNWf2HfQ1CnIL0jdBXSKd7gLIQDLHmDspeSne6aa3BVvJhMNge28qRe0SH-YW3BeI0UnNfnLLiBRmyOkO9xGOvwv2QylwiOA",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "kalyan dwara",
+              "uri": "//maps.google.com/maps/contrib/102925375236562850213",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI8Ns3PT9z-ltmmiDngJQtTBPB5deBb1lkVUMVpo7bzNBGnGHox=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJZA-gTcYmJ6qBAvmgifI5fCg8Mi2EnTylcFAUlbmZC67KGZlQYNSY9iAjVHnWZV9K8YzhnDPPZzDJkc4EBAwFdmIEp3A4CCv2eCiWgah1cNVbu8Y--YTAQ709_oSnktaB2NVYVVFiIXWGqz5Hhpxu8-H2AI8xAclZvu",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Raghu Nandan",
+              "uri": "//maps.google.com/maps/contrib/100921611768842120434",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWURXHEywfsNFZmT4lcuglkV7naAEwX_OZzSInsUMIBg7tdMczbFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJbFNbxuua-QFs9SgYk3PBuaVccItKJ_J8jG-DtMmFw6zx58V4_Zj8uS9RoFkz35NeAWOVKu_FSXAwMtkuxODIsJqx9Q6N94Vno7TvU4waBGERKd3ikFZBYi5PdiJVImf1F0fGeSgpJuGBZIcMYRVMkvgcjha-kVqY_Q",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Raghu Nandan",
+              "uri": "//maps.google.com/maps/contrib/100921611768842120434",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWURXHEywfsNFZmT4lcuglkV7naAEwX_OZzSInsUMIBg7tdMczbFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJbCDAgBDhu_o45qob5wEPLUx_4pmVSERSZigu0VnqZU6ucagMceG-AYfnUHO6wI3YfJOjoKkI5DZTUfkCicQCAH10r0omEt5TkuozW1_1DxL22TjC95ON-UpgUQNpClhHsp9BERKaz2QhmOE3ZWAwuDmG0M06WtvB7O",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Raghu Nandan",
+              "uri": "//maps.google.com/maps/contrib/100921611768842120434",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWURXHEywfsNFZmT4lcuglkV7naAEwX_OZzSInsUMIBg7tdMczbFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJw-XVFj3ptTsR2jDIeWtZz-0/photos/ATplDJZ0Qrs0Irxx0_ZWqHjmRYEtlKU22JRsT-70DVNPd6SfNBj3RAnHVHekkK5tm9sXjG3T_369VLB8mdgqzntvt-ED1MuP-VM-9QLi97kNAtH1u6PG9-kAyyCsSqGcb9XIuyLxxJS5ev3lZszDQ0KOcDxTMnHjqE_WMTfL",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Raghu Nandan",
+              "uri": "//maps.google.com/maps/contrib/100921611768842120434",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWURXHEywfsNFZmT4lcuglkV7naAEwX_OZzSInsUMIBg7tdMczbFA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "servesCocktails": false,
+      "goodForChildren": true,
+      "goodForGroups": true
+    },
+    {
+      "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8",
+      "id": "ChIJq_y434rotTsRfzrDTo1BJw8",
+      "types": [
+        "vegetarian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "099519 18081",
+      "internationalPhoneNumber": "+91 99519 18081",
+      "formattedAddress": "V4HJ+JWM, Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "V4HJ+JWM",
+          "shortText": "V4HJ+JWM",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 15.8790869,
+        "longitude": 78.1322872
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.877752169708497,
+          "longitude": 78.130944919708483
+        },
+        "high": {
+          "latitude": 15.880450130291502,
+          "longitude": 78.13364288029149
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=1091913509828246143",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 9:00 PM",
+          "Tuesday: 8:00 AM – 9:00 PM",
+          "Wednesday: 8:00 AM – 9:00 PM",
+          "Thursday: 8:00 AM – 9:00 PM",
+          "Friday: 8:00 AM – 9:00 PM",
+          "Saturday: 8:00 AM – 9:00 PM",
+          "Sunday: 8:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V4HJ+JWM, \u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 7,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Anitha hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Vegetarian Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesVegetarianFood": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 9:00 PM",
+          "Tuesday: 8:00 AM – 9:00 PM",
+          "Wednesday: 8:00 AM – 9:00 PM",
+          "Thursday: 8:00 AM – 9:00 PM",
+          "Friday: 8:00 AM – 9:00 PM",
+          "Saturday: 8:00 AM – 9:00 PM",
+          "Sunday: 8:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "vegetarian_restaurant",
+      "shortFormattedAddress": "V4HJ+JWM, Alampur (P)",
+      "reviews": [
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/reviews/ChdDSUhNMG9nS0VJQ0FnSURJLS1Qc3R3RRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Tasty food and good quality",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Tasty food and good quality",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravi teja",
+            "uri": "https://www.google.com/maps/contrib/102099499626215961507/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh39IrCjbCIrnYL6xop_J3wgmRrwm-KpwxbM1FIs9Wdoe6CJPx=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-01-23T22:51:35Z"
+        },
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpMThmM2FBEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Delicious",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Delicious",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Md Mahaboob",
+            "uri": "https://www.google.com/maps/contrib/101089751276453571994/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJI-LqsuBtUhnYiE6NZNZ6G1MDXd6uuh46BGRW4P0sdzSxCpQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-11-18T08:58:46Z"
+        },
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnMktpSnJ3RRAB",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "Pullender Neelala",
+            "uri": "https://www.google.com/maps/contrib/112047840785493912937/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXbm76B2J3nvuzxZGJhIshO6clDX7GX-SMGA9NLRrm87qLsUupZg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2017-04-04T13:34:22Z"
+        },
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/reviews/ChdDSUhNMG9nS0VJQ0FnSURoOVlxUGpBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 2,
+          "authorAttribution": {
+            "displayName": "V.V reddy",
+            "uri": "https://www.google.com/maps/contrib/106568136334254058625/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5IxsN5C4eTWfaYmwW_wWlR6dRQGKT1t3FRTDqPbEo6PjsSCc0zA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-03-14T12:38:09Z"
+        },
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBaTdYWGRnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "mahesh mahi",
+            "uri": "https://www.google.com/maps/contrib/108999785838934146477/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWr9J7eswCBqTQEzIcIN4Tin4uMFJVnuW2c645uUVKFEjA_spyL=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2018-08-03T01:00:28Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/photos/ATplDJaS1N71ctPkZPVfm_dV4zuSXr5_s4YOvG5UoWR248g21N9V4OwiY3T99QOZFrzp48Kp_LCvUMnyD05pVL_bP_yJEdx9n_wlImZ3p6uVaL2jVuApjGEEzxxQn_yJTWT1o-fkQi7aFqKhpSvigAM0bMU1hb7SvMpC8Hl5",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Kamalesh Singh",
+              "uri": "//maps.google.com/maps/contrib/113186628994669473570",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWYSIztiToOgo22HrChihAAM15I55cg7HlGux-tvC5OH5Qvofc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/photos/ATplDJYbf6RdnUgpgqKh7-RYoTFjgbQ5aGBhTdlYObsNseyaPWfGXtSo2ojvRLkksTqULK3OFsebK0OyNNTIi33-oFBNj1HDR8LXEMk6ZhfT9Xfs1zvelauy8WeLx16IVoY1NfL6UtdAnK_Kkh33X1kL94g8ZRqkZZajr998",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Kamalesh Singh",
+              "uri": "//maps.google.com/maps/contrib/113186628994669473570",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWYSIztiToOgo22HrChihAAM15I55cg7HlGux-tvC5OH5Qvofc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/photos/ATplDJZVdAVaKwxAN35dvm7aHsrmcdXCcTXA9GXtSG2kWB-2KhhRYvbnjBmUXqNai2vGiDJ9p2PJpfqvOqljLv44tPsj933hEBxwTxwJx8aAyoVVzpjNTjEke8dImtjgzAeqyVXIM-Rj2uuPsWaUC07PsWXygBzXfXBft-0d",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Kamalesh Singh",
+              "uri": "//maps.google.com/maps/contrib/113186628994669473570",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWYSIztiToOgo22HrChihAAM15I55cg7HlGux-tvC5OH5Qvofc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq_y434rotTsRfzrDTo1BJw8/photos/ATplDJYLbIpHsG8wGIpOz6-l95XCDwcyUL3ewGYhSz_cD81dkRccbLekL0_MDR8LIcM6qRSrNBwY73LjdUwkBFmU2aU6e4ANxatA0lvZusCeJKgOa-BUWhvmE0onYllwp3sBhSxohp4sjyllPwuxpnvKcC0tY8IzZLbfdq0z",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Md Mahaboob",
+              "uri": "//maps.google.com/maps/contrib/101089751276453571994",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJI-LqsuBtUhnYiE6NZNZ6G1MDXd6uuh46BGRW4P0sdzSxCpQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "liveMusic": false,
+      "servesCocktails": false,
+      "goodForChildren": true,
+      "goodForGroups": true
+    },
+    {
+      "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU",
+      "id": "ChIJ45CWY4LptTsRZvYLPvJWhuU",
+      "types": [
+        "restaurant",
+        "fast_food_restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "062811 23799",
+      "internationalPhoneNumber": "+91 62811 23799",
+      "formattedAddress": "jogulamba Devi, Temple Rd, Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "jogulamba Devi",
+          "shortText": "jogulamba Devi",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Temple Road",
+          "shortText": "Temple Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J7WV4HM+6Q",
+        "compoundCode": "V4HM+6Q Alampur (P), Telangana, India"
+      },
+      "location": {
+        "latitude": 15.878046600000001,
+        "longitude": 78.1344651
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.876655619708497,
+          "longitude": 78.1331090697085
+        },
+        "high": {
+          "latitude": 15.879353580291502,
+          "longitude": 78.135807030291517
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=16539002279987770982",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 10:00 PM",
+          "Tuesday: 6:00 AM – 10:00 PM",
+          "Wednesday: 6:00 AM – 10:00 PM",
+          "Thursday: 6:00 AM – 10:00 PM",
+          "Friday: 6:00 AM – 10:00 PM",
+          "Saturday: 6:00 AM – 10:00 PM",
+          "Sunday: 6:00 AM – 10:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "jogulamba Devi, \u003cspan class=\"street-address\"\u003eTemple Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Sri Sai Hotel Tiffins & Meals",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "delivery": true,
+      "dineIn": true,
+      "reservable": true,
+      "servesLunch": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 10:00 PM",
+          "Tuesday: 6:00 AM – 10:00 PM",
+          "Wednesday: 6:00 AM – 10:00 PM",
+          "Thursday: 6:00 AM – 10:00 PM",
+          "Friday: 6:00 AM – 10:00 PM",
+          "Saturday: 6:00 AM – 10:00 PM",
+          "Sunday: 6:00 AM – 10:00 PM"
+        ]
+      },
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "jogulamba Devi, Temple Rd, Alampur (P)",
+      "reviews": [
+        {
+          "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtanJHYjVBRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Chand Basha",
+            "uri": "https://www.google.com/maps/contrib/106483828755623426384/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIMCLWqBY-8DTOlQrTWi90BXQJdCI27HFCnVjYFC_5f3Zg4YTH=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-12-28T15:42:42Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU/photos/ATplDJamyTpkJLrZBcRo06GOJk61kF5x2giVHFQliF-l1axuWkS4gpKBMfF1P7oVj3gqGQ2gB1BNi8MP9Oib_p0TXC74F5YShL7naPYuoiPIonbYxC1yEtKu60Yqss3nfQsF7wgPeq4fFpE5g8v4G1JIRfBInd3mmLSFbyeu",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Sri Sai Hotel Tiffins & Meals",
+              "uri": "//maps.google.com/maps/contrib/101564842712819616721",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKmWzU9RS8EegmLieHvG1l1mAb8Wm7AwYap6X-VuJpp_d5fQg0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU/photos/ATplDJY1l-2vcJEFL5gX-c04xa40vVHPC3b409SEg3bgDqbXGgGbPYGe6LK6IeYXKu0Q68DfPgFvYLFVDIlpUJq8AigyH_psQNxAripkOrzyj1Ip0oukCWuCrFbXVRQ1oMFn1pmb-cJOfY5rag88C6nouWoX_bix4JAE3TcY",
+          "widthPx": 4080,
+          "heightPx": 1792,
+          "authorAttributions": [
+            {
+              "displayName": "Sri Sai Hotel Tiffins & Meals",
+              "uri": "//maps.google.com/maps/contrib/101564842712819616721",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKmWzU9RS8EegmLieHvG1l1mAb8Wm7AwYap6X-VuJpp_d5fQg0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU/photos/ATplDJYBIaRvl0_7mj6sd1fut6BXkjNh2ggpzpkJo-9CStjrdYPxyR8oqbBO3oB0mPsYlbl9fen_I-FVHwSEgTyjghlAzB8UrYpWHZPe10QooPvIS2Py130dxQ3wOMopu4cnogElWNuIgeler6LsnjnUtcZ2akFLgghoQPk5",
+          "widthPx": 1792,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Sri Sai Hotel Tiffins & Meals",
+              "uri": "//maps.google.com/maps/contrib/101564842712819616721",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKmWzU9RS8EegmLieHvG1l1mAb8Wm7AwYap6X-VuJpp_d5fQg0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU/photos/ATplDJYaVCC1VyyVGAVVCzcm8fFFGIYTjq4xGlawTN6_ug_AdljCWHMRAoOpFam1-yupJz3Bzqy5B0DSO-nw6ExqFO7xq0ZCSQrT33yZ-4fYMXBHL212txRXFj7q01QItGauM1F-vLpfyri75TKFD7s0JDRoge4G46RrfLO4",
+          "widthPx": 590,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Sri Sai Hotel Tiffins & Meals",
+              "uri": "//maps.google.com/maps/contrib/101564842712819616721",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKmWzU9RS8EegmLieHvG1l1mAb8Wm7AwYap6X-VuJpp_d5fQg0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU/photos/ATplDJb6hdfG-JB9nWk_xxHvSAh68MyHBxrkLMVerljcplXf_AiDjGDSSUGwjVe6vOfM5iLRvR8KKG5S581say_KmKgOBx8YHZO2A0Hq6Ja3vCDiKhuwZuR4kdIPrIxf8fJvKDXyU5yNLwSsKw0Frv7kwYKMlwGk7AuWvMgd",
+          "widthPx": 4208,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Jayanth Gandla",
+              "uri": "//maps.google.com/maps/contrib/109301620725220551306",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZiYGbrJ1VF2zdz_M5yJLc74GWVeh6538LN-xd-Sjle2kFIBg3=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU/photos/ATplDJYcBrkCcFroPA1oa1AhEjtlHkOiv56Lx861YLwrLlwaff9sS14ofmcOVxv8owwjzMB6JH8892gTOlNVfvrQPbCUiIvOcZk7iE8YgpD1NKJeUeLlY39iOlcYF-V-XIXxVqsOSd1BJMfh9VHoCw6jHyI8MxbHx7DTomaY",
+          "widthPx": 1844,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sri Sai Hotel Tiffins & Meals",
+              "uri": "//maps.google.com/maps/contrib/101564842712819616721",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKmWzU9RS8EegmLieHvG1l1mAb8Wm7AwYap6X-VuJpp_d5fQg0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ45CWY4LptTsRZvYLPvJWhuU/photos/ATplDJbx7n6hB6qbPZC9HNGT2LXbY_1sFoc_L7vFgqVoL06aJT6_AiNpbdRyTCBCsDmfbJaO6vhK5HMx8Blusy_Uew6IGRkFaTi2lDbOaj-ybnQl-aM3VFeL80cL3up2LPZxkSGw8QdJZlk_zzs58k71o-rEyF7-LEoe1PfT",
+          "widthPx": 607,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Sri Sai Hotel Tiffins & Meals",
+              "uri": "//maps.google.com/maps/contrib/101564842712819616721",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKmWzU9RS8EegmLieHvG1l1mAb8Wm7AwYap6X-VuJpp_d5fQg0=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "outdoorSeating": true,
+      "liveMusic": true,
+      "menuForChildren": true,
+      "servesCocktails": false,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "paymentOptions": {
+        "acceptsDebitCards": true,
+        "acceptsCashOnly": false
+      },
+      "parkingOptions": {
+        "freeParkingLot": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJQRI_0svptTsRwZes90G_4Tw",
+      "id": "ChIJQRI_0svptTsRwZes90G_4Tw",
+      "types": [
+        "vegetarian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "095532 96749",
+      "internationalPhoneNumber": "+91 95532 96749",
+      "formattedAddress": "Alampur Jogulamba Temple Rd, Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "Alampur Jogulamba Temple Road",
+          "shortText": "Alampur Jogulamba Temple Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J7WV4HM+66",
+        "compoundCode": "V4HM+66 Alampur (P), Telangana, India"
+      },
+      "location": {
+        "latitude": 15.878078700000001,
+        "longitude": 78.1330078
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.876762169708497,
+          "longitude": 78.131675619708489
+        },
+        "high": {
+          "latitude": 15.879460130291502,
+          "longitude": 78.134373580291509
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4386997802084636609",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 10:00 PM",
+          "Tuesday: 10:00 AM – 10:00 PM",
+          "Wednesday: 10:00 AM – 10:00 PM",
+          "Thursday: 10:00 AM – 10:00 PM",
+          "Friday: 10:00 AM – 10:00 PM",
+          "Saturday: 10:00 AM – 10:00 PM",
+          "Sunday: 10:00 AM – 10:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eAlampur Jogulamba Temple Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Om jonna roti, bakshalu, chapati, curriespoint.",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Vegetarian Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "delivery": false,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesVegetarianFood": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 10:00 PM",
+          "Tuesday: 10:00 AM – 10:00 PM",
+          "Wednesday: 10:00 AM – 10:00 PM",
+          "Thursday: 10:00 AM – 10:00 PM",
+          "Friday: 10:00 AM – 10:00 PM",
+          "Saturday: 10:00 AM – 10:00 PM",
+          "Sunday: 10:00 AM – 10:00 PM"
+        ]
+      },
+      "primaryType": "vegetarian_restaurant",
+      "shortFormattedAddress": "Alampur Jogulamba Temple Rd, Alampur (P)",
+      "reviews": [
+        {
+          "name": "places/ChIJQRI_0svptTsRwZes90G_4Tw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHc2YyekJREAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Pulluru Jayaramulu",
+            "uri": "https://www.google.com/maps/contrib/107403417236562905410/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNhMn_LHYi0ulrSEOIofDdIMVnUa8jbX9gO-hQLuv_OXzzaA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-11-01T17:31:12Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJQRI_0svptTsRwZes90G_4Tw/photos/ATplDJZ3DzIayfQT9nYCJioYy1fwrwUAOPHbBzGEeQe1WA2EKbrKWt9bDJ5DCvpXfA6KKHlpWds-m0Rb-gzJ-S3GDNc_JQN7Mi6ypgcnOhu-ipcwEWA6AFofVLzF9ed2wPQw1jhbBRkBSQC-OzecKGdsgB6iiCOzpO08pKHx",
+          "widthPx": 808,
+          "heightPx": 1193,
+          "authorAttributions": [
+            {
+              "displayName": "Om jonna roti, bakshalu, chapati, curriespoint.",
+              "uri": "//maps.google.com/maps/contrib/100132357315113368203",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLj96q05roARIA_NXvnI2_WvaChW4zgqUdqDeaTcQ274PWMmQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRI_0svptTsRwZes90G_4Tw/photos/ATplDJbpMOdLA705xB77xy9TFyQZy8OuaZyVh8kp8i-SIvfydzRQikicAc8dnLKifTdt8WMHD9U-PeA3iRA_utsCf1CNux__9hn6bV5duzc34o2frO4uadAe3NkvCB3Mwsr9V7sgQ80-3wm4jE8NfgOVMVulVnro3_GNQEGN",
+          "widthPx": 1080,
+          "heightPx": 1571,
+          "authorAttributions": [
+            {
+              "displayName": "Om jonna roti, bakshalu, chapati, curriespoint.",
+              "uri": "//maps.google.com/maps/contrib/100132357315113368203",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLj96q05roARIA_NXvnI2_WvaChW4zgqUdqDeaTcQ274PWMmQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRI_0svptTsRwZes90G_4Tw/photos/ATplDJbCGra7GLFKxLRcc-5TFDNKMxhOsLFDuXniyOth4E1wM_KTJ91SvzGd52l7SL0wAICwlMCkx_0fLIUE_7oyANAsstGJdxRP6md7J0xC62ZdgoaU16mum-WCeTMVUA57Mn4udOHla_VVTMoqhi7dw5yTqMjOnGtouWmR",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwanath B M",
+              "uri": "//maps.google.com/maps/contrib/103533037254370709690",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVn3r4hcYcigypdGfU8NF0aKHxF2DMzZ1cKVGz4J-NDi1_NJQ1O=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "servesCocktails": false,
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s",
+      "id": "ChIJ80YNCsLptTsRGhwThfj6g-s",
+      "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "formattedAddress": "V4P9+857, Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "V4P9+857",
+          "shortText": "V4P9+857",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 15.8857766,
+        "longitude": 78.117912300000015
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.884428619708496,
+          "longitude": 78.116553869708483
+        },
+        "high": {
+          "latitude": 15.8871265802915,
+          "longitude": 78.1192518302915
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=16970683766153616410",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V4P9+857, \u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "New Amma mobile tiffin centre",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Fast Food Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "servesBreakfast": true,
+      "primaryType": "fast_food_restaurant",
+      "shortFormattedAddress": "V4P9+857, Alampur (P)",
+      "reviews": [
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/reviews/ChZDSUhNMG9nS0VJQ0FnSURPMFBIamFREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Authentic South Indian breakfast on wheels.\n\nFood preparation looked hygienic, which is rare on any highways.\n\nHighlights:\n*vada\n*Idly\n*dosa",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Authentic South Indian breakfast on wheels.\n\nFood preparation looked hygienic, which is rare on any highways.\n\nHighlights:\n*vada\n*Idly\n*dosa",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dharmender Jallipalli",
+            "uri": "https://www.google.com/maps/contrib/106093790170627693181/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2022-06-25T11:29:20Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJbCPHdSaqHjjTl7Q5pUTCEAmPRwoeHhzE_kV0wmG7zmzW3AOA7Z-bERpnIZoQXcN3tqcuwhQ6aZ22y2nmLRUAbNr0m8ARZeKjC8YHMxvZGs1qIPFXQzvFgzf8IuNvhXzMqpEpTE-Of6Emb6z2wKqL_JGVwmwcT2Hdes",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJa5SY1FYnY2dSYO39gxqj0Ad0blsRURf5o3IcXer45UjxT5dPO4EA21PSScTSNxZ-k6xoF5xGo80kBpZf9gQdydDd7W4uZHSDn6qRAd1bOcq67tAjvaF64VACSkE_XUNX55_hTNs35mJtw-tVTj_8niYcznI8prjzCy",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJb4NOaxpcUpKPoX5y4r5VvV6LlykQXJ-VJUO7dFO9RaXpQjf5IhsrxIvfrPbI-S2EjI2O1DrA6bByPBCREChyRCP69ozGYbZnfazMICwTYI5qR2WY9oOMcQnxsJUwt2SKlvyDJ7gNFJDRMIVlR6s5kYNP0YwpaZ0FT_",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJYbW7RUZwdhobK-dk4izPcXSZcwYrVU8UGdmrYdrsK5CeEwUtLYCHUbutIasb_HCRcZusAaQ_XENqCczZ8-VqqkwyyuZt4Yi4sPum_tn3NFNxm9fDGSu4XjM-CM5yAbwf5UZNV64COdlRvBVTkDh-qUfS6vK11fZ3pn",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJbIRHrZOE0JPpGtaOfyWSs77dCDJBUCCNmnRYNEKBjefjDKAKZRvmAP-cNYqNn5pVEr63dAnBcuFm8w-woL_xHc4Iebibb82ZJGkCVMtUTSwXR4j5Dsmxp64cKTVZFy0zxd9tDmAYhNGz8ECFeAtKMCa6FvzxY0nKkB",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJYTDSiZGEhD4cyop-Zgi3dyFInqqHSSZHmp8_vcpVqoWc6eC0vgb9bb5g51fAg9H6InkpxhbyzC1SSPdH8ZIyO79HTy7cwZxg2CLo3cQ5wm2T2FxPv_ozHNPC_M6sLXm6_9tJtvgZ4CRH8fhngfkYdV14M_NrCduAGg",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJZ0gbXz9EAL8kFX2SQ6Lmhlu1OL9PCCb_WUpc4FBsIdw-UJ0OSnUUYmLhqG47ZWqrwFreOlSLZVYoSarANjx3ZI8jlVeWnwpm5emvYvDE30_23YENF2u2HZvvEsVjXxyKgBdNFAH1C6AWl9aWjj-QxH-oRnN50jJkzh",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJZaIrH5KDSs4U2LP3jLDRB3lUv-hESna83_CfnD7sK52mjWbCrNsQs6881prFqTXJX_Y7J_hlqV8QAJYoDp_kY42B2-AYw4l9gLNUThP5q3RS5KZTzbFsLtlR2T2agZxmXovMZCdOhASwL1NVxJL7MGihDY34vEkVns",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJZewN2rX0ZmZRCtmshSCJZg54-BCGNbep5UypfPgtpbHsdS085pNU-8sna5y_nyXaaolCfaRFltqezSaabtGe3nisMoNfeiTfi6nf3VgHIIHss_WvadNO9TSafU7q56BIgsFD5-O_2j6j_uVsFyKkDzofDrAXOBvnkj",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80YNCsLptTsRGhwThfj6g-s/photos/ATplDJbXh4AOhkQyqw4y8KjUmr11e4CZHcL0fFLPOXez5y8A2yHf6ZG-iQInukjqM_L3oAHMfDE5IS7CIUsxbQ1FoGDBIrcU1_nhEMXKaxsZbmXIWagZY4Ro1MQ-BAX0PhATPIE3QuYwCKnZqP8ObQ3N7qdkUWComzN8N-xq",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Dharmender Jallipalli",
+              "uri": "//maps.google.com/maps/contrib/106093790170627693181",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGn4js1ij45bqnAHLpoejK60fPEIhbzBbdcNYe-qWiuIKrNnfYkw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": true
+      }
+    },
+    {
+      "name": "places/ChIJnRrfdg3ptTsRrrUf6EQX_fc",
+      "id": "ChIJnRrfdg3ptTsRrrUf6EQX_fc",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "formattedAddress": "V4HM+H6P, Alampur Jogulamba Temple Rd, Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "V4HM+H6P",
+          "shortText": "V4HM+H6P",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Alampur Jogulamba Temple Road",
+          "shortText": "Alampur Jogulamba Temple Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 15.8789725,
+        "longitude": 78.1330864
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.877694619708496,
+          "longitude": 78.13161496970848
+        },
+        "high": {
+          "latitude": 15.8803925802915,
+          "longitude": 78.1343129302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17869464481195603374",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V4HM+H6P, \u003cspan class=\"street-address\"\u003eAlampur Jogulamba Temple Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "R.N Sweets Bekary",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "dineIn": true,
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "V4HM+H6P ZPH School For Boys, Alampur Jogulamba Temple Rd, Alampur (P)"
+    },
+    {
+      "name": "places/ChIJu_O10vTotTsRzbovxty31PU",
+      "id": "ChIJu_O10vTotTsRzbovxty31PU",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "formattedAddress": "V4HM+XFR, Alampur Rd, Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "V4HM+XFR",
+          "shortText": "V4HM+XFR",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Alampur Road",
+          "shortText": "Alampur Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 15.8799967,
+        "longitude": 78.1336556
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.878678119708496,
+          "longitude": 78.13227681970848
+        },
+        "high": {
+          "latitude": 15.881376080291501,
+          "longitude": 78.1349747802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17713985393200708301",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V4HM+XFR, \u003cspan class=\"street-address\"\u003eAlampur Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "SUGUNA Chicken",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "V4HM+XFR, Alampur Rd, Alampur (P)",
+      "goodForChildren": true,
+      "goodForGroups": true
+    },
+    {
+      "name": "places/ChIJB_ZU0YjotTsRafJBYsn_EI8",
+      "id": "ChIJB_ZU0YjotTsRafJBYsn_EI8",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "formattedAddress": "Alampur (P), Telangana 509152, India",
+      "addressComponents": [
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alampur (P)",
+          "shortText": "Alampur (P)",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogulamba Gadwal",
+          "shortText": "Jogulamba Gadwal",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "509152",
+          "shortText": "509152",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J7WV4JF+HV",
+        "compoundCode": "V4JF+HV Alampur (P), Telangana, India"
+      },
+      "location": {
+        "latitude": 15.881380100000001,
+        "longitude": 78.1247174
+      },
+      "viewport": {
+        "low": {
+          "latitude": 15.8800443697085,
+          "longitude": 78.123335869708484
+        },
+        "high": {
+          "latitude": 15.882742330291505,
+          "longitude": 78.1260338302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10309020787453063785",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eAlampur (P)\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e509152\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "అద్భుతహా ఫాస్ట్ ఫుడ్ సెంటర్",
+        "languageCode": "te"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "Alampur (P)",
+      "servesCocktails": false
+    }
+  ]
+}
+

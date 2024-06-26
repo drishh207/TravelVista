@@ -1,0 +1,4203 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM",
+      "id": "ChIJD6Dme30_6DsRBOe6qcITpZM",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "075505 51786",
+      "internationalPhoneNumber": "+91 75505 51786",
+      "formattedAddress": "TatvaRaj Farm, Roha Gohsale Road , near Krishna Hotel Tambadi , tal, Dist, Roha, Tambadiwadi, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "Dist",
+          "shortText": "Dist",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMC36X+FJ",
+        "compoundCode": "C36X+FJ Roha, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.4111784,
+        "longitude": 73.0991141
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.4098418197085,
+          "longitude": 73.097845269708486
+        },
+        "high": {
+          "latitude": 18.412539780291507,
+          "longitude": 73.1005432302915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=10638931421524846340",
+      "websiteUri": "http://www.tatvarajfarms.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "TatvaRaj Farm, Roha Gohsale Road , near Krishna Hotel Tambadi , tal, \u003cspan class=\"street-address\"\u003eDist\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRoha, Tambadiwadi\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 225,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "TATVARAJ FARMS, tambadi,Kolad",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 21,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 21,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 21,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 21,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 21,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 21,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 21,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 9:30 PM",
+            "Tuesday: 9:00 AM – 9:30 PM",
+            "Wednesday: 9:00 AM – 9:30 PM",
+            "Thursday: 9:00 AM – 9:30 PM",
+            "Friday: 9:00 AM – 9:30 PM",
+            "Saturday: 9:00 AM – 9:30 PM",
+            "Sunday: 9:00 AM – 9:30 PM"
+          ],
+          "secondaryHoursType": "ONLINE_SERVICE_HOURS"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 21,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 21,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 21,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 21,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 21,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 21,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 21,
+                "minute": 30
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 9:30 PM",
+            "Tuesday: 9:00 AM – 9:30 PM",
+            "Wednesday: 9:00 AM – 9:30 PM",
+            "Thursday: 9:00 AM – 9:30 PM",
+            "Friday: 9:00 AM – 9:30 PM",
+            "Saturday: 9:00 AM – 9:30 PM",
+            "Sunday: 9:00 AM – 9:30 PM"
+          ],
+          "secondaryHoursType": "ONLINE_SERVICE_HOURS"
+        }
+      ],
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "TatvaRaj Farm, Roha Gohsale Road , near Krishna Hotel Tambadi , tal, Dist, Roha",
+      "reviews": [
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/reviews/ChZDSUhNMG9nS0VJQ0FnSURENl8zV053EAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 4,
+          "text": {
+            "text": "Super service n food with all jain option. .\nGood ambiance and support form team and owner very down to earth and specially kitchen staff super friendly and always smile on the face .\n\nKeep doing better must visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Super service n food with all jain option. .\nGood ambiance and support form team and owner very down to earth and specially kitchen staff super friendly and always smile on the face .\n\nKeep doing better must visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vinod Vanigota",
+            "uri": "https://www.google.com/maps/contrib/107138380398800198385/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZjBaeMYyhCRb1O7LXx1Fn5YF44g7B0coOCrk54LHyYxMz-Ap-=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-14T12:45:09Z"
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWNDg2SmpRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Well to start, our experience at Tatvaraj Farms was extremely blissful and satisfying. Everything from rooms, amenities to food and staff was sheer perfection.\nRooms were extremely spacious and clean with a beautiful view of nature.\nPlay area and swimming pool were again extremely well maintained.\nThe food is super delicious and the staff is extremely courteous and friendly, you will feel like you're having food at your home.\nThe staff was so helpful that they never said 'no' for anything.\nThey give you a feeling as if one big family of staff is pampering you on your holiday.\nThe resort is situated in them middle of nature and the rooms are surrounded by beautiful trees and flowers.\n\nIts too good to be true types!\nspecial Mention of Mr. Mahavir who took care of everything very nicely.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Well to start, our experience at Tatvaraj Farms was extremely blissful and satisfying. Everything from rooms, amenities to food and staff was sheer perfection.\nRooms were extremely spacious and clean with a beautiful view of nature.\nPlay area and swimming pool were again extremely well maintained.\nThe food is super delicious and the staff is extremely courteous and friendly, you will feel like you're having food at your home.\nThe staff was so helpful that they never said 'no' for anything.\nThey give you a feeling as if one big family of staff is pampering you on your holiday.\nThe resort is situated in them middle of nature and the rooms are surrounded by beautiful trees and flowers.\n\nIts too good to be true types!\nspecial Mention of Mr. Mahavir who took care of everything very nicely.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sandeep Jain",
+            "uri": "https://www.google.com/maps/contrib/113383032229123808186/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU8G1xiNbTZvnwENfsBNjj9Sup6w8z9Vh3den4Yukww0CS8wqe=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-09T05:11:16Z"
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/reviews/ChdDSUhNMG9nS0VJQ0FnSURsaXJYcW5RRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent place! Vibe is good! Staff is very co operative ! Food is great ! Must visit place !\n1)They serve completely veg food and make extra efforts for kids food as well.\n\n2)The owner herself is active and kind.\nShe makes sure her guests are treated well by their needs.\n\n3)Do visit this place and cherish the family times !",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent place! Vibe is good! Staff is very co operative ! Food is great ! Must visit place !\n1)They serve completely veg food and make extra efforts for kids food as well.\n\n2)The owner herself is active and kind.\nShe makes sure her guests are treated well by their needs.\n\n3)Do visit this place and cherish the family times !",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Other side of the Sunshine",
+            "uri": "https://www.google.com/maps/contrib/115985404919948870187/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnzNnvLbWA5vTnw-bnn9HchIlqRd1s2h93jkBO0tfv4rVfFQ4=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-01T08:57:18Z"
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOdzV6QmlRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Honest Review!\n\nOverall the property is descent. Room size are big and offer good view. Food quality is good with limited options for each meal, btw this is pure veg restaurant . It also serves limited Jain food. Good swimming pool with descent music. Good amenities and play area where you can enjoy all the internal games like pool, TT, carom and also has Karaoke setup.\n\nThe day we visited, there was a day school picnic arranged with some 40-50 kids which were using all the amenities.\n\nThe property internal area is too small and feels as if you are exploring a bungalow property. With the amount they are charging the property is not that giant or big to explore.\n\nNeeds improvement in below area :\n\n1. Food or cuisine spread should be more like some fruits or salad spread should be added . Very limited options in breakfast, any additional food  you will have to pay extra.\n2. Property area is too small and the arrangements which they have managed to accommodate in this area make very lesser space to have privacy and some breathing room.\n3.School picnic should be avoided or made available during the odd days when you don't have any room booking.\n\nThanks Mahavir for the support during the stay!\n\nOverall descent property and I would rate 3.5/5 based on my experience!\n\nThanks!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Honest Review!\n\nOverall the property is descent. Room size are big and offer good view. Food quality is good with limited options for each meal, btw this is pure veg restaurant . It also serves limited Jain food. Good swimming pool with descent music. Good amenities and play area where you can enjoy all the internal games like pool, TT, carom and also has Karaoke setup.\n\nThe day we visited, there was a day school picnic arranged with some 40-50 kids which were using all the amenities.\n\nThe property internal area is too small and feels as if you are exploring a bungalow property. With the amount they are charging the property is not that giant or big to explore.\n\nNeeds improvement in below area :\n\n1. Food or cuisine spread should be more like some fruits or salad spread should be added . Very limited options in breakfast, any additional food  you will have to pay extra.\n2. Property area is too small and the arrangements which they have managed to accommodate in this area make very lesser space to have privacy and some breathing room.\n3.School picnic should be avoided or made available during the odd days when you don't have any room booking.\n\nThanks Mahavir for the support during the stay!\n\nOverall descent property and I would rate 3.5/5 based on my experience!\n\nThanks!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prajal Jain",
+            "uri": "https://www.google.com/maps/contrib/115486544106027382311/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-Z0jVc0RTUQQjndvBhPLXRhob1RPIN0BQU2t030Alhl1pwDeP=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-17T09:17:11Z"
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/reviews/ChdDSUhNMG9nS0VJQ0FnSURkOUxMTTd3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "\"Immaculate pool facility offering a tranquil escape with crystal-clear waters, spacious surroundings, attentive lifeguards, and a serene atmosphere perfect for relaxation and enjoyment for visitors of all ages. Highly recommended for a refreshing aquatic experience.\"",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "\"Immaculate pool facility offering a tranquil escape with crystal-clear waters, spacious surroundings, attentive lifeguards, and a serene atmosphere perfect for relaxation and enjoyment for visitors of all ages. Highly recommended for a refreshing aquatic experience.\"",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raj Pashilkar",
+            "uri": "https://www.google.com/maps/contrib/115943327582618058608/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIIos1LImQL-i9Pr53Jyvrpjrfib5mwOVhn0m7S7FmrMm5tjg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-21T10:06:35Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJZY9xe1miyss5bXZF31gDcrm_aHODXGAlvf5mVlGdi5Ls04gaWlDodpMT6JxIDRgjho60yDnPLyHk2xYAxVxNsXXF_W5VdZkSY7X5EuJEiUh-3GNqWsazRJUg5fa_Kx-lCNkiqNDihE6TvTrMy82QzsxP6y3REth8Y9",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJal6E9a2Pz7pdgh4N9f3qd8Hg8YJM6SdMIX1sVS81Kuvs8BuK7ip8ono61AMtQmROHu2Ewvz1j9X6u7CXFJcO0UKV4M1Ln_Z6P6X-Ymr8GorvEKw6YLQs2kACWths3Bx55zkRirM1HeS3MY6UAMxp1l7wdjTLseiCTx",
+          "widthPx": 9000,
+          "heightPx": 12000,
+          "authorAttributions": [
+            {
+              "displayName": "Shivshankar Ranbaware (Sharad)",
+              "uri": "//maps.google.com/maps/contrib/107354502728878790315",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7WNsb4CXmyY6IJyI_kJ4Uew3Z4trjLlpWjZ73r6aNUrAWhkdb-g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJa9jimzEhJ6y-Awtwr4xIIPTNwS1r0F3FkRj7fTVNFp7RxE2ITZJ8aTk7gsanUEOJ-EE8GOma7lRItQYLwuOEIfwuQNYVwmEWHHeAWEY9cuhOveVsYBC9T2pY6zkdPjTZT_9QeWntFro9MBqVB44kv_oxf8-2hiDnxB",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJZeQMrlqvjOdJu6C2ALal3lx_H1h66msueO3gRB-99fGKyWVWqGVopXFSFJ31gpII7cS09YXW8WGvaV4yGDlW8z8qmc593kOpmtIZCJAkt3m_5JsgBg2qi5IiFj5OSrOqXYGhLqOd0gIyfcsgfum_GhDojjcG7jI-12",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJbCi4jSlelj5mGe2IRpoWDJtd9KYK49j4VpSBSRujwCgEds6Thlqb6iSGhFXr-4mgsRHc5ySJg4jeEy1xh_62DEQFrP1H664gCtYKsWOWQZF1-FdhHwAaJR49qylV4vE9O8AeyVKwZ_80zbgVBttV3reZM_jkh8KlpG",
+          "widthPx": 1440,
+          "heightPx": 1791,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJYpb1gxwpY3EKv1hiz8XCUBh7QDOKjvNO8ZLphA65KIBfoUwP2XwNMN2JOmuxYgwt4Ye5dl9-gLByuZZv0Cv47l6uuFQTe42WH4z3-6UNqpOHKDqhu5O4Hi9pRSaHj85lbp8oBaD1zkLcI9tgtu-AI7Ke0MwII2aDwq",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJbsWJhEuMns7o74L5twBXk_xcE4Gs7urwfJWwqrtJwZEIADw7ccoO4ODm2bxpdrGoZVsnO2KXptUqhNUVBpjyzM3z0vAsIESBbbGqjQ-G938r6h1YZCIOE5Gj6VsBxFSuCXou5gCevskHLxRohHgFch7lpmLH_apxJx",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJaSC2_kd4MBVMSFrcjPKsgMuv_4aMcYjzU5XgeNpTEk7_zuVu_zkyQhyUfF3RNMEEelppOWeLDiMiJbBXygXPot-yt9PG5WA1d0f_ua54ALM8SurVc6Niv89x9Bp-k8yKrnTqIIjzKngj2TK563fWw3wBjrsThLf7n_",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJaPpTmDEnr0NdzVQmS1eDJ28R4tTqvUY4zdBHgbafEygBPuUWvyptyKjSzhF_BRYNdb52ChOtquRjZSMVYqBoKYK6kGzumZpu-QUtnG7xpnQkUdq2v5Ylh-fzXMLoxTUxnDRcVHTLbDGU2IW28Z-hewbu5y-j-i9uZf",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD6Dme30_6DsRBOe6qcITpZM/photos/ATplDJbwlkNttJ5QqN6kxriUp1ZF3-TAR2jkIvTefON8WWYi8xLUSD4TTcFhUd5mMENk1LDNFS-B-tARqX36yzVgjMR3aCUq2-TAd5P68L_iuehhECj0skF2cuYf8x5q5G8nCCelkWT-OCnl1KxKxCUC9ZltZi3-M6Zzmn99",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "TATVARAJ FARMS, tambadi,Kolad",
+              "uri": "//maps.google.com/maps/contrib/110896176071387525893",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWroYPBahAndXOLe4bED_ObD8DPdcx2KQ2j644T8oiFtQbbOzE=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM",
+      "id": "ChIJebfGyWwV6DsRaGrfZDArKsM",
+      "types": [
+        "hotel",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094224 95944",
+      "internationalPhoneNumber": "+91 94224 95944",
+      "formattedAddress": "Roha-Ashtami Bridge, Near Dabir Complex, Near Kundalika River, Dabir Complex, Wali, Roha, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "Dabir Complex",
+          "shortText": "Dabir Complex",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Wali",
+          "shortText": "Wali",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMC4R9+5G",
+        "compoundCode": "C4R9+5G Roha, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.440385799999998,
+        "longitude": 73.1188208
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.439042669708495,
+          "longitude": 73.117476769708489
+        },
+        "high": {
+          "latitude": 18.4417406302915,
+          "longitude": 73.120174730291509
+        }
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=14063100273268583016",
+      "websiteUri": "http://rohapride.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Tuesday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Wednesday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Thursday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Friday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Saturday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Sunday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Roha-Ashtami Bridge, Near Dabir Complex, Near Kundalika River, Dabir Complex, \u003cspan class=\"extended-address\"\u003eWali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRoha\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 921,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Roha Pride",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Tuesday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Wednesday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Thursday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Friday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Saturday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM",
+          "Sunday: 9:00 – 10:00 AM, 11:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Dabir Complex, Roha-Ashtami Bridge, Near Dabir Complex, Near Kundalika River, Wali, Roha",
+      "editorialSummary": {
+        "text": "Basic rooms with river views in a relaxed hotel featuring a vegetarian restaurant.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkck16T3V3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "One of the budget hotels in Roha. Overall neat and clean. Don't expect high class services and facilities but good basic facilities.\nIn house food quality is also good.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the budget hotels in Roha. Overall neat and clean. Don't expect high class services and facilities but good basic facilities.\nIn house food quality is also good.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anil kumar",
+            "uri": "https://www.google.com/maps/contrib/116730421638645344051/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpeuYaH4ILMm8I-L5Tu9FHG7jjGkzLdhiZ6kDnUGeZNoPISM_Dmg=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-02-13T10:24:02Z"
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOcU52RjBRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Service was superb the people working there and the owners are very friendly and loving. Food option is just for vegetarians but the rooms are clean and good 👍\nOverall experience staying there was good.. a place to recommend for a hygienic stay.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Service was superb the people working there and the owners are very friendly and loving. Food option is just for vegetarians but the rooms are clean and good 👍\nOverall experience staying there was good.. a place to recommend for a hygienic stay.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jerusha Ranshinge",
+            "uri": "https://www.google.com/maps/contrib/114435886057640772644/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUW7m7zWp_ZSBlXPJiizIo-GwmAcxQfg5PQW17JkgnqljNTpsc0bg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-01-11T18:31:58Z"
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/reviews/ChZDSUhNMG9nS0VJQ0FnSURsdzQybFJREAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very well located, bus station is close. Right on the bank of the river.. Delicious food with excellent service. Highly Recommended 👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very well located, bus station is close. Right on the bank of the river.. Delicious food with excellent service. Highly Recommended 👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Swasthya Surabhi : Essence of Health",
+            "uri": "https://www.google.com/maps/contrib/101766576312981645412/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVT-KXgYXEwmQTVOOKx14u2t1dQ6FKu6_RWQNVTrKF6vcVzmB6-_A=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-03T13:56:06Z"
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxcnEyaEtnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good location for business work in Roha.  Though traffic noise is disturbing,  it can be accepted the way it is.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good location for business work in Roha.  Though traffic noise is disturbing,  it can be accepted the way it is.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sandhya bonda",
+            "uri": "https://www.google.com/maps/contrib/116401850550104632317/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKr0bTVW5EPPM8Cj1gVwGV6EhIpb7DnOAg2vz_0mF-gcsWVeg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-30T04:47:09Z"
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPMExEWWh3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "This is a wonderful place to stay with family, full value for money and great hospitality.\nThe hotel is at strategic location and easily accessible by railway station. The Best part is Four wheeler parking available...\nThe room is fresh, specious, clean, nicely decorated and well furnished. Each rooms in the hotel are given with a flat-screen TV.\nPure vegetarian restaurant available inside. The food is nice, room service is fast and the rates are reasonable.\nOne more good part was the convenience of check- in and check- out timing with a prior discussion…Overall, Staying in this hotel will be a memorable experience. Highly Recommended.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is a wonderful place to stay with family, full value for money and great hospitality.\nThe hotel is at strategic location and easily accessible by railway station. The Best part is Four wheeler parking available...\nThe room is fresh, specious, clean, nicely decorated and well furnished. Each rooms in the hotel are given with a flat-screen TV.\nPure vegetarian restaurant available inside. The food is nice, room service is fast and the rates are reasonable.\nOne more good part was the convenience of check- in and check- out timing with a prior discussion…Overall, Staying in this hotel will be a memorable experience. Highly Recommended.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anuja Mehendale",
+            "uri": "https://www.google.com/maps/contrib/113967562741935787845/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLu7EVdgDyj0NOtbh3BlkCg4uISamu2-KzjmAj-8egYcBkXvuE=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2022-05-30T08:34:47Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJadImDtNrKw3wq9WPSRxc6V_K5urZeo0evkUQS1cT5R5ef3JX_sKX8nQXBJyOXnUXtxNZT_wk1lU52OyL6ZT1QxqP6cHk1-TfUMicSLvwjOjIZ0lp6uabUf6ctACWHcWG_MZH9jdwCXUUqjuDu0iu8aERHd0A1P4JPk",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Pujari Chaitanya Krishna",
+              "uri": "//maps.google.com/maps/contrib/100983193434466233180",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXpk3FPqnZWCIIZq7G72abgk6_b40nWV5JiPShh6cQsX9J62lZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJacRe7vzg9sQCTq93v37WhOw0eBol0pRd9t9_TDez9SPQILABg1XKlxyWrnzcH3lqJe5_VGYhoEr3GyoRjo0ujX62-mrmFTl4TYW7TPhR8C-WqJkIruOsW1MIjqYOyhorXDS7MTBVwaB93PEuVq5166EPi-Mwmc5ly-",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "Amitkumar Singh",
+              "uri": "//maps.google.com/maps/contrib/108825178272390228135",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuMuKLZV-F3QxEnLw0dKB1BnCoWPNLoBdDuSJm-IgCq-VDCwckDA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJZog_Tm1C3taSwZeT1XzKexUcSd1H7TNrNv6ft3lz-mHxFI0ECHxy8C9eYbr6fzg1rljOfvOWSM4syKOhSc7T1CWf7P4NKFOAoQ2p-PinAzkT4tz-g3Zt-wytoHbo75nZrm8Wqq6jPA4GxGtuXYn1-EpsMjd7Dp3Z_i",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Nitin Mukesh",
+              "uri": "//maps.google.com/maps/contrib/101650512985775482283",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1YufmFKXdfVLviUWvr4srNKQCK418UE7K2itA5aAeoQIaF3EM5A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJZV2sIopl4E4SWNi4yb_s7cZO0PxUl4mKTdltY528TQwQN-cIsf9NKStyXR0jl8nLFZyDGacect7zOlZBFHb_jQa3sT5Esrz82tFPGK-2Mv9h5vdaJYSindgxl4vJVfBQLqWxVbVkpTghkdsVR8j3QfmKp2LgSS4MI5",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "Amitkumar Singh",
+              "uri": "//maps.google.com/maps/contrib/108825178272390228135",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuMuKLZV-F3QxEnLw0dKB1BnCoWPNLoBdDuSJm-IgCq-VDCwckDA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJb5gyaHhWBrA8UF449RS6mfIyYDS4-Dsf5paua0XZ2ue95afZjIqef2uUJGbN07D_m-26M8TOefC1Ek5f2lzUAja_UvpiATzbT6X3wCJYDM49tclJtQ6Gpa6B8aUcCHKtTOld-xmEy9mLf70uagGS0mTx9ZJttkvov-",
+          "widthPx": 4028,
+          "heightPx": 2878,
+          "authorAttributions": [
+            {
+              "displayName": "Vivek N Ramugade",
+              "uri": "//maps.google.com/maps/contrib/112289601896872904143",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVOcdcZLavI6Iy9xEnyI-Odi07bZASNXLT8Orh_KCrEufCSdtu_yg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJbq6-dxO9l22qQ72Mf3QSnTN1f6eY00u-x2npqEy3hKwlprK3OIdPhJkHFpkPqX8uutmQmhq5DqZMpkcD2zt1fyCxTWKQdWe2NBCMEfqEtH-i5SmJYg2OyRkWjuzfopJmNC66rtQb8sdXc46ZV5tsJxRtwTp3W84w_2",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Nitin Mukesh",
+              "uri": "//maps.google.com/maps/contrib/101650512985775482283",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1YufmFKXdfVLviUWvr4srNKQCK418UE7K2itA5aAeoQIaF3EM5A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJZPPcAecw-eX7tv16-7A8TV_KNLzUA8ghoc8GQjFnuB9OUQr_O64mquA1B9vNF47Fvdx19LmGKFOs9r0ashCIzlV8Fp3NbyNHYDfz-oXL4Ti0DRYz-Oqg-p6JrjLY89YGZLX2Y1NOSGjUYs3i98TQ8DIgqgsYR337Up",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "brajendra soni",
+              "uri": "//maps.google.com/maps/contrib/106289798486988599164",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX0CrQcEP_Sd4NIfqVc1wE_n-t5mm9XCw1xfY60fow08wiPU8my=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJZ7G-1zPeVuZEUYu2OhbOYb7mPm2yZjElgdpTxLQY95S5VZ1IYMH3uKonkQktzSr-8gsfoP8PFSBuuj8dH3Wee1wn7VCfdI7U9RiRtL-D-vIOF_cl5UP9jlQIUlxhpJN68kLHmkZMtgd9PWbW0piK8KhHiFwQ2wl1AF",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "SwarChhaya Photography",
+              "uri": "//maps.google.com/maps/contrib/111410237100483414982",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXKijE-fGyEViW3dCfdIHiCCxJlLocj-DqPWKJd2oTnpT_p9HjWxw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJaDpC5RZuNfzAOgytt0Cv_kdMJ4CtheaReuCv3QZERzRClYnKYTRvd4Erx2fHgfe1Y0VICPqEO2dPsc7AWxlP4FD4itZFLmOKkOLMK_d3G2Lnn0aUJ3CrLMETXAuGvC-n8oi2MH-QltCVy46b3hPxVgKA239ENy1Ti0",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Swapnil Rokade",
+              "uri": "//maps.google.com/maps/contrib/111772420261077738864",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLnDVCQhtHzNxedRYaB5lSUZ4O576NKCt_LsrCzhJ88t91Wgw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJebfGyWwV6DsRaGrfZDArKsM/photos/ATplDJYRkAHN9fCDXUsIOXQKbL5cZiEYcue7rxa8oY6st7utTi-HNysW_jFYsi1PxB_w6yBlVUi1BJfzaTnl6b0abAKmUXAzMHKH3Z3ye5MwqxIjU-XA7xPHYKNso8dJQirkFWB0a3ikPqTlbAGP_E2SzzV0cKftLItNYaks",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Abhijit Dighe",
+              "uri": "//maps.google.com/maps/contrib/101852068862427658546",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWi6_MmoxtJAdNFptKc96OGCi30sxjPpEpiUKSntTeOnc01Iyf5=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs",
+      "id": "ChIJUzMAc9QV6DsRGRea2-tc7zs",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Nivi Rd, Wali, Bhuwaneshwar, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "Nivi Road",
+          "shortText": "Nivi Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Wali",
+          "shortText": "Wali",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhuwaneshwar",
+          "shortText": "Bhuwaneshwar",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMC4GJ+HM",
+        "compoundCode": "C4GJ+HM Bhuwaneshwar, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.426399,
+        "longitude": 73.131745999999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.4250504697085,
+          "longitude": 73.1303645197085
+        },
+        "high": {
+          "latitude": 18.4277484302915,
+          "longitude": 73.1330624802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=4318772735742973721",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 12:00 AM",
+          "Tuesday: 6:00 AM – 12:00 AM",
+          "Wednesday: 6:00 AM – 12:00 AM",
+          "Thursday: 6:00 AM – 12:00 AM",
+          "Friday: 6:00 AM – 12:00 AM",
+          "Saturday: 6:00 AM – 12:00 AM",
+          "Sunday: 6:00 AM – 12:00 AM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eNivi Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eWali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhuwaneshwar\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 91,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Akshay Lawns",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 12:00 AM",
+          "Tuesday: 6:00 AM – 12:00 AM",
+          "Wednesday: 6:00 AM – 12:00 AM",
+          "Thursday: 6:00 AM – 12:00 AM",
+          "Friday: 6:00 AM – 12:00 AM",
+          "Saturday: 6:00 AM – 12:00 AM",
+          "Sunday: 6:00 AM – 12:00 AM"
+        ]
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Nivi Rd, Wali, Bhuwaneshwar, Tala",
+      "reviews": [
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxdWJUS21RRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Amazing Property with great ambiance. Preferable for group tour. Property Staff is very much coordinative and beautiful Management. Perfect for weekends holidays.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Amazing Property with great ambiance. Preferable for group tour. Property Staff is very much coordinative and beautiful Management. Perfect for weekends holidays.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Keval Satikuvar",
+            "uri": "https://www.google.com/maps/contrib/102615861562410753922/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmhVLlj_jLBX8NE6HQRrd9RN4zSyYrWb4GzG5eJnKYSYyucg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-01T09:59:15Z"
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNObFpqdlFnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice place. Best for wedding, birthday party, get together.\nBig area and big parking.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place. Best for wedding, birthday party, get together.\nBig area and big parking.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Harshavardhan Patil",
+            "uri": "https://www.google.com/maps/contrib/103250966397897313960/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAE_JyZboqepUp2RsiqejyKfejg1zbkyRJrd1IpeazsrNTxj0W=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-01-16T10:38:24Z"
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxc1pMOXdnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Amazing Hospitality, Nice ambience feels very peaceful to be,would love to visit again n again",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Amazing Hospitality, Nice ambience feels very peaceful to be,would love to visit again n again",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rasheed Basha",
+            "uri": "https://www.google.com/maps/contrib/116408897570781909882/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3rVlVzbi09BMBupMj1noWtBu4m33NnqmMrmXv42mlmyBpDG_a=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-31T16:32:39Z"
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/reviews/ChZDSUhNMG9nS0VJQ0FnSURKX1BYRWJREAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Overall Good Lawns for family function and other activities.\nPlace was too good l..here swimming pool is also available so u can enjoy with your friends.\nFor stay AC Non Ac rooms are alos available here.\nThis place was natural surrounded.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Overall Good Lawns for family function and other activities.\nPlace was too good l..here swimming pool is also available so u can enjoy with your friends.\nFor stay AC Non Ac rooms are alos available here.\nThis place was natural surrounded.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mayur Dhanavade",
+            "uri": "https://www.google.com/maps/contrib/109293204758343967370/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1uOwJwsv-jZ5eWixl38txRxsBzJ4Bn2iMGs0KfiDCj4NkUiBN=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-07-28T07:17:27Z"
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEOXVpM3p3RRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Very hygienic and a worth place to visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very hygienic and a worth place to visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dev Chorge",
+            "uri": "https://www.google.com/maps/contrib/105207449091857541233/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3VlTQiEUFbUXMYBa2fJBHzHQhszBa90gYY6aEuvtqy44mqMXF=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-28T04:56:26Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJb9LfOwH7fSkWLmhoWvBhIAD8kjEV74vjV-8rBhwf8HzPtq5zQlXL_9dKCVsW5R245gd3W1D7zgJHrVC-oP3EVY0RkHh-AHTEkfEl9h-3CV2m75HoxAoH4GKWNVE2AP5Qp3drdOzttOPzaupFSmO7K49z45vjMrYLD3",
+          "widthPx": 1024,
+          "heightPx": 768,
+          "authorAttributions": [
+            {
+              "displayName": "Akshay Lawns",
+              "uri": "//maps.google.com/maps/contrib/104671088067434645270",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZpggl5gLfIOE0EFKiG3N5tfzcrA6aWxEW6TIQRqQTWGn7qWDr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJbXIkw0UH5cdpC6fzFFVYdXWs4PFsfMqMs-XfH-RAYDfasNTcVedXHrc-ep32N6_-vC3FanJ6Oa0mRWisvyQAIuhNV4NpcrzUz3F9zCjA68hmjHwCZY35Pa2anifMbSdxPY3CyIRpXwF-oa4BSTFt1W-kzRBqjqLoTp",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "deepika chiplunkar",
+              "uri": "//maps.google.com/maps/contrib/103445939264125377926",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIRyFPEb6XdYAjPJ1UtgdGBz8Z9VF8gcSUttVlewV_Mz4Ro1Z1O=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJbngwWXtUGljFYyF-bOGtUOUStfCvGN5mbLTRBuvY8RguzXZGvSKQ_a-kexRbGycFuMPaU4sAbbuG7FCYc8vovxsSZX9MCVsgp2qZna6kDxeav2wlXwGUQQy3OvEyLZzxAf_7LoLpnDenY5GR2Dp36Yo4gmqpQMNlm6",
+          "widthPx": 3840,
+          "heightPx": 2160,
+          "authorAttributions": [
+            {
+              "displayName": "satyawadi humanrights",
+              "uri": "//maps.google.com/maps/contrib/107239460662375326595",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV6FssXAvlUcocjiUmiShSsUUCzPTDpJp6s_JiLmCXWtuHXV28=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJaFdnG7lDGyvx68cf-ZjW89HI713e29LfCBT6vDE3AIvigop15U1-Awor8fRVS8nKfyblgTCaAXTwfbK4Nu_QlMxAEN4wM3EqYO0tyPPkoyQ5MAUygBfS13b2O3J4oQ_4kJnoKWDGjRNs4rhtWILYki9dx-v9XmYTt6",
+          "widthPx": 750,
+          "heightPx": 539,
+          "authorAttributions": [
+            {
+              "displayName": "Akshay Lawns",
+              "uri": "//maps.google.com/maps/contrib/104671088067434645270",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZpggl5gLfIOE0EFKiG3N5tfzcrA6aWxEW6TIQRqQTWGn7qWDr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJZ-KuWztjTyc0uOIpFd884hS9AOo_seFJ0X5fOAJi7GyTcSeVY9QnXtXMT3m0gi0VRi7Xm9wrPMzAElURGo-5gTUfe26_i8cgTANauMEeWd0ANSqOLB1bmapLY8VfvcD-E6oKMZ9EYlTqK9vcJBS0Ssh-rPoqe-J56z",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Akshay Lawns",
+              "uri": "//maps.google.com/maps/contrib/104671088067434645270",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZpggl5gLfIOE0EFKiG3N5tfzcrA6aWxEW6TIQRqQTWGn7qWDr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJav_7zh6BthCFbWDTtTntQhke9PyvqJY0oW9tvNdY8rmfQ3_8mR2_cQm1XjX_DRLYOH07RRveLhPHeRlE9ufjNfylIPmJ-v-9pV97bpW9GjwN2J3bMtGvMg84lxUs0Zf7MlX72es-CHVnEIP97M_FicR_uczrYSdZkW",
+          "widthPx": 1024,
+          "heightPx": 768,
+          "authorAttributions": [
+            {
+              "displayName": "Akshay Lawns",
+              "uri": "//maps.google.com/maps/contrib/104671088067434645270",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZpggl5gLfIOE0EFKiG3N5tfzcrA6aWxEW6TIQRqQTWGn7qWDr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJYV0pRwiM6Vh-Rbgwfh4hUT4sYh8jjns9wG8DyX_ebwALFBeNx8Fv5UWfdiUUIX1XC57rtILmzFVjOb2M_7UjaqtBITY3363JYIFtPW7VI8moQcBiADzS7eR7mfeSlp1PoXC4ibFFYlcP46ZFbA0ldvFt8TguQxSOd4",
+          "widthPx": 1505,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Akshay Lawns",
+              "uri": "//maps.google.com/maps/contrib/104671088067434645270",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZpggl5gLfIOE0EFKiG3N5tfzcrA6aWxEW6TIQRqQTWGn7qWDr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJZYE1EAj4dMagkgwi6XJm7UyQqwX7XQfI_CuTBTkxXXKjJUK_CwqnKkaKwEi3j-GP5t5O2rW-RAsxSoJQTusUKpf_w5z6O97T90fhHHD5O4xMlm7d5_p__iqrSaztUrsFtp4RjhP2DGY2JR4jm3Ro6tkCgbrBB-Git6",
+          "widthPx": 682,
+          "heightPx": 893,
+          "authorAttributions": [
+            {
+              "displayName": "Akshay Lawns",
+              "uri": "//maps.google.com/maps/contrib/104671088067434645270",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZpggl5gLfIOE0EFKiG3N5tfzcrA6aWxEW6TIQRqQTWGn7qWDr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJbacRIyp_gXqM3BFVu7LYg2VUfMwLNrCu_dB_Pi-cRZIMVJX80g2O4CzPV7kiuQnFfBN4nIKkiJcg05ROH1PIQDGE2c4OpeKZ0pAG0_syaQ2B7QZDvSTCeVlWVzcdgEdBDkk5LipB_P75_YGc5gNdCb_dyy3y5EsOZx",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Akshay Lawns",
+              "uri": "//maps.google.com/maps/contrib/101872339375611761417",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUI8rF9aIGx3q_-tlx6tCWTvhbBGM2k2tymczx3BwhyPlIycElT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUzMAc9QV6DsRGRea2-tc7zs/photos/ATplDJZcUMi34tJlXkipVRcVK2uAdu5EJLfeijisKbsOywDYZZYcTt9kGG4bpv_aOVVJkGicx1dqIRjAE8T6zZMu3NMqbOcY5ZwaMDEefrD5Gd1r9S5c-1s3V8HV13u08QE3aXtC42U67VbLjT72MRSZA5im2WygUFtJ1mrf",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mayur bhure",
+              "uri": "//maps.google.com/maps/contrib/101252994102823057347",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUqLpes692ekfVENlLssrAkWoN85ZOp70aTX0tojstYgsPVGCBN=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s",
+      "id": "ChIJUZcUsG0V6DsRm_-sMT27t4s",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "070583 87884",
+      "internationalPhoneNumber": "+91 70583 87884",
+      "formattedAddress": "Hotel Mirage,Roha Kolad Road, opposite to Raikar Park suhas apts, Wali, Roha, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "Raikar Park suhas apts",
+          "shortText": "Raikar Park suhas apts",
+          "types": [
+            "point_of_interest",
+            "establishment",
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Wali",
+          "shortText": "Wali",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMC4QC+2F",
+        "compoundCode": "C4QC+2F Roha, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.4375549,
+        "longitude": 73.121129
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.4362521197085,
+          "longitude": 73.1197686197085
+        },
+        "high": {
+          "latitude": 18.4389500802915,
+          "longitude": 73.1224665802915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=10067721363510853531",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Hotel Mirage,Roha Kolad Road, opposite to Raikar Park suhas apts, \u003cspan class=\"extended-address\"\u003eWali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRoha\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 602,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Mirage",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Hotel Mirage,Roha Kolad Road, Raikar Park suhas apts, Roha",
+      "reviews": [
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/reviews/ChdDSUhNMG9nS0VJQ0FnSURWdGUzT3hnRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 3,
+          "text": {
+            "text": "I happened to visit this restaurant on my trip. the food was amazing but was something different than my expectation. Also I found the service slow. Overall a great ambience.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I happened to visit this restaurant on my trip. the food was amazing but was something different than my expectation. Also I found the service slow. Overall a great ambience.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Isha Gawde",
+            "uri": "https://www.google.com/maps/contrib/107405001340716247603/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0MBm_2c0_xfge8l1tnD0JkM75tbHUd4sueZq8-hzYM39_5w=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-14T16:15:20Z"
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEaV9uQ21BRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 4,
+          "text": {
+            "text": "Well as a local resident of roha town , its one of the best hotel for non veg lovers ... people just dive into the Taste of  The Mirage",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Well as a local resident of roha town , its one of the best hotel for non veg lovers ... people just dive into the Taste of  The Mirage",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sunny karnekar",
+            "uri": "https://www.google.com/maps/contrib/116947210506743092578/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW40Jr2pqZhTcpF03r48zY4fDVN57zb2cQVEfMueW5Kd7sjV1aQhg=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-04-01T14:46:23Z"
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/reviews/ChZDSUhNMG9nS0VJQ0FnSURkaUxuM1NBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Loved their chicken biryani. Best restaurant. Highly recommend.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Loved their chicken biryani. Best restaurant. Highly recommend.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Priya Shinde",
+            "uri": "https://www.google.com/maps/contrib/102754039240017817484/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHEC1HCK0cVeJ62H8tV6kMGVcLL_KwYtD1gFHa6EucSRweWA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-20T14:26:57Z"
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxcmF1ci13RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Food quality is good, however the response time is too slow. Need to improve the same to improve customer repo",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Food quality is good, however the response time is too slow. Need to improve the same to improve customer repo",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nitesh patil",
+            "uri": "https://www.google.com/maps/contrib/117572349672493106646/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3pHA9k_DOESxvjmAf43tsGb7ydvlYX5sH1BRPBx8FVDtl3YXG=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-01-02T12:37:29Z"
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/reviews/ChdDSUhNMG9nS0VJQ0FnSURENF9ybjVnRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 1,
+          "text": {
+            "text": "Room condition is very bad.... Many time power cut....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Room condition is very bad.... Many time power cut....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anil Mhatre",
+            "uri": "https://www.google.com/maps/contrib/112817245907157022833/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUTr0XmhcLxAzjdWWMQL5RkSp54PVs80xwnrSJ2yaUllTeCWVI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-14T01:29:15Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJZqemN_gpcM4y_ktNlmoafgLgi1vsFlgIkUZgY_fS317PAsk5LtFHyuimx21jwKDFDH8nDP1aw574Ob2SnhWbnytTZxBRTYqIlfAf1YX3ZjOn6WH5uE3t-4yWbafjNAEu-ALQsUONzJagYCoMB3bt-sEo9-Vsr3sGa1",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mirage",
+              "uri": "//maps.google.com/maps/contrib/111619697836867348138",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJiiekSlHuUwC1JfKaIx4a-hkMg3r4-j7LGzPlhO5Aei9rOvQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJZpwEXX9I_9kdgvEWqAHApRgITC3GjHrJtwCgITDDNPGeXT_KoOtL-1NuHk_hjC6-GdUU1xh0gLyp5airmUni64zxy813fMGzINt2NN7WStfDF-6ElSqZ3dbt_3U_muTC1fIBnlsYTg5maO479wtTh9Brq79-sDerr4",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "wizard_ Vikas",
+              "uri": "//maps.google.com/maps/contrib/109238114755947552827",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVfZA0OOgYmKn5I4sZqG-bap0HdGaF2HScYP425MtwkSoOaddgL=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJZDUSwqRj9yteCbQdCrkS5QbXYGGuwl0JpdkE2P9pZWoHwWuyhOc6Y674yrjwFDqHH4za-e8pocXSAiayDuNX2v5hDEM3JvsHpTqF8CXGA25NkxMONKAvKlTCfMuCV5Cav44SMzQHMXjLhX3Zf0kESe4vFyj-010oYf",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Navin Shetty",
+              "uri": "//maps.google.com/maps/contrib/103010958676945967454",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUvVGLXHoiUWLaj1lbc_uxoYMIuMPJuyQ-JQ2XNbf5X17XM1c_p=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJbujU6vMJkDn3G60oHanggrm7XHRtdxEvF22rSpwWEJ9tx-ycMYwiiGZyS4TnCOkpP2Z-6t3lUIr_n6wWDTngWkTkNFNV09LCP-WujB_4WBxtmR8997zSIFkM_qfjcl7kV9YgmA-M5YenkzEXxt89ndJC382qCpmkeS",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "anis bhure",
+              "uri": "//maps.google.com/maps/contrib/100988857366849142133",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKHqmKEagmAaOIi0KmuoiiFKnuHF7Il6_A6pHvmqEWVPDr0LKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJZ9yWCWZuoBLsPhPHC3SbvtQymUYFJ7NHLpOslSgFnRLwT3mvNjpXXpeI1Z3KsRzUNQJYjX80gxpe_WUvGkGKCn2ByqsEmEZpRZSKGEvVovtEalqFkn1rTPG-xXgznzkzN7gJLkURoaDhoHtvPLgPbOofATQwLMWTqS",
+          "widthPx": 4208,
+          "heightPx": 2368,
+          "authorAttributions": [
+            {
+              "displayName": "sanjay pabbat",
+              "uri": "//maps.google.com/maps/contrib/117113813931023435781",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUvAVyhaDF6b0xIGq4NYVOmdukjodR3f-O9KI2pOx-bXKZN8At-UA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJZiYYQ36c-SdGpJ5dovd6KB35Uig7uORCLS4MBRv4nxH1K2Z0YeDS4FzW8ga8oAQsSkgSA95m0DriQyAu5HbRPvpErmczMt8UQlGWn_jVaNI2RB7lBrfdo7ICNakBqVSv6dge1jag2rXK9HnfxSV5fRPHdDR5kmHdM",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Gopalakrishnan Subramaniyam",
+              "uri": "//maps.google.com/maps/contrib/100350939226323535149",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVNbl1f_aptyso48LC_PujafgrRsZYf_QD0qVVHeotiJtEGcyiH=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJarZEpOp0bCDSKD01nmFw8UoEJfANVM3K4k_6BBJbfBypGZWOn3YC9xTCrVBbQFG6Cc7IJ_SEii0jveT8ED6ztfgjHXRASCQYqP17fpW5mNQtWqdsQppkZL9gNK0WyyMuk-MmQU0wK1sgdmgipvbfy9qBPAugkectDj",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "wizard_ Vikas",
+              "uri": "//maps.google.com/maps/contrib/109238114755947552827",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVfZA0OOgYmKn5I4sZqG-bap0HdGaF2HScYP425MtwkSoOaddgL=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJYAnKHe3QiilWUPaOfHk0xM_FyxBpAYQmfDd-L-rB5wAXySFJ1L1z992f2Yfldi2TKpwE5qGCwk4teEyBhSWIG3JDpUDnqGc3WPyCLjfB-_JJZSIwvNRRj8nFvdVReJcjm0XFHnNZXCWTk4UPAiZuTJRqB5pDnJVcwm",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Sandip Madde",
+              "uri": "//maps.google.com/maps/contrib/114945100978220415025",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUDQmUBx0cfjVnlUIRm7o-23FCx95LHwqvBmXe4mMI42ubbH4N-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJaMZ46p-Efik41VY3vxQiPXD8boM3XLkKT0tMJCfkCu_RLPlHjbkUxBC4dpCm7LTDxhXJ0ALbbrxv9Wep6ObpTNYpmLIfWKH0bxZKtutnVwQUTKPNCWsDzpxtpUMdst42RKMD50amuF2LDaOJcQ46xNFd4M6wEnrb5d",
+          "widthPx": 4208,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Rakesh Ambekar",
+              "uri": "//maps.google.com/maps/contrib/118270212511806043247",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXJP07J9hlJUxPUWE6cuOsklRKW5XTblKAIU1YpW7aV_4ZoHoCJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUZcUsG0V6DsRm_-sMT27t4s/photos/ATplDJagXpdfSSMAZ-EwXFXj0gRm2uW9l1DtKP2etFBqgDHRwveuMPd0IvJOF5UaIROedk_dTyE5wXK0M9RnW-_1bRQd3PdaaCo_zQI5BWlPXULY-KX30IT-CgV_awQ8EBz257X2twG_sRyvFW5jMJbiSQYJ5N0EXaQmKtY",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Gopalakrishnan Subramaniyam",
+              "uri": "//maps.google.com/maps/contrib/100350939226323535149",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVNbl1f_aptyso48LC_PujafgrRsZYf_QD0qVVHeotiJtEGcyiH=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ",
+      "id": "ChIJq3bGJvgV6DsRofWuIE2p1OQ",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "062692 62626",
+      "internationalPhoneNumber": "+91 62692 62626",
+      "formattedAddress": "restaurantsand resort, R26, near Roha, Khargaon, Roha, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "restaurantsand resort",
+          "shortText": "restaurantsand resort",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "R26",
+          "shortText": "R26",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khargaon",
+          "shortText": "Khargaon",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMF35R+36",
+        "compoundCode": "F35R+36 Khargaon, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.4576489,
+        "longitude": 73.090548200000015
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.4562248697085,
+          "longitude": 73.0889436197085
+        },
+        "high": {
+          "latitude": 18.458922830291502,
+          "longitude": 73.091641580291508
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=16488990284436141473",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 12:00 AM",
+          "Tuesday: 7:00 AM – 12:00 AM",
+          "Wednesday: 7:00 AM – 12:00 AM",
+          "Thursday: 7:00 AM – 12:00 AM",
+          "Friday: 7:00 AM – 12:00 AM",
+          "Saturday: 7:00 AM – 12:00 AM",
+          "Sunday: 7:00 AM – 12:00 AM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "restaurantsand resort, \u003cspan class=\"street-address\"\u003eR26\u003c/span\u003e, near Roha, \u003cspan class=\"locality\"\u003eKhargaon, Roha\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 387,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "R26 Restaurant and Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 12:00 AM",
+          "Tuesday: 7:00 AM – 12:00 AM",
+          "Wednesday: 7:00 AM – 12:00 AM",
+          "Thursday: 7:00 AM – 12:00 AM",
+          "Friday: 7:00 AM – 12:00 AM",
+          "Saturday: 7:00 AM – 12:00 AM",
+          "Sunday: 7:00 AM – 12:00 AM"
+        ]
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "restaurantsand resort, R26, Roha, Khargaon, Roha",
+      "reviews": [
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURkX3VhUnlRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 3,
+          "text": {
+            "text": "This was my favourite restaurant as my relatives live nearby. Before 8-9months it served delicious food and taste was amazing but recently it has been degraded. Hopefully they improve the taste rest all is superb.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This was my favourite restaurant as my relatives live nearby. Before 8-9months it served delicious food and taste was amazing but recently it has been degraded. Hopefully they improve the taste rest all is superb.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Akash Mankar",
+            "uri": "https://www.google.com/maps/contrib/117963243427957934236/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLEhuk-KEkgfREHRPi-n4eB-iFNpxGy3qaJwm0GAaDdd61ZRoYt=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-24T05:26:50Z"
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWa2FTaEFnEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Management should focus on quality of food . Mutton lapeta was very horrible , mutton was like rubber . Chicken was having smell . Shall never recommend anyone for main course.\nStarters are ok .\nOnly good is ambiance …. Food quality is very poor .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Management should focus on quality of food . Mutton lapeta was very horrible , mutton was like rubber . Chicken was having smell . Shall never recommend anyone for main course.\nStarters are ok .\nOnly good is ambiance …. Food quality is very poor .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vivek Zambre",
+            "uri": "https://www.google.com/maps/contrib/114364745613877569827/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdQ_B0nbt8wWmhIJVv2gdC_1PA15vDus1iE1nwX7Jn-x5pal0fOA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-07T16:54:14Z"
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxemNfcENBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Worst ever hotel dined in. Paneer used was bad. Was not able to cut into two.\nUnimaginable wait time. Food served was ice cold. When asked for replacement waiter was hesitating to get it done. No one was attending even after repeatedly asking for. NAM BADA DARSHAN CHOTE.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Worst ever hotel dined in. Paneer used was bad. Was not able to cut into two.\nUnimaginable wait time. Food served was ice cold. When asked for replacement waiter was hesitating to get it done. No one was attending even after repeatedly asking for. NAM BADA DARSHAN CHOTE.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mehul Prajapati",
+            "uri": "https://www.google.com/maps/contrib/107863158092166124274/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIiV2LPX0WAAiV7Uz_h_ysuxvnHlkfiGheos74WlN84_J05MQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-02T10:51:15Z"
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURwNDV1MUJ3EAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Finest restaurant in Roha near hills and riverbeds. Good ambiance and great food. Serves vegetarian and non-vegetarian delicious food. Enjoy lovely nature with open space outside the restaurant. AC and non AC restaurant sitting are also available. Only server lunch and dinner. Good food at a great location. A good family restaurant also under construction rooms and a small swimming pool\nHappy to be at R26 restaurant at Roha",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Finest restaurant in Roha near hills and riverbeds. Good ambiance and great food. Serves vegetarian and non-vegetarian delicious food. Enjoy lovely nature with open space outside the restaurant. AC and non AC restaurant sitting are also available. Only server lunch and dinner. Good food at a great location. A good family restaurant also under construction rooms and a small swimming pool\nHappy to be at R26 restaurant at Roha",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vijendar Rawat",
+            "uri": "https://www.google.com/maps/contrib/104288779115008599525/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAh-3bEREjbBmgoZ3Rqo5PPltCmGw51niULkxnUeTRkmv56gfk3Q=s128-c0x00000000-cc-rp-mo-ba8"
+          },
+          "publishTime": "2023-08-28T10:51:05Z"
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEeU1iM1FnEAE",
+          "relativePublishTimeDescription": "4 weeks ago",
+          "rating": 1,
+          "text": {
+            "text": "Worst Place to go. Owner is not interested in customers he just want money for everything. We wasted our vacation. Choose any other place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Worst Place to go. Owner is not interested in customers he just want money for everything. We wasted our vacation. Choose any other place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "TeJAS Mhatre",
+            "uri": "https://www.google.com/maps/contrib/116412248524693931504/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU24peSGt-uB7qL12I9Jmhr2hN8G_hZtWnKe3jl8ilK_vhePQir2w=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-23T20:23:52Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJbjEoe981akdx-kRFt_LjyRtsa_fyT_6yOw2AYJs4QQmkOQPBjg_qPBgl3RtrhZQ7k-SWm-7iBo-oAUPkgSN8FlEZx3aR_GmLlDgKijyuLfl--Uyq8jD3FVxXzz4VoCSmConBBw66Sg2gmjTUKWwvozHxyNUkgfM3Ep",
+          "widthPx": 3025,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJZrZX4L0QzV5AqQMGtQAzy9eHuDBoE3oHYc34SYDxngKiESvFcEf6JapCdcHZSC4x8z2AYborCDQj0tbdGInmSStm4uTtEcj0CmwHbUv8xoFWENL0asrHWNxXzRHSopWWYFWDeQ2mQOZKWCWA9MetY3aU4KO3_ikRy-",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJaJNkAMYToKHqopB8CyiWZWQkmESW1SmGcxFxsxE_4_IqfsXVs7kGa9l6Rxpz0wewWoUa80rJVPs2nhn-8I5c0TE9mFqa-X5WWWScTL-HtfZEfgLfOyP5mNkiLbcMnRMo1mo3jpt4rm5AXbDvqiQa44xKpW0lgbbfEd",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJbqujc7J2L8IvyhNOEgdbd7QLujlu_obcCCh2vAFXY35FmgG1zRITTeJnfsqTOlFP93m43cY8C5X1NWESts3cmuSNAF2GyctvU8I19ohjOYzp92ZHjoJSeoCQ3ZiHaxxuJvAuWjwpdpF2ZrzuTXBbPoDmOTis14OHU-",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJaEU9u5Uv1-qjf-1LJ_To_FrQEXHPUFodg001mgRqDa_y6gUIVQHn8b1X9ZVZl39rFenO-1xzFzDIWfsCLjSYXPQldvu8a1WX8n5VOQUq2_tZVwzSbjApDP4W1MEW06glAEcQJGtZg9ydvaeEYADmU1DajWjRVeto9L",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJYnKENVM5akcd2_GOxc1BVWeHvEH4RXtBD96B9_x7IMkLVk7gabBpk5uSAN-0ZS9mPNnCsn0xvrhJHsxBT4SNZp1JPtXtQWm_kRx1rVim9UorIbdq_xMeb_m84q4qhkdtHT5sg0xiX2sqZonqv5QFO94IR_TfmWDE_K",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJb15fnkKFSIUTSfNidRoUtHum4o99M0drg3LmFWSXgObJQ6hqqs33OMEQPoI8Aihp6pBOEyhhLgYd0RpNA-8onF4fcsLY5AVp_FKk9tsR7gpO-NokRt1K6WZzaElBTLv5vV1XuiBwmruxMOR-KYlMTL0nCn-1liPuq_",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJZORZTYDwLO7JZr8yz92JB_HQqD_8Pjl5qAcAKGwXmNCwGhjCH89CmT2kmhoA5f_R08E--KibClvisIN1qzq2Gyt8xZFfh-sKbEeYMEzoJrFukx9iHc5S_1ar0wdtOgUVsoC6o7ZpxOjcG2SPhT4shfCnqPhZNDknL7",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJZCu1QkEzz4ANB7mGkW0mrtqeGQANbi3r8G5andBGT1imSepwgDmSiMv4QrugAcu0_dLjxuqV6MlQiiGkOqp4_C7ebThl5Ee3qu2bkH_CvU3LjQ_6qnKz2vVbwZcDdZEyTIiV7Utj4IDTio0wydM6sCc4yreOPfqzmD",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq3bGJvgV6DsRofWuIE2p1OQ/photos/ATplDJZFsJqPsDQger3aiG0vWyn18HHVyYt07wIgpUU6fCCN9j7mrp7n8XSTZjMA4p-z1J6lUZ3keQAdB7dq492ssOgumQvyWBX8uO3a7Z4Pyd885AJi4xF6TUIv8lojrMF9GcoVcXSR6SWjPqaqArwNXYjhSOH-Ry6H96HF",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "R26 Restaurant and Resort",
+              "uri": "//maps.google.com/maps/contrib/116985017884011508960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe5lqGFrT7z_rxfT7apbRdzenSUfyLjTLExZ7rmuWvEKsHlCk=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c",
+      "id": "ChIJdRvKKKw_6DsRu0IbFF9Cl6c",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "089833 63909",
+      "internationalPhoneNumber": "+91 89833 63909",
+      "formattedAddress": "Barshet, Road, Tamdi Budruk, Roha, Tambadi, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "Road",
+          "shortText": "Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamdi Budruk",
+          "shortText": "Tamdi Budruk",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JCMC456+47",
+        "compoundCode": "C456+47 Roha, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 18.407773,
+        "longitude": 73.1107111
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.406344369708496,
+          "longitude": 73.109265769708514
+        },
+        "high": {
+          "latitude": 18.409042330291502,
+          "longitude": 73.111963730291521
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=12076193901943931579",
+      "websiteUri": "https://www.nakshatrafarmsroha.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Barshet, \u003cspan class=\"street-address\"\u003eRoad\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTamdi Budruk\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRoha, Tambadi\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 77,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Nakshatra Farms",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Barshet, Road, Tamdi Budruk, Roha",
+      "reviews": [
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkcS12RTh3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice calm and cool place. Staff and owner are very Co-Operative. Respond to your suggestions immediately. Food is very tasty. They prepare it to your choice, taste and variety. Nice place for camping.\nI have gone there in August 23   and again in February 24.\nRates also are reasonable..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice calm and cool place. Staff and owner are very Co-Operative. Respond to your suggestions immediately. Food is very tasty. They prepare it to your choice, taste and variety. Nice place for camping.\nI have gone there in August 23   and again in February 24.\nRates also are reasonable..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hemant Kulkarni",
+            "uri": "https://www.google.com/maps/contrib/108812821980542674273/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5ZEDthd1PuaG2_k5Kcfe0StA3VJw1u9av2SHiq-OsgXqc1Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-18T10:59:33Z"
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEdDRDTmF3EAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good place to spend time with your friends and family. It is well maintained and the people working there are very friendly. Must visit!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good place to spend time with your friends and family. It is well maintained and the people working there are very friendly. Must visit!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arnav Sohani",
+            "uri": "https://www.google.com/maps/contrib/106457591781188283207/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX86CT2CffbPTxlra2S5Qa6BgJoCqBjrEJp7BGHn4vf5hFvF9rS=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-03T02:05:09Z"
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/reviews/ChZDSUhNMG9nS0VJQ0FnSUREbF9ha0F3EAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "An awesome facility for family as well as corporate outing. Superb food and a beautiful nature.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "An awesome facility for family as well as corporate outing. Superb food and a beautiful nature.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Swapnil Paranjape",
+            "uri": "https://www.google.com/maps/contrib/102655634048046774710/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMaw8B3yv8x4WSDsJyavr1CcDBT5WB56ED_T7ROCOMp1A1M3E=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-15T09:39:57Z"
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwdjVuZFJ3EAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It's best place to visit with your family and friends. All staff members are polite and respectful. Food quality and other services are top notch. Pool is well maintained. Every room have AC. Must visit this place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's best place to visit with your family and friends. All staff members are polite and respectful. Food quality and other services are top notch. Pool is well maintained. Every room have AC. Must visit this place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shubham Bhosale",
+            "uri": "https://www.google.com/maps/contrib/109320663060696987796/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5p8Q8YQ4TWOqEouxiFfJ7jIUtZZcrPwwdO6m-LzF6v0X8LL5v=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-08-13T15:20:07Z"
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNONWQyZFNBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Had a great fun...Enjoyed lot in swimming pool. Food was excellent",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had a great fun...Enjoyed lot in swimming pool. Food was excellent",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gaurav Pote",
+            "uri": "https://www.google.com/maps/contrib/109844992364047705364/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGrC1w3dGf2eaNii33FUbignvSuxKutOAMno_huMm2RlXoIbs=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-16T10:04:02Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJbbLpHNVUb32GR2kNxSoEDQACFKJWbuU38w8ISTlCCnEZVenZylpvGSWtoncjRzuEJ2xarFkRsjRslrYg52ITK3SrjLHQdLnJHi-du_FSeIUgDePWnG8EI7Xf2CcdnixaoZIElu8JoOhJjCGp-HPaZmQpwugJHcYUWy",
+          "widthPx": 8192,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJYRsFq04c5qosxkf2HVhPs_Ew_xQOmfqV7NikztngBGtsgtwRhj2eSxjweIJXXXK8TWH9m1SnzzDmFOeLUf9EFtBAXnvEjSXF5VWZ0CkYwbq1b1Dit5a2q5p9eYng6kSuUU7XA66aCa2KqfMBaBszonpUsJ_G1-nbGJ",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJZQa9RrArSFMAOAwrJEqSZ59K82nZQbCXgY_OEk2eawkYsMKeWM5RVs6O0WEJpxfg-q9M_f1Y2y74pcmPYc_qglSiaF_c_CHBhJ-eE4khZKdQ6jPz-SZIEVdTk7J8R6ZDMet2U-wWZrtmR6Tv0ScWNTFIzPpuQecKkn",
+          "widthPx": 8192,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJbPonruMT5OSAg3mDTWW0ud3GPadZohRIx4MDjiQ3sdHLnLZXjQGreniqozJ6d7iyKMw6CK0Tlmx-4PJZR1a31Foy3X60WC1NJawXR66Y3EEO-9nfVZOZhOmS1yZIQGBn_Jc66cMyjH1OwcSloqN_zKzbIzyvsvaLMs",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJbuGQqRIeOikSPFbYY_yaKpyvniMsHUdiJxRyD0IQ2uHtmzGkY-TP-WKX4FbKl37CPvzJXDUK96pafOIs14GrnKsmYPipo52IxeD6uryw8sDLSqz1-vMZXc5M67J1e3Yu5t0e3mXXjhIxH1CeOPTwdoqoAcRvqwLgV8",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJY5skCJVILBXHJYvNVwmogz8rpAgKZE9z0yznwL7WxjU4stGDQhGhhKZyr3l8tlRzGsGgCjmZI4-p0x5C3ix3leLrBGzMZ8cez7MALsHSIN_yDepEWPGL0Ho_eGbsvLllXJpoiytXEqDXuyOeNPr7HHfydBbxxS1rM2",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJbaanbKLOTCSFHo71tuXp9EBXEHC5zauUiaW0GTXJSBOcFBhb3mZJg18_zSrcA36IbXaTV9uNKCXR4bczJSnP3bI0z5ija0lomovh3-hk5WnXGgbWdZQe46Cqs564URYvfxbI99N0HsJPen5vjdbM9BDbmViPDAhgl-",
+          "widthPx": 3264,
+          "heightPx": 1472,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJZ21n5sUMnJEQ6OuGzvXqZil8yuO0jo3FIYVEoR-xAoNk8Awv6I3i1S9ybKBHPBD50iiAwlypGV4LCeDgHUwE1ZdplM_SY3kY_o1uQELuBDBCAgbryaTGfYKSuuPFMK7iVaKD6ORqH6oPpy9WnTfDL-xIw4ZdE2QRtY",
+          "widthPx": 6144,
+          "heightPx": 8192,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJZx5oTb51Q9CZfZQJ95K86G_or1BhJe4DmskCJT50nRdJgeps5aGzJqlOlRiKAAMTqiSOMCyBRWnD9Ij9U7ruv_5pocXRRUTAyEKam0qSuFzy21Aa7tUZl9ySwq-hdQx2NWD_XwXnZYnG8N8bChcbMY7Jl8jpDDl-Py",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJdRvKKKw_6DsRu0IbFF9Cl6c/photos/ATplDJatB0rvB0UNSXdzxedsjO9LD87ziXFPTPJsIELvskMjWGtpJa9GPTGA6vrSikfqD_HJGhGQtacpsN-2ofo4ExjyU3dcAYc7sABEM8BhWQ3LWyS3JBqYiktNq-oEWMhwbPpcAjcevV3MId9QnXOGNUT_tOYGJJOLt-WY",
+          "widthPx": 3264,
+          "heightPx": 1472,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Farms",
+              "uri": "//maps.google.com/maps/contrib/110248607501807306638",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVMt9kEtAaVdo7Gc1-xvTuoFH94L1pL6i770DWSqtFrQEXsUA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJb0Yr_GsV6DsRI8v8F1GPD7I",
+      "id": "ChIJb0Yr_GsV6DsRI8v8F1GPD7I",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "080878 08722",
+      "internationalPhoneNumber": "+91 80878 08722",
+      "formattedAddress": "Revdanda - Murud Road Kharkhardi, Roha, C4P8+4PH, Wali, Roha, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "C4P8+4PH",
+          "shortText": "C4P8+4PH",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Wali",
+          "shortText": "Wali",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 18.435319,
+        "longitude": 73.116869999999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.433964069708498,
+          "longitude": 73.115471469708481
+        },
+        "high": {
+          "latitude": 18.436662030291505,
+          "longitude": 73.1181694302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12830631441859398435",
+      "websiteUri": "https://jenjon.in/phansad-alibaug/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Revdanda - Murud Road Kharkhardi, Roha, C4P8+4PH, \u003cspan class=\"extended-address\"\u003eWali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRoha\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "JenJon Wood County Phansad Alibaug",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "C4P8+4PH, Revdanda - Murud Road Kharkhardi, Roha, Roha",
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJuWCn92wV6DsRdGLIgwsssqg",
+      "id": "ChIJuWCn92wV6DsRdGLIgwsssqg",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "C4Q9+9P9, Veer V D Savarkar Rd, Roha Nagar, Wali, Roha, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "C4Q9+9P9",
+          "shortText": "C4Q9+9P9",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Veer V D Savarkar Road",
+          "shortText": "Veer V D Savarkar Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha Nagar",
+          "shortText": "Roha Nagar",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Wali",
+          "shortText": "Wali",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 18.4384115,
+        "longitude": 73.119349
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.4370705197085,
+          "longitude": 73.1179993197085
+        },
+        "high": {
+          "latitude": 18.439768480291505,
+          "longitude": 73.120697280291509
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=12155826772193600116",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "C4Q9+9P9, \u003cspan class=\"street-address\"\u003eVeer V D Savarkar Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRoha Nagar, Wali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRoha\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 10,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Annapurna Guest House (MTDC)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "C4Q9+9P9, Veer V D Savarkar Rd, Roha Nagar, Wali, Roha",
+      "reviews": [
+        {
+          "name": "places/ChIJuWCn92wV6DsRdGLIgwsssqg/reviews/ChdDSUhNMG9nS0VJQ0FnSUROdWZlVjdBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Location provided by owner is not accurate. Its is located behind st bus depo near ram mandir. They charged me 400 for attached room. Room was nice but rate is slightly high .There may be room below 400 I don't know about that.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Location provided by owner is not accurate. Its is located behind st bus depo near ram mandir. They charged me 400 for attached room. Room was nice but rate is slightly high .There may be room below 400 I don't know about that.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Himanshu Surana",
+            "uri": "https://www.google.com/maps/contrib/115306501474667864695/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgnc8TiVCxPnooe31n5v_MubjFbZXtqGRB5Y6Mg3_52aUHB7G0=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-24T02:57:53Z"
+        },
+        {
+          "name": "places/ChIJuWCn92wV6DsRdGLIgwsssqg/reviews/ChZDSUhNMG9nS0VJQ0FnSURBNjd2VVB3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Not Having good experience.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Not Having good experience.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nilesh Meshram",
+            "uri": "https://www.google.com/maps/contrib/103112895855739104776/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIcEeYQXPgDuw5HwqtCWZfzXYADOKSwlHoZUNvWAdqR5LL0NQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-07-07T11:07:07Z"
+        },
+        {
+          "name": "places/ChIJuWCn92wV6DsRdGLIgwsssqg/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2ak96TVpBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sachin Rathod",
+            "uri": "https://www.google.com/maps/contrib/108485265930814753006/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhDGxcYr1BPkzgsmsicJ0liJKi8PTE9cPLm0C5-UzgCeVkc3FjTQ=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2021-09-22T08:01:33Z"
+        },
+        {
+          "name": "places/ChIJuWCn92wV6DsRdGLIgwsssqg/reviews/ChdDSUhNMG9nS0VJQ0FnSURtZzk3cC1RRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Amresh Pandey",
+            "uri": "https://www.google.com/maps/contrib/115843292335592863396/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTX3nXGxbX0GFbRjxEcamyeh3XJ0AD6NpXBufy3fdVCadLF0xLag=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-02-07T10:55:01Z"
+        },
+        {
+          "name": "places/ChIJuWCn92wV6DsRdGLIgwsssqg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPbk8yUi1RRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Narayan singh Dasana",
+            "uri": "https://www.google.com/maps/contrib/110480700733414189972/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRG_WfCKCNm_xjklJo2nM1Hv5d4MRJTttTpZp5E3BJ4mlq=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-06-04T08:14:15Z"
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk",
+      "id": "ChIJoTW2ixUV6DsRN178Dx1k8tk",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Maruti chok. tal Roha. dist, C4Q9+569, Wali, Roha, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "C4Q9+569",
+          "shortText": "C4Q9+569",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Wali",
+          "shortText": "Wali",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 18.437921499999998,
+        "longitude": 73.1181067
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.436603819708495,
+          "longitude": 73.1167410697085
+        },
+        "high": {
+          "latitude": 18.439301780291498,
+          "longitude": 73.1194390302915
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=15704724926579367479",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Maruti chok. tal Roha. dist, C4Q9+569, \u003cspan class=\"extended-address\"\u003eWali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRoha\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 11,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Maratha Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "C4Q9+569, Maruti chok. tal Roha. dist",
+      "reviews": [
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpc2Y2ZUJBEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Good hotel with affordable prices.\nLocation is good and near to Roha Bus Stand.\nThey serve variety of food including chinese.\nService offer is good and good place for party.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good hotel with affordable prices.\nLocation is good and near to Roha Bus Stand.\nThey serve variety of food including chinese.\nService offer is good and good place for party.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aditya Kank",
+            "uri": "https://www.google.com/maps/contrib/108603545616287450096/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXk49ncGYrCjw3-bUGaBYwjsm-lX8F2-yKzHXnHc5URxMfE-l_V=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2020-11-06T06:35:22Z"
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/reviews/ChZDSUhNMG9nS0VJQ0FnSURJek1UcUFREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good budget restaurant for delicious vegetarian and non veg dishes dishes. Good staff and management.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good budget restaurant for delicious vegetarian and non veg dishes dishes. Good staff and management.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shashikant Mahimkar",
+            "uri": "https://www.google.com/maps/contrib/100068816024300214210/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYnv-Ws79paZq2KA6HjRQex5xmWUeAEi1pTtWwAgue6fBH3PU=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-12-24T16:39:55Z"
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/reviews/ChdDSUhNMG9nS0VJQ0FnSURjc0xUOHlnRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Tasty and wow food\nlike homemade",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Tasty and wow food\nlike homemade",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sachin Devkar",
+            "uri": "https://www.google.com/maps/contrib/113263058187216715879/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1DUJgiK43F442V-BgYhsqhmDxdlHrmYI469fB-VN0EqPASA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-05-15T20:02:23Z"
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0Mk9mVlBnEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Testy food , good service, visit again.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Testy food , good service, visit again.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tejas 909",
+            "uri": "https://www.google.com/maps/contrib/103836770763647372612/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGUkjeAVYkgYhR0O_583GCrESnTkCvPSX9ZOEAjrHyv5JbeEuK=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-06-01T18:22:59Z"
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/reviews/ChdDSUhNMG9nS0VJQ0FnSURRaC1IdG1BRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "The food is best in the world",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The food is best in the world",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "zybar gaming",
+            "uri": "https://www.google.com/maps/contrib/100105430175146480850/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJerOc-LhXnnRf26mXET6Uikhg_8KVZpxZ3EsblBGJvgMZx=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-09-19T16:24:02Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJbH_Q2Hicb49FyFkKK5_oHDBi1WI0z9n_Kzn27NJQP1d70L-KAVOuWP9NvwsNcVNDQrA28Y_caoaUEIN5oYijskdC_-PGiTlhU1L1t9WytS6WOJIeQ_V1P27wwLlWNMmaczWLx1W7IvSH8bob87RrfWxJdDn4mi3GtJ",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Jay",
+              "uri": "//maps.google.com/maps/contrib/114512899874669432147",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXShA8gS11zVyEoPdFTTwqigYguGLpgw1Yz1fC7wHGmZxnvTjxk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJbfxHV87mHHJVtpQU8KBlYTOzzsIAdHRvpbY5Y5HDj2EHppPhe-jpbc0m1o-uCadEvecdeEPDNZjDv40X1xZIzhNo266D2LLOIcJyg-sFfEVr53pBfojs5wSz1RDaBiKfH4IV-PJTS6uQ54S6BdMGt212UefGCW90A",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "zybar gaming",
+              "uri": "//maps.google.com/maps/contrib/100105430175146480850",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJerOc-LhXnnRf26mXET6Uikhg_8KVZpxZ3EsblBGJvgMZx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJYCGbQybEXPhfx9Oy4FUd6WJMmjgS9rqEGkS0GmUw5a1Bjota5oTlCJx6JEbkRE6TzQpUdP-qS-ubWZ3t3EyB5QfzfCBU2Q49xEx9nfi7cGw5XZpW97B_BeB92UdkZlzlIk0WKhawrhoMv9STBkU0nNnDGS8iuHcx18",
+          "widthPx": 2474,
+          "heightPx": 2569,
+          "authorAttributions": [
+            {
+              "displayName": "Nilesh Sawant",
+              "uri": "//maps.google.com/maps/contrib/106040744864567729389",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIWX8ebSPtm7FPZFRxcsmYqrDch6fK1HRS0uuvLNJQ0BZutuw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJZoC2Tftga9FZ_fGuIRULsUZaFAwvJYJszwAuBGMtapOEqIsgOQqNLoOOMJ3xCUYF7yZoLOLe1XYNGgS_Y9ChoheyqlLET9GrzZ8PTmp3APBsuGpAOJ0b8eS2-CXnpoNPAb71hC4R78Vcj8uNfbL-NbaqcoQwZWdlPl",
+          "widthPx": 2240,
+          "heightPx": 2241,
+          "authorAttributions": [
+            {
+              "displayName": "Nilesh Sawant",
+              "uri": "//maps.google.com/maps/contrib/106040744864567729389",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIWX8ebSPtm7FPZFRxcsmYqrDch6fK1HRS0uuvLNJQ0BZutuw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJY4e7PJPDv328Ss_3A5d4CN6GHD_rnQkV35-B_l2eXh0sTtV6Dj8MYCankMcO63s7AEJ0yU7cmu2kUQ-n_hkrNmKBsNCrtzFZH8Rn_sD6Gh1sy5Rw9nInLnDq_Rq84UR9FNPtK6SZUKYxgLXhhXmwFA6TtUNxEF47zB",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Jay",
+              "uri": "//maps.google.com/maps/contrib/114512899874669432147",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXShA8gS11zVyEoPdFTTwqigYguGLpgw1Yz1fC7wHGmZxnvTjxk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJZNv2AHGtRQprEv0CVGPTF4DF2wlNQHqq8vJRZCnxLMWdjdhNmBFYuNx1WTR0ha-bL1rj5_dK2kJTb2SdHP4kR6PasjzfQoVEYFJxp6AdSi_GPp2AEgRe3wnxmmjfscI6ug-cFo-JAsYs7rIoLejEP6sIF12cahSXJ1",
+          "widthPx": 2474,
+          "heightPx": 2965,
+          "authorAttributions": [
+            {
+              "displayName": "Nilesh Sawant",
+              "uri": "//maps.google.com/maps/contrib/106040744864567729389",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIWX8ebSPtm7FPZFRxcsmYqrDch6fK1HRS0uuvLNJQ0BZutuw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJauM8KkQcARAwgRU30xERR6IQ3KcjFYJ8qe0XiKJP4tlDNVZIcBzjHI2P-6psoiFiPsaWXit4ckzg7b5EvBuW7NRdvrRLClQtFOZSKMtIVQjJ0MPHo88m38yz6DVgWOV0EbIju4u66F5ijPZuyZ6TO8uDjYuul7UlEt",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Nilesh Sawant",
+              "uri": "//maps.google.com/maps/contrib/104483119806057139826",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIc-qv29OF5kGGwIk2cZyUfn4tqNnOId7lWIldq0cMYHk68XA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJYWyejGuGxP9ndPzNAJnAlFv-GCpEHfcn0cDNSVycDzQPVcGAPxm-EqTcsIcLCk6Mo6ESYj5FM5SPGa0qASx2Ah36HkAqu47UKs4cOm_tAJBE5bZ_tSRWDSydDYoO1bdyvyxdZ30cAdgKXvKmEImKJB-2ta_F4vOl8",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "zybar gaming",
+              "uri": "//maps.google.com/maps/contrib/100105430175146480850",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJerOc-LhXnnRf26mXET6Uikhg_8KVZpxZ3EsblBGJvgMZx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJbBF6VkuZ1PiJKoVI7rHBpGCY_eKw2NIkdqFtT0SRf7N8vPSCrCvvW6GCHPajQyBVDJzTVt-AL_6-36FpRr38Kk8PAN7_nuTzyG9_moTukyp_8nWq8_xjwiv3Ifwts2lP2-fxJ4atar16HOm5gzYKDpDJLi4I-t0Rk",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "zybar gaming",
+              "uri": "//maps.google.com/maps/contrib/100105430175146480850",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJerOc-LhXnnRf26mXET6Uikhg_8KVZpxZ3EsblBGJvgMZx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoTW2ixUV6DsRN178Dx1k8tk/photos/ATplDJafZg0xflKKDb_4f51cfqXRje6jB2MfPJFQuWL9MwSmzCLr6tFwlWQOKdOS9alWLh-h4IcfwUYRhqnhZZSEMjHBrwTUygboArX2U3VQ29bRwvGw54_X7Q4OYt5Z6peViBPEDuxrZGSYdcK4OUEMorBjEL0C7Ztwj9M",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "zybar gaming",
+              "uri": "//maps.google.com/maps/contrib/100105430175146480850",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJerOc-LhXnnRf26mXET6Uikhg_8KVZpxZ3EsblBGJvgMZx=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJc5GbW-gV6DsRwREQfJg3vLU",
+      "id": "ChIJc5GbW-gV6DsRwREQfJg3vLU",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "near by Hanuman temple, At= Khari , post = Khargaon, taluka = Roha, Dis. =, C4Q8+HPJ, Wali, Roha, Maharashtra 402109, India",
+      "addressComponents": [
+        {
+          "longText": "C4Q8+HPJ",
+          "shortText": "C4Q8+HPJ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Wali",
+          "shortText": "Wali",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Roha",
+          "shortText": "Roha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Raigad",
+          "shortText": "Raigad",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "402109",
+          "shortText": "402109",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 18.4389511,
+        "longitude": 73.1167514
+      },
+      "viewport": {
+        "low": {
+          "latitude": 18.437586319708497,
+          "longitude": 73.1154024197085
+        },
+        "high": {
+          "latitude": 18.4402842802915,
+          "longitude": 73.118100380291509
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13095402944542544321",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "near by Hanuman temple, At= Khari , post = Khargaon, taluka = Roha, Dis. =, C4Q8+HPJ, \u003cspan class=\"extended-address\"\u003eWali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRoha\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e402109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Monika Hotel And Lodging",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "C4Q8+HPJ, near by Hanuman temple, At= Khari , post = Khargaon, taluka = Roha, Dis. =, Roha",
+      "goodForChildren": true
+    }
+  ]
+}
+

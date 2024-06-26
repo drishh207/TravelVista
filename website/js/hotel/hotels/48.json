@@ -1,0 +1,3745 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4",
+      "id": "ChIJt3UYofabCDsR9figx8vTjZ4",
+      "types": [
+        "hotel",
+        "lodging",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0477 227 8554",
+      "internationalPhoneNumber": "+91 477 227 8554",
+      "formattedAddress": "Ambalappuzha, Sreekrishna Temple, Road, Ambalapuzha, Kerala 688561, India",
+      "addressComponents": [
+        {
+          "longText": "Sreekrishna Temple",
+          "shortText": "Sreekrishna Temple",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Road",
+          "shortText": "Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambalapuzha",
+          "shortText": "Ambalapuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688561",
+          "shortText": "688561",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXR99M5+7C",
+        "compoundCode": "99M5+7C Ambalapuzha, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.3831934,
+        "longitude": 76.3585433
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.3819683697084972,
+          "longitude": 76.35719676970848
+        },
+        "high": {
+          "latitude": 9.3846663302915019,
+          "longitude": 76.3598947302915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=11425020701889853685",
+      "websiteUri": "http://www.hotelcoralheights.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Ambalappuzha, Sreekrishna Temple, \u003cspan class=\"street-address\"\u003eRoad\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbalapuzha\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688561\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1769,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Coral Heights, Ambalapuzha.",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 10,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 10,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 10,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 10,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 10,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 10,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 10,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:30 – 10:30 AM",
+            "Tuesday: 7:30 – 10:30 AM",
+            "Wednesday: 7:30 – 10:30 AM",
+            "Thursday: 7:30 – 10:30 AM",
+            "Friday: 7:30 – 10:30 AM",
+            "Saturday: 7:30 – 10:30 AM",
+            "Sunday: 7:30 – 10:30 AM"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 17,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 17,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 17,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 17,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 17,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 5:00 – 10:30 PM",
+            "Tuesday: 5:30 – 10:30 PM",
+            "Wednesday: 5:30 – 10:30 PM",
+            "Thursday: 5:30 – 10:30 PM",
+            "Friday: 5:30 – 10:30 PM",
+            "Saturday: 5:30 – 10:00 PM",
+            "Sunday: 5:00 – 10:30 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 0,
+                "hour": 10,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 1,
+                "hour": 10,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 10,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 10,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 4,
+                "hour": 10,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 10,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 6,
+                "hour": 10,
+                "minute": 30
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:30 – 10:30 AM",
+            "Tuesday: 7:30 – 10:30 AM",
+            "Wednesday: 7:30 – 10:30 AM",
+            "Thursday: 7:30 – 10:30 AM",
+            "Friday: 7:30 – 10:30 AM",
+            "Saturday: 7:30 – 10:30 AM",
+            "Sunday: 7:30 – 10:30 AM"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 17,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 17,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 17,
+                "minute": 30
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 17,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 17,
+                "minute": 30
+              },
+              "close": {
+                "day": 6,
+                "hour": 22,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 5:00 – 10:30 PM",
+            "Tuesday: 5:30 – 10:30 PM",
+            "Wednesday: 5:30 – 10:30 PM",
+            "Thursday: 5:30 – 10:30 PM",
+            "Friday: 5:30 – 10:30 PM",
+            "Saturday: 5:30 – 10:00 PM",
+            "Sunday: 5:00 – 10:30 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Sreekrishna Temple, Ambalappuzha, Road, Ambalapuzha",
+      "editorialSummary": {
+        "text": "Laid-back property offering a restaurant, a cafe & event space, plus complimentary breakfast.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/reviews/ChZDSUhNMG9nS0VJQ0FnSUREaHRtZWZnEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 4,
+          "text": {
+            "text": "Rooms are neat and clean, rooms sevice is good. Nearby Ambalappuzha Temple, only concern is that it is in the compound of a BAR.  So outside ambience is not at all good. Now a days it is under restoration process.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Rooms are neat and clean, rooms sevice is good. Nearby Ambalappuzha Temple, only concern is that it is in the compound of a BAR.  So outside ambience is not at all good. Now a days it is under restoration process.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashish Asokan",
+            "uri": "https://www.google.com/maps/contrib/114300949254834545478/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLn58xaCjXH-p5XsGqak16to-S1dm_3M337At3uvlHuDsySIw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-08T15:35:59Z"
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0bTltb1lnEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 3,
+          "text": {
+            "text": "The hotel located near busy Alleypy market.\nRooms were good,\nFood not so good, ordered something - got something.\nMy room was in the rear wing.\nMinus point of this hotel is having Bar below which is situated inside the premises.\nEvenings are worse as the entrance is occupied by parked bikes who have come for drinks in the bar.\nDifficult for ladies n kids to pass through the patch to go to the rear wing of the hotel.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The hotel located near busy Alleypy market.\nRooms were good,\nFood not so good, ordered something - got something.\nMy room was in the rear wing.\nMinus point of this hotel is having Bar below which is situated inside the premises.\nEvenings are worse as the entrance is occupied by parked bikes who have come for drinks in the bar.\nDifficult for ladies n kids to pass through the patch to go to the rear wing of the hotel.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raj Indulkar",
+            "uri": "https://www.google.com/maps/contrib/116095773637271804996/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0i9tWpSGk0x8ldDJLdsX7Y6E6dJx9rCTIBJFr0tYz3lPvgb_T=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-01T04:08:01Z"
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNENEl5bGhRRRAB",
+          "relativePublishTimeDescription": "4 weeks ago",
+          "rating": 1,
+          "text": {
+            "text": ". Charging 30 rs for water .which is more than mrp 20rp\n.no hotwater\nNo WiFi signal in rooms\nDust and fungus in room\nNo instructions in room\nDon’t take the room\n\nBetter opt for any local which may better Than this",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": ". Charging 30 rs for water .which is more than mrp 20rp\n.no hotwater\nNo WiFi signal in rooms\nDust and fungus in room\nNo instructions in room\nDon’t take the room\n\nBetter opt for any local which may better Than this",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sudhi s",
+            "uri": "https://www.google.com/maps/contrib/110749061054822780834/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkN2aW1EsX_sFDQCdA0DVVl1kZNYbBSRSFJIxQIxzoaqqERDT1yA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-23T08:58:49Z"
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1bXZ2R2R3EAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 1,
+          "text": {
+            "text": "I stayed this hotel. There are lot of problems in this hotel.\n1. No hot water in room. They also tell it is available between 6 to 10 am . But it will never come room.\n2. Service is horrible\n3. We booked a deluxe room and it has bottle cap and chicken left over. Later they replaced room.\n4. I don't give any rating due to location. Unfortunately you can find alot of hotel in that area. So location is not a postive point.\n5. Food is very average.\n6. Cleanness rating can be zero.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I stayed this hotel. There are lot of problems in this hotel.\n1. No hot water in room. They also tell it is available between 6 to 10 am . But it will never come room.\n2. Service is horrible\n3. We booked a deluxe room and it has bottle cap and chicken left over. Later they replaced room.\n4. I don't give any rating due to location. Unfortunately you can find alot of hotel in that area. So location is not a postive point.\n5. Food is very average.\n6. Cleanness rating can be zero.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vipin Balakrishnan",
+            "uri": "https://www.google.com/maps/contrib/116207675566518485735/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpdwD5V2AMdy-XU9SSpL0-BGM58BQKTd0ks2AcLPr46Hm3dFk=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-10-23T05:54:26Z"
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabWZ1dkVREAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Okay for short stays.\n\nIf all you expect is a nearby hotel from railway station or the temple; a place to get some rest and quick shower, then it's a good option.\n\nBed is super cosy and comfortable.\n\nHygiene is compromised because of cockroach infestations.\n\nFood is average and spicy.\n\nPs: Good if your service-level expectations are minimum. Otherwise, look for better alternatives for better service.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Okay for short stays.\n\nIf all you expect is a nearby hotel from railway station or the temple; a place to get some rest and quick shower, then it's a good option.\n\nBed is super cosy and comfortable.\n\nHygiene is compromised because of cockroach infestations.\n\nFood is average and spicy.\n\nPs: Good if your service-level expectations are minimum. Otherwise, look for better alternatives for better service.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Simply",
+            "uri": "https://www.google.com/maps/contrib/106345703256072001066/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxcYpjwqxuGJra5qICtHENrzW_WtYmTBaA-wfyasoM_r2_Fl74zw=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-09-15T11:48:28Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJbnkN1iPWv4o7Kc2H3VL6--Bww6nzngtCvnOv3uthlFQpS0wngnZD92jww3fXwxbzW2dEWPvtdM4APkUXxHjgbEcKos_5IKOHBqhvWRILndAsjfmRJXHeqocgUaTCo5M67HgpflzDvBI0WUTfmJyZUPqwdMHgPHW2nL",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Vijayakumar",
+              "uri": "//maps.google.com/maps/contrib/115071697018329146447",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUs1N8c9_N9G1PKB-kDfetDtVoQZ2p39Ufox4oZouoDy3BAPsWVYw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJYis0f7BUtrGF-_tHCSWP7pCQA3jYZEOMyiAxgOGUN0Fo7lAQ5faqMFE--I6aDiMEAp-SDFV92dm23KbxvNqTSZ8wZXjznCmMUeYFogcyjMkkuIFZFkoX_2JRZHmh87sg4TDPvbg7yxkS9mbEo6zYEhKx1I56UxCZa_",
+          "widthPx": 1200,
+          "heightPx": 800,
+          "authorAttributions": [
+            {
+              "displayName": "Habeeb Rahman",
+              "uri": "//maps.google.com/maps/contrib/107420174409217130492",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUKh5gokNng1GQKSWERAJpt6q9SIgNzVvPoYSvthXRJKfm1q28R=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJbtsZtwUkLDnpANLOMWFJ7zm_bVFmmtqbL6uRpN7UOPCs52Q8EailpZH11iNenIJIAnhb7CcshjQhGyAbrYZeisxtr0PqGrzS9rBJVwdLDb6zER0t5uOSiPX9o7hw1hkumdjBXO9ivRqdxj439nsuYW91ziOqwA09RY",
+          "widthPx": 892,
+          "heightPx": 422,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Coral Heights, Ambalapuzha.",
+              "uri": "//maps.google.com/maps/contrib/111357049860594958164",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJCstDzwK_GbzuqIjaXZplALs3E5j7-6Y_i7wTLFjEQIJPl9Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJZTapKIvOgiLv_HYzTOy0cUwoeSTBo72adu2n4zpqpipsZkm5wopP9-XKFRr9nY1CT1IZ985GTDEN1p9WJjaiL3QuIEtPo-UStDwJJhkOjQ0VvFPGkwEWEYe8kANhALvlwlUWdqAzyxT91SeCee600hBcPZh2mD-r_w",
+          "widthPx": 864,
+          "heightPx": 431,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Coral Heights, Ambalapuzha.",
+              "uri": "//maps.google.com/maps/contrib/111357049860594958164",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJCstDzwK_GbzuqIjaXZplALs3E5j7-6Y_i7wTLFjEQIJPl9Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJZiK8FxzXIvRUB4LJD4UgNgC2gPs6RR6AfXRVQXRzZpzbZCGA3eQtC7WsNBWjHkgHYZGwCJVGP2W1eqXioaoodJPlisUX6WiDkRJN7WPUZzepvsuFvu9FGRLAqVisnJb0nWqYvIxWtVIegq5AcIjxQ1p4jggJbRf9Ey",
+          "widthPx": 881,
+          "heightPx": 429,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Coral Heights, Ambalapuzha.",
+              "uri": "//maps.google.com/maps/contrib/111357049860594958164",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJCstDzwK_GbzuqIjaXZplALs3E5j7-6Y_i7wTLFjEQIJPl9Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJbIMDDcQ9Eq3EvHD8k0ZBRmLLeAvPzui1XbTdHjR-IiM1NElOAyNqa439mpb03YdWlGSEDLOyXwaWqADC5N3bEJxb_RNJ9_QS4-3nwcGXywHsoN9KaThwQKf-JZo0xLfFYH_J_teygDOqLqF84fNcV2atg89L1VnxWe",
+          "widthPx": 768,
+          "heightPx": 800,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Coral Heights, Ambalapuzha.",
+              "uri": "//maps.google.com/maps/contrib/111357049860594958164",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJCstDzwK_GbzuqIjaXZplALs3E5j7-6Y_i7wTLFjEQIJPl9Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJZFFx_MyqQCB-3gLkhuL5iBfI_G0QH3IU9i5jUzeCzMYwHJcBQ7ZkXu9uLrWs-VD7pm6d6jP-osUidNRUh5-7wztH3ISfyZCidu75I32aHMBrjbUT8UqTllXMTw1vFZT99MX0svnZsP6LiDWkKrLQTU5jOxbMZdUKj4",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "sobin george",
+              "uri": "//maps.google.com/maps/contrib/111169432725589527146",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2TEymuOhT9AfMI9jMVBp5tgE1_DlplwDtuE_Kx0JUGsDzvzHD=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJYWGi6shNubWAllVYabbRN8X9kwncSNL1bnSedpHcjvwbUt4lWi0OHDuh5QAXHnHbmLDXPCNKXXunOeWZPkdk5uhwll9iXwIS-CrJeaCo5AtEpaUdkya2Z5cvutJkVxrHsqJx5FYgCebc5Bvtu4TWiicN9Ybo14iXfR",
+          "widthPx": 1200,
+          "heightPx": 800,
+          "authorAttributions": [
+            {
+              "displayName": "Habeeb Rahman",
+              "uri": "//maps.google.com/maps/contrib/107420174409217130492",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUKh5gokNng1GQKSWERAJpt6q9SIgNzVvPoYSvthXRJKfm1q28R=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJaSlu6avL7LKiQwIhKmpwwfD8OnharwdJ255sQ_QcvyFj2yF2gTu_w7eWR1Y4n9eLOiAkf7ydT7NEVJc-rIfcYgvGfvYc8xQRv2ezq0-vwk9Ag-v00iHrrdh6bnMhoyUzs3qsV0LOIokms49sPOYo08WTWT6QTXwoFf",
+          "widthPx": 1200,
+          "heightPx": 884,
+          "authorAttributions": [
+            {
+              "displayName": "Habeeb Rahman",
+              "uri": "//maps.google.com/maps/contrib/107420174409217130492",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUKh5gokNng1GQKSWERAJpt6q9SIgNzVvPoYSvthXRJKfm1q28R=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3UYofabCDsR9figx8vTjZ4/photos/ATplDJZ1Dschvo2wHpcubIc8atmxBrH_OG2yqfbJn83Qh8ne_7NfZG5udnOfBZSu22H-i8S9CdG6BlIYptRqh2J23s_k6E2hMpUDcedXWoBmRWzlyBJYDcAiLVXX8wUAA46sGIFA0WgU4d849av7CXicn3codYWOZh7qN_A6",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "sobin george",
+              "uri": "//maps.google.com/maps/contrib/111169432725589527146",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2TEymuOhT9AfMI9jMVBp5tgE1_DlplwDtuE_Kx0JUGsDzvzHD=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI",
+      "id": "ChIJi7CsqEacCDsR86C-0QwJkNI",
+      "types": [
+        "resort_hotel",
+        "bed_and_breakfast",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "095262 00081",
+      "internationalPhoneNumber": "+91 95262 00081",
+      "formattedAddress": "Vazhapparambil Jetty, Vysham Bhagam, Kanjipadam, Alappuzha, Vaisyambhagom, Kerala 686020, India",
+      "addressComponents": [
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "686020",
+          "shortText": "686020",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXR99WR+HH",
+        "compoundCode": "99WR+HH Alappuzha, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.3964448,
+        "longitude": 76.3914216
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.3950947197085,
+          "longitude": 76.3900933197085
+        },
+        "high": {
+          "latitude": 9.3977926802915039,
+          "longitude": 76.3927912802915
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=15172637095274389747",
+      "websiteUri": "https://maathotels.com/the-lake-resort-alleppey/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Vazhapparambil Jetty, Vysham Bhagam, Kanjipadam, \u003cspan class=\"locality\"\u003eAlappuzha, Vaisyambhagom\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e686020\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 227,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "The Lake Resort by Maat Hotels",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Vazhapparambil Jetty, Vysham Bhagam, Kanjipadam, Alappuzha",
+      "reviews": [
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxMDhTMWJ3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "The resort is very well maintained. It's right at the side of a backwater canal, kayaking is available on premises.\n\nThe rooms are good but be prepared for insects/lizards since it's in a remote location.\n\nThe staff is very nice and helpful. The food is good quality as well.\n\nThe only negative point is the approach road which is  a narrow dirt road in bad shape for around 1.5 kms",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The resort is very well maintained. It's right at the side of a backwater canal, kayaking is available on premises.\n\nThe rooms are good but be prepared for insects/lizards since it's in a remote location.\n\nThe staff is very nice and helpful. The food is good quality as well.\n\nThe only negative point is the approach road which is  a narrow dirt road in bad shape for around 1.5 kms",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raunak Nair",
+            "uri": "https://www.google.com/maps/contrib/107214437521021535093/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfwQI8A1u-w3o7jkVApf4bJobNlRJUUEPw89XAZHB1fcASyN8d=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-03T06:26:56Z"
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxOHJyenNRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "The location was just next to a lake and coconut trees. A very beautiful and picturesque landscape.\nWe travelled alongside a human made canal to reach there.The road was very bumpy with no signboards making it kinda impossible to locate.\nThe breakfast served was good. They also had hammocks for peace and relaxation.\nPlus for book owls they literally have a whole shelf of fiction! Can ya believe it ?!! With authors like Dan Brown, Agatha Christie, Sidney Sheldon.\nThey also have a carrom board to have fun with your family. I recommend this hotel if you like long drives (it takes ages to reach) and just want to have fun!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The location was just next to a lake and coconut trees. A very beautiful and picturesque landscape.\nWe travelled alongside a human made canal to reach there.The road was very bumpy with no signboards making it kinda impossible to locate.\nThe breakfast served was good. They also had hammocks for peace and relaxation.\nPlus for book owls they literally have a whole shelf of fiction! Can ya believe it ?!! With authors like Dan Brown, Agatha Christie, Sidney Sheldon.\nThey also have a carrom board to have fun with your family. I recommend this hotel if you like long drives (it takes ages to reach) and just want to have fun!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pritam Changede",
+            "uri": "https://www.google.com/maps/contrib/103408283470255989046/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLe_YqplN2ZsMQBLene_-sacPNXB6FEfqtS2Y9UJCD9PM57Pg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-27T04:40:32Z"
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0c0xuemFBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "The roads to Paradise is always not smooth..\nThat's all about the way leading from NH.\nStay was comfortable.. Food was homely..\nAmbience was great.. View was awesome..\nGood service\nA budget resort with calm atmosphere to merge in",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The roads to Paradise is always not smooth..\nThat's all about the way leading from NH.\nStay was comfortable.. Food was homely..\nAmbience was great.. View was awesome..\nGood service\nA budget resort with calm atmosphere to merge in",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anoop KM",
+            "uri": "https://www.google.com/maps/contrib/116972974818171004774/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWByZl0dlIspyw0EGda1_5d2gc_ROBiigO0ZoUzFtsLvJ4B7yCMQw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-28T06:31:57Z"
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxMnBMZGp3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Pathetic stay, no road for 2 km it will take 30 min to travel 2 kmand your car will be dead. There is some temple nearby and they continuously play the loud speaker which destroys the entire peace of the place. Even it's completely far away from the city.\n\nEven if they offer free stay, avoid booking over here, in the same price you will get very good stay by backwaters or on beach.\n\nStaff is good and cooperative. 👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Pathetic stay, no road for 2 km it will take 30 min to travel 2 kmand your car will be dead. There is some temple nearby and they continuously play the loud speaker which destroys the entire peace of the place. Even it's completely far away from the city.\n\nEven if they offer free stay, avoid booking over here, in the same price you will get very good stay by backwaters or on beach.\n\nStaff is good and cooperative. 👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yudhir Talati",
+            "uri": "https://www.google.com/maps/contrib/100788254479858811231/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3rGivXK8l9ikFpPyeyXVArietT_7sM95So6jAj9f45uGjFhgb=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-28T03:30:07Z"
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0anFpSFN3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "The place is great for its scenic beauty, the food is great, the rooms were ok. The only reason it dropped its one star is due to the road that leads to this resort. It's off the main road for about a km and that too narrow but at dawn, the view is awesome.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The place is great for its scenic beauty, the food is great, the rooms were ok. The only reason it dropped its one star is due to the road that leads to this resort. It's off the main road for about a km and that too narrow but at dawn, the view is awesome.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manan Verma",
+            "uri": "https://www.google.com/maps/contrib/107397475498369596477/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXksIAm6n_FQbRuZz-k0graY6qf9Fr8x5zu9NiTDUTAvz2wrH2E=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-06T06:38:37Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJY5qFvFeHkpKglLmUjjwYiNx-S07CmNh_IKcZTgwVPXak0JU9qZUq5ukGwG8JosmE_OHUmcOpZnXaGz7vYAKcSFXEjssMnZ5rUawR__9ZdUslATsOzc9zOG8wI90suACrJjOe-M0PxXjGbrPLizHi2eKcwPY4BS4CjT",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJYyatzI6vYIK_1zmGm4DGLzFsq6CJ56bMCekRSHs_dZmo7LpJBt0GcySW8Geux7RmDW6apXAKUKom10U8RKznCbP-Szs5JtjIlCNyoJQ_J9k8s45gsrbMb3quwG91bACZPWFTOvcwgp7IT1J0z8xuH8HNz5BeVz1Gc_",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJZKz3dCA-3M5wHu80loTrNtE6NDIsJG8PuMRN_wFW2BuYIgElY0LpQ4wTzm5EfmuBsDhb6lFZcLtnp9qZwb2M_xSjMea8NPx1VBwyavsXhkI8KrCkUr56eoh9T2x7pxWjGO-hOI7fz9jrd1TV_-4LQXAkfFduVrPLDY",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJZ-HySau0adj7leFhgxbHSl38j5m6cFN7NP-PagzNxVty5zoTTGcnzcKsxTGhcGpa05ujvfUzqk2Asxp5tKD8OegNgzXG-wEYM4L17XymSfcXNyDGh7GXqra_z6prgLU2RYXwZVuf5W1MkeBWXlwBB7JbahlNqa4FB1",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJaI5L6SB4tzpMdSMhqCoBVkQ5Xkwa0TLdpszAnaZ-yxa9j5jn0S8TbOs4g4snMa3RKzfZVPNIsR1qmsg7fFXelOrk5ONAN_bRcYRuJPr_F2l9C5VUObklko6wJ2F0v9isFOlQEUARN3H_pzyYKrblBvqbe0SrCjX_gw",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJb1JOgdOaYCO2WLgonn1kRZVuTWp9-sP-AzmL3fQPHre-4XLR4Q0i_UpZfBr1X5Jwnx9BGEVnYN5UHJtQj2cmCm-5tm-I02ad3-EJz979_bI0pCUiG97MNvh-FoUA3T0_IDM3DuzK5AC1lGUXJidYD-1FNs5ezIRfPK",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJaubnkCXxf3xrhhRMlIIZ9zGkE46KNKKCQlpPqaed9mkQFvMnWTkxlqd4-EqU7GslAWaE5uxfOJeIukpUX_tlu0iCKe0XBi4Y5COyjsH1kdyWPiNUY0klcOJQpSoSCPP-e3wQxFuqAot_niY6zQ2FDQ9KcBVUMDIFk7",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJaWFFgfWU4bhSNQBxZrxsfjkx3rm-tFXiOhs8Brd9uMtI0U1Yzo8Ihlh3pN-Sk5u_THznhAwkLfX0rtMyVCAUHo0-wkzypfrrwLPFkFxwRvyvAPVIKGKK5pdY0PXOJvP6tF1cB4JxHEmx6PcjNXNiAFgGooKEVesgG8",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJZPR4yRWfwcEcfxyFM6BC9SzDvIbk1d5WAsP2UzcsBDUSdDR4dIwZJQeIh9GgOUQgVN1VEZ-wy8OOhAGk1w1i8ompjpdv90D-ieWX0YjLiYuE3F4Js5CMagOeceEfWvbytUPW7oz08irMx4RpWdivA32Q6ErHO0pKcn",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi7CsqEacCDsR86C-0QwJkNI/photos/ATplDJatjMHfD2l2VOqrFC00GHOGKjYDIHKsyIPnqZuwqJOl9ON9kC7sHJJbhnv_84ELBu_dndgUsIE3JoXnyU-7BW8-K7YNMhZLJZUbCGWMf4kIiCzSf06I0PjI3RcNsVxggL_gqxo4Wahj6nCNnjUZ2JjNMP9Jr7n7gWv2",
+          "widthPx": 4288,
+          "heightPx": 2848,
+          "authorAttributions": [
+            {
+              "displayName": "The Lake Resort by Maat Hotels",
+              "uri": "//maps.google.com/maps/contrib/109971470091068643317",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX28xbmi_zB4xLnLDKTnGb5_2xMNKLOcHaUo_284SzYvybFEVA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": false
+      }
+    },
+    {
+      "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk",
+      "id": "ChIJfWQUDqKdCDsRIsnX3DKKZqk",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094975 25715",
+      "internationalPhoneNumber": "+91 94975 25715",
+      "formattedAddress": "Kanjipadam, Kanjipadom car parking, Chempumpuram, PO, Alappuzha, Kuttanad Taluk, Kerala 688505, India",
+      "addressComponents": [
+        {
+          "longText": "Chempumpuram",
+          "shortText": "Chempumpuram",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "PO",
+          "shortText": "PO",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688505",
+          "shortText": "688505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXRC97J+F6",
+        "compoundCode": "C97J+F6 Alappuzha, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.4136319,
+        "longitude": 76.3805383
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.4123945197084975,
+          "longitude": 76.379377169708491
+        },
+        "high": {
+          "latitude": 9.4150924802915021,
+          "longitude": 76.382075130291511
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=12206595791092435234",
+      "websiteUri": "http://greenpalacekerala.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Kanjipadam, \u003cspan class=\"street-address\"\u003eKanjipadom car parking, Chempumpuram, PO\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlappuzha, Kuttanad Taluk\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 761,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "The Green Palace Health Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Kanjipadam, Kanjipadom car parking, Chempumpuram, PO, Alappuzha",
+      "reviews": [
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/reviews/ChdDSUhNMG9nS0VJQ0FnSUREbV9fWndBRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "A resort with ideal, quiet place to run away from the madding crowd for a peaceful vacation. Icing on the cake is the exemplary service provided by the management and staff. The resort owner and his family members were taking keen interest in the preparation of food and services. An area where improvement is required is a notice in the room that toiletries are available on demand/ request",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A resort with ideal, quiet place to run away from the madding crowd for a peaceful vacation. Icing on the cake is the exemplary service provided by the management and staff. The resort owner and his family members were taking keen interest in the preparation of food and services. An area where improvement is required is a notice in the room that toiletries are available on demand/ request",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raghavan Kana",
+            "uri": "https://www.google.com/maps/contrib/107730802969251788740/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf7qMxxaEQxAX3J97069SUbKeGZb1NnWRcT4FIgAELZdJuQtOeBw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-04-14T15:17:43Z"
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMDlfU1J3EAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "We stayed there for 3 nights and 2 days from 26th to 29th March 2024\nWonderful experience. Awesome place  with excellent/ helpful/ caring service by Owner ,Manager and the staff.\nThe food was homely, delicious and great.\nRooms are very neat and a safe place to stay. Nice swimming pool. Pavements are made for morning walks to enjoy scenery around.\nLooking or another opportunity to visit.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We stayed there for 3 nights and 2 days from 26th to 29th March 2024\nWonderful experience. Awesome place  with excellent/ helpful/ caring service by Owner ,Manager and the staff.\nThe food was homely, delicious and great.\nRooms are very neat and a safe place to stay. Nice swimming pool. Pavements are made for morning walks to enjoy scenery around.\nLooking or another opportunity to visit.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Durai Pandian",
+            "uri": "https://www.google.com/maps/contrib/103989502763811422698/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxfVP7G00wuY8rbKiBN3SrxYYMGFmlDwmvCdET0oaZRGP1tg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-01T09:50:52Z"
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEM2JDOWpBRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautifully maintained and offered very professional service. Food served was very tasty. All the staff particularly Manager Saboo and Mukesh were very hospitable. Rest of the staff too. Owners took personal interest in the Menu prepared and served. Boat service, House Boat stay and temple trips were very meticulously planned and executed.The environment around confirms that it is really God’s Own Country.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautifully maintained and offered very professional service. Food served was very tasty. All the staff particularly Manager Saboo and Mukesh were very hospitable. Rest of the staff too. Owners took personal interest in the Menu prepared and served. Boat service, House Boat stay and temple trips were very meticulously planned and executed.The environment around confirms that it is really God’s Own Country.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "VASUDEVA PATRO MAMIDANNA",
+            "uri": "https://www.google.com/maps/contrib/110231030640666322250/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3Mld7Y1aPBshaC3el3ysVTHSlg35bJfNCBbo34RK0bY4YPw7Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-31T14:41:57Z"
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkN00zUVdBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "An amazing place so close to nature. River front, swimming pool, health spa. Serene. They take u on a boat from the pick up point to reach the resort. Once u reach, u r in another world, with a calm and beautiful river front resort. Just sit and u will feel the miraculous  soothing done by the  nature. They have health packages with strict dietary plans.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "An amazing place so close to nature. River front, swimming pool, health spa. Serene. They take u on a boat from the pick up point to reach the resort. Once u reach, u r in another world, with a calm and beautiful river front resort. Just sit and u will feel the miraculous  soothing done by the  nature. They have health packages with strict dietary plans.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sree M",
+            "uri": "https://www.google.com/maps/contrib/104682003344569410567/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKDoHjAV-HSSd3s1qu13wN0Xp2q89JVWBDBT-dcEi2fL3VDQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-13T14:52:00Z"
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxOXRubllnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "If you are going to this hotel contact the management or search for The green palace car parking .The location of the hotel needs to be updated or the Hotel management needs to share the hotel transit info to customers. We cannot directly go to the hotel on Road which google shows. We need to go to lake point from where there will be a boat provided by hotel management to take us to the hotel. We  have faced this issue and we were travelling at night 8 without this knowledge.\n\nThe hotel is very good and it is centrally located in the lake with scenic views. The food is good but the service can be improved as they provided food which was cold after 2 hrs of our order time.\n\nThe rooms provided to the car drivers is not good and there is no other option as this hotel is located very far from the town.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If you are going to this hotel contact the management or search for The green palace car parking .The location of the hotel needs to be updated or the Hotel management needs to share the hotel transit info to customers. We cannot directly go to the hotel on Road which google shows. We need to go to lake point from where there will be a boat provided by hotel management to take us to the hotel. We  have faced this issue and we were travelling at night 8 without this knowledge.\n\nThe hotel is very good and it is centrally located in the lake with scenic views. The food is good but the service can be improved as they provided food which was cold after 2 hrs of our order time.\n\nThe rooms provided to the car drivers is not good and there is no other option as this hotel is located very far from the town.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rohit Kumar",
+            "uri": "https://www.google.com/maps/contrib/108825056215885772190/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUd9cufhhpN1AaxxbKZdtVcZiMDLOLsLvW1pMeaCp7INPAMAqc=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-29T17:14:42Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJbutC1UWUGA0gQTd1fvvrpw51kzCWwYZRwZQeO3Umpi4a90PoheE_95K9SOV4Ve_xeNY-AUaUKfyeKHhVTERBtPvKE9CG0uevh6FbFRSkS9JyITUPDMgYp9MSu2QfwxBbs7u8cuI-2Qz2W9V4khQg2stXcC1yxBUACo",
+          "widthPx": 1024,
+          "heightPx": 683,
+          "authorAttributions": [
+            {
+              "displayName": "The Green Palace Health Resort",
+              "uri": "//maps.google.com/maps/contrib/113582654556554722045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7Q11ComPkFDDW7cgAOKH2_QdLHlG3GpQryTbSp60etLcWpeg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJZ4Y5pJnHCYU7kucXGDYPRROPw_v-J6JlFnQP95aN5AVE4Xoz999_gB7Iip4bzIP5y3igJWw6JzCJQKHZa9P0OwL2YxSB0jBqe45If3L43SCxMBExLWwQo9_K7sO9Ad4uUyI8iem5jXi3nt_MiSFIIIRxCoUuwcwRmR",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "The Green Palace Health Resort",
+              "uri": "//maps.google.com/maps/contrib/113582654556554722045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7Q11ComPkFDDW7cgAOKH2_QdLHlG3GpQryTbSp60etLcWpeg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJaXHLcsoHFG_7SDVUhWWB6gaNbI8k_Rp08mCESa28f-fGuzkqrR845P7R97MCu1BGjGiGKJQg3SOZ-t6UtI5K7Xl_k2AATFi22YoyI8AlqgPrmoguHQpedLIKYRN5JGedIGU_iX0bRTkDDu251bnK4NW7macegn0HJD",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Damian Medina",
+              "uri": "//maps.google.com/maps/contrib/113364338850931322443",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJKCqS4723HdhzrhphZKZ14sH-jinpcQ9YPRFrGuiwLQTkoiA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJbFWr_N-rJ3tzi-SGW07NKH9PQ5U5du-lcswc2m9NCZ2GIYv4EuCovuuxfuA4JVzmqAfqcUf4XE5KaFRhkkpPsj0o09QrgxKkc8S_4iXO_CcLN5P-xuvxpxDZV4Xy7iV5OvXv5ZzW9H9bMX7B7c8flsAQs55OQan6o-",
+          "widthPx": 1024,
+          "heightPx": 683,
+          "authorAttributions": [
+            {
+              "displayName": "Thanoof Naina",
+              "uri": "//maps.google.com/maps/contrib/102970788905271349849",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVEghk3hOoEN-Kc3xKPJrldt5VCDkDuAsC8DadcRtkIAfGF0t87yw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJZcadQOUPPG00S0GhouP1anqSDfI6mbBvvp8eCuP07YWlDtCt2WfakLjSbsBUfZrUPgI5Uv0T783I0fD4riIP3KyifVTI9mNHEEyy_M1G0HB_icPduU-rH7cZuYA05Pq7z3RbtCv_WobYpNrgNnFYs3kLsO3MJwQ2Af",
+          "widthPx": 1024,
+          "heightPx": 683,
+          "authorAttributions": [
+            {
+              "displayName": "The Green Palace Health Resort",
+              "uri": "//maps.google.com/maps/contrib/113582654556554722045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7Q11ComPkFDDW7cgAOKH2_QdLHlG3GpQryTbSp60etLcWpeg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJY6PWj2RyXU3RJTHgvezlYhU-N_kc1YSQt0bBBL4X9nB8eG4LL0wr3dM8CyMiVISkjMM5CDG6L-F7IurDdtgrWWpbkykaZycMP-yEu6x1avTABmJ7CU7rKPp7EFSEmITh5dqhhpnQSRMNgg0akZjBxoWZ3-e0R18lWp",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "The Green Palace Health Resort",
+              "uri": "//maps.google.com/maps/contrib/113582654556554722045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7Q11ComPkFDDW7cgAOKH2_QdLHlG3GpQryTbSp60etLcWpeg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJYJzl003jLyzgeTLIXLhWMLiEiOdioJ8TDxCM0w8NK6RFoLEqb6Vog0Jt6jW29438eoVq68HMODF5RHeklFZTInU3HZ3AgMxSr8XihhPzU5WGKJmVRicM5VJorBAWeLJtmlnDZxMtM0l-fvI-3wExh2tXgXz4KbFp8u",
+          "widthPx": 800,
+          "heightPx": 490,
+          "authorAttributions": [
+            {
+              "displayName": "The Green Palace Health Resort",
+              "uri": "//maps.google.com/maps/contrib/113582654556554722045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7Q11ComPkFDDW7cgAOKH2_QdLHlG3GpQryTbSp60etLcWpeg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJbJHjNMZhLhaQAqDYjEgwErMfssEQq4U1e-5r2EwkUsXGTzKS8oQ2-Ybhg0boa_PDgBznsO9rC_7fEUfjRP-QH8cqIIyjMA7D8cVIUugDAGNUf8eyvQ1KPMGUb4yMd8OXNGNzcxpl_YyQUvNo8uH9KhwDamQLiueUuv",
+          "widthPx": 2592,
+          "heightPx": 1248,
+          "authorAttributions": [
+            {
+              "displayName": "The Green Palace Health Resort",
+              "uri": "//maps.google.com/maps/contrib/113582654556554722045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7Q11ComPkFDDW7cgAOKH2_QdLHlG3GpQryTbSp60etLcWpeg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJYAhegEbfqtz44DvUzBc8uv2mlUFaCMxNvvE70lzjZZXa5EozgEP0e-9SSdeB-hizti9lqeiKW2qPk_hmkf531G9EQhpcsfWE3oWpEibXXGfYhKeBudIFdL9Lj46mJpjJL4qDcoRLRF6aISa_tpM7rxWINcItg6dWj1",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "The Green Palace Health Resort",
+              "uri": "//maps.google.com/maps/contrib/113582654556554722045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7Q11ComPkFDDW7cgAOKH2_QdLHlG3GpQryTbSp60etLcWpeg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJfWQUDqKdCDsRIsnX3DKKZqk/photos/ATplDJbNaxRFSgW2pFbEDrH9Y0v4gzyY3Zg2V6wlwoGPyZjzJYKmE8MvSuGZO3LuroSfqK032L_Htkw8QF9h4GB6Rx6wIsdcgr3SEfhm-sEDTeYBMQ8Sd9v-pSeZLhYM17w3fUqMG_du7oz_lkctwquRgL9-zmqrYdl8TFhp",
+          "widthPx": 700,
+          "heightPx": 525,
+          "authorAttributions": [
+            {
+              "displayName": "The Green Palace Health Resort",
+              "uri": "//maps.google.com/maps/contrib/113582654556554722045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7Q11ComPkFDDW7cgAOKH2_QdLHlG3GpQryTbSp60etLcWpeg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM",
+      "id": "ChIJtaFf2oibCDsRE3d9csEJtbM",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "093228 00100",
+      "internationalPhoneNumber": "+91 93228 00100",
+      "formattedAddress": "Neerkunnam,Vandanam, Neerkunnam, Alappuzha, Vandanam, Kerala 688005, India",
+      "addressComponents": [
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Neerkunnam",
+          "shortText": "Neerkunnam",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688005",
+          "shortText": "688005",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXRC932+X3",
+        "compoundCode": "C932+X3 Alappuzha, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.4049789999999991,
+        "longitude": 76.3501862
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.4036196697084975,
+          "longitude": 76.3492564197085
+        },
+        "high": {
+          "latitude": 9.4063176302915021,
+          "longitude": 76.3519543802915
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=12949267030027892499",
+      "websiteUri": "https://www.treebo.com/hotels-in-alleppey/treebo-tryst-vahada-vandanam-3550/?utm_source=Partnerships&utm_medium=gplus&utm_campaign=hotelvahada",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Neerkunnam,Vandanam, \u003cspan class=\"extended-address\"\u003eNeerkunnam\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlappuzha, Vandanam\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 94,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Treebo Tryst Vahada",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Neerkunnam,Vandanam, Alappuzha",
+      "reviews": [
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNELXZIT3dBRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Absolute delightful experience. Deluxe Rooms are very extraordinarily large and sparkling clean. Staff were polite and helpful.\nOnly one downside was tasteless food . Their fixed menu breakfast and dinner both were passable and can be avoided.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Absolute delightful experience. Deluxe Rooms are very extraordinarily large and sparkling clean. Staff were polite and helpful.\nOnly one downside was tasteless food . Their fixed menu breakfast and dinner both were passable and can be avoided.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Deepti",
+            "uri": "https://www.google.com/maps/contrib/105776721424174521484/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrGZstvg9mvFVIi61FLtvBj2ndIciw93R4-XpHDG69SczZ8GU=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-27T11:15:04Z"
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkdUxhM1FREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent stay. For me the most important part is always the cleanliness of the hotel. The staff are human just like us, so I don't really rely on staff reviews (unless that bad!). Don't we all have mood swings and cultural differences. Saying that... the staff were all very good. The rooms are spotless and super clean. The location is apt. You can easily travel to all three sides: Ernakulam, Kottayam, or further south. Or just enjoy around Alappuzha/Alleppey. Very peaceful location. Even though it's on the NH it's not right beside the road, so it's not noisy. Loved the furniture and the restaurant is good. We took an evening walk just Infront of the hotel and it was healing, felt nostalgic like those times when we didn't have gadgets but just nature... Ohhh and the sunrise view from our room. Check out the photos!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent stay. For me the most important part is always the cleanliness of the hotel. The staff are human just like us, so I don't really rely on staff reviews (unless that bad!). Don't we all have mood swings and cultural differences. Saying that... the staff were all very good. The rooms are spotless and super clean. The location is apt. You can easily travel to all three sides: Ernakulam, Kottayam, or further south. Or just enjoy around Alappuzha/Alleppey. Very peaceful location. Even though it's on the NH it's not right beside the road, so it's not noisy. Loved the furniture and the restaurant is good. We took an evening walk just Infront of the hotel and it was healing, felt nostalgic like those times when we didn't have gadgets but just nature... Ohhh and the sunrise view from our room. Check out the photos!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arya",
+            "uri": "https://www.google.com/maps/contrib/114593283234991034275/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKs9b32U2YAGLWLqGmdhYtCJaMKDzdmJse5lnlWHzd6qZDKTA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-11T17:46:40Z"
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkN1kzY0h3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Worst service. Attitude filled female and male staff least interested in serving customers.\nBehaving like they were giving ordered items for free. Nice property , good luck .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Worst service. Attitude filled female and male staff least interested in serving customers.\nBehaving like they were giving ordered items for free. Nice property , good luck .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sreejith CB",
+            "uri": "https://www.google.com/maps/contrib/109444849503055173908/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUN2j1yuePtSHtzJnBcf37GheH-jTXxz5wN6zWdxWIZcpx4CWle=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-17T11:18:18Z"
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/reviews/ChdDSUhNMG9nS0VJQ0FnSURaeVpPcGtRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "one of my favorite hotel. Very quiet place with positive vibe. The staff is friendly. I can't help but say avarude hospitality is very pleasant. It is a very big room. The airconditioning is good. perfect cooling.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "one of my favorite hotel. Very quiet place with positive vibe. The staff is friendly. I can't help but say avarude hospitality is very pleasant. It is a very big room. The airconditioning is good. perfect cooling.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Allu Althaf",
+            "uri": "https://www.google.com/maps/contrib/100941256126198460971/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkITCWGZxH_thfwWCtUJVlpaK-iKqmbI6bYCUoRmVES0q_mOBO=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-14T14:31:04Z"
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEM2VMd2p3RRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 1,
+          "text": {
+            "text": "Worst experience in a hotel. We visited restaurant on 31.3.2024 for dinner. The staff were not responsive and have taken long duration to offer even water. The person who introduced as manager has said there is no other staff to provide much service.they should close the restaurant if they don't want customers to visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Worst experience in a hotel. We visited restaurant on 31.3.2024 for dinner. The staff were not responsive and have taken long duration to offer even water. The person who introduced as manager has said there is no other staff to provide much service.they should close the restaurant if they don't want customers to visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "harish vs",
+            "uri": "https://www.google.com/maps/contrib/107746963444989580852/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPJVY2iyv4ei45xaVKr0qZa8MCc4DMYs35onkeQseaiHUYM0Cm=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-31T15:06:18Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJY9Eun7bsNYF3RBXVLpBE4vIvQ4G1UmQ2Rd-W-rIawSc03eeMtZQE_RRPRlR6hT6OR0YryozIv-H_8w45pkSGI1wurEQNjSxpxaKNSaxSHPyWwWAvASYcEuYXh3KekPRNkbFnecmYUcUBycRC7qbi6C0JJGKVcpETuf",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJaJtJBlfBGUVjaXk2UVGNLjhNyPz-jI0kAaFBa6EZhUrWzEKcmdDqPFHfDdGDFXYPlYvSbTutTT_vGou-C1htdoRueCbYrsszprvbStwV1OBlWyRsEvlb-ZX7ZVAMlK27kg--uByOOQHaPJDNUhl9R27AkCR5wXM4ZX",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJYDfR_JUNkbtyn7BaE_Pkf39ON-XyswiJIK5p3AZ5LA5nfJmAZM0Ox-yQSGyOO32wyv1RDsjYyse-MYFcsHpTkqmlgUDNNJkqd5pXpi1MQpvvZAFdk6PVBy6zw3tRtawoGrtZvZ7AzpvJiwecKiNrgFS70VAdJi-j12",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJYXRa5VW2D9kJ26-nh4LWinA1QRYP4kHyr19__6gckGWtHfkShqaXuUI-y7VYc49oM_LrxjZmjG2J_wcoJdHDQlj1ykBOw_xDqK3HkBs4QtMkqPiK0_YPq6XXFkvO9UNJrNtsu-u14QxOyTlSSMJzK1Lbga_g57A89Z",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJYnkZ1OTpZ9UOXQ05qrb1k9LbB2wjNjzGPRhDwJc7zl8SRw3j4gAbW_vdd8ReavP69-eXowNIRxTl-B_H_9lNLpP4BMP4LxwnrnmPz0pAlz9FYl-7uZqvZ5ckj7esBuS6E3YH17NDi61Ujyh1aqhajhuBlTYszZ8Sf0",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJb4ZgE7-BSJmbojufh3eguNfqD_3lwhhow--rAJioffd9rD2J4utyw-COcPXyQN3bXoghPdx7ioP8S3LzRoMYlVMAsdgck-6_db24u0qNus_CGYefcgmHxXN44yLIGxvkTSuTojOmV_ta7HrSGxO3o_1JVDpcQUGVIE",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJZ3FwdWOe2qwaC9yjbNvtAUYVPVENsZbuD_Fx1tXuE-uvKgrlEFDWsGqdeYis8jCJ1DVl7houTX88wsF012ACAkTvsgBq2jjBhI60qa6P8EKsNg_vYvI5ZFUq51BStgaKKuHXaPL5VXoB8ABtJa2NKL5nxXr3hvJewm",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJb4RvoTIAOYCklXJTCFwQB9cXShB24pskCuHzCLngU_TytFBXDZIDTH1Q3NhVI4u7snUFSAs8OASdmfXA3isYfnrnmNWlBbJzgkuV9rV6VcwTeLFtiJ7ro45CzSCPV18Rddfsr5jquSL7k6Itevbwpc5w7x-ozg8xqs",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJZ0Ouk-raQe0_9hPHCZ_hx2m35JGOxhc9Ehszes2y2hLWmbd49mMHNmqxNDLoHrymIv9hYfYalvObJ0FQVVdOZ1pLuUE-QSZCxic48yOVziFO_aZ5D-C0KGn7G9jlb6pH3zfg8e7pw_Usfr9epAt0LD35FGPxBjE9Ae",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtaFf2oibCDsRE3d9csEJtbM/photos/ATplDJYXOjcAGptsCW0r4Prk94hWzFu0FaUbcaqxbJM6XSpdaB6NjIaxgssWgtUiyKI34cyPJz1Ks1FZswhuUWNBPpuJZUlVUewlOsP-z-irKIlEMBIRCiAInUmu-3OHSwj166rIuTphh25SxrqCGogvhjyXt8JYeOTtFdys",
+          "widthPx": 4299,
+          "heightPx": 2565,
+          "authorAttributions": [
+            {
+              "displayName": "Treebo Tryst Vahada",
+              "uri": "//maps.google.com/maps/contrib/113634633005210106937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnUxZTUvw68psvP-CimFKGDRGvS-o3xpyEDrRLB_PQxK_T_40=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE",
+      "id": "ChIJ04t0CUWdCDsRsn9Ej8bPvLE",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094465 82750",
+      "internationalPhoneNumber": "+91 94465 82750",
+      "formattedAddress": "West Gate Ambalapuzha Temple, Ambalapuzha, Kerala 688561, India",
+      "addressComponents": [
+        {
+          "longText": "Ambalapuzha",
+          "shortText": "Ambalapuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688561",
+          "shortText": "688561",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXR99M8+CX",
+        "compoundCode": "99M8+CX Ambalapuzha, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.3835202999999989,
+        "longitude": 76.3674407
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.3821796697084974,
+          "longitude": 76.3660586197085
+        },
+        "high": {
+          "latitude": 9.384877630291502,
+          "longitude": 76.3687565802915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=12807339892048953266",
+      "websiteUri": "https://ramanilayamambalapuzha.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "West Gate Ambalapuzha Temple, \u003cspan class=\"locality\"\u003eAmbalapuzha\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688561\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 133,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Ramanilayam Tourist Home",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 1,
+                "hour": 0,
+                "minute": 0,
+                "truncated": true,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 23,
+                "minute": 59,
+                "truncated": true,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "secondaryHoursType": "ONLINE_SERVICE_HOURS"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "secondaryHoursType": "ONLINE_SERVICE_HOURS"
+        }
+      ],
+      "primaryType": "hotel",
+      "shortFormattedAddress": "West Gate Ambalapuzha Temple, Ambalapuzha",
+      "editorialSummary": {
+        "text": "Unpretentious rooms, some with a/c, in a no-frills budget hotel featuring parking & Wi-Fi.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/reviews/ChdDSUhNMG9nS0VJQ0FnSURsNE02OS1BRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Very convenient and simple hotel for a short stay near Ambalapuzha temple. Very close to the west nada. Staffs are polite and helpful. Good restaurants available downstairs and in north nada. They have some reserved parking area on roadside or you can park the car on main road. Note that lift is not operational.\n\nTemperature inside room will be high as no ventilation available inside the room and window glasses are not openable. But you can opt for AC. Rooms and bathroom maintenance needs to be improved.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very convenient and simple hotel for a short stay near Ambalapuzha temple. Very close to the west nada. Staffs are polite and helpful. Good restaurants available downstairs and in north nada. They have some reserved parking area on roadside or you can park the car on main road. Note that lift is not operational.\n\nTemperature inside room will be high as no ventilation available inside the room and window glasses are not openable. But you can opt for AC. Rooms and bathroom maintenance needs to be improved.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vasudevan Nair.R",
+            "uri": "https://www.google.com/maps/contrib/101209301346645935340/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU84FpYU3Z1UVzDJxn1JkSWvDw__UEBDVkTH7z7jAyPXARjMT5=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-29T16:54:59Z"
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNadC1iRFlREAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 3,
+          "text": {
+            "text": "This is kind of a 3 star tourist home, good for easy access to Ambalapuzha temple from West Gate. We have booked the hotel for visiting Ambalapuzha Temple and its walkable distance to the temple, hardly 500 meters. The room service is good and he is friendly and provided us with Ambalapuzha Palpayasam. No good space for car parking, but managed to park near to the hotel itself.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is kind of a 3 star tourist home, good for easy access to Ambalapuzha temple from West Gate. We have booked the hotel for visiting Ambalapuzha Temple and its walkable distance to the temple, hardly 500 meters. The room service is good and he is friendly and provided us with Ambalapuzha Palpayasam. No good space for car parking, but managed to park near to the hotel itself.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hiran H",
+            "uri": "https://www.google.com/maps/contrib/110714790177034608461/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQG1YM-8NhsuWpObl9lO98KUGdlIcTw-7kJvg7cHJl_nqNIUvQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-20T09:58:13Z"
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4N3Fid2JREAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Stayed there for 1 night, very close to Ambalapuzha temple. Room was clean and no bad odour was present. Bathroom could have been better, but at this price this was a good stay. Very close to bus stop where all Alapuzha buses will come. Will recommend to people.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Stayed there for 1 night, very close to Ambalapuzha temple. Room was clean and no bad odour was present. Bathroom could have been better, but at this price this was a good stay. Very close to bus stop where all Alapuzha buses will come. Will recommend to people.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vignesh Babu",
+            "uri": "https://www.google.com/maps/contrib/113854040815796985003/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWqqZGBa67pCuUq4Hy-lLAT3DxjhVg-vIJ-mbkNhjSmf8ynfwn=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-06-08T15:57:09Z"
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/reviews/ChdDSUhNMG9nS0VJQ0FnSURSNE8zTi1RRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 1,
+          "text": {
+            "text": "Worst experience to me yesterday's room occupation.  You have informed NON AC ROOMS available and given charges and we booked four NON AC ROOMS and checked in at 7 pm on 14.4.23. Afterwards your staff came to room  and informed that all rooms provided with AC  and if you want we will provide same to us with extra charge of 500. Then only we found that no windows available in the room so that natural air possibility for non ac occupants was totally denied.  We couldn't sleep whole of yesterday night because of no air circulation.  You cannot demand every one to spend higher charges for air conditioning.  You have cheated us. No parking facility provided to us for our cars. Worst experience. Wanted to share this information to all",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Worst experience to me yesterday's room occupation.  You have informed NON AC ROOMS available and given charges and we booked four NON AC ROOMS and checked in at 7 pm on 14.4.23. Afterwards your staff came to room  and informed that all rooms provided with AC  and if you want we will provide same to us with extra charge of 500. Then only we found that no windows available in the room so that natural air possibility for non ac occupants was totally denied.  We couldn't sleep whole of yesterday night because of no air circulation.  You cannot demand every one to spend higher charges for air conditioning.  You have cheated us. No parking facility provided to us for our cars. Worst experience. Wanted to share this information to all",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chandrasekaran M",
+            "uri": "https://www.google.com/maps/contrib/112660352116964621444/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLL3Llg523-Y5jHgDKOQdMxfbuI11tftCdrTzx_7nHgKiXkKA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-04-15T13:01:25Z"
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSLWRiQXJRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "The stay was quiet good, friendly staff overall good experience and also the hotel os beside the temple so we can easily go to the temple and there are hotels nearby everything in a walkable distance.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The stay was quiet good, friendly staff overall good experience and also the hotel os beside the temple so we can easily go to the temple and there are hotels nearby everything in a walkable distance.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yadu Krishnan",
+            "uri": "https://www.google.com/maps/contrib/103182093585934200369/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmY1D3OEZs8oA5tjR0xkVuCEX0Loi6xBNirIv-sI7OlLSj-Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-04-06T03:16:52Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJbwdNtwt_kWYSrzHh75pudu7dz4ufNOPvP0mxmNswYhcruPSmjoHtdmmEQJpn-ij0ujEgTzVnK8bQhydxq4Mssqu00LYYMifJxT9NoeV3GmG1jKYR_kkpN9WKsIAfaMDlj9LDQxSdE0qntijPBn4oWcsFqRtPQ5eSGF",
+          "widthPx": 6720,
+          "heightPx": 4480,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJYBcPhUURV8pBXa9qPUWr7EQ0K9k1Uw_g3uSxK1b5Bsny8rU1juFip6JqoTvOgssrfCeMj6AV2TcFyHfFMWTj5EpcvZHxlCsOv8BpShvYFFxNPNWUjExoppopifCE1n7us9nwkMRmT3HxcZG-uYs5wKxCZL4hosDk6B",
+          "widthPx": 6720,
+          "heightPx": 4480,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJZP0ngJec0aCha9t05d6mlU8XEbfsyQFyhXYpd-ZyTCPy-zB8Se5DRKt4E7x8pox4ItGhYQPm7Zqh00iVhkaW7u9QwalrSOUnNRaeN8f18AytyltZ4aAg1Flb9m6ElfYvQvQ0Dxa1iF9EkWh8lrQUg--pqfk1pqkGTp",
+          "widthPx": 6720,
+          "heightPx": 4480,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJajXLyrk9f8q1l9gnnPWUjpnZ_PCvlIcGFz993CxntumvAJMDFdbFE-FneS_9F_Y5ActAdt_PLhWlZYwpXd-H8SZrmzG0CAER0HDWmMXtcjgkdKDARsTeA0mjylmheSysI5hVe768BlTLcHivdpPy449ZSUaWG_jbhB",
+          "widthPx": 6720,
+          "heightPx": 4480,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJYyGBRq8-g1V-Gl-IgppQu0tEFCUHdUT3Pb9tuSPv8Kz3NAqNE-A_IxL5x9S5zo8M3KKx8Te-plUKVbNuErUfuRCJpIwxC7r-rExH0bWbzENoXzg-my6O1guT7-yPQWRN1UDftQGN9H5OPJ4VshKWF7wCU--G5Msbhk",
+          "widthPx": 6720,
+          "heightPx": 4480,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJa0tFGB21AA4_ytnWRb32ITpi45XQ-xTR6st46-Zgxc4GVCs8gxNiSQBsigGQn_DVe4KOokBYq5sHGqzmrIU-_8v4U3ZJJKnxnNd-2ZnskGA6Idmxr8-AQx9edvQPBuTG4bzJYr7v7nXSr3GqoFVL-XLSxHQY5xGG1V",
+          "widthPx": 6720,
+          "heightPx": 4480,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJZDYDkHS856xYEYokw5RCwVYIM8gEs6f0c5vnDiyR9HJNWJ0s9fgiwseXxzyG8toyoQ42qlRaKeiz_Mk-vDY1ZuauxE_Zj4idieU6tu0b1uCYxMsAh8i-i6uWhyzH2YpFSPj7W_Hx0Onjc70wRF2j_5hNqJcyCQfvB2",
+          "widthPx": 2000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJYDgXXK2y79eisgjOHMkHlU4Zemi9taimkjfxk8r2lQDvRrcgQv0neYM73wZkl0TNELYL6GnYi0hcWzKv6LPb5FjJXWMOvDhexdGDqa-z9WLoKnfxE3dG40nOSbgLqMjJxx2Ck3rJyseCvgRy1zHpJCS-nWcJs3y6YA",
+          "widthPx": 1080,
+          "heightPx": 469,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJY-7zsEbFeeCpnNY4GCoesmp_jOMWAiGLcvz7c_QSwdfiVKfCQNY0b7iaUMRHa0hksptR5i6rChixkiS4mqWaHlebrHYBjyINLtQ951GLKIXhVyMs0_yEAGQ0XWBTPyRzBqBRlVpfEkK5Qxjaws5mxDZ3IDCjNuFMZq",
+          "widthPx": 4480,
+          "heightPx": 6720,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04t0CUWdCDsRsn9Ej8bPvLE/photos/ATplDJbCrFsk30JYitL7sDQAxLinbxfuwEi5sy3W_EZq8w-0vi4UEQPHauiTHCaJocCUs2u44ssTJdgGhu9iaSfQI0WF-VAm4n3bRG9r4_UGx1mKzuDhT5_3vDPAVo8V8INjmWJKjuMFSZ3bn7u3Rl2CKq4C8R0xkIpXxZDz",
+          "widthPx": 2304,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanilayam Tourist Home",
+              "uri": "//maps.google.com/maps/contrib/116272621514841933936",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJJhds3aLhANzaoHUJ5_OYvGy6BNKgHn2LmIJvGFhfBfIs0dQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8",
+      "id": "ChIJ80tA6XKbCDsRnMVLsFtTOM8",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0124 620 1164",
+      "internationalPhoneNumber": "+91 124 620 1164",
+      "formattedAddress": "145/F Beach Road, Junction, Punnapra, Alappuzha, Ambalapuzha, Kerala 688004, India",
+      "addressComponents": [
+        {
+          "longText": "Junction",
+          "shortText": "Junction",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punnapra",
+          "shortText": "Punnapra",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688004",
+          "shortText": "688004",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXR99H7+F4",
+        "compoundCode": "99H7+F4 Alappuzha, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.378651399999999,
+        "longitude": 76.362836
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.3772963697085,
+          "longitude": 76.361463969708481
+        },
+        "high": {
+          "latitude": 9.3799943302915043,
+          "longitude": 76.364161930291488
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14931776217811764636",
+      "websiteUri": "https://www.oyorooms.com/217602/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "145/F Beach Road, \u003cspan class=\"street-address\"\u003eJunction\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePunnapra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlappuzha, Ambalapuzha\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "OYO Hotel Al Ameen Punnapra",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "145/F Beach Road, Junction, Punnapra, Alappuzha",
+      "photos": [
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJa850iHQAvpO5mzo7PlxrslJz3ZEca_uWHkmBRfcWPjFEyL6SplfE5k2p4JICdF1bOJZZM3qUS0cnGYaqImpmqEjFmftGx_2Y7GFADT_WCDbq1rp4RzLOcnAbUhBA-Xi-avHMYjXEG2MZ_FEjXXUv1wtKAxhQWUacw_",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJZdfPU4yjkGmVDbCfmgjqAWo3t0njtdXTFVszWE3i_SBkAIRGHqLf3OHpt8CaKYByExt7f5vbRN_OalPBEzPQdhJolf3BUOYEJkJa2IOaen_T1ol0KRbMSILd1DTHhuovEV1rW5AeMtR7-2w1wJCI-HVkP_ikz_mw1M",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJZeU_PLzson9wKxoS-UhbNhFg97iMzdFdOfbo7TPbO6chjC5MIc0Y4enr6yTZDd7qvsyGUeNPt0XuBtxLaDSR9PiF37uA1-2KpVlUFSEva7TdAJzjNHk9v9vUYiTYSQRK4X_VkgmGQJJ1gLZ2YNwHcuJXMi9JZ4OaO-",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJYxnNMIrfGQujJ7wYkitxu3CS1o4NXlWmTT3yvJWCS8lMubLibUjU2TtvMTlq7fZKp49RxkqP0flLXuc40amj7WgC2ZmCp5U6roI38Dn0WtlKI3DZlsjhTp_EI0E5ky_37Z1m-InLW2v3IbA9JT7tTE67HR42kPX3uN",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJaeNpLCgLKbW2bOgKJ_h-QZCMhofXpQIFUtk-b0d8wqyLKOdPI2Fq3sgoFa-wMR3s2i4qUWI9vUnAveHY70apqXiIxI2WOnznjUWJVcU3sh0YCf4Lsk6aid1gzMUEFbCaVbduKmcGdHv5Q484EBoi3NNHu6KY304Q6S",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJZqvCkkAfDXU3d1t1U6_To2PVIvjPN7RMsAVmu6b34Z8C04mwr974CckNEdr0vLzhLnQK33D9xC8SJ5YNmdCv0hkQEWzP2ZHTEQCnV9qfCEOXXq1nlapbthDBgnc3qeHTsFAHB82Ip_FqSEJv5bP_1iQB42SWsQIQpa",
+          "widthPx": 640,
+          "heightPx": 426,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJbKVQ2XH9kk1PKS_sveRMK3FnrgCT487Uyh_HcYvdr22e-kvsDOTIdSWpqf4uFWBt8JNfJ1KsqahcRoBAEx5-r6QKDh97pzFnQto5nfUD-wuPuMT3vGxrqXT-r1v3sg5OfchAdBL42GgXxer70FLPf0bNFtJjTW5ZUn",
+          "widthPx": 640,
+          "heightPx": 961,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJbTAvVs5Gz1z2Pqv_EeGtmJOzCALJydWlxU9jeJTwc6SHyrViDqoiJuAwuyjDWZ5rDpJAv2MSkilOYH9tjkF_DIHMZ73ztW03plD8nH4dJziKU7qmZ0TiCTR8MQlB1z1zfhniUnbyRZ-gkB2Ui5S6lMMZHNT2g2iX2o",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJbPWYKqK0MgsMtbTMhD1hFmImYlg6tvo-od-gY9-UwMBKjNHbDKgmHl7sEw1GXmpN9mBge_OCI9_efQvu5hO1wh56Wg8FCmvDtefGimgiuAtHl_2m6oXcHLeP5kbqxwqbVQmTw3eRM5pimc-CPKNoIjYKdjIdmsjwW3",
+          "widthPx": 640,
+          "heightPx": 426,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ80tA6XKbCDsRnMVLsFtTOM8/photos/ATplDJY07tJv47JvFfUiM32MSjo5YEPKpmWzeQdd93EvsINwlqOXC56UxVKEWSYrM9GO1nQjXfctPWSf25Fkw46DqFsA-QKd4TYGwChg5X_AU_0xQ992I6wMuSx9Uf43256E6505iYrZgP5jOzGnAApool_8Dft9dry5Wjih",
+          "widthPx": 640,
+          "heightPx": 426,
+          "authorAttributions": [
+            {
+              "displayName": "SPOT ON Al Ameen Punnapra",
+              "uri": "//maps.google.com/maps/contrib/115878670014013396934",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKJXFTBPLagCStY91qGd1ZURJ5nM4Cp2msHOrkb21dMrOzFIA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE",
+      "id": "ChIJtzOAXISbCDsRp3EkyAA_KVE",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "99M9+CC4, Ambalapuzha, Kerala 688561, India",
+      "addressComponents": [
+        {
+          "longText": "99M9+CC4",
+          "shortText": "99M9+CC4",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ambalapuzha",
+          "shortText": "Ambalapuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688561",
+          "shortText": "688561",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 9.3835175,
+        "longitude": 76.3685686
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.3821320197084983,
+          "longitude": 76.3672925697085
+        },
+        "high": {
+          "latitude": 9.3848299802915029,
+          "longitude": 76.3699905302915
+        }
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=5848274863707681191",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "99M9+CC4, \u003cspan class=\"locality\"\u003eAmbalapuzha\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688561\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 55,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Vrindavan Tourist Home",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "99M9+CC4, Ambalapuzha",
+      "reviews": [
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkcEp6M21RRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Its an old budget lodge, the biggest plus is that it is just next to the temple, which means that if you get out of the property thats the start of temple premises.\nThat was the most convenient part of it",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Its an old budget lodge, the biggest plus is that it is just next to the temple, which means that if you get out of the property thats the start of temple premises.\nThat was the most convenient part of it",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sreejit Anirudhan",
+            "uri": "https://www.google.com/maps/contrib/115212622646411774999/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXivQ0YCRrOgI1Q3Rq7fZW0QkhUHyfaRRbF2jTmvXD_4cKVH1VyrA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-12T05:20:47Z"
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4Z3AtbWxRRRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 4,
+          "text": {
+            "text": "A perfect place for family for the sake of just temple visit. Calm, clean, safe and economical area with spacious neet rooms. One of the first stay options here, almost sharing the wall with the temple.\nHave enough parking space.\nDo not expect any modern day services like, bath kits, towels, soap etc.\nI wouldn't search for any other space here, if I'm coming exclusively for the purpose of a serene temple visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A perfect place for family for the sake of just temple visit. Calm, clean, safe and economical area with spacious neet rooms. One of the first stay options here, almost sharing the wall with the temple.\nHave enough parking space.\nDo not expect any modern day services like, bath kits, towels, soap etc.\nI wouldn't search for any other space here, if I'm coming exclusively for the purpose of a serene temple visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jishnu Narayanan",
+            "uri": "https://www.google.com/maps/contrib/112204785343119974008/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9bYDDbV1tmYVR9gT3xk7BK0Km_rMY_dHf1xWNw4Gpum4kFYP2=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-05-13T15:36:06Z"
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwX3EyOXpBRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 3,
+          "text": {
+            "text": "A complex very close to Ambalappuzha Sreekrishna Swami temple. It has auditorium with mess hall, kitchen and lodging. A restaurant was also available before but now it is closed. Parking is available. The auditorium is good for small functions. There is a beautiful courtyard in the middle but not maintained properly. Kitchen is at the second floor and no lift available.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A complex very close to Ambalappuzha Sreekrishna Swami temple. It has auditorium with mess hall, kitchen and lodging. A restaurant was also available before but now it is closed. Parking is available. The auditorium is good for small functions. There is a beautiful courtyard in the middle but not maintained properly. Kitchen is at the second floor and no lift available.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Krishna Raj",
+            "uri": "https://www.google.com/maps/contrib/117188292255736061444/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXA1WQ8teeH0grLfoB5gERvGEOeDCAKjjYQ7LifliYAsyAXdZ4s=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2022-02-16T05:31:34Z"
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/reviews/ChdDSUhNMG9nS0VJQ0FnSURGOW9PVGpBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Vrindavan Tourist Home is located in the West Gate North side of the temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Vrindavan Tourist Home is located in the West Gate North side of the temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shihymon Antony Lansalant",
+            "uri": "https://www.google.com/maps/contrib/102258002840734203783/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYca-BBvzqDm4ac53U9eiWMXUKg8eV19Rn3IhaTOGvaRdwJpK6=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2023-11-07T05:48:04Z"
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/reviews/ChdDSUhNMG9nS0VJQ0FnSURSdWZyNXFRRRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Very bad experience with service.They dont provide atleast a regular electricity.we have to shift the room at any time.They are not responsible at all .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very bad experience with service.They dont provide atleast a regular electricity.we have to shift the room at any time.They are not responsible at all .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "divya sree",
+            "uri": "https://www.google.com/maps/contrib/116224922219721387005/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUNDy5vT-FJnU8PMUxDomPCulGBPi-Vy5MD9drmKzj6vtw0A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-04-29T06:01:58Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJbbbjeaVppGKHUY2-yVyT4-FV28PlpVPSEzOeZDe_POFccEop093cXc3QrBmHGrDo3cM6SNqVAPZPoEGv4njOUYl9PB2dVLvFyjSIKDJra_l_-RM6nGXld4uJk_SWttalNlhmoMUyn2um_7dv2KK25C1hUuB_9P76VX",
+          "widthPx": 3264,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "Jishnu Narayanan",
+              "uri": "//maps.google.com/maps/contrib/112204785343119974008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX9bYDDbV1tmYVR9gT3xk7BK0Km_rMY_dHf1xWNw4Gpum4kFYP2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJaj3MW9ra6z9syxN_AqGJc_CvTVRkmLVWENIWr0fdFGJ8K1VCd-NbqpRnyrRG_Pei2m5G-v7aIGPKyFW4EDCCTacRcBKCKDSyRK2Ymn2rRJw23jyuUJPrds-artSa_G32fT0lGkLSoTQjroyJ6ULY0KDIISvqZK4dg7",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Jishnu Narayanan",
+              "uri": "//maps.google.com/maps/contrib/112204785343119974008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX9bYDDbV1tmYVR9gT3xk7BK0Km_rMY_dHf1xWNw4Gpum4kFYP2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJbfyjPUXbGPniKYhz29gpUQe6dJugXXMvYw_mE26VQ5i-jf0fQHyVH-4Of9_p_i_w7hA1Y7o9c67v30MdRpnQbIIE9zNhrU2ghj4AZ9TKKfVxsiyoETR-vqdnbBlZ0tspvSGlvhCRXSlH5fHhiaBeuITcLbsoVkFaP-",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Arun Das",
+              "uri": "//maps.google.com/maps/contrib/112888672770226523934",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU3CYzdDHT5fHOY3dHyf48wO1_y3Sn2Zjn3ZK-nXtYiWuw6XPo5UA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJbMQ6QC1k1awQ3HBKKx6msa19BMj3bMuvSWJulfdsYJFDA4rkR5BhcUtGVTdPQnn62PXUNNhcY0axjg1bv8EGW5RFQlJlwUesI2kTvIGFMsxGZgc_9-_N13PP_9IPdPcXqNe-GF3XlF596OBEGt2uQYxxJ1HgCQzREg",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Chief “Joseph Mappilacherry” RedEarth",
+              "uri": "//maps.google.com/maps/contrib/115348934149634198407",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUaZKA_y8plXH5DK3idCnBqrep8p2vw1V7U8nJN0euDDG2lYHjb=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJZr-8Rlj5Is3IRBEY3BIs_EJSyR1iuq55uzhTn66aQ2Hp1wzOu73PpXUT520ZsT3q7nRBGM9ZyDgseP_H45cxw1918YVnnhZl8Sre0J3lC_O3WSWGTgsNJgh5oHNeYtsygIVuIwWYI3lbKnCr1OVrTtEN-P-gpgBiyj",
+          "widthPx": 3280,
+          "heightPx": 1840,
+          "authorAttributions": [
+            {
+              "displayName": "Vivek Padmanabha",
+              "uri": "//maps.google.com/maps/contrib/117330065595407124656",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWv1a83zdtdq_QDF6YrQhFvdryEJpJfW84OBAe2oUYn8yYaybXY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJbXyQ05SVURenEGEEeEox7gbpcc3cp8zQsgfX02tIeu2p9oYcrzIWmscKll_dapxdmDDUCt7VyDPn-CdE2sVSKRCYTj6I8uMkF2PXD7ThsITc4V2UkEOJBp_vaO6vUQxX26V5_uAHSz3j0mUcGu37KwFmg2TQL4nuXz",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Akhil ASHOKAN",
+              "uri": "//maps.google.com/maps/contrib/102967997566274261273",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX6E3kLBngYksRm-KDhIQpO4gYjzkNSVaXv6KSgZf_U9oggcAY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJYoS5TVEdXayd7zKDRkwrIiRQrTikSkwHJhGzt4cPtaBMjOJDQ36w-sEB568-1Tb95yQc1MzvaR-2pTtUyZsodsXPlVKaHmFXdlRh83LnEdVzzCmXtjsd07fD0muXrx7l0xXVgBQWVcW-QELAus6NugvLnD4mAnL8_T",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Akhil ASHOKAN",
+              "uri": "//maps.google.com/maps/contrib/102967997566274261273",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX6E3kLBngYksRm-KDhIQpO4gYjzkNSVaXv6KSgZf_U9oggcAY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJY9CnQAMC8W5nWbYVB6MoxOkrhMcuiB4igYo7OCqpXro1M_DviDueP6NCTsdS1RT2Jwfc78Fwx74JpiejNV96ci78Oejhj8IlNtbDsRFLjxwmo6p8JJ7PP6rKirKqd_ojI_Ld0GelmjWoW9EfQ5ws6LtHiFOZVwjEnb",
+          "widthPx": 496,
+          "heightPx": 1072,
+          "authorAttributions": [
+            {
+              "displayName": "Krishnanunni P M",
+              "uri": "//maps.google.com/maps/contrib/114515123998969483338",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU2GqE3Ag6ErHaMxkhLiLcbZ5oTm6Gc4NN_nuWJedJWpxsyJOzk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJbJKMEuP-DxFI90kUhEXK_qQvld2hg8b6ozPn8xAaAIWM6xBCnhGdr34DLsIGMLFZ9TuZC0YdXG7Fb-AcdxKSX7-b7HaLiHsoNNOHwlQYGFm_hxG1CAZRCG69tNIPRcg_NMJOZxATPMg3ND9LYz94JR00hJI888eT7i",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Arjun R",
+              "uri": "//maps.google.com/maps/contrib/108286470824904180724",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXPuouJMjHO0zdlaVtc_yJ3wXuEevMiEWl4PhCorJB7oNcemK8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtzOAXISbCDsRp3EkyAA_KVE/photos/ATplDJZCHzj2kKayTMqF4aGnjcgEeSmtxcLmymlEJeURv9snnEi9-FWX6TMD31mzezc7eT8HboIJXPoh6geeX6Up4XinOQ__caH9JQjaSungOVMZ8e0cHjQztpTzFaDE8yqv6QDEOMRprpNL4pMZZmvIa7bV3afhKVL21Mc",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Krishna Raj",
+              "uri": "//maps.google.com/maps/contrib/117188292255736061444",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXA1WQ8teeH0grLfoB5gERvGEOeDCAKjjYQ7LifliYAsyAXdZ4s=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U",
+      "id": "ChIJtd9biGSbCDsRQQg7tfRHn1U",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0124 620 1164",
+      "internationalPhoneNumber": "+91 124 620 1164",
+      "formattedAddress": "Nakshatra, Vandanam, Kerala 688005, India",
+      "addressComponents": [
+        {
+          "longText": "Nakshatra",
+          "shortText": "Nakshatra",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vandanam",
+          "shortText": "Vandanam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688005",
+          "shortText": "688005",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXRC89X+7C",
+        "compoundCode": "C89X+7C Vandanam, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.418157299999999,
+        "longitude": 76.348573399999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.4167928197084958,
+          "longitude": 76.347185219708493
+        },
+        "high": {
+          "latitude": 9.4194907802915,
+          "longitude": 76.3498831802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=6169729130859006017",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eNakshatra, Vandanam\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 40,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Nakshatra Residency",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Nakshatra, Vandanam",
+      "reviews": [
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsM2NPWHJnRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Please dont trust these guys. They put lower price online and when we go to check in, they ask for more money. Which is practically like cheating on customers. Think 10 times before booking.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Please dont trust these guys. They put lower price online and when we go to check in, they ask for more money. Which is practically like cheating on customers. Think 10 times before booking.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Muhammed Musthafa",
+            "uri": "https://www.google.com/maps/contrib/106169555119772700554/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV63o2SCLLUJFmtRrarE5vMt163Ork9gKEnRgAS-tJwitjllgY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-25T02:00:40Z"
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0dmQtV213RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Worst experience ever , ive booked via oyo and booking and payment were done by online and when i reached the hotel they denied my booking and the were saying they cancelled agreement with oyo the catch is it is still available in oyo for booking and i had to pay extra money for the room  again",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Worst experience ever , ive booked via oyo and booking and payment were done by online and when i reached the hotel they denied my booking and the were saying they cancelled agreement with oyo the catch is it is still available in oyo for booking and i had to pay extra money for the room  again",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "EM EZ",
+            "uri": "https://www.google.com/maps/contrib/113263344286114309134/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPawVegVCMdiXFw9lGFqL047W8U23kapag4UpAfhGlYie8e893Sg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-31T14:53:22Z"
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaeV83T0tnEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Definitely worth the money. The customer service is something to comment on too. I would definitely recommend the place to my friends and family.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Definitely worth the money. The customer service is something to comment on too. I would definitely recommend the place to my friends and family.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anika Merin Thomas",
+            "uri": "https://www.google.com/maps/contrib/108944618153215183072/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJL6gIkbEiU_7QrrkxqxQ4Q6OxbjJITM-I8sjdaWqZ6x-ncCkw=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-09-18T07:37:48Z"
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaeTZycTdRRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Neat and excellent customer service.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Neat and excellent customer service.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Avinash Murali",
+            "uri": "https://www.google.com/maps/contrib/116374180717445248871/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPeX3O03uPnM47F1EDbBqUC1RpoiwVDfHH6GZUkvCYbF3Y2yyW=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-18T06:56:56Z"
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNacTdMQk5BEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Excellent service and felt safe",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent service and felt safe",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nonam Chellappan Snith",
+            "uri": "https://www.google.com/maps/contrib/106147464977488033777/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNyBOes1hIeTVIZXamsYYgIdnZmkAyWVlAVCIM0T0IvOwsqqM=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-18T10:27:17Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/photos/ATplDJb-i2pQCME_3NBhO-g-Ody-p4H5XlcVOV3VB6-BdZI6cxCLzeO_QXEoia85N33uLwGWcZ9C0JqXXVsUnM80oUK1dJVRrs9TSOik__S7OTtoeYgBf2K_AtY66tAtbF0mv8i3z3wcbr8Sdlp0uYoVmqFQTsmJzi6jrYcH",
+          "widthPx": 576,
+          "heightPx": 1024,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Residency",
+              "uri": "//maps.google.com/maps/contrib/112074013237037933077",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWEG1JOOhOYXZ3oL6zJCWfJ8w71QijqLSIDvAgzAab743bqDU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/photos/ATplDJbCmzd1OZPSMoUDMgkkCBBz1djK28WyG6g4ucj0a7pkj2-uB_OSctZlQOFFDvZavGRrW4IQ6GS1enrnHYIEFkj_iHFrlDhcPe6EZIRMirh1CqmwzvcKZG32XKL9SZmpgP6qBzwG7UJvBP8dzjsHF6jwUZI9onGhLjug",
+          "widthPx": 768,
+          "heightPx": 1024,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Residency",
+              "uri": "//maps.google.com/maps/contrib/112074013237037933077",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWEG1JOOhOYXZ3oL6zJCWfJ8w71QijqLSIDvAgzAab743bqDU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/photos/ATplDJZ0kYvNQ4hTcgzc75xcmwn-oWp1rxkj7FvTvoaPMmdgsLnhq5t6l_CwM2TF_tDjXJuvE7LpEqyqHcE7Lla2LkjeJSfpWX69yqJBbnqceQXaq0cq7pTMPk5IVMaENk3jM5XtHEk6ih1G_Gl4XCY8gkIUK0DlIash2z1m",
+          "widthPx": 576,
+          "heightPx": 324,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Residency",
+              "uri": "//maps.google.com/maps/contrib/112074013237037933077",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWEG1JOOhOYXZ3oL6zJCWfJ8w71QijqLSIDvAgzAab743bqDU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/photos/ATplDJZ4iN3eDKwRbjEozAwmTrG4oA3KYVGGWDsnFHPc083fpMZd2SfVckoSHLNBJzau7OO2WKiaU76pduHCw3SSsBUbHT-jWAmQZuB5WDiWyb4e8lS8Fe6GFV9Y_nPIS-zNPFkSDyFamAHs8R6SvYRDy_QGM4o9WYulH1jp",
+          "widthPx": 768,
+          "heightPx": 1024,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Residency",
+              "uri": "//maps.google.com/maps/contrib/112074013237037933077",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWEG1JOOhOYXZ3oL6zJCWfJ8w71QijqLSIDvAgzAab743bqDU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/photos/ATplDJa35lKgrPMc-VBr1lo0Jt3Dm02rloAw8FTec_C3Yl9dpBsgaSF1XYyZB7vuWGGJQDpaHyBLOw_QIydZoeULLE_4Y4b4Oy_0FJCV8ZFZZ3XIgGaBeBf51raMz3ku48T3-NfADDz391Bie54Thyj0tci8Dx7p0RVjVeCF",
+          "widthPx": 850,
+          "heightPx": 1024,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Residency",
+              "uri": "//maps.google.com/maps/contrib/112074013237037933077",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWEG1JOOhOYXZ3oL6zJCWfJ8w71QijqLSIDvAgzAab743bqDU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/photos/ATplDJbnTtaJgCQINQbjBobfN5Ss3YUTHSbx_DoWm4fxaNJ9D85jfme5mQRdE7rGLvywAlZdv4MB-HFN0pfYOeDvDDvGKhF7LHWpNIjqreR7jaTZfdZqtRpc55ipXJx1BGVP3hgaq-dvWyMgpGwU1e8kzFJBUj1v-BvOzq7Z",
+          "widthPx": 1472,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "JEFFY Uthup",
+              "uri": "//maps.google.com/maps/contrib/110692752363910644683",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUSY4-wFCFEHvPHqmtNQfO1agHKk8m3RjYcwKGkEuhEbSkPVNgh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtd9biGSbCDsRQQg7tfRHn1U/photos/ATplDJZRyiAaKvtIpDjmuKeq-07T17ntJiSsjI5m06sdHTxzldirT_xTYqTMm8A-2-tPWYVHQsZX2ZhdTng_WUWoOLy_xj4-3dZIH8Z3YRjjEnFuqMaeCirkYwTC128Hrt1jYKz0qthdm4MW3LfCZzcD8lxt_XuJyRliIpFt",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Nakshatra Residency",
+              "uri": "//maps.google.com/maps/contrib/103406527815159508767",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKC9oFcwmGsRLySp2s_l7u6wDweSQHA_888RqBNwFHsq29S0Q=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM",
+      "id": "ChIJacc-b7mdCDsRtrfDIn_4GdM",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0124 620 1164",
+      "internationalPhoneNumber": "+91 124 620 1164",
+      "formattedAddress": "West Gate, near Sreekrishna Swami Temple, Ambalapuzha, Kerala 688561, India",
+      "addressComponents": [
+        {
+          "longText": "Sreekrishna Swami Temple",
+          "shortText": "Sreekrishna Swami Temple",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "und"
+        },
+        {
+          "longText": "Ambalapuzha",
+          "shortText": "Ambalapuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688561",
+          "shortText": "688561",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXR99M8+9W",
+        "compoundCode": "99M8+9W Ambalapuzha, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.3834695,
+        "longitude": 76.3673414
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.3821043197084979,
+          "longitude": 76.3660238697085
+        },
+        "high": {
+          "latitude": 9.3848022802915025,
+          "longitude": 76.3687218302915
+        }
+      },
+      "rating": 1,
+      "googleMapsUri": "https://maps.google.com/?cid=15211462441348347830",
+      "websiteUri": "https://www.oyorooms.com/h/80107?utm_source=Google_gmb&utm_medium=Organic&utm_campaign=ALP204&latitude=9.38347&longitude=76.36734&locale=en",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "West Gate, near Sreekrishna Swami Temple, \u003cspan class=\"locality\"\u003eAmbalapuzha\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688561\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "OYO 49862 Gabis Wings",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "West Gate, Sreekrishna Swami Temple, Ambalapuzha",
+      "reviews": [
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/reviews/ChdDSUhNMG9nS0VJQ0FnSURKLWNLR3VnRRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 1,
+          "authorAttribution": {
+            "displayName": "MÝŠȚØĞÅŃ MORIARTY",
+            "uri": "https://www.google.com/maps/contrib/112112128178337606057/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLMeqNOxmlkw-a_HlWNwyDO43I3vi3T5awLr0XWebWJA2U7nS9=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-07-20T10:58:45Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJbAt7H9_B9RRYgB-xJpdfE973KUD5jXualQz-DI0tWG2cQQcqw7lckpenM76a4CEuvxnDM9EKgiLYJ9LBJV_tUBgRLNJdKn_okcT0UmTBYMK_c871YkC1Rod9aRpmubaMnBCLaj-jeB4URUB7yTqMjeRkSPxWjabaOb",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJailozvMrGT2o5UTo-TyrgNXxtb75q3tXHDY0tQv4KVKO10HSq--QuijxeBxz08w-O7WuW6POy8pOH5oN_cwiQ4d8FqHvAzhqwdqyqThoVbYXa8I8fZf75yYypVPxgnOH0s4gOlMabGVUAnfxq5S9dqhQ2Bqype6EwY",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJbiWXMt0kbY0EyCd6RVfRC3w6buEcW0nLEX4pYlJtzQc0smsENLnACLqTN0IyHMm9fiNdJJpRtR8eXbRnRevbg_dwYINix_Btw9a2GuaZzcl8heK83g01dynqsjqM87v8v3aNJhw47Pd3zveP-lUAXh4LfNzbMGzQpN",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJasEwqW5C0CD72n5LIsvdeUtKZS5yCQQRb_oOBXBaiFi6kep6pZx6X-CBPQimppHuCsjsq3GtB4-tDYODAIWxRO7GAL8EsBQ5RrxuXJS5Y5lhnGXZUbm2S9snLdLRqxD8l9me9of8nIDgMadf4lYrDT4oi8pkrlqCEB",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJa3fsAxfDD2mQAGlzX32pQCXTkFNkL93xhvywvAxM6shBo_ANCsgFVYZQmX7Gt9v2DuczispHCvUsr8lKweXeosiF4s7uvuMcrdO9uvCyRXZ2UF3m25hzWi37wdsH53VgX9Puhi64ZraRhn9QoeWfVqfNkX2eaaAm-G",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJbDW9No7OYZDqlINsaJhPWm-dHLzNgMLE5TtIV9XsrFzkfmgLv4-XIRNl4g7r1AF7ypkXwIiFLiW6AbuvZBJchtw7fwgFbfNDEenPAukLmz559vsV5hV8Z4IfHspkhSSwixvCVX6hGAx8kAwAMVxsV-USjUqEIyXL92",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJZZKNR4gqKlpwGihiBYkPRg0jdne4r8br4cjmHOkxuN8WOrLexIAop1tkYuZFziu7Ko6nxHBA_66cKvWuRN_Q5Fo3zRlLvbpCsQZtBo_tfLi_3U-52lPzMhaG2f0Z_U5t9yclF0Roo1xmlXM0KijMdy9MlHQtgHnTjx",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJaIpiHC0DFje6PtyD6BNrMx9TA3vThMqUNILbT8l_Kcf8ZN_Q3cFfzGVK55K5fTU4OF2yHpZ7f3ro-ifiXEaUThbzfC68YZAvzOwtvrAqrw-KO1-5ZJxnlQaqozLqha2tQAU6Kri6wQjSL5m09aRgsv4z5NzItXTmLQ",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJZSHIA2D3ieun8yd0Er9PDB9zRLRtEBRVJuYWC0Jpnc88xJjIBnvoCVJY5kzvw8Psh4CMrSMszHYfBqMygTWfrf8A91fI6PuNBxjDGYW9zE5Z1OcNMlqof9JaS_ataru5XE_WgGao2VVilfoiGCzksWrtbgEohle16K",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJacc-b7mdCDsRtrfDIn_4GdM/photos/ATplDJaj6yjxFGZhlZXToZ7GOaK6FSALJu6PR4wlVv4DIcoU0ExWBFSzu6iog9vcD0H3y_8npjOibCo13e_-Ww1hwQGCYHd508-zWsa_RGfAYw9EV2fyrJoetYI4B-D09I4pQmYJualZlFUh59KJjK-kSl9L-tnG2tQ8GBMv",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO 49862 Gabis Wings",
+              "uri": "//maps.google.com/maps/contrib/116655771387518726103",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZNttumY6Z6nWvZr0tpRyLTGCc1toApAFr_qgiz0zRlCUkVA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg",
+      "id": "ChIJnzHl1WacCDsRt-nbPJz17vg",
+      "types": [
+        "private_guest_room",
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094477 04374",
+      "internationalPhoneNumber": "+91 94477 04374",
+      "formattedAddress": "Vaisyambhagom, P.O, Vandanam, Vaisyambhagom, Kerala 688005, India",
+      "addressComponents": [
+        {
+          "longText": "P.O",
+          "shortText": "P.O",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vandanam",
+          "shortText": "Vandanam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Alappuzha",
+          "shortText": "Alappuzha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "688005",
+          "shortText": "688005",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JXRC95M+34",
+        "compoundCode": "C95M+34 Vandanam, Kerala, India"
+      },
+      "location": {
+        "latitude": 9.4076463999999991,
+        "longitude": 76.3827769
+      },
+      "viewport": {
+        "low": {
+          "latitude": 9.406343419708497,
+          "longitude": 76.381518169708485
+        },
+        "high": {
+          "latitude": 9.4090413802915016,
+          "longitude": 76.384216130291492
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=17937544417248012727",
+      "websiteUri": "http://topyardheritage.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Vaisyambhagom, P.O, \u003cspan class=\"locality\"\u003eVandanam, Vaisyambhagom\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e688005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 49,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Top-Yard Heritage",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Homestay",
+        "languageCode": "en-US"
+      },
+      "primaryType": "private_guest_room",
+      "shortFormattedAddress": "P.O, Vaisyambhagom, Vandanam",
+      "reviews": [
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNONzVqdVdBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Beautiful Quaint little property in the heart of Kuttanad. Makes you feel right at home. The owner has loaded the place with all sorts of water rides and equipments. The place also has a swimming pool but I'd wholeheartedly recommend you to take a swim in the lake rather. Plus, you are served a homely Kerala cuisine meal. The highlight here is you will be served the fish you catch from their pond along with the other dishes.\nYou can reach the property by Car or Boat but I definitely vouch for the latter.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful Quaint little property in the heart of Kuttanad. Makes you feel right at home. The owner has loaded the place with all sorts of water rides and equipments. The place also has a swimming pool but I'd wholeheartedly recommend you to take a swim in the lake rather. Plus, you are served a homely Kerala cuisine meal. The highlight here is you will be served the fish you catch from their pond along with the other dishes.\nYou can reach the property by Car or Boat but I definitely vouch for the latter.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Joseph Johnson",
+            "uri": "https://www.google.com/maps/contrib/101943060638128306935/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFORjhA1gftNkn-fo0GTgulIW6k3N1eALNL_U2F495w3u1_cJ8dw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-19T06:26:45Z"
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/reviews/ChdDSUhNMG9nS0VJQ0FnSUROejlEQjdRRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent place to stay.. right in lap of nature with backwaters flowing on a step outside gate of property. Lush green garden and very clean rooms. Owner serves homemade authentic delicious food with lot of love and hygiene. Happy go lucky staff. Overall Amazing experience. Good people. Overall the best place to spend your vacation",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent place to stay.. right in lap of nature with backwaters flowing on a step outside gate of property. Lush green garden and very clean rooms. Owner serves homemade authentic delicious food with lot of love and hygiene. Happy go lucky staff. Overall Amazing experience. Good people. Overall the best place to spend your vacation",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "riya albert",
+            "uri": "https://www.google.com/maps/contrib/117804583092013961134/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXH_FB88JX0yvkSkHujfn5el2bWclJxzSgtRIITJDzZR787Icg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-27T08:11:26Z"
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNONzRUUVJ3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Top Yard Heritage is a gem for a weekend escape! The resort's got this awesome backwater view, and they throw in cool stuff like kayaking. It's like the perfect mix of chill vibes and a bit of adventure. Definitely recommend for a laid-back and fun getaway!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Top Yard Heritage is a gem for a weekend escape! The resort's got this awesome backwater view, and they throw in cool stuff like kayaking. It's like the perfect mix of chill vibes and a bit of adventure. Definitely recommend for a laid-back and fun getaway!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aromal Kunnath",
+            "uri": "https://www.google.com/maps/contrib/107306848730742929826/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKScZ0doMlW4ovkkN2qPWe9uUBRWr7Df50wkLy9PHlJxxmo9Q=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-19T06:32:49Z"
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/reviews/ChdDSUhNMG9nS0VJQ0FnSUROaXJfN3ZBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "\"Excellent experience at the Top-Yard Heritage Resort in Allappuzha! The location is beautiful and easy to reach.The property is meticulously  maintained, and the staff goes above and beyond to ensure a comfortable stay. The food is delicious, and the amenities are top-notch. I highly recommend it! ¹\"",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "\"Excellent experience at the Top-Yard Heritage Resort in Allappuzha! The location is beautiful and easy to reach.The property is meticulously  maintained, and the staff goes above and beyond to ensure a comfortable stay. The food is delicious, and the amenities are top-notch. I highly recommend it! ¹\"",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "devasia devasia",
+            "uri": "https://www.google.com/maps/contrib/109701178961096589974/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAgGRjJashm68cPAst-bZ1FGuvY9zF1w7u2oCXmpZ_6Oyi7F1L=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-21T13:32:58Z"
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/reviews/ChdDSUhNMG9nS0VJQ0FnSUROejVpZWhnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The place is next to the backwaters, very calm and relaxing environment. We got to see the sunset on the 1st day, it was mesmerising.  Good service and support by staff.  Overall, great place to stay.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The place is next to the backwaters, very calm and relaxing environment. We got to see the sunset on the 1st day, it was mesmerising.  Good service and support by staff.  Overall, great place to stay.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Diya Mariya Albert",
+            "uri": "https://www.google.com/maps/contrib/114924503521605535745/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBAq8sP6XUJKh9doB4a1zK3uW8n3Bnqp5yIVx5sTZD0_RIzQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-27T08:16:17Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJYxdVej3m0ddsgOLLMozlB6LJQEcESqggQ8xW_oF2oDw_6X06hOVsK9_PS8TdAPxPfd4eZDD7O5s6EbKs7OxFCABpxaFi5eQ58YeAPSgYnIbY8J_srcYSq4aIk6QSKVuMHQhgksoD9mS3Va-E3oI3GbTJcFcxv6wvGA",
+          "widthPx": 4032,
+          "heightPx": 1816,
+          "authorAttributions": [
+            {
+              "displayName": "Joseph Johnson",
+              "uri": "//maps.google.com/maps/contrib/101943060638128306935",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFORjhA1gftNkn-fo0GTgulIW6k3N1eALNL_U2F495w3u1_cJ8dw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJYqtr9i155akYnKVVpczbXh2uqEBvG2yTXNXKtRaCi5vdYnHTSh2EIKSl9Wdrd1z60GT4PLTRHthDOFztsoFc4c7PvR-Ka6q-tnVaDA7TiWSNFXGlwa4zq7JrM7jNl6BkJLjzEnkl2-YeXhsdcp6NOtzym11mw6OrYX",
+          "widthPx": 4000,
+          "heightPx": 2725,
+          "authorAttributions": [
+            {
+              "displayName": "Cinjith B",
+              "uri": "//maps.google.com/maps/contrib/104287149983272642245",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk-gCHrgu2_W3GXtDMk7WU1K72dQDXRv0hDV6FHOFHATuAMnBVAg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJaTEVvV2zDNfuCs7HrzKLolWXuJ8wQtA-R3E44XIQjpddpOMcSGEXeYw0_Y04ReyC2QxX08JsUs2MVrDBrn0OPibZjYqQDnyrXEd3E8b6Wl8Mu1Vdczz94IzIghV1tQgZWQOah2w74myw3gyPjNVzi-IKbivb_mamzL",
+          "widthPx": 4208,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Cinjith B",
+              "uri": "//maps.google.com/maps/contrib/104287149983272642245",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk-gCHrgu2_W3GXtDMk7WU1K72dQDXRv0hDV6FHOFHATuAMnBVAg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJbCsl5zlLYxAi3qEGcI4axlQTIz2-UM2BZ6M3ZtJDU1g9g2nccmlhIg6PZMkNSCLXY9D0BJKNrXwx-hK-QeNJUzhwx3ChNEmaOoFqKz00WCvZhLdZy6Kk_OAoN0ob_OTsOGqTQV6J3EXS-r4KPLtdcuoyHmvfPkL5uC",
+          "widthPx": 1080,
+          "heightPx": 764,
+          "authorAttributions": [
+            {
+              "displayName": "mathew joseph",
+              "uri": "//maps.google.com/maps/contrib/109450908602168747616",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiodUkpWtEVbeBHecY4BQB8Upy-AY9l7yN9sPfh_VeOJI9BY0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJaDx2EjBYvWMFVmuei5WMEDnv24uNMFDcjgMFytMgmcZiD0h5Fx5W7cD-26DWLoW5k_kZ-vov378iAYU6TMB1ymcp1SwKdKqABlnb3J18QBKqHuTAD6G4PNa2HHKqN8XXiEJbY4NETdbfd5PVayd4gvzzRQWsBANgQP",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Raul Zach",
+              "uri": "//maps.google.com/maps/contrib/110720829802199947446",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3od3BG5RkAg2KSn_VsW0T6-p1hVNEUy8r0X7a4edLTgPKEbHeIw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJbyzYzbTIMwh4nGiYr-PIOTasjXMs2xXdwmJyexn8niCgws4JG5jiIhfrUtRJwI158xjPfd4FmoJ1bOXH1VIM4068Kk5S6Y8hROgrl1RbwLDtZRb_h2wamk7j7REmUv4kruQF4ev2ICnYLxLQqIUhYjkeVflYdfE-Wr",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Raul Zach",
+              "uri": "//maps.google.com/maps/contrib/110720829802199947446",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3od3BG5RkAg2KSn_VsW0T6-p1hVNEUy8r0X7a4edLTgPKEbHeIw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJbPuFXk0Jl5ul5N6um2XZZJOZbZXvWY30H4zqMDcB77JwwtCyVzQ8i6sBNhAI0-ghve_4RkK6E7gMbBQAm9vC3R9gwLRsuKTEx4RyM5osarc69KvcyuQCPhb4WAXu72GMoDInPC4uNFcMf7-vAG-NITNq1XivVtUOBI",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Raul Zach",
+              "uri": "//maps.google.com/maps/contrib/110720829802199947446",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3od3BG5RkAg2KSn_VsW0T6-p1hVNEUy8r0X7a4edLTgPKEbHeIw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJYeGxzqFvufDzOb2QiymfqNZY3E-5SM8qMyN8GZT342RPa0bPAbaiZ8GMb3CDS2sozqol8CWqHbqQOW3q6BYRgo35xzuVaCTy_gEwpVBUCj_70Qm2-ViQrZMx_RRhgYAHwb77yhWPzRbNeR6wKE_E61xMDnXV3RLKY8",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Raul Zach",
+              "uri": "//maps.google.com/maps/contrib/110720829802199947446",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3od3BG5RkAg2KSn_VsW0T6-p1hVNEUy8r0X7a4edLTgPKEbHeIw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJac88_zhVkoc20b--OvUgTFxyu06GJjYkefApTNG5asyunFWDK6iJF4FU894YJhar6UzWjolnrYmlPG1exa-prS3XER5ldkmY45IZt3UsKB2yHcpgHfjZXv4pCKpKQyHh8XiDlyfw5kMhB-sddxUpGKULgqCLYE9sU_",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Cinjith B",
+              "uri": "//maps.google.com/maps/contrib/104287149983272642245",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk-gCHrgu2_W3GXtDMk7WU1K72dQDXRv0hDV6FHOFHATuAMnBVAg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnzHl1WacCDsRt-nbPJz17vg/photos/ATplDJZqClLXb1oVFu1-MLO09OPWzMOSKBwAZzcRi4Mizv735SLkJZnkwDGLu2D5q3bgZxYIYcIUavs5r5ShsQV3HGkTGzGvLcRI_44TnJTnza6puaO6QZgVNqKQLcPYfA5oUtxwNDWW8EyZOXtRbVx5wRW7o5KmsftLMvY5",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Cinjith B",
+              "uri": "//maps.google.com/maps/contrib/104287149983272642245",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk-gCHrgu2_W3GXtDMk7WU1K72dQDXRv0hDV6FHOFHATuAMnBVAg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

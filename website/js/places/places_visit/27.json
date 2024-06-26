@@ -1,0 +1,4575 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y",
+      "id": "ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y",
+      "types": [
+        "tourist_attraction",
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "V2VF+J4F, Solapur, Akluj, Maharashtra 413101, India",
+      "addressComponents": [
+        {
+          "longText": "V2VF+J4F",
+          "shortText": "V2VF+J4F",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413101",
+          "shortText": "413101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.894073499999998,
+        "longitude": 75.0227956
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.892644969708495,
+          "longitude": 75.0215962197085
+        },
+        "high": {
+          "latitude": 17.895342930291502,
+          "longitude": 75.0242941802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=6241925989736029140",
+      "websiteUri": "https://aklujcity.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 14,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 14,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 14,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 14,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 14,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 14,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 14,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Tuesday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Wednesday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Thursday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Friday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Saturday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Sunday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V2VF+J4F, \u003cspan class=\"extended-address\"\u003eSolapur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1527,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shivsrushti Killa ( Akluj Fort )",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 14,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 14,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 14,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 14,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 14,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 14,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 14,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Tuesday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Wednesday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Thursday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Friday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Saturday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM",
+          "Sunday: 10:00 AM – 1:30 PM, 2:30 – 6:30 PM"
+        ]
+      },
+      "shortFormattedAddress": "V2VF+J4F, Solapur, Akluj, Lumewadi",
+      "reviews": [
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUREcnAzaEFREAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Fort of Akluj\nThe name Akluj came from Shri Akalai Devi. Solapur to Akluj is approximately 118 km and 169 km from Pune.\nThis fort is located on the banks of the river Neera.\nThis fort was restored under the guidance of Babasaheb Purandare. It features army statues on the coast, mural sculptures of Shivaji Maharaj’s life, scenes of his coronation and birth as well as models of important forts. Totally nice project done.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Fort of Akluj\nThe name Akluj came from Shri Akalai Devi. Solapur to Akluj is approximately 118 km and 169 km from Pune.\nThis fort is located on the banks of the river Neera.\nThis fort was restored under the guidance of Babasaheb Purandare. It features army statues on the coast, mural sculptures of Shivaji Maharaj’s life, scenes of his coronation and birth as well as models of important forts. Totally nice project done.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kumar Jain",
+            "uri": "https://www.google.com/maps/contrib/106245084939239397739/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKd29IvOwhWkRI7icFXdeNzF3dPe96xyiXj-rOUX9gR3ojcjr1=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2024-04-09T16:45:34Z"
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxbE42VkhBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "One of the best renovation of the fort done by Akluj Grampanchayat. It was opened for public since 2008. From Birth of the Shivaji Maharaj to Coronation pictures are depicted on the wall of Fort. Coronation scene was formed in a Big way and great way. Something extraordinary to see. Free ample parking in front of the fort.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the best renovation of the fort done by Akluj Grampanchayat. It was opened for public since 2008. From Birth of the Shivaji Maharaj to Coronation pictures are depicted on the wall of Fort. Coronation scene was formed in a Big way and great way. Something extraordinary to see. Free ample parking in front of the fort.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "BHARAT DIVE",
+            "uri": "https://www.google.com/maps/contrib/116061241885743302448/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxixx6WO1yjFil7rEvlmVkJgMfisreSs9qFmNi_7t1xK_79pxx=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-12-23T12:17:52Z"
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURkeGNybFF3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent development by dignitaries. Every statue looks like real. Beatiful garden landscape. Peaceful place in akluj. When we visited, only we are only the visitors. You can imagine how one can enjoy this place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent development by dignitaries. Every statue looks like real. Beatiful garden landscape. Peaceful place in akluj. When we visited, only we are only the visitors. You can imagine how one can enjoy this place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sujay Nikate",
+            "uri": "https://www.google.com/maps/contrib/115301551965227995584/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJ-AHvfrFrb3-JR-EVTdo-GGlaCANYKTNB-tt90S7BBDiJmgmj=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-25T11:52:17Z"
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURENHQza1lnEAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Provides scenic views about shivaji maharaj's life history.\nInformative Models about different forts of Maharashtra.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Provides scenic views about shivaji maharaj's life history.\nInformative Models about different forts of Maharashtra.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "102_Vaibhav Shelake",
+            "uri": "https://www.google.com/maps/contrib/106436772101588120860/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnP22oNPKNfKt5lbtWWEpJcGk6wkR2pm0iM7JzZQTteUxl3AOA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-07T11:23:46Z"
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWOHJ6VGFBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place showing Hon.Shri Ch.Shivaji Maharaj 's  presence with spectacular statue.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place showing Hon.Shri Ch.Shivaji Maharaj 's  presence with spectacular statue.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amar Baravkar",
+            "uri": "https://www.google.com/maps/contrib/117551452901199463820/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvxRlfa9n3-IiqHYBGluhokGcaIrXbpwRrRJupGSNq9YugItJfzQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-06T12:38:09Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJbfjYi9c8FBqEfxLZ4PcrYuNVA1nnHHwN9XSXUL6Knz_rsaz5PzK-r8xr_IzVzcBBbwAhO4p0LfK1qm0EIgxRSxOkLBv6kGUtrLDTPQgSS2lBTYTs3inFau036fV_iDwuuqTUIWrq552JLj1aZLGmmvowi3XNMMw4Sn",
+          "widthPx": 12000,
+          "heightPx": 9000,
+          "authorAttributions": [
+            {
+              "displayName": "Gaurav Shinde",
+              "uri": "//maps.google.com/maps/contrib/113700974204437952174",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZRBV1nR_XHzoma2kr922SINl20Q8-C68053zbVu1MU_gktuiVVw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJaohDl4Og3aJpZv2jS4TDsOpHW8uMC-Ce2ygm1lYZCgWt3z4SWId7pqJxTP2H9XK9027pqd6TOTCpujTRbteywE259M4McuGeZEZgXPkxMhBIkLQCyIABcTl8a4GN06pp9p2Fuybx6fATMumfXHDrTyr1lrZFts27bE",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Sachin Deshpande",
+              "uri": "//maps.google.com/maps/contrib/107001251585231859423",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWwfrCn31V29xAV04kQawKE4Jgl1AQ4Ku7feXqS9n2AAEjywORU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJZXPrFphDC4nXCHaobp4USlZMrjB2ehL-UXGGTAE8nC3h0jw_5PHCCB91eY5JttmAbHXOXXXpfNpKJPOqvn2VR1PBQCijDzLJb2ivWCgh5Wra1R_sutNpnkAeYaqttKKSO0bernt_k2nP_E3ZsoOFQukz7oM0DvKbJj",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Sandeep Darwatkar",
+              "uri": "//maps.google.com/maps/contrib/107452903624459026745",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuYzr2xnVhZ8FJ2rmEB5O40_PsTeFvPJ4trP5TXm_EyiPwiOal=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJaFkiJmPnG8t69sxQosCLSJdBfqOigxBgwiFsy2uNTjmRD0Cpu5c-YQsmI2aHqihZiR4WQStFf2rilGJ9gh80iEoouBk91TrDJJBmqlcxAhho2dx14F2EG4AZvy60xLZXhBQZ74GmLeU7zSOD49V-PWrwHOG0L0sQs5",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "dhananjay b",
+              "uri": "//maps.google.com/maps/contrib/103618866977630552458",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJigfEwvWKwtEfMQvnkyKw6CkPSUPbX1aRCwOCs8p5vsGWDvvfdA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJbHEwmTpSUVyRcHds4kNK9sTgRk0VC8zep9vgbcBja-SJdjK-3MbF_YJZ1zF8pj4osMlSPRL_vMdgTV3R7pueQmK5xmQyUV0QZK49eRZtfhIrHzkXibHyZBw_klXfdbyymzi6meSUbRmK4oQYYRoGKhvhv8uks6T55D",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "om jagtap",
+              "uri": "//maps.google.com/maps/contrib/107208255766876060059",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVM4_9SIS0krcGLJbCyYY8LvCGpbnJ6FhDMbdGC_I8AQFBHa0E2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJZk_Ur-YdL_oQwA_dXjupB5ykL6WwSv9OdHuzHJn-MkmwhLvxExrX02nfAeK2uomWziQ93cDizCDc06M2ahKW4SrBlsDmpzepxIIugfUhoFEw322uakqV7XWgPrP5zbR90YgSHTqfZNq-I-Gofv1hPQk_dqw4ok4K7d",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "pratik kadam",
+              "uri": "//maps.google.com/maps/contrib/111873672051632970762",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVYURN_FGlp0QcT6TKtU-25YFse5718ci_e5xErIc6yBwGrnQVKAw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJbatrmgx-84e-nPvYfc2bGaEjqaVAIAHIfwfQPekbE_0sBHEC6F3U8vUUKSQGo7qDx76SQh6IjmRHbmUBwD8uuE_JN8v6qInnm85MfCM2r0WnmyhkptGYtA082x0cd_gXCsVIs2aQgWR6ar6jK27pmflotvqER9DCsq",
+          "widthPx": 6843,
+          "heightPx": 8182,
+          "authorAttributions": [
+            {
+              "displayName": "Amit",
+              "uri": "//maps.google.com/maps/contrib/100292745183138332737",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIG-KaQGOqDAK5juOh4qIuzqVvODfFZST_xxdC4olLQ5BNDtni=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJZbbV23LicDXNXehZDb2VGezMcV3kKH_5fzMfnW0CGhyVxwB1T8sZMgvID5PrB7WBOc-h8WZQx4bGAl1FTKmdy-WtbngDgp9anej4goz9eltV-vKqr28WJQ2SkOdwFz4fBZjQg7NgzkQ13hd-MN9QPBCsfz93oss4ac",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "shrishailya deshmukh",
+              "uri": "//maps.google.com/maps/contrib/102244458334067430391",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRj6XO-q5HKBeDQQwIBtdMGayOcviXo5YotPEFYuhCcTa0-vLiJg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJZlVZX0if5KejS4B204Z0_597G1njywMV8d_gQcziSsARkJQCQLKcfdMKG_l8G0FgAvSu-inB9xGifZIH1bD31k4nsw870xfR93cvdcZvr9u2KW0PZ9Aka3Rjs0TOh69La1vsrXCq0W4xhc3D8BaCgXcpYsSfD2TWKt",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Sam Jog",
+              "uri": "//maps.google.com/maps/contrib/103406874725950129039",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWEe8WCDMgNSoDVqMwz2KhKZ0Kq2wtycM2JpEkx7eyXouwagSizfw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwqKVF0xDsR1Jt-1J3Gn1Y/photos/ATplDJbhrfAExWL__-jIfrsY-ysoCV9w0yEmGAcIOX7e-8fMS60nm-EmosBDxubwa1lv6wmKQqkdhMcJrEU6AdJPBXdSEvEn47fTowMguoftw_9GyFK7cF5QYxq6WxqgNWluS9fNzhoCZkAVypaID3sXqWGB58xHkcheB99s",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Suraj Mane",
+              "uri": "//maps.google.com/maps/contrib/100444612993477003617",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWnH9JVJmxQ-AUsTG5PHyMXnpQXWSFuqjB9mgIeleiGAIwRQOiR=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw",
+      "id": "ChIJbTDR-vF1xDsRcFyVCKI7vFw",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "V2MC+633, Savtamali Nagar, Akluj, Maharashtra 413101, India",
+      "addressComponents": [
+        {
+          "longText": "V2MC+633",
+          "shortText": "V2MC+633",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Savtamali Nagar",
+          "shortText": "Savtamali Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413101",
+          "shortText": "413101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.883003,
+        "longitude": 75.0201658
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.881647369708496,
+          "longitude": 75.018878119708489
+        },
+        "high": {
+          "latitude": 17.884345330291502,
+          "longitude": 75.0215760802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=6682281514225720432",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V2MC+633, \u003cspan class=\"extended-address\"\u003eSavtamali Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 17,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Akluj",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "V2MC+633, Savtamali Nagar, Akluj",
+      "reviews": [
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOeVlhZjRRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This place is a very very beautiful place in Maharashtra iam so wonderful when I look akluz because water falls are very nice and train riding on the metals that is very fearful and enjoy ment",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This place is a very very beautiful place in Maharashtra iam so wonderful when I look akluz because water falls are very nice and train riding on the metals that is very fearful and enjoy ment",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kartikt computer Alur",
+            "uri": "https://www.google.com/maps/contrib/117841023306379717287/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocITOQBZaSZ1_sRiKrwNYPjpE6URGpX3oYvznLoaqU4acJs_2g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-15T16:51:27Z"
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/reviews/ChdDSUhNMG9nS0VJQ0FnSUREbGVESl93RRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 4,
+          "text": {
+            "text": "Water scarcity.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Water scarcity.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ajit Mali",
+            "uri": "https://www.google.com/maps/contrib/100747163638592317587/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5qoWInyFADkg7vvqNzuxYYx2EDFxPuoVxACM1uNgn5UL-8xl3=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-12T09:23:30Z"
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0a0pHdjdBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Super",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Super",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mahesh Thavare",
+            "uri": "https://www.google.com/maps/contrib/104911648285641457807/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRjJSTved0CCSxgxI7wCi5rhSMOnHVriszdt5mKTHr2oTJP0sT=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-28T02:35:55Z"
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/reviews/ChZDSUhNMG9nS0VJQ0FnSURkbklMX1FBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shree welding Works (Yuvraj ingawale)",
+            "uri": "https://www.google.com/maps/contrib/107904027620765163029/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeRDxro2zPfdrZb6aBb5mAskdkHOXmrTKcJoVd0CA-2WxXlg40=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-21T16:37:23Z"
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/reviews/ChdDSUhNMG9nS0VJQ0FnSURWektETDd3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "RoyalMarwari StudFarm",
+            "uri": "https://www.google.com/maps/contrib/109486051610090052789/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhG2idjcwWPUMPKwrZb4ZpMaHyxK4422LIqT234BsLo-JQJg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-11T10:44:49Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJZkaJnpukgqooPDB0nBQ7dsuYKUdVFDktBrYIRgm9aWmGNXStUEOz6uDNAqNgWM7rgc9X8FGBH8VQB_Hp6I-imO60TtBFQgLKJb3pZp09ovRMVA0O3j6xb0nWWQdH4haynYjK1KukAX6lMJnXq46uIy4jIfXWjObsuE",
+          "widthPx": 8192,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Gaikwad",
+              "uri": "//maps.google.com/maps/contrib/106285618685951928545",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZU5rT_BoM9b7GmIxk2v0kssnE3_NvkBScuUa_JiRCDwJtnxNR4A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJZ_vGGgnMR305Yf3rIuP1mNsHPtKC386PpK9lRnqfJ8jtQbXqFc4GKCUnP3pAh0uZMeksAi9Z4t4GyMscGtpx0CH-9m_H4__eyEv4sOOUoi7gX-U2TuNrAkl4ugebxUH1Y4LGcl5mtMJxg-td273gnkdJr8Ig_kUF1M",
+          "widthPx": 4624,
+          "heightPx": 2136,
+          "authorAttributions": [
+            {
+              "displayName": "Amar Londhe",
+              "uri": "//maps.google.com/maps/contrib/113075417036581288042",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLFugv0E6wONbCSZB0WghGx6Ql3b9V2sgveYExhBXpd0rnBTA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJYs2n35Gl3ywydrfPQRvswx0YLWu3kRt9seOMJGUFvoFDQPjd-eBdiHNf9Depb3T5FUJvPwLf7-I5wYA00hQ2AEmCHAc-vKEWh7B6hvWL-H40ITgTqaz8EvtHfZ2UERs0FQhecndmOhqpUHxss5EKVT5XpnfOeHNjvL",
+          "widthPx": 4624,
+          "heightPx": 2136,
+          "authorAttributions": [
+            {
+              "displayName": "Amar Londhe",
+              "uri": "//maps.google.com/maps/contrib/113075417036581288042",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLFugv0E6wONbCSZB0WghGx6Ql3b9V2sgveYExhBXpd0rnBTA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJYdf3nregAC1gYUOPmMZ1ELN99E8r14gMq0mKrc9Io-wxsmdBkk74eUcqiAKqXWTqmkWiicHNs2KfNpijFYRefzhcmLycfwdIaNxu_ClyGk1bUy1XqhDGJRdQaO3HCKQeVK1GYjedfEG5wGPTA3sJBDRruHvRWcLfUc",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Gaikwad",
+              "uri": "//maps.google.com/maps/contrib/106285618685951928545",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZU5rT_BoM9b7GmIxk2v0kssnE3_NvkBScuUa_JiRCDwJtnxNR4A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJbVImZi6RkbtF6yU5EMSz7aCL-ftFKb3R9wHT0TrpbxlF4pDi9CO1pEu6DzBiyv5Pzl61kZ7EjbJ89nyDO927hF1i7Dx15m8QAc7wiAmpLAaGY3ii371gSEEOb7Dff2vpY3onsrTpbbb8yj1lpIo0X_a0Cib9BehiBe",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Gaikwad",
+              "uri": "//maps.google.com/maps/contrib/106285618685951928545",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZU5rT_BoM9b7GmIxk2v0kssnE3_NvkBScuUa_JiRCDwJtnxNR4A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJbOCdnrPTdMIzedEyVM4tWMeDRv5hD46u4QrBPXZkwiuA0sUIXroEDQLGIIihNg6tQCL0F6_PgV7Xe-mj2zhMVNTtkXQP7por-HmCefu7SuT8UKmx6XbiUsU29ZjQXGFFff4zuGsFVMy0rMk4MfYRLLIJdiGLBlvSRR",
+          "widthPx": 2136,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Amar Londhe",
+              "uri": "//maps.google.com/maps/contrib/113075417036581288042",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLFugv0E6wONbCSZB0WghGx6Ql3b9V2sgveYExhBXpd0rnBTA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJaQf8k7diL6lsQCR0kqrqVHaNVmpOG6101HBzlUbi6DEneL58AVPpabtRIsybVNmSuhoBb0Zj9bwqdsjncExtIcKAon6SxXxflX682nyJ1N_CGK2-oxLsK4havnHi6hg5vxQIKRPpkLwRwSEsQiHAyyfI88bvqL79Zj",
+          "widthPx": 4096,
+          "heightPx": 1714,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Gaikwad",
+              "uri": "//maps.google.com/maps/contrib/106285618685951928545",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZU5rT_BoM9b7GmIxk2v0kssnE3_NvkBScuUa_JiRCDwJtnxNR4A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJaVVNp3vIbxCmNV6RNhcuFmH3cN3s63zCDNzl6lqqb1J4ji-sWsJsz35DHkOv5HzUwjUIi6e9ql4-48pqQhbkgmeHxHbYUdTQoiNkNtjMP_cMERMO603Igx_DkfnMiHNA8dMWDfBAzX-J100Bv4VMJqvIyCFI0I6R4v",
+          "widthPx": 4096,
+          "heightPx": 1714,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Gaikwad",
+              "uri": "//maps.google.com/maps/contrib/106285618685951928545",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZU5rT_BoM9b7GmIxk2v0kssnE3_NvkBScuUa_JiRCDwJtnxNR4A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbTDR-vF1xDsRcFyVCKI7vFw/photos/ATplDJbMm8PeDHIReJB_9s0uPLK_GC1t5yEdGhLDxdERxFO8XCU0J2Q9prCwaEFslUhvR6pcHFEfLZiqnPXjfbTsGXRRYxm2W1SV9r2hrLe6FGP_iHpq3ZqqSRGTVsbSQ5ee_C1cb_L3ZQRHHzE4bRy-8pZPs9Gh19K7QyGr",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "harshad kirte",
+              "uri": "//maps.google.com/maps/contrib/111500177609112513112",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkeGrRWzvnHdCqnPqwNPKS8m_UsJ34yZG9U4lelX-P30JZsE0C=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k",
+      "id": "ChIJjfdzHFp0xDsRD5kzh38Mk_k",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "096379 48341",
+      "internationalPhoneNumber": "+91 96379 48341",
+      "formattedAddress": "V2VG+MJ8, Solapur, Akluj, Maharashtra 413101, India",
+      "addressComponents": [
+        {
+          "longText": "V2VG+MJ8",
+          "shortText": "V2VG+MJ8",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413101",
+          "shortText": "413101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.8941744,
+        "longitude": 75.0265806
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.8927262197085,
+          "longitude": 75.0252519697085
+        },
+        "high": {
+          "latitude": 17.895424180291503,
+          "longitude": 75.027949930291513
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=17983731478889208079",
+      "websiteUri": "https://aklujcity.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 8:00 PM",
+          "Tuesday: 5:00 AM – 8:00 PM",
+          "Wednesday: 5:00 AM – 8:00 PM",
+          "Thursday: 5:00 AM – 8:00 PM",
+          "Friday: 5:00 AM – 8:00 PM",
+          "Saturday: 5:00 AM – 8:00 PM",
+          "Sunday: 5:00 AM – 8:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V2VG+MJ8, \u003cspan class=\"extended-address\"\u003eSolapur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 370,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Akalaidevi Temple,Akluj",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 8:00 PM",
+          "Tuesday: 5:00 AM – 8:00 PM",
+          "Wednesday: 5:00 AM – 8:00 PM",
+          "Thursday: 5:00 AM – 8:00 PM",
+          "Friday: 5:00 AM – 8:00 PM",
+          "Saturday: 5:00 AM – 8:00 PM",
+          "Sunday: 5:00 AM – 8:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "V2VG+MJ8, Solapur, Akluj, Lumewadi",
+      "reviews": [
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1OG9DeTdBRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Spiritual, clean, peaceful place. Beautiful garden with slides and swings for kids.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Spiritual, clean, peaceful place. Beautiful garden with slides and swings for kids.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pravin Raut",
+            "uri": "https://www.google.com/maps/contrib/117611709050350999370/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUlEIg_71PSx6cX21rY5BOdVGUMRM8QtsFlNtQN15-xHYBW5_r=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-10-22T05:58:42Z"
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/reviews/ChRDSUhNMG9nS0VJQ0FnSUQ1NnJCWBAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Akalaidevi Temple in Akluj is a serene and spiritually uplifting destination. Nestled amidst lush greenery, this temple exudes tranquility and charm. The intricate architecture and vibrant colors of the temple are a visual delight. It's a place where you can find solace and immerse yourself in the divine aura. Whether you're a devotee or a traveler, Akalaidevi Temple offers a peaceful and enriching experience, making it a must-visit in Akluj. Don't miss the opportunity to explore this cultural gem.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Akalaidevi Temple in Akluj is a serene and spiritually uplifting destination. Nestled amidst lush greenery, this temple exudes tranquility and charm. The intricate architecture and vibrant colors of the temple are a visual delight. It's a place where you can find solace and immerse yourself in the divine aura. Whether you're a devotee or a traveler, Akalaidevi Temple offers a peaceful and enriching experience, making it a must-visit in Akluj. Don't miss the opportunity to explore this cultural gem.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "iamp vlogs",
+            "uri": "https://www.google.com/maps/contrib/107040151453260903140/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVE8pj9WGkZ55utJC7ZKNZntXOuhX1BPqeuIpnTb6Felo7s6-kh=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-10-22T20:05:38Z"
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNocnFiLTF3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Akalaidevi temple is one of most famous attraction in akluj. It is very beautiful, clean, greenery place with beautiful garden.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Akalaidevi temple is one of most famous attraction in akluj. It is very beautiful, clean, greenery place with beautiful garden.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Balkrushna Ghodake",
+            "uri": "https://www.google.com/maps/contrib/102142086289965362944/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5V-2IIOfSfJfHDF3b-RdkS4nczA9FDHVrPnylQrbWSYuMY4Tm=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-02-13T10:25:17Z"
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtbFlhSjZnRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very beautiful, serene, well maintained Temple of Aai Akalaidevi, feels the holiness of the temple. The nearby Nira river adds the peace to the temple. Must visit while going through Akluj",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very beautiful, serene, well maintained Temple of Aai Akalaidevi, feels the holiness of the temple. The nearby Nira river adds the peace to the temple. Must visit while going through Akluj",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr.Vivek Raskar",
+            "uri": "https://www.google.com/maps/contrib/117888950820808661312/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwgtEKm2djcXLXjIlBxY4VbhKj9LhFn5obHisc47tXjZnERPsc=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-01-04T14:24:19Z"
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLbExPMmNREAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "This is gramdevi of Akluj town. This very old temple at bank of Nira river. Small dam built up on river created good backwater reservoir near temple. Though newly built temple is very nicely done & maintained properly it's not having charm of old heritage & architecture. Temple premises & garden around it is very beautiful. Very nice time to spend some time with family. If you visit here at time of sunset 🌅 it's worth watching. Enjoy visit to this auspicious temple & have completed your wishes.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is gramdevi of Akluj town. This very old temple at bank of Nira river. Small dam built up on river created good backwater reservoir near temple. Though newly built temple is very nicely done & maintained properly it's not having charm of old heritage & architecture. Temple premises & garden around it is very beautiful. Very nice time to spend some time with family. If you visit here at time of sunset 🌅 it's worth watching. Enjoy visit to this auspicious temple & have completed your wishes.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sukumar shah",
+            "uri": "https://www.google.com/maps/contrib/116449834120371438850/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXp-8aItsMkzN12_AQhqHDZHM8XmBqX-pnJ6bsOjc5WbcSClQa5=s128-c0x00000000-cc-rp-mo-ba8"
+          },
+          "publishTime": "2021-03-29T15:26:20Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJYPfh60WsghSkxFGiEH70xL3eSqTIH3KSK6WEtfKNoUDxx2LwjVMLKwvIQC8v8zcF8Y32KXBwydZF-0Mgm59mNW_u-7e1Xwq10oFnqo0TeLcf7_N9Si9fOLEsRp8j3RN-QaO9e7IAjauPW1enxvWTon5UtR7FX_t3Fl",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "vaibhav gidde",
+              "uri": "//maps.google.com/maps/contrib/110462343274702609855",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVO-vq3kuYYl0aOyxp8QJ-BUMpQfE1ykCRRyjtmoemAy2d8dUNi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJbPU3IxbPsyl0aDvgXrXo1SU4Fl_3LFBjxzwY1qofhXB1Ptf9QvLBwJQc8JoqCHzdkjH2LXIT8fpn5LvKosMP-65SN0gwyS2qXP80jo17NPJ5qJf79EEWXNEYpOzWEggqegjUUlWzNjddy-5cYle-ySkBw6riRjx9T3",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sandeep Darwatkar",
+              "uri": "//maps.google.com/maps/contrib/107452903624459026745",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuYzr2xnVhZ8FJ2rmEB5O40_PsTeFvPJ4trP5TXm_EyiPwiOal=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJaEBJCfId7Ijk9VjC6LOWNAlGFetohZibKTelpM_Oi8fUdrPZuoeSStLRUuN7Mb314teOREVf6WA1xU7R1qC83vjh7MbMjcyhg93mMFjAuNyq3JJz-2AvaFgqXwnMSaA-Tp3sfgXmstlr4EBAxATHRvDUSyy22hO56R",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Swapnil Patil",
+              "uri": "//maps.google.com/maps/contrib/114387215573213539077",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKHxfBsgNmO-AsQ2HElZds_CocTUpSew-Cne_rr2HYGXLytK6if=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJYs59gWD_uqrwq8LCDx_5tAX8fp8KULQE1V9NWEiEmwYAY8vp1BuxzZ8uLdYp7YyTBEzCM6Qs1FhiFe-n0vxWYNAQ_VTYAvEcSoIS81KMhEFN1Y4MZ-EZg2Af8WW34Q_l8OiJ7HJLARC3ill_gnyCqb8ZQsnhq2bD-b",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Vinay Shinde",
+              "uri": "//maps.google.com/maps/contrib/115021794639616382582",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJs5Slb6XwdcM5DDgS8QTEun2fZ6melfvlZ8OsVFKzUY4hm9Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJasfHPsqcE611huAFIdH7pm8VQyKpi0D_e9GWyEtKiTEb8QvDvQSQJsvBvWGNHAB4I4eHjM8HQW8fV4jVQ59ZfdaVCZBvKYmKDcCZK-jHf2FfPLuLM2J9tx2_afeok0-hH52X_uJM1xCjVyp5OB7bKTZB1sv67WfzK5",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Mayur Narole",
+              "uri": "//maps.google.com/maps/contrib/108903478537324283358",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVYqNF2wFOvLvnYRByIfY6gXluhJET-I6WIWUCPTJTfrz4JRzyiGA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJYv-vuVzuxJnQFmnuZk5vz_I5Io4Gg5XKtlqevsri1OIfglx7DxbnF5_QEJmPMuL1oBHFv1cjc4-HHtifEeUFoBSQDKjup8aVLsCd2kMpcruC5y5_2wg0aUqOl6bIDEyTx6DDLJS-3bCD-KEELvEr8z0vfx1vVGUz1F",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Mayur Narole",
+              "uri": "//maps.google.com/maps/contrib/108903478537324283358",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVYqNF2wFOvLvnYRByIfY6gXluhJET-I6WIWUCPTJTfrz4JRzyiGA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJaDW0JUKhHkdjo4fB-yzuUP5bHXV-V_S582U4BxIm7Rwrg85bg3sYiUexjXioFwPx5qfGPzCjYkzIzKHahpx_yc8yGvtnkF1l_iM1tkiu294kjUJkuaExmjBkd-KJI1jOQYNfbtWlVkDj8Olu7laHEffRyxd15nJ1MM",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Dr.Vivek Raskar",
+              "uri": "//maps.google.com/maps/contrib/117888950820808661312",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWwgtEKm2djcXLXjIlBxY4VbhKj9LhFn5obHisc47tXjZnERPsc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJbjZsdRJVhUrG1yHO-XWF3CL7jw1wCatyBqGopdGz8gAmXJUMqnRAtQDbmj8XBAsfUBE1KJY5RbwbfTz9HZxHIACusRcqq7mOL_KvcCDbHrypENTtvJh86Ly8HETHIzyYvm3bAUkc3LJYsGH2bifPUW579ee9yTZdnc",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vinay Shinde",
+              "uri": "//maps.google.com/maps/contrib/115021794639616382582",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJs5Slb6XwdcM5DDgS8QTEun2fZ6melfvlZ8OsVFKzUY4hm9Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJZ4sSo0vRh9qqBdNzKeOsdkRH9R1WsAnNqZ0zMejPjs-OdpLzD3G2pqvJtt22EckglaVlFhFpoyyZG448gWxxvHicda5ZbBdLebwJlt8dyigHJunNjPLIw3xlEaicimZfFTS0bdomwzmmF4sqmgI34rIKz6tAQuo4tV",
+          "widthPx": 3472,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "G K Creation",
+              "uri": "//maps.google.com/maps/contrib/105720956000748614079",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW1jjwfQjxymWY3IOizCsg_RsInbT_XJDYuzg5Kdamg-klADvPJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjfdzHFp0xDsRD5kzh38Mk_k/photos/ATplDJbvj4iaJ22h3bQcc6W3wABkx-Bb7gysESWBiTqdICwHGc-dJqLf5DcABc8Wfhk0SVxDzBjXOr4rELurYX-UxOsfjWhYX6s24wTIB-dqTXD1U34vlxOpBS5wN_gnBxUH8aN_J_RmOMLVKpuYfly4pzBoEheqdx0fIO01",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Happy Soul",
+              "uri": "//maps.google.com/maps/contrib/116961424776132522222",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKwr8BLCdTOxDqhdeX62zaU6JGYgckH8wNZ7-Ny3LFAdFpHTo=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg",
+      "id": "ChIJF3Q_zBl1xDsRqEd5TaI_rQg",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "V283+MF3, Geeta Colony, Akluj, Maharashtra 413118, India",
+      "addressComponents": [
+        {
+          "longText": "V283+MF3",
+          "shortText": "V283+MF3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Geeta Colony",
+          "shortText": "Geeta Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413118",
+          "shortText": "413118",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.866639799999998,
+        "longitude": 75.0036786
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.865074869708497,
+          "longitude": 75.0026908197085
+        },
+        "high": {
+          "latitude": 17.867772830291504,
+          "longitude": 75.005388780291511
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=625225889591412648",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V283+MF3, \u003cspan class=\"extended-address\"\u003eGeeta Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413118\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 255,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shiv Parvati Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "V283+MF3, Geeta Colony, Akluj",
+      "reviews": [
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/reviews/ChdDSUhNMG9nS0VJQ0FnSUREa3RDdTdnRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Shiv Parvati Temple in Akluj is a calm and lovely place.\nThe views are stunning, the architecture is impressive, and it's just perfect for a peaceful visit.\nIf you're looking for a serene spot with beautiful scenery, this is it!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Shiv Parvati Temple in Akluj is a calm and lovely place.\nThe views are stunning, the architecture is impressive, and it's just perfect for a peaceful visit.\nIf you're looking for a serene spot with beautiful scenery, this is it!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "102_Vaibhav Shelake",
+            "uri": "https://www.google.com/maps/contrib/106436772101588120860/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnP22oNPKNfKt5lbtWWEpJcGk6wkR2pm0iM7JzZQTteUxl3AOA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-07T12:00:15Z"
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/reviews/ChZDSUhNMG9nS0VJQ0FnSUROMzRiNmZREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A lovely temple surrounded by lush greenery. Beautifully designed temple with impeccable cleanliness and maintenance. Need to go to the temple. extremely lovely idols of Shiv Parvati.\nThe Shiv Parvati Temple is an incredible work of spirituality and art. Everyone who visits will experience a deep sense of serenity and connection because to its exquisite design and calm atmosphere. A must-see for anyone looking for worship that is serene and beautiful.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A lovely temple surrounded by lush greenery. Beautifully designed temple with impeccable cleanliness and maintenance. Need to go to the temple. extremely lovely idols of Shiv Parvati.\nThe Shiv Parvati Temple is an incredible work of spirituality and art. Everyone who visits will experience a deep sense of serenity and connection because to its exquisite design and calm atmosphere. A must-see for anyone looking for worship that is serene and beautiful.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SUJAY KAMBLE",
+            "uri": "https://www.google.com/maps/contrib/103253826776356053370/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpviqCi9tgCQAqFu19PJYTeZot-gNYkbjyNuqafJNPKWPxtZme=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-27T15:10:36Z"
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsa1pES1F3EAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The Shiv Parvati Temple is a stunning marvel of artistry and spirituality. Its intricate design and serene ambiance offer a profound sense of peace and connection for all who visit. A must-see for anyone seeking beauty and tranquility in worship.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The Shiv Parvati Temple is a stunning marvel of artistry and spirituality. Its intricate design and serene ambiance offer a profound sense of peace and connection for all who visit. A must-see for anyone seeking beauty and tranquility in worship.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prashant Kirdkar",
+            "uri": "https://www.google.com/maps/contrib/108451490682380939604/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocInUpHZ2IOrhI_H4XE7ePssfxDLpagCrAeTS2qGgRrQFYvR7A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-11-20T13:43:32Z"
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKaG9iSTNRRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very beautiful temple with lot of greeneries surrounding. Very clean & well maintained temple with beautiful architecture. Must visit temple. Very beautiful idols of Shiv Parvati.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very beautiful temple with lot of greeneries surrounding. Very clean & well maintained temple with beautiful architecture. Must visit temple. Very beautiful idols of Shiv Parvati.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr. Ramakant Bembde Cosmetic Plastic Surgeon",
+            "uri": "https://www.google.com/maps/contrib/108590391458848372922/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ2t78hdTblZXFYGoetb8IXu3ai2qjMGxhG4htZiEXQGvAqPZAWg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-06-25T23:50:53Z"
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNodGRLa2xnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Shiv Parvati temple in Shankar nagar Akluj.\nNeat and clean well structured temple.\nVery peaceful environment and plenty of space to seat on grass.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Shiv Parvati temple in Shankar nagar Akluj.\nNeat and clean well structured temple.\nVery peaceful environment and plenty of space to seat on grass.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vinayak Shinde",
+            "uri": "https://www.google.com/maps/contrib/113963712409524953797/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMPqMSwaf46ZwSjPN4Kq-OU4zHQhRteQngbejp6KeOO4Ys29cU=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-02-18T16:40:57Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJbl-datVbZR9i711dzUkh8m63c7EDNV6qqFo_fza9AbBPUBwDXHlB354KWgpfEuqM4JqkWF9cZxjzlhKs2V-Yl3e4oybO_h9q3HD2k_SCkkmylJsHPuW0MuWETNZ7XzA9slZLeghU117PHZgwlQc02EBh-ThqC6AeHQ",
+          "widthPx": 4640,
+          "heightPx": 2610,
+          "authorAttributions": [
+            {
+              "displayName": "Prashant Kamble",
+              "uri": "//maps.google.com/maps/contrib/113254876341870628548",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU8OGB9JsBD4eVe96XfXHB2Thhd-od_ND_q26BQXCobUqKcJd1I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJYxOKvAr3AvoYXPHLL9oWPiUpHOkRxZ9mPWWUSY6tnd-7VfWgI-AxMTaANBl6sugrztmxS2OUGBOXIWk-jc90zjHYxIjTBzNKkMw3Q1swU96VkVj-C52SMDfgCgbSSbC1MYJA3mBua3t-aa08tsdzjop7N4Jf-RSJT7",
+          "widthPx": 649,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Amar Shinde",
+              "uri": "//maps.google.com/maps/contrib/109089327483177478046",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIptgVdob42oFPClmaFxIYwHpq1-x5ylYRR_Y_GURVlad5Dhg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJY0fbQfytYlcZqvuVabRpFZ99AC5f_BN8DR6lDcvX_986ppL_mF77IL6g56YQBmXS4HG_GbYcT9eZNxQm0VP1OwnUoehcZBQSaZOVk7uDy8j9Prv9QfnVdPpA4FHpeOjFgUZLvBh4mpM2Le711OMkf-VagqAsRYeCV6",
+          "widthPx": 3072,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Jaydeep Manedeshmukh",
+              "uri": "//maps.google.com/maps/contrib/116457521270266157003",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXGnllsX-JGaT74pcKcbfo_lu-ffX8yg7XcWglAThIuMIYBG273nA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJYjtX0egPFUQFHiEgGSDFRedm3_NNmzhfnTuhZa8H-kPYSC0Y6uT5senW7lPaSWq9we3AdRZrGyZnIcudBGKyjnzzIUhZjqQThs1sESYJxSzuqF8OBbo7aWXJeMaYZdUCIoFyxc9cnyOVIESO3f5UI1xW4BWU3OqRQ",
+          "widthPx": 2753,
+          "heightPx": 3667,
+          "authorAttributions": [
+            {
+              "displayName": "Pratik Mhasawade",
+              "uri": "//maps.google.com/maps/contrib/101754428709529732184",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0-f0PfrPaRM1ixAgQOdZs6QN9YtCQf7CgixKYSG_YiTQhYBQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJYePjlrU24t3iECfPfNB9w7OYiw6eV4K7kuMotoks7jO5feQ6nNUQPgX4McQsPGOdjbHoNr7tDMBWe9sgsrok1XfOTgnHUFbx3Taoo3kinq-s-QaOn4vpp3oihGH1-4CexBsWI2lkFN13iF9I8hfHOam8zUfh3a3jr2",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Aniket Nagtilak",
+              "uri": "//maps.google.com/maps/contrib/111496297388895847199",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVfJwvgZ89mRpAPwV51kZl9kM_ejsd7iVU2XLMjKKgYtUY4NmtZ6g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJahNbEtHM7wvKZYsBsW93Obp3mtmOIxpxiNbfXaqzer2AL9V5uKnPl5uvdFeL7ENf0SwhIT9BeQqE6Qs5FJpqyBjAQ7fEylXV_0pIxBDPZCQO2Gi1RlRndPXEaJs1aSYdsiujKrHndX2R69md0_Tzu9KeanGWLMocc",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Shashi Choure",
+              "uri": "//maps.google.com/maps/contrib/113767183752204334214",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRaRHcXdJ5WdYQMwJLrYrnGRO55ByNef5GbiFZJmCawlrOXB_D=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJZRpKEN1Cxum-l-r2EB1PA6zdH310ABN6XwUjOlzXgAjFXJNTCZjvI_7HPYV0gW_BEINOiSPPgCh4X0ecRT5cXXvmPBDMD5MQeR9VsdvU9vTrviYOPNrmcVbIYpxO1JGwOotRn6b65ejAY_npH1bbw9xdJ9HQO6g-zD",
+          "widthPx": 780,
+          "heightPx": 1040,
+          "authorAttributions": [
+            {
+              "displayName": "Sanskruti Khandekar",
+              "uri": "//maps.google.com/maps/contrib/107102223693964737732",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKbTjiuuCMlrvygtvGrgL30dSf2DDTkWKXwMccT3joWshNTRg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJZq2px_7AwGRHebV8DFhwemaPbSTQ_8mSXrNy_krTgago93Ffd2pvb8alrFl0KKFRwAk5IfPJWUs7E3yupmtZVlWwW8lPSGm7FAtkNts7rIfdPdgrvhOrA2NXzpIBYJR_wrtrAm1GIqgZ2R7tlg_XY71MH0viO4ap2m",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Samadhan Sawant",
+              "uri": "//maps.google.com/maps/contrib/105942014123481514823",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZsp1tbnhse6cyA550DCc2qIxMrFI3WAz8nR_XbL4PSjj67P7n=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJb6T02NTpUb1HcmfuymLZj9ENEohX41heaum5YxLod-McRG9fzYKRITQd6mhkJO3qyW8TrtlsduIUFUj1K7szU0_Z46-G4i9NByS4iz33SJiUanRvCayUP4wozMbrCwVaie_8CPkN-l9T0J6_ixR8viXJ3nfNWh_1zw",
+          "widthPx": 1440,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Aj Thombare",
+              "uri": "//maps.google.com/maps/contrib/100608902530343475577",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9pAzujxTkMPLUiXXdKS5LyxMVsU2FKdkIpr-2Oce7d8IL15yL=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF3Q_zBl1xDsRqEd5TaI_rQg/photos/ATplDJYl8SfcQ_whyBBfY9OgxdjXO5pz9VlcSDOMlOsdGP0nVcZ5JTVuEA0IdTsj_BjlbFxTRDVkBZ6a_vP5PhpWWnmCykvExv7LZXPGwry4vk-RaXDZjurTcatktPZscSBBQ-yJdSajM_fs5SobZ9tC-H5iTIMNtS9KpYPo",
+          "widthPx": 2592,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "SUJAY KAMBLE",
+              "uri": "//maps.google.com/maps/contrib/103253826776356053370",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUpviqCi9tgCQAqFu19PJYTeZot-gNYkbjyNuqafJNPKWPxtZme=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJy20_X0l1xDsRp-qlwOR2iYc",
+      "id": "ChIJy20_X0l1xDsRp-qlwOR2iYc",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Sai marg 2, Sangram Nagar, Akluj, Maharashtra 413101, India",
+      "addressComponents": [
+        {
+          "longText": "Sangram Nagar",
+          "shortText": "Sangram Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413101",
+          "shortText": "413101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9QV2V4+4J",
+        "compoundCode": "V2V4+4J Akluj, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.8928712,
+        "longitude": 75.006545
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.8915223697085,
+          "longitude": 75.005221419708491
+        },
+        "high": {
+          "latitude": 17.894220330291507,
+          "longitude": 75.0079193802915
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=9766467991786351271",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Sai marg 2, \u003cspan class=\"extended-address\"\u003eSangram Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 12,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Gondawalekar Maharaj Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Sai marg 2, Sangram Nagar, Akluj",
+      "reviews": [
+        {
+          "name": "places/ChIJy20_X0l1xDsRp-qlwOR2iYc/reviews/ChdDSUhNMG9nS0VJQ0FnSURHbkx6c213RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Every spiritual destination. Cool and energetic environment. Must visit once in year with family",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Every spiritual destination. Cool and energetic environment. Must visit once in year with family",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rohan Sawant",
+            "uri": "https://www.google.com/maps/contrib/115342309401833603793/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOYYxVSXbcsEbcpa9AVoIAoW7SSYjwUVVi7GlD83tvakNQRNo8Kw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-11-21T04:33:23Z"
+        },
+        {
+          "name": "places/ChIJy20_X0l1xDsRp-qlwOR2iYc/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyeXJ5cjZBRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Divine",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Divine",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shashank Gavasane",
+            "uri": "https://www.google.com/maps/contrib/104713473477603363791/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7k5ZHb-21WCXOI1WKrjZRId_jF8bmEBXA_ULOxGwXuOjvQiyf=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-04-17T14:37:52Z"
+        },
+        {
+          "name": "places/ChIJy20_X0l1xDsRp-qlwOR2iYc/reviews/ChZDSUhNMG9nS0VJQ0FnSURSM3BXSU9nEAE",
+          "relativePublishTimeDescription": "12 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The temple is beautiful.",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "मंदिर सुंदर छान आहे..",
+            "languageCode": "mr"
+          },
+          "authorAttribution": {
+            "displayName": "Hanumant Kale",
+            "uri": "https://www.google.com/maps/contrib/115522127993269669566/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_dnUFCZDQJx0VMkpSLOc_PyZPVZt56vq1c6OBOITdcyL-seU=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-04-26T05:30:23Z"
+        },
+        {
+          "name": "places/ChIJy20_X0l1xDsRp-qlwOR2iYc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoMTZPcVp3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "very beautiful",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "अतिशय सुंदर",
+            "languageCode": "mr"
+          },
+          "authorAttribution": {
+            "displayName": "Yuvraj Nalavade",
+            "uri": "https://www.google.com/maps/contrib/103079208804988668271/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLbsOS_fZSvyOEbLVnXxNi1BqAMv_CKKKMCCKNUHj4AD3QVtzQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-02-24T14:29:15Z"
+        },
+        {
+          "name": "places/ChIJy20_X0l1xDsRp-qlwOR2iYc/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxaUtmQTNRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Rahul Deshmukh",
+            "uri": "https://www.google.com/maps/contrib/109899455709863192869/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_FqcyDNCGQeRK-xq53OAHUbPN4VeKZ0vZ4nlNJxAdtwSDdbnxWQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-21T12:30:25Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJy20_X0l1xDsRp-qlwOR2iYc/photos/ATplDJbUT-ju3JDgWqXtjRZrzRXSG7HImrsmm86xtv5OrG3eAgC2RqeZsc_3Wt-I31s5OKwwJ0rhms_088htOzkelDSqsIqlqDXRnVMv9VL5dGvpXyqPA3ZTUhpqnVQpda5G9_kTIDAMHaHgbyg1kvznhXRvnXF8sgMB35ky",
+          "widthPx": 2604,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Pradnya Raut",
+              "uri": "//maps.google.com/maps/contrib/114853622172130163271",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFsgCuzv_JIjgOPUVdxTk9DRljhVGnZDn8ZT69pSVP5P6kHxAtGA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy20_X0l1xDsRp-qlwOR2iYc/photos/ATplDJYTwbsIxqRGv16Jm_Bx1uNgg3RN2LVKp3G3WnZToP0A40YqdP6Yf_HP25M0jBkTpnV5zpWlQH5InHsqviIzavloKAdozvy6I6-8oiQJD9eFaP3fusL7LDe-YOxtCFY7Xa2silT5FFqSTvDYaTy7nPEkpixQq-QBNvjp",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Pradnya Raut",
+              "uri": "//maps.google.com/maps/contrib/114853622172130163271",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFsgCuzv_JIjgOPUVdxTk9DRljhVGnZDn8ZT69pSVP5P6kHxAtGA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8",
+      "id": "ChIJCTq_Qvh0xDsRTyPJBt8sMd8",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "BSNL Tower, Savta Mali Rd, Irrigation Colony, Akluj, Maharashtra 413101, India",
+      "addressComponents": [
+        {
+          "longText": "BSNL Tower",
+          "shortText": "BSNL Tower",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Savta Mali Road",
+          "shortText": "Savta Mali Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Irrigation Colony",
+          "shortText": "Irrigation Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413101",
+          "shortText": "413101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9QV2PF+MH",
+        "compoundCode": "V2PF+MH Akluj, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.8866531,
+        "longitude": 75.0239473
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.8852511197085,
+          "longitude": 75.0225947697085
+        },
+        "high": {
+          "latitude": 17.887949080291506,
+          "longitude": 75.025292730291511
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=16082685080719926095",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 8:00 PM",
+          "Tuesday: 8:00 AM – 8:00 PM",
+          "Wednesday: 8:00 AM – 8:00 PM",
+          "Thursday: 8:00 AM – 8:00 PM",
+          "Friday: 8:00 AM – 8:00 PM",
+          "Saturday: 8:00 AM – 8:00 PM",
+          "Sunday: 8:00 AM – 8:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "BSNL Tower, \u003cspan class=\"street-address\"\u003eSavta Mali Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eIrrigation Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 21,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Ganesh Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 8:00 PM",
+          "Tuesday: 8:00 AM – 8:00 PM",
+          "Wednesday: 8:00 AM – 8:00 PM",
+          "Thursday: 8:00 AM – 8:00 PM",
+          "Friday: 8:00 AM – 8:00 PM",
+          "Saturday: 8:00 AM – 8:00 PM",
+          "Sunday: 8:00 AM – 8:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "BSNL Tower, Savta Mali Rd, Irrigation Colony, Akluj",
+      "reviews": [
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjaWJQRjZnRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice temple 👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice temple 👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "vijayraje manedeshmukh",
+            "uri": "https://www.google.com/maps/contrib/105589691407138251166/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVF22DNpfjr79N1pNGM4Dad3fYH6LtfgkI4zW_Y2c3FnDcDtEyr=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2020-03-14T14:25:29Z"
+        },
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/reviews/ChdDSUhNMG9nS0VJQ0FnSURzeWYzVHFBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "No need of caption",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "No need of caption",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shlok Dongare",
+            "uri": "https://www.google.com/maps/contrib/115231872788324130682/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLm9VQqXoViSnoxyrScxNLiFh1gz51gITRM81QZncJJ16NLDg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-03-08T04:58:13Z"
+        },
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZNllubDJBRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shailesh Wagh",
+            "uri": "https://www.google.com/maps/contrib/108611119619374273587/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLFI2Zi8cBb0UOP870qd3sTzvdmNjmJH6yqX_I4ovimZkIH6ko=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-04-15T08:52:29Z"
+        },
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJaDd2UFRBEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vikram Shinde",
+            "uri": "https://www.google.com/maps/contrib/109676191899963512775/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5Q8wAIM0vPBBM_0uPtjQMzj27OxIWD_bEHf6IUfxNTlzTIOA9wA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2018-12-10T08:45:18Z"
+        },
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/reviews/ChZDSUhNMG9nS0VJQ0FnSURBN011c1pREAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "||Om Gan Ganapataye Namh:||",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "||Om Gan Ganapataye Namh:||",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "सौ.सोनाली (कृष्णामाई)",
+            "uri": "https://www.google.com/maps/contrib/111409649758131069354/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOUf62CDVQUge_kIHMgtDM94AGEMjuNxTjXQLlvZ9SErkrSlk=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2017-07-02T17:12:43Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/photos/ATplDJbYISbcf5chWcl-aL9O1RG9aQZLFI77ga_Lmj19FqND-BFuJ1dJE19R8p5AirQI-3OKLzHp02pCPlpa3xz1fJL8GD7xTiOOLN_1wVZMR-oreiOnvm5_FMpqTyeTA4HDFFnrDv7kVp6EZZIP7ReL5fGqCmFISlD8lUle",
+          "widthPx": 1600,
+          "heightPx": 975,
+          "authorAttributions": [
+            {
+              "displayName": "SUYOG DEDGE PATIL",
+              "uri": "//maps.google.com/maps/contrib/104978216629266383127",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXsBgoe3ppsk1jzYubJt1d2SGbxHls3q82BfCLmnF4qoE7uT9LwPg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/photos/ATplDJZ9qAdIbWzuuPuxxUlobAUN2ULOQ7b-k8nuheW_P_NJ-dkelSCe2PyHEKtS5pgwEw6l95bkTJLOPRLzNYRWguVgS128BA23Knt1hgkK5vHp5g13P9lW6vgquxfG_DMSWmbRp0J0o46o5Fv_5Bnx0OY3aJWTJ-3-PZh7",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Chetan guldagad",
+              "uri": "//maps.google.com/maps/contrib/107416150395504090550",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWk_UZetZPhwOz_amRx7PhQEj3k-DmWnJi7V1SxwveSnN-3et8RUg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/photos/ATplDJZp84xMLAYT-TiU4KYInCnwv7vmhgUJi3tMwd7MtG4a31hROeqjxWwNr3afsZEXaviO16nSbK8wFeXMUBy9pmINxrqRBrtmnRoVG9THk8TkwBKIeDUJtit_X-CGjtjh8ZkHjOFWCl8W4WlHKyLOIqE_3Sqq-X5oSqCb",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "श्रीकृष्णपिता केदार",
+              "uri": "//maps.google.com/maps/contrib/109548498020749870536",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7IFPuWjRdMnG9cIr8vT3Kxj8yXdzVt0fBxwYDuhkS4bH70TKZQA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/photos/ATplDJaZWQUrZKsrVEPXgvA1R0iNCU4KKOkUyZtJtB-eaGQXPoyb2gYBte8tXVq46SSFeI9iKc_Ta7tvbTeSjM7ZvkQLImHGfzjgVXLgXVzz2_xfXj1Izd2KMdFoJQwyDWUwGWrVaQtloEIaoVKGevzO9WSrigI9CdZCrmZQ",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "श्रीकृष्णपिता केदार",
+              "uri": "//maps.google.com/maps/contrib/109548498020749870536",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7IFPuWjRdMnG9cIr8vT3Kxj8yXdzVt0fBxwYDuhkS4bH70TKZQA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCTq_Qvh0xDsRTyPJBt8sMd8/photos/ATplDJZlc2Sz7dPvQ9i7jVUlp7NLeXwulKE_1rCqplvxaCjC6UDqYHooqc1-A3BPNji0pSm3gu7FirKRUL8odRZqut5hwsTuwqfR7pKE9HUWqoLI5ceJSkPuGbJPbe33foJn0dbZHlULH6xYEiqGyZTWpVWZ43RlpenLYb5E",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "श्रीकृष्णपिता केदार",
+              "uri": "//maps.google.com/maps/contrib/109548498020749870536",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7IFPuWjRdMnG9cIr8vT3Kxj8yXdzVt0fBxwYDuhkS4bH70TKZQA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJo7_P7ct1xDsRdLOo60V_XmM",
+      "id": "ChIJo7_P7ct1xDsRdLOo60V_XmM",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Deshmukh Galli, V2RF+F8G, Ramayan Chowk Rd, Solapur, Akluj, Maharashtra 413101, India",
+      "addressComponents": [
+        {
+          "longText": "V2RF+F8G",
+          "shortText": "V2RF+F8G",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ramayan Chowk Road",
+          "shortText": "Ramayan Chowk Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413101",
+          "shortText": "413101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.8911871,
+        "longitude": 75.023333000000008
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.890005019708497,
+          "longitude": 75.021981569708515
+        },
+        "high": {
+          "latitude": 17.8927029802915,
+          "longitude": 75.024679530291522
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=7160300395848840052",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Deshmukh Galli, V2RF+F8G, \u003cspan class=\"street-address\"\u003eRamayan Chowk Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSolapur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "MallikaArjun Mahadev Temple, Deshmukh Galli",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "V2RF+F8G, Deshmukh Galli, Ramayan Chowk Rd, Solapur, Akluj",
+      "reviews": [
+        {
+          "name": "places/ChIJo7_P7ct1xDsRdLOo60V_XmM/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5cHNtUHJRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Chiranjivi Kharat",
+            "uri": "https://www.google.com/maps/contrib/101646407506185956303/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKorMEE-NhSiUKXYuaf__FDbBT_GaSE8k_BOMwq5KL5MihJUwetA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-16T06:04:29Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8",
+      "id": "ChIJ6ZE1sBl1xDsR9jBH0DwITg8",
+      "types": [
+        "hindu_temple",
+        "park",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "V283+VVW, Geeta Colony, Akluj, Maharashtra 413118, India",
+      "addressComponents": [
+        {
+          "longText": "V283+VVW",
+          "shortText": "V283+VVW",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Geeta Colony",
+          "shortText": "Geeta Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413118",
+          "shortText": "413118",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.867226,
+        "longitude": 75.0047134
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.8657980197085,
+          "longitude": 75.00349381970851
+        },
+        "high": {
+          "latitude": 17.868495980291506,
+          "longitude": 75.006191780291516
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=1102828016037736694",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 18,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 18,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 18,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 18,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 18,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 18,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 18,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:30 – 9:00 PM",
+          "Tuesday: 6:30 – 9:00 PM",
+          "Wednesday: 6:30 – 9:00 PM",
+          "Thursday: 6:30 – 9:00 PM",
+          "Friday: 6:30 – 9:00 PM",
+          "Saturday: 6:30 – 9:00 PM",
+          "Sunday: 6:30 – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V283+VVW, \u003cspan class=\"extended-address\"\u003eGeeta Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413118\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 247,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Multimedia laser show",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:30 – 9:00 PM",
+          "Tuesday: 6:30 – 9:00 PM",
+          "Wednesday: 6:30 – 9:00 PM",
+          "Thursday: 6:30 – 9:00 PM",
+          "Friday: 6:30 – 9:00 PM",
+          "Saturday: 6:30 – 9:00 PM",
+          "Sunday: 6:30 – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "V283+VVW Parvati Garden, Geeta Colony, Akluj",
+      "reviews": [
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0Z3NueTVnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Noise level was to high & such shows were attraction before few years back but now there is nothing new or attractive, knowledge worthy is this show",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Noise level was to high & such shows were attraction before few years back but now there is nothing new or attractive, knowledge worthy is this show",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vipul Parekh",
+            "uri": "https://www.google.com/maps/contrib/100350439839873170155/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOuWHFWKp_aRZ2H856U_yzAQ_rVGCWMLSDaPzJ17NQGQYo6g=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-03T08:46:34Z"
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdEtTamJ3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's good to visit this place after 7 pm.\nTickets for Adult Rs.25 and  for children Rs.Its around  20 min show.Its mixture of Bollywood and Marathi songs shown through laser show.Nice experience.Entire family cN enjoy  full show.Music and laser show really memorable.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's good to visit this place after 7 pm.\nTickets for Adult Rs.25 and  for children Rs.Its around  20 min show.Its mixture of Bollywood and Marathi songs shown through laser show.Nice experience.Entire family cN enjoy  full show.Music and laser show really memorable.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prof.Dr. Somnath Thigale",
+            "uri": "https://www.google.com/maps/contrib/108357339950133598664/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpMizphtPf0lo8_Ro_w4BStSU8vweRh96BuqCPVBxIlpRpE_af=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2018-12-23T19:39:08Z"
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBXy02bUZnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome evening recreational spot. Tourist visiting first time will get wonderful experience. Comfortable sitting and beautiful light-fountain scenery with good quality music.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome evening recreational spot. Tourist visiting first time will get wonderful experience. Comfortable sitting and beautiful light-fountain scenery with good quality music.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hrishikesh Lanjekar",
+            "uri": "https://www.google.com/maps/contrib/102742552525649198218/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9-zE_8aFNxDDWSQm-G4bw0CGGVizKz4l0kVB_hvKzLYJcdTgo=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-06-05T08:19:02Z"
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5a01PMmtRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice hall",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice hall",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajendra Ghogare",
+            "uri": "https://www.google.com/maps/contrib/102057726081915041184/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWObdgREPmPoX6l2l3_I3v5Tq5ASb_Rh2HFheipbU0v4aZvRSd-Zg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-12T10:09:55Z"
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/reviews/ChZDSUhNMG9nS0VJQ0FnSURndE1xY2NnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Great sound and fountain show..Ticket rates adult 25 kids 20. Special concession for schóol trips. Time usually first show at 7.30 pm",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great sound and fountain show..Ticket rates adult 25 kids 20. Special concession for schóol trips. Time usually first show at 7.30 pm",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amol Pawar",
+            "uri": "https://www.google.com/maps/contrib/115127601182768069947/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV24371h5jrQsUV1OWfxeDgeS34Qh_PC_7ZWG2_ySLsHMt-PT66Ug=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-06-16T14:26:00Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJZy0DlkNAg5RYl5Pc32qKxywDQIybXADbcZugDXzd-MMk0tAvt9HWF-kjsi9MxZHPZIZcb2IzXUZxCXOZdmpyTGeRy4XmxE3ValrJoQTWUJ3ozP2PZ2LGlRad51vHBsBYFZIk95ZxhSnSMapd6PQC531ZZQm5qWyoNo",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Pradeep Phule",
+              "uri": "//maps.google.com/maps/contrib/107391541318329004099",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRx2MPosltZzT-IeKbbecrhggncBvbe5CdxOIbw5uACCQN7auY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJajQTLHouWFfq1Gw2o_BpsGP1vTb_7fQ32hCEPIGC7y2bpvv5tXYp0p04k4tCOKFjD_owxl2Ozk1e8PlEctvdocjYbjv1v83nikFGih4ddC39k1HapSwDdTKb8uPFi3Cw64D-HQFaOU4Q5U7gJMJCMWhFuJLoYtKIsf",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "SANTOSH SULTANE",
+              "uri": "//maps.google.com/maps/contrib/109859506854901168467",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJcRjrekykPSgWKuJXrZ7_f11cEqgJwBgP0oj0_zjSddM3lBw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJaeWxAJuXG9T9juXS0cnzh80jgB2oJ1UP7kzpZtkiNcGY1rF8xujr1DWzqJqvjPex9NiHjJpiSV-dVlvh5l_rJRuwETcDeZA8VL2s2pEAVAxk72Ony2pKkiQzJ2dcr7YSHs660CVvpp0rI2A1Px-cN8PBoKkaFcbmdm",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Avinash Patil",
+              "uri": "//maps.google.com/maps/contrib/117627826951077267751",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUu2fMuZxKStYqEv0mWEVhG3wPxpQ0lh5hY936vNwxs2_HHfrSy=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJbM8aTtVjTxS8DXxZtc7GNBvRF7R05CAcxNghu6a_jVvey7MIqglmMEYGgWi8Q07SSSpUpMPgyCpXkSVt4z103vOpIVgw1K7tFp9YBR9FgSaGzqH-LfNm95jzB2F4fo7fASL8WguEx7ejh39061yQ1k5U2DAa1v86aC",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Avinash Patil",
+              "uri": "//maps.google.com/maps/contrib/117627826951077267751",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUu2fMuZxKStYqEv0mWEVhG3wPxpQ0lh5hY936vNwxs2_HHfrSy=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJb1v1A-YGjcGbPWQivMiSngXiMCGgFnTme3nk8rM_i7re95GbbQbZo26a5pziL6yd3hunlo9_4x9KkdMODqbnA3nSGo6t8aAjuZ_ruxvxTNLQIpYrw1n-8o1fr2A2fM2wRIHkgzVGeGjVIoLAZ6470GDNYwDLkg3Ff3",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "SURYA PATIL",
+              "uri": "//maps.google.com/maps/contrib/117800725547599146290",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW2m4ifFj-Y0G3nulXuMlMpJROKPm2BwNhAExwOKgBM4583vOWb=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJYsPG94srY1e6Ry0KBXQyBqz60naqF3g7LYOJi9xkbAZgieqVwtBVPbO24A3QEM83DfjNMUFSXUvROHFJeNRoB8w39BFxuHXbQ-CioQZGqIUkYkh4ZRN4fK13ix0fsxWCW9XEu_PfShlGwSsd25Gs3qnYRmgGfpRi1y",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Subhash Jaiswal",
+              "uri": "//maps.google.com/maps/contrib/101375131952530111337",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL5pM-6kusNb8g1lDtH0fcsWqvlXIH6C71cAfedvWImFZUcfg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJaJOd3Gr3CMz3ZSD1jKUenQ1Vgf3puXNQUZtBHuaWkz_R1sxDIrbf8l3mJSyc93LDYTnowQlRq_MNCseS3L68s-_uoRJVdgln1uLg8cbgjWP9HpV9213wtojPnh74D1xWkKUsDXGoehirYj7_7rAQEQPzT0dt_PGxPD",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Amol Pawar",
+              "uri": "//maps.google.com/maps/contrib/115127601182768069947",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV24371h5jrQsUV1OWfxeDgeS34Qh_PC_7ZWG2_ySLsHMt-PT66Ug=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJb2NpkK8AACAuupD3LUNkmJ17rFJtYEmSKoxo4wZqDXI4SfvhKbg76xhjJ26F_2dMhzWiUvfRwspushY_52HBuHDpFX6J7orQxxqDJI26yzJVnTdTXSRYbwEB-NIoE8Pv8L5CKP918zbsNR-sQlTD_PnKTi4P6SCEy3",
+          "widthPx": 1968,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Farande Ganesh",
+              "uri": "//maps.google.com/maps/contrib/107363460939585481735",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW4r_JeEWz6ljq3BEKWqL0dNjvG-eGddSp3VHFZ794ZzfQZIocZ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJbufQ_3hIYpM69tDWPfR3Xy0LZ1rQGKtEsKcxgdcDMSFxwW0B0FPjRLAbmjlknErCPy_Eqitw7TZl31t5VQdhlTHUlVct3OAYp-Ob7dKpQu7AZCmos50r0z8RIwzzg5nAx2a887gkwvWb3I9K-YGL0kOunzwJ9EXASs",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "SANTOSH SULTANE",
+              "uri": "//maps.google.com/maps/contrib/109859506854901168467",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJcRjrekykPSgWKuJXrZ7_f11cEqgJwBgP0oj0_zjSddM3lBw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6ZE1sBl1xDsR9jBH0DwITg8/photos/ATplDJZLADTGea7kohNLBco962gdUCHowtKOYRKBIWJDwFw-X3gdgidLFCd6e69njdoUD0IRqu_pxPCBjUHOOZunPgR8HfdfDuqdBTnfPH0HZDBcc05Xl6enEHSxrgC3JYBrBIWnCuAeCGN6t9yepetQbTdlTPN3k8J_WgdX",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "viraj pawar",
+              "uri": "//maps.google.com/maps/contrib/117342893591461175083",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWv6mRWbITXJcDT5AAejJr0D4TSilksuY3Xvnr2iMqWEwi8xQ6A=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI",
+      "id": "ChIJt3mI-qx1xDsRKpyYG4Z5KrI",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "V2W6+3RJ, Sangram Nagar, Akluj, Maharashtra 413101, India",
+      "addressComponents": [
+        {
+          "longText": "V2W6+3RJ",
+          "shortText": "V2W6+3RJ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Sangram Nagar",
+          "shortText": "Sangram Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413101",
+          "shortText": "413101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.8952235,
+        "longitude": 75.0120192
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.893919369708495,
+          "longitude": 75.010382319708484
+        },
+        "high": {
+          "latitude": 17.896617330291498,
+          "longitude": 75.01308028029149
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=12838207304668585002",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V2W6+3RJ, \u003cspan class=\"extended-address\"\u003eSangram Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 18,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shriram Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "V2W6+3RJ, Sangram Nagar, Akluj",
+      "reviews": [
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzenRtRWJnEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's cool and fresh air place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's cool and fresh air place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "BOOK MY PIZZA",
+            "uri": "https://www.google.com/maps/contrib/115845174207275636576/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWanItyoOHpORbmFj5IPgW_Zr9mNKmKFnFepar0PIWHxGd54UIy=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-02-02T03:10:11Z"
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2aXA2LW53RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Best place 👍🏻👍🏻",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place 👍🏻👍🏻",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shivtej Gulave",
+            "uri": "https://www.google.com/maps/contrib/102656317417237973296/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPxzY0kETJkeyrzldB_mhEYAgJJUsUoLbMsp0k-k-0WWZtehxBVA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-09-02T13:18:42Z"
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNncE5IRHJBRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Alok Phade",
+            "uri": "https://www.google.com/maps/contrib/106232745407101291353/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_Oz2EBz6CkLdWnpoF_QYe0vTZhBWlPwIX8eF8bLTqnqQkqOE=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2017-12-02T02:06:14Z"
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/reviews/ChZDSUhNMG9nS0VJQ0FnSURVNVktRUxBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vsrsha Kulkarni",
+            "uri": "https://www.google.com/maps/contrib/116123316342622581645/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIPcaK2aNcAApB_pL0K7FKtphzpJO_glw8GTDuplE-QktlkQw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-08-30T10:44:06Z"
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/reviews/ChZDSUhNMG9nS0VJQ0FnSURJaHNfSkNnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Peaceful place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Peaceful place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Akash Jadhav",
+            "uri": "https://www.google.com/maps/contrib/114928746264511410081/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXg544Jk5iHXV2q3dWUG9_5aHJUeqcjwpyoJmB3q-yUtXHNA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-01-02T13:04:29Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJa1rCTUrJLT090uS0I_zehIH4_gT_SI5DmrnUPS9Eqqu1vgbNAI3FIlfwsGmjnwgBwBw1rCQ1hihbD4wvFWX1dFS16Iya3TGkOJn8CcHI9FAzFS7EXixKpxJNs0IohGXKYs1rf1E9YkGPVmOLD75zoDvO2_p7oHQIk4",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Aniket Bhakare",
+              "uri": "//maps.google.com/maps/contrib/116061773407406384246",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUycmUhTDL26hKSZG3KF9riCzDrgFskw38gcbqOq1t6cE8tCJznDQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJb1PsMgomKoIcV8n62vRuGLF_mbRdrwKzwgjhm7dDrn4dWfXXNflOLD-HltJGoZQLk9RhiBgA7DZfFsM4UD4n8fsdFVFNxqFzTRzUoIMKQVoBOT4qEbRO5Y9B2yJ3KcCJJQe4ab8MXy4zJkL1TRkgfBWjqijB0uxzDH",
+          "widthPx": 8160,
+          "heightPx": 6120,
+          "authorAttributions": [
+            {
+              "displayName": "Rutik Kasabe",
+              "uri": "//maps.google.com/maps/contrib/105298037085272288869",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVg9LeknBb7bsTataPoUBmJ-aZhjLfh-Pr4kEpbogaNlhP6IYM8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJaMDO3NlXshuODMtNTBChud9QZWosiohOIiAiBLiWjp5QqR5WQevYu50n1Ur4fcMnWnqcxp7GhpDtw_eJxYz902MWhG8KN4RFoL6tPAxoSgR6flDxv-R81ykUX8THR6kzMYtZ4ODraYcUNoZ-aZVaCuc3CEq82a2eau",
+          "widthPx": 680,
+          "heightPx": 419,
+          "authorAttributions": [
+            {
+              "displayName": "Mayur Mane",
+              "uri": "//maps.google.com/maps/contrib/107930236339494628582",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJjA629eBdaAdgwbEiKreobdCEDqjiomutBmpCHAo_iGz299rI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJbKkryGk8D5Fhst7sp9mhivT-L6N4IT10VmQpEDk4puUa-EnKYkfeU02wcAjIMbFSodYg9hUfQe2UGhYovotn_AGtpQjUpjx_OU1Fiqh9nFEzEO26cEuMPQczSwTizGE7ttra4SX0x4Cvadsbe3N7Gca32v8LKvpMp9",
+          "widthPx": 8160,
+          "heightPx": 6120,
+          "authorAttributions": [
+            {
+              "displayName": "Rutik Kasabe",
+              "uri": "//maps.google.com/maps/contrib/105298037085272288869",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVg9LeknBb7bsTataPoUBmJ-aZhjLfh-Pr4kEpbogaNlhP6IYM8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJZOMUY4jmFa0E54Gdh74-nctNwL_ac1OKXED08FeRxWLjSrwSdE1VgBRMX5QfCMVksKJreI3NVMg-hlCuq4_MrCE9dBaiJk-QCj91gAb8PGrV0K6UJpWeC47XrKfb_hNd6cgPjNUFmJ1506ESnwww1e06LfqgN-cdoQ",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Akash Jadhav",
+              "uri": "//maps.google.com/maps/contrib/114928746264511410081",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIXg544Jk5iHXV2q3dWUG9_5aHJUeqcjwpyoJmB3q-yUtXHNA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJahknvd968Mi-2Ob-nIuYqzPFs-Fjf-4WtTmtgBB47Eg56KX5Ztph5II0JuDFfl2P9w8s0YWfyt3QZ7JsVBLLHuRV1pplrdoZXpcQtMmpTQW3lQgqybfho1ZV5Olq4jN-9bItMYbsp-1VCpgN34sdS7F1xhoPPkzuwB",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Akash Jadhav",
+              "uri": "//maps.google.com/maps/contrib/114928746264511410081",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIXg544Jk5iHXV2q3dWUG9_5aHJUeqcjwpyoJmB3q-yUtXHNA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJZ08ZzhKXlU39S7OGZhuv_i7qn36yoo7JNjYdBDRNpkk7FC8yB47zk_1OhAUVJ_QCvm8rvDAFS2LbVJ42FmtL3viTOZ5Sue5__GGjNr1WtCfIj5b_heWb4WmPESZ4YGStYORDQoErD1R9qusjUgwl3OwG4WU-a6xlTW",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Aniket Bhakare",
+              "uri": "//maps.google.com/maps/contrib/116061773407406384246",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUycmUhTDL26hKSZG3KF9riCzDrgFskw38gcbqOq1t6cE8tCJznDQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJbuV049lFDv23pfRT5_MSen-LeD3T-ioCqfC0Qm8DUc39BoNDmh_H6MgFXpTVWohLWyOZbbfayvaUvsicU2z0w73RccDPLkqWFWo1nHdZVKhWDcNffFfM_7mjpn7haCuWuZBfPzkdHl_aLbK77a1Vslg-l8kLPGrq0f",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Aniket Bhakare",
+              "uri": "//maps.google.com/maps/contrib/116061773407406384246",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUycmUhTDL26hKSZG3KF9riCzDrgFskw38gcbqOq1t6cE8tCJznDQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJY2qrpBaDRiD6s4NB82aZyBt4zN-KM6f343pURDbh5HqwYdF6hvRPxQbrKr1jGhCPB2bHVTbyNGut6JigBEXNX_2mXNw8iu5Hu51Lmvk1qS2343YmzvDVdNYbVlGS57PzGnvnAIYblD7d_ipwSkEomOohd1O-yemD0v",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Aniket Bhakare",
+              "uri": "//maps.google.com/maps/contrib/116061773407406384246",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUycmUhTDL26hKSZG3KF9riCzDrgFskw38gcbqOq1t6cE8tCJznDQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt3mI-qx1xDsRKpyYG4Z5KrI/photos/ATplDJY5Sspr4TVkXH-xHliooBarK52FJohuVUHDRsQBvgYi2KjE9rHAbKc2v6_LkHJtPVKUEae4EhyBLyANW5mpqPBCQbFGMQsjKPoiG3skNJr5hOoOp6aaG3axofMKfnNbO1Lksi5QOnCGaqm0bc6BcRbNV_E4cP-FXcWB",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Akash Jadhav",
+              "uri": "//maps.google.com/maps/contrib/114928746264511410081",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIXg544Jk5iHXV2q3dWUG9_5aHJUeqcjwpyoJmB3q-yUtXHNA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw",
+      "id": "ChIJd1vplBx1xDsRc6D92b6_pgw",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Hanuman Mandir, Swarupnagar, Yashwantnagar, Akluj, Maharashtra 413118, India",
+      "addressComponents": [
+        {
+          "longText": "Hanuman Mandir",
+          "shortText": "Hanuman Mandir",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Swarupnagar",
+          "shortText": "Swarupnagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Yashwantnagar",
+          "shortText": "Yashwantnagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akluj",
+          "shortText": "Akluj",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Solapur",
+          "shortText": "Solapur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pune Division",
+          "shortText": "Pune Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "413118",
+          "shortText": "413118",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9QV2F5+GX",
+        "compoundCode": "V2F5+GX Akluj, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.873794399999998,
+        "longitude": 75.00995859999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.872480369708498,
+          "longitude": 75.00866521970849
+        },
+        "high": {
+          "latitude": 17.875178330291504,
+          "longitude": 75.0113631802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=911626801011073139",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eHanuman Mandir\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSwarupnagar, Yashwantnagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkluj\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e413118\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 47,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Hanuman Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Hanuman Mandir, Swarupnagar, Yashwantnagar, Akluj",
+      "reviews": [
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3eGZTbGxBRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This is Hanuman Temple. Many Pilgrims visit this place mostly on Saturday for worshipping lord Hanuman . Very energetic and peaceful place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is Hanuman Temple. Many Pilgrims visit this place mostly on Saturday for worshipping lord Hanuman . Very energetic and peaceful place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anand Bansode",
+            "uri": "https://www.google.com/maps/contrib/110282428432343431868/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1zkdeUuqhyd5Ef9Qt0EXMP7k1F07oUmk_q4Ihz9h5KtzqXddj=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-05-20T13:07:22Z"
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/reviews/ChZDSUhNMG9nS0VJQ0FnSURaN0tDVFJREAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sagar salunkhe",
+            "uri": "https://www.google.com/maps/contrib/107644047887841828539/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLS3muPaq8Q2g--f6JOWjT11fQ4KIccogKjAK90obo15gud-6Qn=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-26T06:56:16Z"
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/reviews/ChZDSUhNMG9nS0VJQ0FnSURvcnJmNlhBEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "This temple very easy to visit and have lots of parking place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple very easy to visit and have lots of parking place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shivaprasad Tilekar",
+            "uri": "https://www.google.com/maps/contrib/101145211754777483648/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6Q2tWBB_7_mty4Hq0tJTpCh8eiP1ajUESTAss8AC5tDuwNP1z6w=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-03-16T16:35:10Z"
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/reviews/ChZDSUhNMG9nS0VJQ0FnSURZNWVDSmJREAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very energetic and peaceful place....\nEasy to search...\nClean..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very energetic and peaceful place....\nEasy to search...\nClean..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sahil Tamboli",
+            "uri": "https://www.google.com/maps/contrib/110101009198672554827/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdy_jhWe7RtE9c1UxXhzJS3UUg5F3h10nBcE32AfeHGg8f4JIc=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-05-16T09:20:46Z"
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwX3FpSEtBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shivkumar Bankar",
+            "uri": "https://www.google.com/maps/contrib/103994529624023366752/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVomjnRocUy9HeNooM8sq0oe3_vQ3vCndhLW0iuAAWHJ4avnUd1=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-09-28T14:31:49Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJbW69pCKmifXOnDwr2WFxNteYjIujJBACrgtr164s8nU6MfoMvJYHFOoJeerU65MEV2YcjgHaBAxiDGjutliBEgW_X5Wty9KKebOvkbDn9yp01EHtYw2k3-2yAm-eI2lzi3P_L0l5K3PsRUDtrsbe8VdRgG9-vVtuSA",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Harshad Bhingare",
+              "uri": "//maps.google.com/maps/contrib/117323611623213269096",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdLKC-fi34ydvttDjh41SZVUfX5ujcloRqahgryL4Eke_gxpYN=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJZW9IKV_kwfyxxWFZ1mvys1-Sw6UDGI7zByzuW1Uym4krsfx1FEsxiPYSs_q5VUSRTdKItJIo0RaSVPUmpxqLQLfh-7tvZKkf8VpvUMjbKHTq12qqFU3Ny9rfkGSbDUyj4D1rhh8T1Hq6PFB1wWs9Ut8PmCBiFhnFeJ",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Parth Pawar",
+              "uri": "//maps.google.com/maps/contrib/117860758481202299442",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFxf7GsECT5s059bkyFLoCeAKtXsJ0PMDOgvOwroZWFbCPRS7e=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJaUf2F76lw1aWTtk7LGjIMZw2y6x6_zJxFR7rZfzVIpyKgIK-23TPC7jNcGQu2M26s3XqfE-66nSpGQEXzpXez0_C0bmaZBszRcAulcQRzCh9hG_4JcOXfhZBTkDjll12cnyu6yIx8EoThOgkyiek0vfpCM50MfB5xL",
+          "widthPx": 4075,
+          "heightPx": 2080,
+          "authorAttributions": [
+            {
+              "displayName": "Pruthviraj",
+              "uri": "//maps.google.com/maps/contrib/100473879452000387275",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUtQhq4QxdfFK-JFOPWaT4onaX9VbB3TjeJnzEKVubdCz5f4sdz=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJYIQ7e0AJ0jZa5-b6PPGOLRoJARfGCKWd4sDZTFfCdCWbYarbnT3hI4xODi68nE8leCV84jD0zMT7lAtxI_bxfkiMk62ZaR4-V-TkTIKqkXOHeZ4UYjPE3t7Bfnj-tfpJrCJqsKB5lDnRnwoWX4uDA4j_1FS9tIvN8p",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Sahil Bhosale",
+              "uri": "//maps.google.com/maps/contrib/104325930482245395493",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL3NgI61WU_QDcs-m3VBWYbmiTb7VNun4HXTYDhNZQcTFWTmg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJY1fKmKFP6PcmjZGIscMadVQ6r5B0QW6cIsX_Cu4IMPnz-ngyA4iGq1egiHe8nl_QmKlehfnKtd-JPHGcmlBdz5vdsm-O1nQaFOzZT9Xrsxh-iJCH4GuIYbbSjGWmBZhrwJ9zKxssnX7KC-Q5iq3olD5nrjVK3rkPGa",
+          "widthPx": 4208,
+          "heightPx": 2368,
+          "authorAttributions": [
+            {
+              "displayName": "Pruthviraj",
+              "uri": "//maps.google.com/maps/contrib/100473879452000387275",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUtQhq4QxdfFK-JFOPWaT4onaX9VbB3TjeJnzEKVubdCz5f4sdz=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJYmVpmvC46rtcFWqeTuKBYslVSIhW5QdqOox3u3u9Oybby1NUETJy_DkXocnz0hVhr32TI25o5Ni3_ddm4Ry-Viv-X5Hz6Y3vZA07_Dz7-QCmT5OQ1x5iaPdvdJg8jCN46kPtQe5oszCLkrrlctISuevlXhBoRFOW_r",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Harshad Bhingare",
+              "uri": "//maps.google.com/maps/contrib/117323611623213269096",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdLKC-fi34ydvttDjh41SZVUfX5ujcloRqahgryL4Eke_gxpYN=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJYTQm43bB_WPg6cdn8el0rq50ASfCp5682wfLoFEOZyhOxY1QKzJxUsvfZoUT7BLjZxRy7NNDQDiI43TFCxVIKF4D-y24LOJfwTReGQuEbbtP7Ud6sGWMHtPw9vTaQJ7q8YblUFMp6RroPj3ee06WBKTU-ubVOVx-kN",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Parth Pawar",
+              "uri": "//maps.google.com/maps/contrib/117860758481202299442",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFxf7GsECT5s059bkyFLoCeAKtXsJ0PMDOgvOwroZWFbCPRS7e=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJZnDxLRSvR6JhZSkuc7YokybYWjd86R768kekxkJdRmSNyz78G6_nYPdlxYvMMrJPvYjkhHR0LRPzkTiWTuyKn_AILmMHR2ClLbBjIJIkSoEUdE8Dk7T3J_I6YOwAfT43RfBGMgH2RfOJa7MUglVTjyv-JPh3jPGqsw",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Sahil Bhosale",
+              "uri": "//maps.google.com/maps/contrib/104325930482245395493",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL3NgI61WU_QDcs-m3VBWYbmiTb7VNun4HXTYDhNZQcTFWTmg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd1vplBx1xDsRc6D92b6_pgw/photos/ATplDJYJqcJ5fMwNd2340WZPlD8KBNAZy-0Xj6zbkLDvA22ftGD8QoH0VmkFeg4uTrsaEdE-7FAmF3BprPWUY8VUrEtvb8NfJrxns-rLbT0ACmmv3a0X21aihgrBs2ZROR8Vh9MfUXPdMZkfeldNup0Z43cD3DXtyTl-tTu0",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Harshad Bhingare",
+              "uri": "//maps.google.com/maps/contrib/117323611623213269096",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdLKC-fi34ydvttDjh41SZVUfX5ujcloRqahgryL4Eke_gxpYN=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    }
+  ]
+}
+

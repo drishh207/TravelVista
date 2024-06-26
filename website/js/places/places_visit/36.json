@@ -1,0 +1,4831 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc",
+      "id": "ChIJq6qq2qeldDkRtdH2H-F-7Yc",
+      "types": [
+        "historical_landmark",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "W3G5+5W6, Masud Nagar, Qila, Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "W3G5+5W6",
+          "shortText": "W3G5+5W6",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Masud Nagar",
+          "shortText": "Masud Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Qila",
+          "shortText": "Qila",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 27.930607,
+        "longitude": 78.0632653
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.9293324197085,
+          "longitude": 78.061764619708484
+        },
+        "high": {
+          "latitude": 27.932030380291504,
+          "longitude": 78.06446258029149
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=9794624269969707445",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 13,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 12,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 13,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 14,
+              "minute": 15
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 13,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 12:30 PM, 1:30 – 5:00 PM",
+          "Tuesday: 10:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+          "Wednesday: 10:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 12:00 PM, 2:15 – 5:00 PM",
+          "Saturday: 1:30 – 5:00 PM",
+          "Sunday: 9:00 AM – 12:00 PM, 1:30 – 5:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "W3G5+5W6, \u003cspan class=\"extended-address\"\u003eMasud Nagar, Qila\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1677,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Aligarh Fort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 14,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 13,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 12:30 PM, 1:30 – 5:00 PM",
+          "Tuesday: 10:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+          "Wednesday: 10:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 12:00 PM, 2:15 – 5:00 PM",
+          "Saturday: 1:30 – 5:00 PM",
+          "Sunday: 9:00 AM – 12:00 PM, 1:30 – 5:00 PM"
+        ]
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "W3G5+5W6 Aligarh Fort, Masud Nagar, Qila, Aligarh",
+      "editorialSummary": {
+        "text": "Hilltop polygonal design fortress built in the 1520s with inner gardens, bastions & a moat.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/reviews/ChdDSUhNMG9nS0VJQ0FnSURaLUtEbDB3RRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It is a matter of great pride that a  5 🌟 category hotel has come to our Aligarh.Hotel Name Fortune Park, Aligarh, ITC Group.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is a matter of great pride that a  5 🌟 category hotel has come to our Aligarh.Hotel Name Fortune Park, Aligarh, ITC Group.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "lucky",
+            "uri": "https://www.google.com/maps/contrib/110666441134380494707/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXPbkiA9jJsc3cHcOrK7Os7m0r1rezgbRU0CtyUvM5jrgvcoyf8g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-24T06:47:27Z"
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxbk9lQVJ3EAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Aligarh Fort, also known as ‘Aligarh Quila’, ‘Baunasaur Quila’ or ‘Ramgarh Quila’, is amongst chief attractions of the destination.\n\nThe fort was built by Muhammad, son of Governor Umar in 1525 during the reign of Ibrahim Lodhi. It is located on a hill with steep ravines on all sides of about 32 feet.\n\nThe polygonal construction having bastions at each angle is the highlight of the ancient testimony",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Aligarh Fort, also known as ‘Aligarh Quila’, ‘Baunasaur Quila’ or ‘Ramgarh Quila’, is amongst chief attractions of the destination.\n\nThe fort was built by Muhammad, son of Governor Umar in 1525 during the reign of Ibrahim Lodhi. It is located on a hill with steep ravines on all sides of about 32 feet.\n\nThe polygonal construction having bastions at each angle is the highlight of the ancient testimony",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anup Gupta",
+            "uri": "https://www.google.com/maps/contrib/115994771452426565108/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFz7j0U78Fzn3zz71Dyp-1eVblT5ptJ12TSyeGcfxDYTUlq5IH7Q=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-12-25T04:51:45Z"
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/reviews/ChdDSUhNMG9nS0VJQ0FnSURZeHRYQzlBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Aligarh qila or bone chor ka qila was built in 1524-25 by ibrahim lodhi, however now only the ruined remains of the fort are present but alot of greenery, beautiful and colourful trees are present inside the fort area alongwith a botanical garden under control of aligarh muslim university.\nHere you can find birds and animals like peacocks, ferrets, koel birds, etc and the ambience is really calm and peaceful.\nReaching the main ruins of fort and on top of the fort area is not easy as the trails which leads to them are covered in thorns, bushes and steep inclines.\nThere is no entry ticket so anyone can visit it which makes it a weekend destination.\nA large parking area is also present here.\nSo if you are a nature lover then this is a must visit place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Aligarh qila or bone chor ka qila was built in 1524-25 by ibrahim lodhi, however now only the ruined remains of the fort are present but alot of greenery, beautiful and colourful trees are present inside the fort area alongwith a botanical garden under control of aligarh muslim university.\nHere you can find birds and animals like peacocks, ferrets, koel birds, etc and the ambience is really calm and peaceful.\nReaching the main ruins of fort and on top of the fort area is not easy as the trails which leads to them are covered in thorns, bushes and steep inclines.\nThere is no entry ticket so anyone can visit it which makes it a weekend destination.\nA large parking area is also present here.\nSo if you are a nature lover then this is a must visit place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nishant Creations",
+            "uri": "https://www.google.com/maps/contrib/107271128214362968650/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5p85NzD5Hsds5wn34OlFYvQAtDbjc6pi0CH0NiRBXHmB-D1ag=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2019-05-28T08:20:18Z"
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/reviews/ChZDSUhNMG9nS0VJQ0FnSURCeWNiWEpnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "The only place to visit in Aligarh, but due to negligence the fort is losing its charm...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The only place to visit in Aligarh, but due to negligence the fort is losing its charm...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RajaJunaid Farooq",
+            "uri": "https://www.google.com/maps/contrib/102367674955231917798/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7ONKDKTCNdF_WaXqWh2u_n1RitzB7mnZ_DM2tzrkJ0PP1xZY=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-03-03T13:31:30Z"
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNcWVQUDZnRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "If are looking for peace, just go there and take a deep breath.. you will find peace and satisfaction... Although it's one of the silent places I ever visited... But if you are planning go there kindly visit in afternoon and there is one dargah also for the devotional ones..\nYes it's far from Aligarh dense area but a nice place to visit...\nI remember that it's just located near faculty of law, Aligarh",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If are looking for peace, just go there and take a deep breath.. you will find peace and satisfaction... Although it's one of the silent places I ever visited... But if you are planning go there kindly visit in afternoon and there is one dargah also for the devotional ones..\nYes it's far from Aligarh dense area but a nice place to visit...\nI remember that it's just located near faculty of law, Aligarh",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abdul Shariq",
+            "uri": "https://www.google.com/maps/contrib/115314942012382116161/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVm1iKCQn7ke4DtcqEfu1VzYV29vJrF4bhYISFe2mRvlZUNeB5-XA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-11-25T12:42:02Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJZYi5xFg0EEi8YNIzgDDHlP8yaU9Oh4mFEOJSFztlKqTVHvnRcaaFy1R2oqSmRt_zhqv8_Q8TUO0SBpru4fH9ghlIPxIyBiDUdJef3b5GaP6XHvS6Hss3AtPPGVOYovY9lSEDfk0w9VSP8N1TfyclMRFxNtTaNcWYMC",
+          "widthPx": 1080,
+          "heightPx": 805,
+          "authorAttributions": [
+            {
+              "displayName": "Admission",
+              "uri": "//maps.google.com/maps/contrib/110005323394057606031",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIw25LONI8SUNT3-EWE8RxkO0-gBnIAbCsAaGhpoiR5ujx-WQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJam5eDltGNsU3ps4l9TZkP3s8goD6yeInHLX9Ljuv6Zmqa608eALXrUCS8EUWzmMkOaLA3cYtq_S7AvXX5RotAYP_t_xka5x5mNh9XMT-qSsmv6cDfAl1UzaBHk12jscnvnrYIU-GbjFzHd_pNwoOBnPy0BPMY-rA-I",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Aslam Azad",
+              "uri": "//maps.google.com/maps/contrib/114204002928161180258",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXa9_0C2_Vq27C1e9llzwMM6Cc9akH70cyBLT1OqdBWO33xmOnV8w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJZ-Laf-VGDb2z569ebMg5pO_eLX1ou1brsoFhNnGoj49mSFHAZIG8VJzKYVeEr6OAhWYwH13wa05hQIyGKNBmvNHMGCclYYAqcjkkA0-IJaoYr4UTPTR7c5qtc8i4k-o2t760CxUSeL1M88b91t1E2dX2L66IN6n9xP",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Ubair Zahoor",
+              "uri": "//maps.google.com/maps/contrib/115552132581572064870",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFUUGR7KoGAuxSeZlECLjbOKR7GFSx4eQ5tBDNVGaDbJVXLvjYiQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJYcg55hluWd8gCgmKXbTBwxmNSVxZU4T9Qb22hiWzGsK1yZuGicyu_w7URPH0nqtd2QbUWd7FBZZ_c-EfwFCTxxyxnJTjiE0uJiVHfAG-PZfRmlDhQvef7kEnfi2KzyQ5QkJdCa7ZgZPmbkT2miHhcaIAGQRhJrPHab",
+          "widthPx": 1078,
+          "heightPx": 1304,
+          "authorAttributions": [
+            {
+              "displayName": "Rashmi Rawat",
+              "uri": "//maps.google.com/maps/contrib/103122182017522381584",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUD2r4GqcFjm8iq01n_84EjPOMgp1ENp-lpHUu1aAQFtDwS9Hh6=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJbEmd3xSzBo-E_m5u9l1Qi0b3yU-hM2JRbsc-H_tZEl9UfdbgtobCFnaQAE82SpgKnKasx0xz7HCMPboOTui-VqPW_Iq5jied029MJQ7fFYtIvInv1IcPKQ2L0Ue3_xOmBB15B1-mNLZw3Fcpsn8ijKeyeg0So9Okop",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "justumair _",
+              "uri": "//maps.google.com/maps/contrib/100285257565075331281",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWEY37Ov0vu-JjvLu0tGKgcZydaacbFms6-yAE93_grQrZ69PSM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJaidWyVs5OYlRiP7aESeZxaHSYCQDyX8imNhm3OreiYmPxNlOMaPtOOTLV49xu6K-8Z_atTJJhiWYxm8kdu5CNhLn3NU_6xomXTcbFtPHfXAg51wrdEHGO8LCVcdxcZy7p9nfLY7LGNQ4ojq6EjynWbcx9A3z5MmtY",
+          "widthPx": 9248,
+          "heightPx": 6944,
+          "authorAttributions": [
+            {
+              "displayName": "Habibur Rahman",
+              "uri": "//maps.google.com/maps/contrib/115128119036694117361",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXH2nATbDSW3gBI1QoRZe-RP0ERuaOSIZxCo4UUOd4aPeANbss=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJaB2yhs4hHjUXkA0tJC5ivtkzhRkEDeUllhYdnkzfETrEAT_ZKXKKOHX0ipo-kbjrBKgdRwiSM_9M4s057ZjkhpI-HbzM_U8dCnb9e_EivaW59TWFYjd-IUO8YUkahWgQBd_N4zHFJutEhhv-FXBY7_2KADHeDKV9wX",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "justumair _",
+              "uri": "//maps.google.com/maps/contrib/100285257565075331281",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWEY37Ov0vu-JjvLu0tGKgcZydaacbFms6-yAE93_grQrZ69PSM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJZTJLPgxvS1DmWVDpsHMcV0pFWbPXMXlekqlKoZcl3-5GAtQoJERLFKIrS33E-qGgTSe4xGbH4o4jtxJU0rN18j1sTHpBUT2DJkujdZFs6VAQpF9RHEzYlt5HhBBK8nQC3ZjgnVqRRibZPweFb-Z-k9_eVvS5dxKKk4",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Ubair Zahoor",
+              "uri": "//maps.google.com/maps/contrib/115552132581572064870",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFUUGR7KoGAuxSeZlECLjbOKR7GFSx4eQ5tBDNVGaDbJVXLvjYiQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJYOcqNTr92KPwChrrIfql5p1o-nwA4Y5O70nFlOHG3H6BULS2IUIryDGulEFpbgX5QdaSHC6cuK-B5ERKmjCM_SDtp1cwijVHbhESEV4DZO_omn4GWabxRuhovbv3NHVUIPt0-Rvyk_4y7CXfI6gjtThiNpMd_yiz2s",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "RajaJunaid Farooq",
+              "uri": "//maps.google.com/maps/contrib/102367674955231917798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ7ONKDKTCNdF_WaXqWh2u_n1RitzB7mnZ_DM2tzrkJ0PP1xZY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJq6qq2qeldDkRtdH2H-F-7Yc/photos/ATplDJan6z783bA_Q4m0zlxxm2b5PflsopAIlx2LsnCMpl8aryYTowzfZHaE4boMmbz1U3QsMDJZdxiur2hAHDZcinlw8teDJPM1Rklmy7wmSFNg-wJq3PgxwhtBi8kVVzskoek1UsJsJwjrpJUPqKhYYeRfroe1cS6YTkI1",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Afaq Ahmad Dar",
+              "uri": "//maps.google.com/maps/contrib/114340876789375503369",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVbT-Yio_f6GLyFjBBHiL-USjzkbkN6Qd4fm7CP4ERTENuPxrff=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ",
+      "id": "ChIJqSFGdnyldDkRckvqt70UnGQ",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "098370 18583",
+      "internationalPhoneNumber": "+91 98370 18583",
+      "formattedAddress": "University Rd, Purani Chungi, AMU Campus, Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "University Road",
+          "shortText": "University Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Purani Chungi",
+          "shortText": "Purani Chungi",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "AMU Campus",
+          "shortText": "AMU Campus",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVWW38F+G3",
+        "compoundCode": "W38F+G3 Aligarh, Uttar Pradesh, India"
+      },
+      "location": {
+        "latitude": 27.9163347,
+        "longitude": 78.0727352
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.914965269708492,
+          "longitude": 78.071362169708507
+        },
+        "high": {
+          "latitude": 27.917663230291495,
+          "longitude": 78.074060130291514
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=7249692305226615666",
+      "websiteUri": "http://www.amu.ac.in/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eUniversity Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePurani Chungi, AMU Campus\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1900,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Centenary Gate, Aligarh Muslim University",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "University Rd, Purani Chungi, AMU Campus, Aligarh",
+      "reviews": [
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURKaWJmYUJ3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I am writing to express my sincere appreciation for the remarkable institution that is Aligarh Muslim University (AMU). It is not merely a university but a bastion of knowledge, diversity, and cultural richness. AMU's commitment to academic excellence is evident in its storied history and the countless success stories of its graduates. The university's emphasis on fostering critical thinking and research has not only shaped individuals but has contributed significantly to the intellectual landscape of our nation. One cannot overlook the unique environment that AMU provides a melting pot of cultures, where students from various backgrounds come together to learn and grow. This cultural diversity is not just a feature but a strength that prepares students for the globalized world, instilling in them values of tolerance and understanding.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I am writing to express my sincere appreciation for the remarkable institution that is Aligarh Muslim University (AMU). It is not merely a university but a bastion of knowledge, diversity, and cultural richness. AMU's commitment to academic excellence is evident in its storied history and the countless success stories of its graduates. The university's emphasis on fostering critical thinking and research has not only shaped individuals but has contributed significantly to the intellectual landscape of our nation. One cannot overlook the unique environment that AMU provides a melting pot of cultures, where students from various backgrounds come together to learn and grow. This cultural diversity is not just a feature but a strength that prepares students for the globalized world, instilling in them values of tolerance and understanding.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mujtaba",
+            "uri": "https://www.google.com/maps/contrib/107953735667239662447/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU4A5uzUIStMD3AykFbftV_4phoURXz9EoKpbBSf-1IsfTweM=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-27T10:54:26Z"
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0dDVXdGh3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The Centenary Gate at AMU is a beloved landmark that represents the university’s long history and academic success. Its beautiful design and historical importance make it a favorite spot for students and visitors. Walking through the gate fills you with pride and a sense of belonging to AMU’s community. It’s a reminder of the university’s dedication to excellence and welcoming atmosphere.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The Centenary Gate at AMU is a beloved landmark that represents the university’s long history and academic success. Its beautiful design and historical importance make it a favorite spot for students and visitors. Walking through the gate fills you with pride and a sense of belonging to AMU’s community. It’s a reminder of the university’s dedication to excellence and welcoming atmosphere.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohd sohil",
+            "uri": "https://www.google.com/maps/contrib/111011273268498286376/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWeP1fuLnFa-d510pwofh_EJsXutW7-LK3p_SoWMz7wvTxCN9ajjg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-09T10:39:20Z"
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNacS1HM1dnEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I visited AMU Campus for the entrance examination. All the students are so helpful and of friendly nature. They have offered rooms to sit & study as I have reached earlier. The vibes of the Campus are just amazing. Overall it's a very marvelous place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I visited AMU Campus for the entrance examination. All the students are so helpful and of friendly nature. They have offered rooms to sit & study as I have reached earlier. The vibes of the Campus are just amazing. Overall it's a very marvelous place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Md Tashrihul Haque",
+            "uri": "https://www.google.com/maps/contrib/104612406386604407021/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-4l3CoCTNmoEAjhNDfFZs5LeBzHx9Uy3HjkVaSifB-QnPUOfWIg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-09-18T11:12:52Z"
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURWXzh6MzRBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "This is a one of the gate to enter the university campus from purani chungi. This gate has built on the completion of 💯 years.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is a one of the gate to enter the university campus from purani chungi. This gate has built on the completion of 💯 years.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "methesust",
+            "uri": "https://www.google.com/maps/contrib/103589505963080558586/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf2eACQRBdarYOM_snl9M4SnaiInUieaEzyBTKB5nmpx0hqvwz=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-19T18:36:27Z"
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWXzRmUHJBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "So beautiful ❤️❤️🤩\nI went with my family and had a great time ☺️\nYou can also enjoy coffee or chai from the Dhaba ☺️🤩",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "So beautiful ❤️❤️🤩\nI went with my family and had a great time ☺️\nYou can also enjoy coffee or chai from the Dhaba ☺️🤩",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sameera Kulsum",
+            "uri": "https://www.google.com/maps/contrib/107563028926839931791/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKo1ALI9UITy1Kbf5pToUapXO4gvg_0jfmE1d1CFTjcISGRNX6=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-12-10T05:55:34Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJZ_PZrqVa4RCMWuEaraAwAjpQJazx9BWhFmHWu6qXdt5BD81hf-30xlitNuIFhHGFlLSBZSthxAUNI01rmhw1uBNyAOOrqgPzjszKf5oQQ6OLqav5vkgSsNko6EbYI-eb7QKDh4ckg3r3raQhIbYq3SXVl97eC7pRlw",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "yakhoob shariff",
+              "uri": "//maps.google.com/maps/contrib/103131324627445993734",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXefPVlNaGVFmwTuhp4ZBIiCfOGvLPoGKmxq0Rs1NLaoAeMglS6=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJZFYffDir_SLO8ikgIJLQzeaWulKpnCbt1oJD99MRM2jHKHU9N0crwBLQAcnogKRCdeXiwGhFUCeOX-EnDmnUeCEZTlMy78ECggIY_PsF_PPOeY-fQSy3u6Q6S1OqtJWorDTxAq_7QUHB1W4-uW3WlEhKsqEdersMN3",
+          "widthPx": 960,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Arif Khan",
+              "uri": "//maps.google.com/maps/contrib/115950540835798118922",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXpUt3_a2ipYEKneYGXKkC3-dwZ_qhW1uwjHhQCFhBcdeHhbZAAFg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJZBESwIxoSQh9V8mWBTIs_L05tiIbzKSzLIXqvS6M3TAaBk5KBaAxV0Ok79iZNbAzDP9oMSb_bOIHt6iJNUKJEIaomgYZTuI8jh1JCyDqW6aTetv29rfN7eoiBkUsRBkpsD_ZeeQWoX7SZU99w086e9NmkO0b6o3f1y",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Shadab Shahid",
+              "uri": "//maps.google.com/maps/contrib/101772096308761216939",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXvPdzLm5Aa5kPGtukEXexgIVb1zmyOqXaNvWLTnT3rKWAixJsx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJbROSdYwJJMTHA__qKzOMwE2yL0uW1LiDXZiX7_MFaumZ5rnDcGzgWxBu_cDHNTn8QeYCdJdHKZlq1uN5jm6GtCsxFj7juvjWsliJHiezRJWNKSQ0nkq6-baV1Nrm1U-5P80mpbl_Z_eKgD5ryM7wwbWV7DtSG1kw8J",
+          "widthPx": 3468,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "_",
+              "uri": "//maps.google.com/maps/contrib/100809401495002441917",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKIOU1iu7nDRVRHyaBIkw_bdq4Vli08rrF47VqHrszr07wbAmE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJYmtc1YERGF3wMBcOiycTSC4pbTS0Castn4vwH5mt-1dsHV59E9Qde-Eaihww-GRE6CnmO_PTV9OJuiojFlNv7OIWtnwK6TdhhPl_AQxX6PrKIg1_UWns-o2_I4WVoioQEpemEABRL0mQtyKsrEcuusJwsGKMwSlIZb",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Md Saqueem",
+              "uri": "//maps.google.com/maps/contrib/105436408596595998665",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIb5D97L_0gfFew42w0jr_uSJkk2MKRY0So2y6QHlGVZdMFFw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJbfGjEOG67v9fUGM-S1DQFQQlYE7E_hLAT-3_bpki36p9KtjSmGaGbqjw6tnhPn-erFqZREkLLGrZc7lJ9yvq6OJ51zMu7P_0UxWPteN0gn-Y5TpXMMoOqNlSoB2G1WZzUdvdHY5aJRvaUfoeuUOWIGzYYJD5yYHlU",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "Abu Zar 19BALLB037",
+              "uri": "//maps.google.com/maps/contrib/114815341157845970136",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWkmQDE251lfeLCfM6LShCQCmDwJqgtfRkI7iQHOgcoQgLKQX4B=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJbmkoyc1Hy7s5YteV3DlNGdt0japFVKhiooI3--uf9wIrbxHZuIGcX7fjNzH8aOFaG-LMvUsbD2gqlpFQQdtpG0q1qpA2ga-8My_pQse-k8Dxqgrxi6PsPNATRmUZsx_1VqYsscMmNLJHOgK0TLAFN3E2BnKb7lxzQ1",
+          "widthPx": 3472,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Shahid Khan",
+              "uri": "//maps.google.com/maps/contrib/114815603925739680091",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiIGBcXyyFxBi3TQ8PYubzZzmdT86DCipsET-DDN7zgw9w3ye-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJbTcGgYyXFgDzlV6Q1q3gTaF9Pu4UTJDvbE1yeBjROAFja26nvw-TsavUWukm6FrMiDkpOYG13-1qpJ3niFIIlhXyQGXQVK7fyW-hJc3jFpE0VsgW3p6W7aRH5RuO0UUczD5HuDFNbVW1yDLO1p696cXui7g52wLt2L",
+          "widthPx": 6024,
+          "heightPx": 4020,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammad Salman",
+              "uri": "//maps.google.com/maps/contrib/105302281422039356746",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXxjpG8ofTqVpvN4Zv7EEi9wEQ1Canq1K29EgyVjbUcWruIzraj=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJaqUXCBuLjQ7Lwh38breOBehhQvICityHiyjesZgbxOV2ke1NaB_XoIB6rqG7TitPCPVh9DsyfA7RHdUIt7rFNvpCqeTCCF7DKhBciasUUrXOC1oIwC8GtpDB5WC_gR_VuCe2W71bClF7VnhR-jORYMiw9IBcoDuH_T",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "SFM GAMER (SFM)",
+              "uri": "//maps.google.com/maps/contrib/102593830508603147669",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUe1xg8xmkYndTycZbZgsHE6WZyVkEimLjpoE9L-BuUcjPWw3ws=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqSFGdnyldDkRckvqt70UnGQ/photos/ATplDJYQHIvts0kF3a17LrDhuan9C9hdD_fmfO5SO-ZncPPrS1djFNQuN8hCYyLoaPCBpWITp8NyJy7aXMrFOEjYcfDT9XDXBnKhhjOiVNcVpt095zr_w3jWDdstgMDP3Vfne1Es3ITXXZnazSKmiNbBChhl390AGYKBrMvc",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Mohd Shan",
+              "uri": "//maps.google.com/maps/contrib/104473807608594319067",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKokxzQqOP7AWWLF0Do6SSiLdB9sEcg3dY6l0GxT0pEBi-wFg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA",
+      "id": "ChIJwfhff_GkdDkRxZyJZXcoksA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0135 255 9898",
+      "internationalPhoneNumber": "+91 135 255 9898",
+      "formattedAddress": "W33F+29X, Civil Lines, Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "W33F+29X",
+          "shortText": "W33F+29X",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Civil Lines",
+          "shortText": "Civil Lines",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 27.9026078,
+        "longitude": 78.07349889999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.901085869708496,
+          "longitude": 78.0714277197085
+        },
+        "high": {
+          "latitude": 27.903783830291502,
+          "longitude": 78.0741256802915
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=13876197895151656133",
+      "websiteUri": "http://aligarh.nic.in/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 15
+            },
+            "close": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 14,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 15
+            },
+            "close": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 14,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 15
+            },
+            "close": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 14,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 15
+            },
+            "close": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 14,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 15
+            },
+            "close": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 14,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 15
+            },
+            "close": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 14,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 15
+            },
+            "close": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 14,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 15
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Tuesday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Wednesday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Thursday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Friday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Saturday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Sunday: 5:15 – 10:00 AM, 2:00 – 6:15 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "W33F+29X, \u003cspan class=\"extended-address\"\u003eCivil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2056,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "iconBackgroundColor": "#4DB546",
+      "displayName": {
+        "text": "Naqvi Park",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Park",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Tuesday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Wednesday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Thursday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Friday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Saturday: 5:15 – 10:00 AM, 2:00 – 6:15 PM",
+          "Sunday: 5:15 – 10:00 AM, 2:00 – 6:15 PM"
+        ]
+      },
+      "primaryType": "park",
+      "shortFormattedAddress": "W33F+29X Fountain Naqvi Park, Civil Lines, Aligarh",
+      "editorialSummary": {
+        "text": "Charming neighborhood park boasting wide green expanses, playgrounds & walking paths.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxMlB6cEZ3EAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 3,
+          "text": {
+            "text": "The park is good but the security guards are very cheap. Only some of them are good at their behaviour.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The park is good but the security guards are very cheap. Only some of them are good at their behaviour.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "muskannn",
+            "uri": "https://www.google.com/maps/contrib/117858078060000696815/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4qr96Q0RdiQcGFQR-I2IZIkS0fySm47fh4U31SBgMJ8u1Dws=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-22T06:42:05Z"
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbkpmZF9nRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Naqvi Park\nCharming neighborhood park boasting wide green expanses, playgrounds & walking paths.\n\nThere is lots of greenery.. people come here for walk.. enjoy their weekend.\nOne of the major tourist attraction for Aligarh tourism.\n\nWe can find place connected with nature.. young one playing games,old one walking.. adults also with family..etc\n\nIt feels good to be here..and find the comfort zone.\n\nSome school children also come here for picnic destination",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Naqvi Park\nCharming neighborhood park boasting wide green expanses, playgrounds & walking paths.\n\nThere is lots of greenery.. people come here for walk.. enjoy their weekend.\nOne of the major tourist attraction for Aligarh tourism.\n\nWe can find place connected with nature.. young one playing games,old one walking.. adults also with family..etc\n\nIt feels good to be here..and find the comfort zone.\n\nSome school children also come here for picnic destination",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anup Gupta",
+            "uri": "https://www.google.com/maps/contrib/115994771452426565108/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFz7j0U78Fzn3zz71Dyp-1eVblT5ptJ12TSyeGcfxDYTUlq5IH7Q=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-12-25T04:55:19Z"
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5MS1PN2VBEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Best park and a lovely place to spend time\nOne can spend a full day under its beauty\nTheir u can get fresh oxygen because of the greenery that gives the best view for the photographs\nIt is a most loved place for photographers",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best park and a lovely place to spend time\nOne can spend a full day under its beauty\nTheir u can get fresh oxygen because of the greenery that gives the best view for the photographs\nIt is a most loved place for photographers",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nidhi Singh",
+            "uri": "https://www.google.com/maps/contrib/112451858689869758322/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYcFGJWUfOgT_A5ozGohk_vlcZBX7fHY9jtV6MudBv3Uu3C2Yn=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-02-16T19:03:16Z"
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZbkpqQ213RRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Famous Naqvi Park is also named Rajkeey Uddhan Jawahar Park. It’s a vast park with lush green vegetation and giant old trees, with Gulab Bari, fountains and many other attractions. Naqvi Park is popular among joggers and morning walkers. People also throng this park with families on their leisure time.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Famous Naqvi Park is also named Rajkeey Uddhan Jawahar Park. It’s a vast park with lush green vegetation and giant old trees, with Gulab Bari, fountains and many other attractions. Naqvi Park is popular among joggers and morning walkers. People also throng this park with families on their leisure time.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Saleem Saim",
+            "uri": "https://www.google.com/maps/contrib/106832420031140622530/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8ebcmr4LlecfJsvOC6iloNMFoOxDveyNRsxZIQW8W35x-PMBZ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-04-06T13:13:16Z"
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyNVliRGpBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the only best place for workout with exercise manual machines for better health and fitness.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the only best place for workout with exercise manual machines for better health and fitness.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aditya Gupta",
+            "uri": "https://www.google.com/maps/contrib/110852503353819875211/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlvh-D11yGVycZ3Y8pM8JYYLVLpSRho1P-Q75IrxzQ88qsE_pZ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2022-04-26T01:50:33Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJZ_kIIgZqigZ96YGLu7c8SswvXAeqpWeuHAyPy5E1uwdxf1UXSZgUL85beZho0BybgO9hsCT2kq4RsGw9diDU9Rxef9NToCZpqt15XfGLOwq6ZnnxvYMcj7CoUFy8YiTZG-_1WZJuxZN0u_cokAbTionUDZZfGZII_D",
+          "widthPx": 934,
+          "heightPx": 460,
+          "authorAttributions": [
+            {
+              "displayName": "Abdul Qadir Khan",
+              "uri": "//maps.google.com/maps/contrib/116343682519879887663",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWcnhq4vuMeyQl8Az71h2Cbiq9LOGnAAEK7S1AGFsqa-IZXamQ3=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJY8Xp1YDoIYbO2MSBD0z4gdn6XgcA6WD69t3EorYxPIh0JxO84a9qxcQCaeZe3_6DJFgYTgCxS-PKUxId4xgqSoozrx98UBYRU1oWjIPSMmQmukM1CB4jDrzTwQU_OslolmxdKNTSF5DFVHz1vy12-Sxv_gAKjwErk3",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Jitendra Kumar",
+              "uri": "//maps.google.com/maps/contrib/110362955049978026029",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWhXyyvnWS2Hq2wTagf52glwf83OfaNZ8rQcZZWTrE9WiXUyc6Lag=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJaSycqd22kcmkmVX_Knfgg6trLChZJmxdkaysEVG820rsQYOL41x7G6i7bwwHrfRcCYrXs5z0XwuR4M6GstTf-xVFwkp5clVmT4EGEjvaBY1Ahd2MU1a1R-FMfoUhwhyRp1ia3Q91AUcKJiBAZu7s7yCAveYs_u3xuQ",
+          "widthPx": 1160,
+          "heightPx": 653,
+          "authorAttributions": [
+            {
+              "displayName": "Leeza Masih",
+              "uri": "//maps.google.com/maps/contrib/100679262253717270756",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXuYw-MAYk7k__rSMi8owcupCJWjFBiRqD_OCEdMyg_Ry-SKtc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJbVQJvfKJPQ-A81IuecGB7y9eNcEgrq2g6OMjgT_A5M4X_cmMrVPglaMEd1l-aePkx_mlMGkT857R-uccJv7rrMTlEbGnBfidxzChrAwGXZMDiij2SxCL7iChwNeWBP2dr8udOLMFjmyudMLgiTFOMlGbWwhH6Gj-ct",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Deeksha Singh",
+              "uri": "//maps.google.com/maps/contrib/114593185529115356695",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVjv1iazIriETFeeiSyFMGKlhX-uB0GcgvwXTZDGqQRv4mECWo67A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJbTiDDQbKUQaOTuFTNoMgUrza7ZWvFjh7M9MyoXGmZDvmxPuPW4X_TiZL9HloMa9OTTWohb3t4HA9fUB3oUEgrBQ0eHhuJGrQlOX3v6LF9mDpbFyeZwpb5Gzn5LvV_bdHV6zF88K4Ar-0Lpy3F9dDVclHcPackV6FVT",
+          "widthPx": 1080,
+          "heightPx": 590,
+          "authorAttributions": [
+            {
+              "displayName": "Bobby Prajapati",
+              "uri": "//maps.google.com/maps/contrib/116684860597817111539",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVux9QeZwilC9CVbDMplKCLkgWoC-8zZGNYnaGlFPSsGqRScaw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJZJtGc12oOH4sBImgnYzrtjtS0XeBx2WYVPCTN5zaxXkcyYzMrKY2iYY-UeA4A_vwnCqwkRDD2lXic8JkRl8pdJ-05Cgjf1GCXLqBSUZcgJZpAKiR7X9VwjWvb6iHYLA6wyxIsrrZiGqVttvBqm8LvKCRPQxZ-q0IG1",
+          "widthPx": 4128,
+          "heightPx": 2322,
+          "authorAttributions": [
+            {
+              "displayName": "Abdul Hannan",
+              "uri": "//maps.google.com/maps/contrib/116906176497995708906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsmYy4qJdQ2j2MsdxAu0DJT9JgePS3QvOytrbSlb_R7R45MLST=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJYJl6BTiOum-Ih4W0r_1nrUpkJP3ZHkdp9Uvbr0xnwP4iWsNAZluRlgBt3xMPi-b0CisJyeO-baQcoWKt0n_85ZPF0qJkE3VkSK9EObR0qWfGdWIbHWIJdJLRi2S_sNwxAO66QIwTp0fGUl8HklVV2holRNkZDhauVJ",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Leeza Masih",
+              "uri": "//maps.google.com/maps/contrib/100679262253717270756",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXuYw-MAYk7k__rSMi8owcupCJWjFBiRqD_OCEdMyg_Ry-SKtc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJbzfoNO78okLw2Mz6bDfHkP_hfesA-I3ZodiyxE2sgMJZJuUh-Z7DmSwLbk0TDKHsPOWWbb-CK2lqmSZpmnQuIxnZc3t0lbNZrsTFNfS-OleW9fXp1FCj0XkFpxIDC3b_M2VG8s8Rz2WKgJcpEjkGonh3cZ4CtEmhac",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Jitendra Kumar",
+              "uri": "//maps.google.com/maps/contrib/110362955049978026029",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWhXyyvnWS2Hq2wTagf52glwf83OfaNZ8rQcZZWTrE9WiXUyc6Lag=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJYgQS56pI6zJjqEOJ8UneTfyTecBgjNzgvux8IXdOOUXIODx9Oil7D613s-BO-SiYiYmZexbQm0fzP5KNI4ZKuqhHvpg3uB7V2EhNy1jC7s9Vl6xfK7InxVaU-i9ttdq4fqwIykq442fQ7Jev5YmXzy7DEpxGVj7szZ",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Sadiya",
+              "uri": "//maps.google.com/maps/contrib/100154901985033477215",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJdD4rcvI_ZhZTl0PxhgbVzyJ0_CK0UVq3mPU2y8WFICtPBwA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwfhff_GkdDkRxZyJZXcoksA/photos/ATplDJaGJTiYLo-I0HHY_p3Bsq3n4sTkjtOj7gRxmVWxCXgfffzT2T8JIpyUgVRIiMkLBxWnfWbOuLLxLj_uE8kjIUiBYHkvwMW7hbkvgi1p2BMUZYd6NBmWGAT0nXOu-Ttx4E1Vxk0lhHt9uQzqMktS_PLEpUJY-Jft7vIn",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Nabi Mohammad",
+              "uri": "//maps.google.com/maps/contrib/103721881789467894825",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX-c2ymKfeTwKibSDuXnnippaZKwtZsoSX-_wlXVNlL_3IqVUjP=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo",
+      "id": "ChIJU4Z_oPCkdDkRP0M9K9yY4yo",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVWW34C+XV",
+        "compoundCode": "W34C+XV Aligarh, Uttar Pradesh, India"
+      },
+      "location": {
+        "latitude": 27.9074375,
+        "longitude": 78.0721875
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.905960619708498,
+          "longitude": 78.0708735697085
+        },
+        "high": {
+          "latitude": 27.9086585802915,
+          "longitude": 78.0735715302915
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=3090481840691954495",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 918,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Jama Masjid",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "Aligarh",
+      "reviews": [
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvemFHcE1BEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "A must visit mosque in Aligarh, such a soothing feeling.\nYou will be mesmerized by the view and architecture of the masjid.\nWidespread having capacity to occupy more than 1000 peoples .\nA large amount quran with other islamic book available there.\nVisited for maghrib prayer , Imam sahab have very beautiful voice .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A must visit mosque in Aligarh, such a soothing feeling.\nYou will be mesmerized by the view and architecture of the masjid.\nWidespread having capacity to occupy more than 1000 peoples .\nA large amount quran with other islamic book available there.\nVisited for maghrib prayer , Imam sahab have very beautiful voice .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "md amaan",
+            "uri": "https://www.google.com/maps/contrib/108960908034409365341/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIQbSJZX64-iwU0aL-TojliY_tqk8Z-N_UHyOhjNtgFA8CmEXj=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-13T08:10:47Z"
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5bUs2Z2p3RRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "It's beautiful mosque of Aligarh Muslim University, India.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's beautiful mosque of Aligarh Muslim University, India.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Faisal Siddique",
+            "uri": "https://www.google.com/maps/contrib/105522310886179060904/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUd20CAmo4_W16OA_DaDSctFwpvZY9uC78V3i4J8ouOFwEiJZu4g=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-01T09:09:48Z"
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4ek1PLTB3RRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Nestled within the vibrant campus of Aligarh Muslim University lies the majestic Sir Syed Mosque, a cherished landmark with deep historical roots. Situated within Sir Syed Hall, this mosque not only serves as a place of worship but also holds the revered tomb of Sir Syed Ahmed Khan, the visionary founder of the university. Construction commenced in 1879 under Sir Syed's guidance, culminating in its completion in January 1915. A visit here offers a serene blend of architectural beauty and homage to a pioneering figure in education.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nestled within the vibrant campus of Aligarh Muslim University lies the majestic Sir Syed Mosque, a cherished landmark with deep historical roots. Situated within Sir Syed Hall, this mosque not only serves as a place of worship but also holds the revered tomb of Sir Syed Ahmed Khan, the visionary founder of the university. Construction commenced in 1879 under Sir Syed's guidance, culminating in its completion in January 1915. A visit here offers a serene blend of architectural beauty and homage to a pioneering figure in education.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Asif Ali",
+            "uri": "https://www.google.com/maps/contrib/109244010900067808793/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfIJ7tNK2A8bt8i_rjS4S2Oh0KnjewZGOkG8mtgQRcshmylH2pRw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-28T04:16:12Z"
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCeHNMUTRRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Very beautiful mosque. It is located in sir syed hall south hostel, in Aligarh Uttar pradesh",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very beautiful mosque. It is located in sir syed hall south hostel, in Aligarh Uttar pradesh",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MOHD AMIR",
+            "uri": "https://www.google.com/maps/contrib/105545982060608759059/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKnbkoz03yUn_kOYLfFabZle1FZxzEji2JoZw5lWcSQXovud_8=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-12-23T18:28:16Z"
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/reviews/ChdDSUhNMG9nS0VJQ0FnSURHdDhmZWdRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Inside view Masterpiece of  grand mosque of AMU in terms are Art, peace, and a usual place of gathering for developing wisdom and sense of humbleness. Open to all,  Situated at Victoria gate and Sir Syed south hall, AMU.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Inside view Masterpiece of  grand mosque of AMU in terms are Art, peace, and a usual place of gathering for developing wisdom and sense of humbleness. Open to all,  Situated at Victoria gate and Sir Syed south hall, AMU.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Huzaif Ahmad",
+            "uri": "https://www.google.com/maps/contrib/101271336036285269354/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDkhapQkn6Ba38jtqgwYIY-N-TW3mm6NX8zaKMByRoMjsqffd0FQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-12-15T05:20:29Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJYEbspmr-Qb5mBag21RBY6kI6hiZoCH88spfiez2i5QWV_8eC0rSLEYn1I3TxQTTw0E8S-5tOn7d80ekl_9IZerUUr0_z3nF4hQhd_qkgVMn9Z_mXq6kUM4NksrXzv9AHrdA7D3G5STyuNrGACgoucWgjlH2951xLzt",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Firdos Alam Khan",
+              "uri": "//maps.google.com/maps/contrib/109182421208120016182",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuC3VyH0Mc8rN5raokjEe2R5TAOipw6BmM55vfYabzkzFJyyGy=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJZPTax_YR5opd0hYwQ88v3Fdr6uITlUEpn8etwgyndYL3rTdCV5R3-qnEYD9bKPlx2ia7ayuqa4ZKLUaxjC-pjFJLlpB73JZbvxL2WvPRfzHOOladqCLyEgJaI5AOnSWmoGCX_Q8yUAdUJvJPOvMEeWHlgrXR-WL7DT",
+          "widthPx": 4640,
+          "heightPx": 2608,
+          "authorAttributions": [
+            {
+              "displayName": "MOHD WASEEM",
+              "uri": "//maps.google.com/maps/contrib/102152667847569228824",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIgqf7AiO_UBCRjr5OL3_5fUoaKAmu64DOYzJ5lNXWnhMUWdQc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJZHuchkBPvCRQbHpbTu2teHRo2uOUJC7MCZN-va0carIk28utXgiQvlYWgG6RiaVTt0OUKckraAMQItkUCzPgOqi6Tfyzpi8IUlS-Zu_QqKtDKENWj46urpnZ1-Jxnj_2gprcyFARHLX-1S4g6Qs7x-K1JAyBZdJoUH",
+          "widthPx": 2907,
+          "heightPx": 3876,
+          "authorAttributions": [
+            {
+              "displayName": "Umair Shams",
+              "uri": "//maps.google.com/maps/contrib/116097207206272574960",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlptVXMdnmqJ3Jiq10ifNF2AfEyotMst8BkgjCkTwrb5eELTdrdA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJbVKpKNU-eaUbKdbqGvJZ-E6kPwrwO3asnUSdi-exgMijTi690jaCH89MKb2IhksnmhSi5pQb93N1x8vdMdGEf7CXWgV5QDTOsiGi_JSx68WIavKRch1x34YF5CvmOyBaeeiLUkoLoBi8_jeYqgI2kQqYj9xMpIJ7nW",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Ayan Ahmad",
+              "uri": "//maps.google.com/maps/contrib/115985257971768692228",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV8H3S21cgUcu_gGFu-cqo2jRDKSabIJa7T3OBRK2sX_oPRSjXd=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJZIncaJULmbhJoQYcR9m9be2WWqkLVadJ2QZoJgJ5dm9SgiJb-S3jJJzgZml74KDNU071efaxbIjDNTrVhxVUhL7GAO37UXlVILdfBtABxyYplDRLHM3hq0bk7rBkWN0mBVG8utJdou77k9InM5WFJTQyMXAVhkuEde",
+          "widthPx": 800,
+          "heightPx": 500,
+          "authorAttributions": [
+            {
+              "displayName": "SRK Alig",
+              "uri": "//maps.google.com/maps/contrib/101427640390792662975",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXSIzO5EQI3qpGtXN--crj2D_IYEpGg-J9j30g8lOUs_eATnOA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJZ2J2FqG5ybY1byEa4pRD1VhCk_s5GSjR3EQWM4NOE49kHvoaiNzGBhtfeVZPLuJh3d4KFloylB6Os8SMWYJ36m4SFzuRWEHGlZGOIg1LbQFgn4D_kdNq3jp-EJlZqgdvr5mbbF_lZt8HjlmD0s6Y7YNVXrMqK3W3OH",
+          "widthPx": 3300,
+          "heightPx": 2084,
+          "authorAttributions": [
+            {
+              "displayName": "Mohd Tauseef",
+              "uri": "//maps.google.com/maps/contrib/109205516441483070224",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUuxUO9MhNsvGYEKXt5Twcq0QBb5-T1peaCstSqIdoktYz-oPTv=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJacVTNJ57gIVNnOc4EmKzH2a1zZbZ-fmWVEc1YvRz_MXEXi9RyYYMcR666TqKD3y_S4tGKw8PZWbKHdXiDAowl0-vrzwmVauiN-bUEL1Mn70Xi-lr8SydRYjl8p6wtsP-jT4gd4-xDhvJ0Muryf3e_0fccHQrUlZoLG",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "HASEEB AHMAD",
+              "uri": "//maps.google.com/maps/contrib/111942792575848913535",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU3Qdd2z-sJ6z5eugJt5Y6canb-MSbjVkZc-h6b8hSrFJWQQy0L=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJbAZJ1R4y0KpB3XzR5kNZhICHyBkbb2cv3jP_p2XSxgPtgzql6Fo_NZQASTmFAjx4YZNexgkcPNNxDkhxsnjev-ZTv0ND-j2Ep-MvnR4RTe1VeT_sPfYKHE9b1cpGl05NwyKIvQZ5GgDms2ppeFjzOxBDfWgyq4XhmF",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Muhammad Adnan Ansari",
+              "uri": "//maps.google.com/maps/contrib/118307204290538750047",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXqhl887q-tE1IGzo5n5NkDoix29CL3kXr8xGzuJXekDM_b3Sv-aA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJbtO4Z1bwK1HBNzUkXCgPauXCUiBMPnp0MF4Tqb3Ai0mK_2ALk4KDLBeDaD3iRA2hLyyhCPNN0smkKByaF6bdFl8xReXvPGG1O73cZ55jDLUep0PHBicH4IQYvQyeZm0MSl0n4SP1Verah7l8UObDnxDgpem3jWztFw",
+          "widthPx": 1200,
+          "heightPx": 675,
+          "authorAttributions": [
+            {
+              "displayName": "Abdurrahman Khan",
+              "uri": "//maps.google.com/maps/contrib/109454397364864356683",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQzTCwaS7b6gJSozDq__K62eDWPPTPwfbv9T5jm-L3g_LBV9E=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJU4Z_oPCkdDkRP0M9K9yY4yo/photos/ATplDJY2oBNjTxfyIr3zNHjKA51K9hszH4w_gHnpsO1CSblYBhJ-WlFvbfpIq-Z0hqPZ9D6xiSBTRC2QyRbA55x9fSxit-v_kBRskwtUYmSYspOn00T8veTOQvnn15wvL0C8k5ZT84xFDJN9HWBDilz_h84vzi4Ouf8exJwm",
+          "widthPx": 973,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Âmir Shahzad",
+              "uri": "//maps.google.com/maps/contrib/110527755478225889430",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWkeB1kQQfRm-NafrYrIoUmckohI8nSMPP9UiPYEnwEQzP1STlL=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0",
+      "id": "ChIJnRMI22akdDkRTXWa5naVUr0",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "092585 93994",
+      "internationalPhoneNumber": "+91 92585 93994",
+      "formattedAddress": "Shakti Nagar, Nagla Masani, Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "Shakti Nagar",
+          "shortText": "Shakti Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagla Masani",
+          "shortText": "Nagla Masani",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVWV3R5+HC",
+        "compoundCode": "V3R5+HC Aligarh, Uttar Pradesh, India"
+      },
+      "location": {
+        "latitude": 27.8913893,
+        "longitude": 78.0585473
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.890017319708495,
+          "longitude": 78.0572059697085
+        },
+        "high": {
+          "latitude": 27.892715280291497,
+          "longitude": 78.059903930291512
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=13642130559166215501",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 4:00 AM – 9:00 PM",
+          "Tuesday: 4:00 AM – 9:00 PM",
+          "Wednesday: 4:00 AM – 9:00 PM",
+          "Thursday: 4:00 AM – 9:00 PM",
+          "Friday: 4:00 AM – 9:00 PM",
+          "Saturday: 4:00 AM – 9:00 PM",
+          "Sunday: 4:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"extended-address\"\u003eShakti Nagar, Nagla Masani\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 82,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "माता का मंदिर (शक्ति नगर, अलीगढ़।)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 4:00 AM – 9:00 PM",
+          "Tuesday: 4:00 AM – 9:00 PM",
+          "Wednesday: 4:00 AM – 9:00 PM",
+          "Thursday: 4:00 AM – 9:00 PM",
+          "Friday: 4:00 AM – 9:00 PM",
+          "Saturday: 4:00 AM – 9:00 PM",
+          "Sunday: 4:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Shakti Nagar, Nagla Masani, Aligarh",
+      "reviews": [
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjclp6U2dRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very peaceful and divine...as if you are in the lap of Godess Durga. People in the nearby areas and pan India have deep  faith in this temple. Specially who visit Maa Vaishno Devi Temple Katra must visit this temple while returning home to get thier pilgrimage complete.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very peaceful and divine...as if you are in the lap of Godess Durga. People in the nearby areas and pan India have deep  faith in this temple. Specially who visit Maa Vaishno Devi Temple Katra must visit this temple while returning home to get thier pilgrimage complete.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jitendra Singh",
+            "uri": "https://www.google.com/maps/contrib/108021084441542168920/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhbFFpL2sShL8rM8-dwMzTBo8I3f0LEfi3p2ku2k343B6dejr_=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-03-20T06:27:31Z"
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNE96b1lREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Really!!  AT Very large amount of pilgrims visits here for Darshan.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Really!!  AT Very large amount of pilgrims visits here for Darshan.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mayank yadav",
+            "uri": "https://www.google.com/maps/contrib/106049744093767852350/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMMKFai6r5Cp_B3PdIzH6KWpUEFKnR4ssLJeXqucJYL2RQkijNFQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-04-15T11:03:00Z"
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMWREY1R3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "holy place , jai belon mata Ji",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "holy place , jai belon mata Ji",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raj Mukand",
+            "uri": "https://www.google.com/maps/contrib/102387181933717124582/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNPZX_Gozey4jF_AUZLHpVwaD24GabcuksT8o_jmtRS1f6cQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-07-16T13:11:05Z"
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGb1lTaVJnEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best experience",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best experience",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shakun Kashyap",
+            "uri": "https://www.google.com/maps/contrib/102767401223527849770/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7Sp7q9XC_QQh3FA_peaYGpMK93CUOjA6z9eS5VSuU9Mx44nA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-10-28T13:53:31Z"
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHMUtLVWR3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Very  nice  mander",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very  nice  mander",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "girdhari lal",
+            "uri": "https://www.google.com/maps/contrib/107838817747168861911/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJO5LpGysOi_Mk3SWj8F8eVwn-ixquzVeea8ZLC_lmbsmzsWg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-10-21T12:20:14Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJY6AObiHoCQpHjeqXaX1SHRm4MC9yo0jc7PDtUY2c-0WGdoMcdvs8qTrAjAzdsQsizWdLOUg4J26HcCglnv1enlYe-mbQ1D2UrLlZ8qBgna4xgRTopNEAS8p37wyN15CQodvv7GiTeSIgLnWm_CCVOcLd4FxWvPhDU4",
+          "widthPx": 554,
+          "heightPx": 544,
+          "authorAttributions": [
+            {
+              "displayName": "Anu Sharma",
+              "uri": "//maps.google.com/maps/contrib/104588122000325158347",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX7z6s0NJ_Nq8LafqqtL9NMzq-UACHbWBa8570_RdF_1uAhommn=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJbdAM9wZqkAlUCGC1G3I-5F44YAFiVye0Nwv_2RuJV_OKooVk4oJloIY2laX5yofRl8IY_-coMte4qbCAWZ30eDaJ6mmx0UxZ4zPmMHWtgvUcZqstd4aREFMkWYds2LUcH_Y_nET00zemSaQxEHKC4qTuuJRutT0gDX",
+          "widthPx": 1968,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Shiv Kumar",
+              "uri": "//maps.google.com/maps/contrib/106016521858379610090",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLfwOtDKSCvLHdDzx0qw_RZNekw0RFoeMtytcILUbkYQQTlrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJZwY2z5SMx-n-Tkyoo_2G7rdaid2SL2cW-agDYMTe3L3tixJ9bjjKfnynajsngeCDg5vl-60evz3RjysASE3D9mhm9W_A1xfX8fItqcopvaeYF-9Yr8hUg2bRCdGcPsnRBiVzG31icOWVmrFWjgZBh6xAxXuFIydAW7",
+          "widthPx": 2128,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "girdhari lal",
+              "uri": "//maps.google.com/maps/contrib/107838817747168861911",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJO5LpGysOi_Mk3SWj8F8eVwn-ixquzVeea8ZLC_lmbsmzsWg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJZkZwEeP6RwUkZ1bkMqO-QGWd2h-Rw7JonKT7a1djK-lHOU-9iIedTuxFHBKzv3hEuzQCJb_k5Di3ntCVDapF2tAd9LlQnFAJkOFjllKGUR8upeaEtKEZ2P7fawLOfOc9ECQXZr5yvctGeWh3LGObLcRDw0QswFqwBn",
+          "widthPx": 1968,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Shiv Kumar",
+              "uri": "//maps.google.com/maps/contrib/106016521858379610090",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLfwOtDKSCvLHdDzx0qw_RZNekw0RFoeMtytcILUbkYQQTlrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJY4t1k_KAelkiourqAIufugxBXZuL6EGfqhoaW8RexJdjQgZ_YuTnG3zNGR1dZD1UCBquAwyfZY_PNGNUbL1nUGXtwvcrKxQXBxAKc25MM5iIjjMjNpg0V5DuUL1lLxn3O-CrNs6fB81qDU304QoB6Qs4p-zo7QyeBe",
+          "widthPx": 1440,
+          "heightPx": 2560,
+          "authorAttributions": [
+            {
+              "displayName": "Prabha Singh",
+              "uri": "//maps.google.com/maps/contrib/116585394328686836649",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIPPQEBu4ShZPoGT6NwzpxugUyYX0Oxag8tuRfYZanE3A4qrA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJY01nTM7TzJAl3QPg2uz2R69wZL_leZteozvkvIaiv5N-2UDXa_ZsIEGrJ23YJVcC7q_qPC1UxsaLvLfbm9w2C5tuxNhD-g3mpbjtAAejCNLUmeqmtq9bwUjJHof8Hs4sPglIdn-Qd2YmLkgopZb5UvX0Z9iG_V4M5a",
+          "widthPx": 4920,
+          "heightPx": 6560,
+          "authorAttributions": [
+            {
+              "displayName": "Brahm Swaroop",
+              "uri": "//maps.google.com/maps/contrib/116355386664797965267",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLSHdr8_NlafCWsQI1cjesmeUGH0hDbDvRV4hbd_CoMg4PGjw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJZpsJPxPFXWKx3TiB9ncOm8NB2a9NYVblK3NlTvfy-pQCUxKqfau1tCvID9YJKdTRQ8hckppFXSWX39tshavh2T51kglCYzFpA49xQFgouIwVTSeDMF0yQQVBFhkua9snQIoSl2k-osaHMXTHKyuGDpEBvxk_VbbbpW",
+          "widthPx": 4480,
+          "heightPx": 2016,
+          "authorAttributions": [
+            {
+              "displayName": "Paramveer Singh",
+              "uri": "//maps.google.com/maps/contrib/112197029932317870086",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW0uAwJKbA700uOtydXRPdi8InBLt9nFd2i9mI7QzAKfYnCHFKevQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJZzX7OUqmHDDp2bVkA4wb4NJ9ddRb9VSaUK9CYQpq5ykh2APEeUpx2wPPgbmCisDWMyV4YmXcASs9a5xoINIwl_zf3YrgJ_hV8ouRQkRryszBHK5TqnSd5pZDKT767LH4osbRXL4AdG_MrEaIvGDv8S8tTLi_HeIDx6",
+          "widthPx": 4920,
+          "heightPx": 6560,
+          "authorAttributions": [
+            {
+              "displayName": "Brahm Swaroop",
+              "uri": "//maps.google.com/maps/contrib/116355386664797965267",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLSHdr8_NlafCWsQI1cjesmeUGH0hDbDvRV4hbd_CoMg4PGjw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJbNUNOZJJur_7QIvtopFwgxrnXaZIE7_rj5JsG9nPd2DEiR7L-47ibL8HL6FJIKUGGnjvytr3ABapvexo6xNbMGFs74OFRSptQybTVD7i40jQHxOIedFRcuf-02gF3a4P6aBjzS3Nx_oWPBJzmp0WLizy5FIybkXRNJ",
+          "widthPx": 1888,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Manish Gupta",
+              "uri": "//maps.google.com/maps/contrib/107706762038800245945",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUmGSUK01Y_97Rm00cirMwhcO2ql6aDwQdTZVB_zB-SuKtoUTUn=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJnRMI22akdDkRTXWa5naVUr0/photos/ATplDJb8O3_OWyl5pK3nY5wKlRHn0-nIrPcmg-CtXJ1FSrConJZSXMdfn6I41WnaqE3kxkfTepzz-hWrRTpZ8SEUiEBp4wkQpjTZb19KeHs6EZTn2PFh4GSSeg58dTo5m7B-OulxAVufpHW9SVo-kPesr9_1D8f6jWCxoY5r",
+          "widthPx": 3040,
+          "heightPx": 6528,
+          "authorAttributions": [
+            {
+              "displayName": "girdhari lal",
+              "uri": "//maps.google.com/maps/contrib/107838817747168861911",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJO5LpGysOi_Mk3SWj8F8eVwn-ixquzVeea8ZLC_lmbsmzsWg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730",
+      "id": "ChIJSyDyKI2kdDkR8Uup8s63730",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "V3WF+6HG, Church Compound, Civil Lines, Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "V3WF+6HG",
+          "shortText": "V3WF+6HG",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Church Compound",
+          "shortText": "Church Compound",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Civil Lines",
+          "shortText": "Civil Lines",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 27.895559,
+        "longitude": 78.0739679
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.894190919708496,
+          "longitude": 78.072760169708488
+        },
+        "high": {
+          "latitude": 27.8968888802915,
+          "longitude": 78.0754581302915
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=9074673873637166065",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V3WF+6HG, \u003cspan class=\"extended-address\"\u003eChurch Compound, Civil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 884,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Ghanta Ghar",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "V3WF+6HG, Church Compound, Civil Lines, Aligarh",
+      "reviews": [
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5cE0tOWtBRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 3,
+          "text": {
+            "text": "I recommend visiting during the day to fully appreciate its historical beauty. Daytime offers a clearer view and a safer environment, allowing visitors to enjoy the iconic structure without the limitations posed by inadequate lighting.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I recommend visiting during the day to fully appreciate its historical beauty. Daytime offers a clearer view and a safer environment, allowing visitors to enjoy the iconic structure without the limitations posed by inadequate lighting.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammad Rehan",
+            "uri": "https://www.google.com/maps/contrib/109358107480409332308/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_-G-ChFr45xBRLaB9qKd0fIv7aafKtIb4_TtsoJSF13NEVQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-13T11:53:52Z"
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/reviews/ChdDSUhNMG9nS0VJQ0FnSUNScm9PM3RnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Aligarh ghanta ghar location is nearby kathpula flyover, church, Aligarh nagar Nigam office, tehseel kol , Railway station is 1 km away from it.\nAbout Aligarh\nIn 1194, Qutb-ud-din Aibak had mounted a successful invasion of the region and Hisam-ud-din Ulbak was installed as the first Muslim governor; court-historian Hasan Nizami noted Kol to be \"one of the most celebrated fortresses of Hind\". Beginning the 13th century, the place featured — as Kol or Koil — in multiple Persian (as well as non-Persian)  Sultanate  sources as a center of economic prominence esp. for production of distilled wine. By the mid-13th century, the town commanded enough importance for (would-be Sultan) Ghiyas ud din Balban to erect a minaret.\n\nUnder the Khiljis and Tughlaqs, the prominence continued unabated; it had become an  by the times of Alauddin Khalji.\n\nKol is mentioned in Ibn Battuta's Rihla, when Ibn Battuta, along with 15 ambassadors representing Ukhaantu Khan, emperor of the Mongol Chinese Yuan dynasty, travelled to Kol city en route to the coast at Cambay (in Gujarat) in 1341. According to Battuta, it would appear that the district was then in a very disturbed state since the escort of the Emperor's embassy had to assist in relieving Jalali from an attacking body of Hindus and lost an officer in the fight. Ibn Batuta calls Kol \"a fine town surrounded by mango groves\". From these same groves the environs of Kol would appear to have acquired the name Sabzabad or \"the green country\".\n\nIn the reign of Akbar, Kol was made a Sirkar and included the dasturs of Marahra, Kol ba Haveli, Thana Farida and Akbarabad.Akbar and Jahangir visited Kol on hunting expeditions. Jahangir clearly mentions the forest of Kol, where he killed wolves.\n\nDuring the time of Ibrahim Lodhi, Muhammad, son of Umar, was the governor of Kol. He built a fort at Kol and named the city Muhammadgarh, after himself, in 1524–25. Sabit Khan, who was then the governor of this region, rebuilt the old Lodhi fort and named the town Sabitgarh, after himself.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Aligarh ghanta ghar location is nearby kathpula flyover, church, Aligarh nagar Nigam office, tehseel kol , Railway station is 1 km away from it.\nAbout Aligarh\nIn 1194, Qutb-ud-din Aibak had mounted a successful invasion of the region and Hisam-ud-din Ulbak was installed as the first Muslim governor; court-historian Hasan Nizami noted Kol to be \"one of the most celebrated fortresses of Hind\". Beginning the 13th century, the place featured — as Kol or Koil — in multiple Persian (as well as non-Persian)  Sultanate  sources as a center of economic prominence esp. for production of distilled wine. By the mid-13th century, the town commanded enough importance for (would-be Sultan) Ghiyas ud din Balban to erect a minaret.\n\nUnder the Khiljis and Tughlaqs, the prominence continued unabated; it had become an  by the times of Alauddin Khalji.\n\nKol is mentioned in Ibn Battuta's Rihla, when Ibn Battuta, along with 15 ambassadors representing Ukhaantu Khan, emperor of the Mongol Chinese Yuan dynasty, travelled to Kol city en route to the coast at Cambay (in Gujarat) in 1341. According to Battuta, it would appear that the district was then in a very disturbed state since the escort of the Emperor's embassy had to assist in relieving Jalali from an attacking body of Hindus and lost an officer in the fight. Ibn Batuta calls Kol \"a fine town surrounded by mango groves\". From these same groves the environs of Kol would appear to have acquired the name Sabzabad or \"the green country\".\n\nIn the reign of Akbar, Kol was made a Sirkar and included the dasturs of Marahra, Kol ba Haveli, Thana Farida and Akbarabad.Akbar and Jahangir visited Kol on hunting expeditions. Jahangir clearly mentions the forest of Kol, where he killed wolves.\n\nDuring the time of Ibrahim Lodhi, Muhammad, son of Umar, was the governor of Kol. He built a fort at Kol and named the city Muhammadgarh, after himself, in 1524–25. Sabit Khan, who was then the governor of this region, rebuilt the old Lodhi fort and named the town Sabitgarh, after himself.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rohit Kumar",
+            "uri": "https://www.google.com/maps/contrib/101320577381458810166/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWe_jThQZh9CBdVEwPcipzCp93RpRGl1HuHbnKSdJK5RWSmPwcr=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-04-02T10:06:02Z"
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/reviews/ChdDSUhNMG9nS0VJQ0FnSURTa1oyaXBRRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Its a good place for spending your evening either alone or with friends. there are some benches with grass flor that you can opt to sit on. the clock tower, indeed is the main point of this place stands firmly amid the honks of the surrounding running vehicles.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Its a good place for spending your evening either alone or with friends. there are some benches with grass flor that you can opt to sit on. the clock tower, indeed is the main point of this place stands firmly amid the honks of the surrounding running vehicles.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dinny Yulia Wardhani",
+            "uri": "https://www.google.com/maps/contrib/112816998077296885554/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1rMvD-b-WswHu55B6BnpLAglMq8XCo9DCnMdVGurV5YxEdYYY=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2020-12-29T14:23:13Z"
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1c2RLb3d3RRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Lovely ambience in the center of crowded city.....\nA must place to visit...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lovely ambience in the center of crowded city.....\nA must place to visit...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abhishek Kumar Ojha",
+            "uri": "https://www.google.com/maps/contrib/117888181327447215235/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAV_BjEkFtLHqVwmMsjDsWdQawkE2UwtfcSWkHHwM7KfYTtYEN=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-10-15T04:07:28Z"
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5MkxXbVhnEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's a nice place for evening walks. This clock tower was erected in 1893 by the voluntary contribution of hindus and mohammedans of Aligarh district. It was named after the then revenue collector Harrison. It was built in victorian Gothic style.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a nice place for evening walks. This clock tower was erected in 1893 by the voluntary contribution of hindus and mohammedans of Aligarh district. It was named after the then revenue collector Harrison. It was built in victorian Gothic style.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bushra Khalid",
+            "uri": "https://www.google.com/maps/contrib/114114002288801388421/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmPz9w6XLRBR3d4VrzRQ9odMEiwSC9Utmn86Qmx-ThXjtjeFZvFA=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2021-02-23T14:13:59Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJYpnkoDle3HfiGkpNVmOoBxP_0yJy634RP7qf1fnc31Jb0OUlGSFDE4MKe609BdYZrPXGFWczF7DlaWgRXnKcjK8hZvTwA7l-hQziqWVpJtMHsXGRYlvcxnNDW3M7CeQje4cLe8116AhgUKPVnLeJT2gQxZOMTkIPfM",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "tushar thakur",
+              "uri": "//maps.google.com/maps/contrib/100598888403734700437",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUcyMrZsoVhJIhfEeRZ0vlpzpV37gJejLoMpcvpDRVsyyOIeIRaqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJbYpHSzeLhlmJM4sDmMGgY3gVv9HFoRMw7sBG752MFKPTktr4Tja1bM0bCxPJ_w0DwUDQq-wzN-3s_1OVjJnUX5t_wKbyoB0riLPeBVbA_bPqqw2YsVuPXgBpZnSTkebHP6_IICYyEOS3FX0S6SS6rfPTtIBW7jkSNN",
+          "widthPx": 1080,
+          "heightPx": 1350,
+          "authorAttributions": [
+            {
+              "displayName": "Wamiq Siddiqui",
+              "uri": "//maps.google.com/maps/contrib/115621289075857230456",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWi1B0zTCJcoluTAGVP87vSoPcEj2Ml46Pzjy1uFFTNbcNWbFLm=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJbjF-CvQlvANz04pRI816LolS-IQYlnlrTA8SpuzcIydwDuIdHxEqp82ZHv8bFd8Opb7zK-1lNDI-ThrWC5Lwv1HW3kw8ENWodAGz2IS4Xh-t1qdk2piZVYjwbTaHZOvksxxO4iv0F9O-C7ZrcjUT8Z1l44QMzfDYA8",
+          "widthPx": 3472,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Abu Huzaifa Abbasi",
+              "uri": "//maps.google.com/maps/contrib/111569964527539937487",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVukQDuh1n6RSU-4epXdOYLsfHXDPa2i2E5QiHAS_msozUOA1Hz=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJakbIVIGpM_BwP7U8u4x2NUQ7oZNmg3crhRbRf34hV9Q-zf3qk8nuWAJQpgBVoKh6Fbo2B7v5symdyybH62UOGB64QNfzPpiA5Mp-fKjCJ_62GQIc-FGPllzcu-VKiq09okMuRYZEjts1sgBmCvMQwcGAAJJ58YnhVo",
+          "widthPx": 3968,
+          "heightPx": 2976,
+          "authorAttributions": [
+            {
+              "displayName": "Desk India",
+              "uri": "//maps.google.com/maps/contrib/101625193203536495567",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUOlB82YM7ZIRZXbCDvmX5NoLYVh8p5OYH_UOk8Ym4HrXZVUjY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJYrz39GKKcXo3oXZkjRlmfXRM3cQO-GtevHXWw6K-zx5a69HuCIjUMxlsS5-_H7Oat7RE0tyo7sZeLKC-mLPfn-K7HvE8-iA1UMJveTElcRCH_fRIs70RWMfm09WlctWRELK2eIFPMMRskdXP0bvc6HAen8AgSGPY7R",
+          "widthPx": 960,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Anuj Kumar Tiwari",
+              "uri": "//maps.google.com/maps/contrib/116965966236783156087",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXMQJu6s8ManzrJ2kolCqhaE7p8SbJ8zu7G3tltqTcOVB5FpnFP_g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJamL8BMuG6EJrcRwRlRqkAOAZf8DwJVpnevVMBpNsoZ80jeQ7lKZ4MWaxFCQNuEbZ6-7V-E2OUDO6DCWtekovrHAI7wTxvcwX48tPH5Bpg6v-JyxtFJ5PYyzE4AlTwAH_bx_BVuDlRyqGu8Yc7FJbaTrXuN_Vjr2xvQ",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Shadab Shahid",
+              "uri": "//maps.google.com/maps/contrib/101772096308761216939",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXvPdzLm5Aa5kPGtukEXexgIVb1zmyOqXaNvWLTnT3rKWAixJsx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJZpRfrw_TLz-35UwfY_N-6DQP8GL_SCv1u9EdMANA7jNHLECu_pny0IjbOO929c2itauaHhXYPuaK3OxJrPzFkBN9HRwGGR55P7s8mq0YjjdRnFVMGrHDGSiD5hJxLFhWHIjZLuxh4pOOo5SvqeZ467kab3u_tjHgx1",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Bharat Varshney",
+              "uri": "//maps.google.com/maps/contrib/105426738378511543811",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlTM49u-m5zxq1DK33MCZQjgsAK7qN4UtTAj3uvlDVko8-JsC1OQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJY32SjKJrzcfVE9AFIa6P1MaGiI-Hsz0lDAuAp6s22LiKsxh712PTur5tDzWRp89WasOL9ZoCjnqLuJ6mrjYdpdRVNs68L4sT3j3qMHApzeS5vIqL1vkHdPNoy47DgNbVEDkxHohIIHDnoHkWi_G9t-9O4A8YD1TfWF",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Shiv Kumar",
+              "uri": "//maps.google.com/maps/contrib/109602884381854695273",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUMq7RELkKK_hQ8596Hrcj7YRGnh2Z6xzty-HTPQ4nbxP7fwEkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJYZuJRQVydJ9WzhW2Z97F6wX0aMm3-Jp_pALn0E7KkwU7r3ej4fctt-TALZOgzN5HUOuSF7HyLFsvY-_cZ4MkKgZotFFA7kKrBHNBzH0kHSflyug-KdPTFclS7x23L3YCNKfhskn8hrWO4ITGslekrIc0Vp1hGT9Uqk",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Bharat Varshney",
+              "uri": "//maps.google.com/maps/contrib/105426738378511543811",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlTM49u-m5zxq1DK33MCZQjgsAK7qN4UtTAj3uvlDVko8-JsC1OQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSyDyKI2kdDkR8Uup8s63730/photos/ATplDJYA52DAzVCZ_k1xnfjZcrYlKFb24o89bLXw2NQe_GH8j3HJD2JapWe3W26mOVzdS1UhzK5jfpq_PsNGy_-v7P3krDfH4yYnBVudIcH6S4ESATtbz_4UcBTKIY9zs2DLzplziXAVGXAMwt79AfgGqTzbunlMaVaqYMHl",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Shiv Kumar",
+              "uri": "//maps.google.com/maps/contrib/109602884381854695273",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUMq7RELkKK_hQ8596Hrcj7YRGnh2Z6xzty-HTPQ4nbxP7fwEkw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko",
+      "id": "ChIJ9bHGBUqkdDkRrBp2faxa1ko",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Sarsol, GT Rd, Bhima Nagar, Sarsol, Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "Sarsol",
+          "shortText": "Sarsol",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "GT Road",
+          "shortText": "GT Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhima Nagar",
+          "shortText": "Bhima Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Sarsol",
+          "shortText": "Sarsol",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVWW26V+F9",
+        "compoundCode": "W26V+F9 Aligarh, Uttar Pradesh, India"
+      },
+      "location": {
+        "latitude": 27.9111631,
+        "longitude": 78.04349959999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.9097846697085,
+          "longitude": 78.042124919708485
+        },
+        "high": {
+          "latitude": 27.912482630291503,
+          "longitude": 78.044822880291491
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=5392597300708514476",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eSarsol, GT Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBhima Nagar, Sarsol\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 440,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "SAI Mandir Aligarh",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Sarsol, GT Rd, Bhima Nagar, Sarsol, Aligarh, Sarsaul",
+      "reviews": [
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxczluaHRRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the best experience ever had",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the best experience ever had",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Priyanshi Singh",
+            "uri": "https://www.google.com/maps/contrib/113404680589892917380/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqaA8dZtdz6TYau7bxi2uHQahYe9vtYM8LODLYWx2L7z2XIcDv=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-03T11:43:08Z"
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/reviews/ChdDSUhNMG9nS0VJQ0FnSUREb2NLLXFRRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "It's  a beautiful temple om sai ram",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's  a beautiful temple om sai ram",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anmol Vãrshñêy",
+            "uri": "https://www.google.com/maps/contrib/100929389688643193016/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKdkF0a3tGdiuXCYOgPuZpX2aWOFUgHDjzyjuJmAwO79v2RXlQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-10T14:06:12Z"
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/reviews/ChdDSUhNMG9nS0VJQ0FnSUNveExiYTl3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "One most popular temple of Sai Baba. This is situated in sarsaul Area. Now here you can visit in Shani Temple and Durga Mata Temple also. One of the best place for pray and meditation. OM SAI RAM.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One most popular temple of Sai Baba. This is situated in sarsaul Area. Now here you can visit in Shani Temple and Durga Mata Temple also. One of the best place for pray and meditation. OM SAI RAM.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gaurav Singh",
+            "uri": "https://www.google.com/maps/contrib/113246779608047114062/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6rgZrln8uNIk-ii3EjCf-9_oongDifwuk0-bWZXdMTFCSL1ma=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-05-29T19:21:28Z"
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbnBLdWh3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It's a good place for worship, however parking facilities are not available.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a good place for worship, however parking facilities are not available.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sanjay Agrawal",
+            "uri": "https://www.google.com/maps/contrib/111992644188039511272/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXF93MSt-8hKeNSqziP-dPyeG2-1uU_zFsB7OQryCC7yDgzMS_6=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-30T10:57:40Z"
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/reviews/ChdDSUhNMG9nS0VJQ0FnSURleU9pempnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 3,
+          "text": {
+            "text": "Mandir is so beautiful but some of the pandits i didn't like they snatched away my phool malaa and all .this should not be the behaviour and the mandir was all empty at that time then also they did this. It's a place or worship people go there for peace they must understand this thing. But if I talk about the interior of mandir it is good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mandir is so beautiful but some of the pandits i didn't like they snatched away my phool malaa and all .this should not be the behaviour and the mandir was all empty at that time then also they did this. It's a place or worship people go there for peace they must understand this thing. But if I talk about the interior of mandir it is good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Smriti Mathur",
+            "uri": "https://www.google.com/maps/contrib/108226893834067229927/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWU0gEZU4N3l7k435CpsAodyxdIwPEBX8MK93h1CrG-6kP86aLh_g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-09-30T13:42:46Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJYwElwyTDcq7DF8X2p1xe6SLPLv2lWwa3bcBBC_LfapzdrACyNTB63IUbK4hK9YHRnCC0mPWxFIaV7rE5V1aEDAsBD9N2H30MgOcozss21GywwcafPj6WeAPR8wwffWSe4lcbzFREMbsoLznx463Wtj7SFGkHr3-Rc8",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "AKHILESH KUMAR",
+              "uri": "//maps.google.com/maps/contrib/105456580963945349592",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKT3NUv88WaGZAX7nchQW_gV_hpbHUpZRBNOBiYAjl8tdLp_A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJa7C9hQsElgLHqRiiP3T3D2oJuJ86EaXhpFpOxcpQEND37KQJNLk69jiktpTaP_zEzdPJjbsp-Qe6fdygtr64Yoq8cS9y_oXn-rqXTPYyHLlrBifbBln8p9ffXaVgqX53zN_8vITFa1s3rz-NySpSLcRg9_E2CfG6Vf",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Shivkesh meena marmat",
+              "uri": "//maps.google.com/maps/contrib/114622940062884087790",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW3FeyziUdS3TJrOgKBGDjSmY8EwvCuSnneRIk24N1_E5_nyJI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJZQDHuxnP3ec6y-JOxfc_qnyY-wHi7H6WT98gXn1SxDEDz2kSwe3glrc9kgWSI6LBhGbGIU_-jeTkzEOhHwCN6hwouYqM2I9rqjfVxhRoftufH95S-rsS-EDeF2L6-X7LAtpF5dI92LNHBsn7OT80A5xHq6TMmfuFsQ",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Shivkesh meena marmat",
+              "uri": "//maps.google.com/maps/contrib/114622940062884087790",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW3FeyziUdS3TJrOgKBGDjSmY8EwvCuSnneRIk24N1_E5_nyJI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJY4xALpJ6xKIc5oIvoZGXos8QsFGULUyLu84aAMjtIb2j-sa_gGGpDbkVXt6Z-tR3rJrRhiYTS5P1mrcUzYUFML6_cs2ng6qQgFVJdbjwSXEW82AVz0DkFR5dNeOh8ElTo5kRJFNdO1fhLf7MOCJrI_vtPP82mveP2B",
+          "widthPx": 960,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Andla Tech",
+              "uri": "//maps.google.com/maps/contrib/111030667293472204668",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBUdBppw6DZF9CVamnAnpGmroRoB0bGfcAL7T56MqZIDeliNOt=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJa4wKquuEVeIWKyPtTE8nU7x2GqO_139L2sI2LCB4v6wnQ1ILIp7zFbGzgQhdJC91M_z6Mv213AhJ4bjA9kSyViTRZRv3TcHx_pjEYa381EPPD8JUjEVzatd_dLL4bYu_dlAXoFv5laPByTd52P7POo5IDkfrXg5Sak",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Shivkesh meena marmat",
+              "uri": "//maps.google.com/maps/contrib/114622940062884087790",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW3FeyziUdS3TJrOgKBGDjSmY8EwvCuSnneRIk24N1_E5_nyJI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJZ8gYVsJPErQyi7TCPpo4bHes8poIY6zN0xOWilezv2DkophHVz_R_N5XEGfr7S8j1YEksvWhla7x5r47B2n-IkO7UWd1snQJzjujodbi25vm8hnGwPKFUHKEE1-5LofJa9ZxC3DNJUlvQb4hpOPsFt62h1OzawqTN6",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "swati gupta",
+              "uri": "//maps.google.com/maps/contrib/113962724626201698722",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTxl_YRrbEKAKfxxkzXfMKRJKsTYLIhmfhmupIhWxYK4ywVa1Y=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJZwbuNjO9oU1nJP3OZtwZ1rtgiFmfe5gAARFQuAJmtvVf--eAb4TpnxUcf1DE_n_a4KQrYgwVAb9WmALU33HA5JUbGZ-E7Pf0Y0EvW4doH3KdfOufWOhgb1IlUXlwsyrHzrWtbNz6RmIeAgdlF-BpePC5ikuMv56pPZ",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Dharam Prakash Agarwal",
+              "uri": "//maps.google.com/maps/contrib/103367590707447804644",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBlqUFKb5BTdrRM2RXgUesA_ahCrlU5nt1DMNG58nwEOarXkTLgA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJZc_DxaIfJO9d5naZs1SqTGe2lIgmWDIzmUaIFj-RWgWW9gzhrADJPyYo4MC9BGgHqs0TDQ4j3S4fEUmbqZBOr42aOd9y9C5PcmNjaVNxfZkO3evIFfYkW6CZDZz4C5zikv2kYZdjUXlBjAitqmx5i1mc6Yyad5lEei",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Manish Thakur",
+              "uri": "//maps.google.com/maps/contrib/104952451272903933102",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-5cDyb8GRnsL4V1Fx5WEQm5u0tOy5lpFbAn_L2LOQwIkvkDmq=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJa59qUvFYJfX7fU5f-sCzfyhfSBsH2mhRrWLZ6Mm0Km7VZZf8crV-fb4tzTuemgXI4q0SoBBq5ecQeRTIBldKXL3Jqk7qIk7QcBYQQYUFKCa0JcEO985x9mThM0w8g_dqkXid8LrP3PK6KeY05I6b2K9QTAQuLwu12-",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "AKHILESH KUMAR",
+              "uri": "//maps.google.com/maps/contrib/105456580963945349592",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKT3NUv88WaGZAX7nchQW_gV_hpbHUpZRBNOBiYAjl8tdLp_A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9bHGBUqkdDkRrBp2faxa1ko/photos/ATplDJanH3EbmcJpqBxaWFzSySOJYIwi2a_iHv580PdIM97vfTS7ChcPKm6XX1bzhpRa7JrLpSHzwB0Lsj4gdpNo0mnyYiASA_LdfRtArLdr-PBndYgxqbPvLDl9QCaT6iP1Qdgp558X8vCQYYtTaT-HhADS3FFzUb43lC3I",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Manish Thakur",
+              "uri": "//maps.google.com/maps/contrib/104952451272903933102",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-5cDyb8GRnsL4V1Fx5WEQm5u0tOy5lpFbAn_L2LOQwIkvkDmq=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c",
+      "id": "ChIJ2S9QdZ6ldDkRKHQMru25i1c",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Prince nagar colony, GT Rd, V2WX+9PQ, Melrose Bypass Road, near kamakhya mandir, Prince Nagar, Bannadevi, Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "V2WX+9PQ",
+          "shortText": "V2WX+9PQ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "kamakhya mandir",
+          "shortText": "kamakhya mandir",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Melrose Bypass Road",
+          "shortText": "Melrose Bypass Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Prince Nagar",
+          "shortText": "Prince Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bannadevi",
+          "shortText": "Bannadevi",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 27.895960499999997,
+        "longitude": 78.049374300000011
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.894665969708498,
+          "longitude": 78.047959819708524
+        },
+        "high": {
+          "latitude": 27.897363930291505,
+          "longitude": 78.05065778029153
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=6308340133540951080",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Prince nagar colony, GT Rd, V2WX+9PQ, \u003cspan class=\"street-address\"\u003eMelrose Bypass Road\u003c/span\u003e, near kamakhya mandir, \u003cspan class=\"extended-address\"\u003ePrince Nagar, Bannadevi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 16,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Khatu Shyam Mandir Aligarh",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "V2WX+9PQ, Prince nagar colony, GT Rd, Melrose Bypass Road, kamakhya mandir, Prince Nagar, Bannadevi, Aligarh",
+      "reviews": [
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaODVLZ3F3RRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Jahangirpuri is the last metro station to go here, after that take an auto from there and tell them that we have to go to Khatu Shyam Mandir. Avoid to coming here on holidays There is a lot of crowd here, here you get food items at very reasonable prices and it is also very good to eat.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jahangirpuri is the last metro station to go here, after that take an auto from there and tell them that we have to go to Khatu Shyam Mandir. Avoid to coming here on holidays There is a lot of crowd here, here you get food items at very reasonable prices and it is also very good to eat.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pritika halder",
+            "uri": "https://www.google.com/maps/contrib/117845248519120931764/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl3odcoz2AVa1y-4ye7141XaAe-5zQbsnkpW0RGYS8uJMnJTWFLA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-09-17T20:18:46Z"
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/reviews/ChdDSUhNMG9nS0VJQ0FnSURwMk15dHlRRRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It's still under construction, only the main prangan has been opened for the Darshan.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's still under construction, only the main prangan has been opened for the Darshan.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "PRASHANT KUMAR",
+            "uri": "https://www.google.com/maps/contrib/109132448821926131109/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrBcBRUVB-zWn4YjJcvheXzoNPEmjHd_UOkt1CBkmZphIV3z-F=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-08-15T17:04:10Z"
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/reviews/ChdDSUhNMG9nS0VJQ0FnSURGeHVtMXdBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome 😎\nIt is one of divine and holy place of Rajasthan.\nIt gives lots of peace after worship there\nJai Shree Shyam",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome 😎\nIt is one of divine and holy place of Rajasthan.\nIt gives lots of peace after worship there\nJai Shree Shyam",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chandan Kumar",
+            "uri": "https://www.google.com/maps/contrib/108978601791104492840/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3N5cXSVJePvKJxN-v2OHi1p9K8DsRnI-H0qRmQOGZ0Doxlsg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-06T17:11:58Z"
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/reviews/ChZDSUhNMG9nS0VJQ0FnSURKNjVMM2ZREAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Bhut aacha hai mandir jay shree khatu shyam",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Bhut aacha hai mandir jay shree khatu shyam",
+            "languageCode": "gu"
+          },
+          "authorAttribution": {
+            "displayName": "Mr.Divayanshu Singh Parjapati {GolaJi} Agra King",
+            "uri": "https://www.google.com/maps/contrib/102102277878182553617/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWj5k0rc2qBLKirhAH6j9Sr1zznFIGYic3yDROA6cqebIlvtWf3-A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-07-23T05:11:56Z"
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCcXJTZ2JREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "More beautiful mandir jai shree khatu shyam 🙏🙏🏻🙏🏻❤️",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "More beautiful mandir jai shree khatu shyam 🙏🙏🏻🙏🏻❤️",
+            "languageCode": "gu"
+          },
+          "authorAttribution": {
+            "displayName": "Ginni Mandal",
+            "uri": "https://www.google.com/maps/contrib/102274263096120141609/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUuOsPmlGRughsznHG6YtUNIJWbhaIe1uRzPbyDjyrVOjpzFCY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-12-22T09:25:29Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJaDYLZupHRd0n9kgyutKfV734yAHK3Wk8evuGRSr_HrL9ESxntb7E1jZfe0EgYkdkM7sNI9cxZAuTAnqq69i2a5yqlvnTZ4e6UVW_C5G_I6Kp8PT4Ukwp7ypMhUKVlXgP6sgTcZlLBkDvb9F1kCx5b564Hj03Zfn5Mz",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "PRASHANT KUMAR",
+              "uri": "//maps.google.com/maps/contrib/109132448821926131109",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXrBcBRUVB-zWn4YjJcvheXzoNPEmjHd_UOkt1CBkmZphIV3z-F=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJZNBxSWkjl4jQqp7wAbvwsmTtK5ZmLQn-wKelCWl7fZ5JlO3m7oovrsa_9-ynBwvHzm-mBg1bBGd6tCcxjmp52nwX_FdOFC-sG_Ob1eQuWiIwhF3xJWG3_U2dN3mqCQlJj3dHz2vUhLRJuM_cgn06Ows5ZpadwppDUj",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "It's AV_",
+              "uri": "//maps.google.com/maps/contrib/111458141558087943118",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKi6uWbne42H9KO-BQ44QRDHF5S7beNKuT5gT-a6B54Nzs8Fg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJaTZbzrSWtJ_lxKqLIIKNQUUb7MxPKOaJMDw4SxInsdRwTVsr5aYPQiuImTGv8DA8fsvN3EPMDm_3du0oB0c-pRPTXWIC4UU10uBXWbOkHbccpGtuT7yb8XXhVG5S0aQpZWmSZtYOx8iEItrM9qs2KuEA_M_jyE_8ER",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "PRASHANT KUMAR",
+              "uri": "//maps.google.com/maps/contrib/109132448821926131109",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXrBcBRUVB-zWn4YjJcvheXzoNPEmjHd_UOkt1CBkmZphIV3z-F=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJbDkyJaUjx5GVzmHtupaBbGrBQvUMfRIEdJfZap6-KaKpVV8Um8MfCgkx6o8rMd2xs7lRSA5qf6da8-RQPmf9yzHULwSBc-70yrztAlyUTZQ7Z7t4gl1KqkzUbFUZZJH3HtHpA0JcMKEdlYt9iX5_542qhA8sliqzJe",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Arun Sharma",
+              "uri": "//maps.google.com/maps/contrib/101609142381749392180",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJjEv_MnNljNpnGLBVwqXzHLQFzQTpo5Lns857AQQ-2K4wDAA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJbxWgcwH34V2r2bUeIaNtn22zsmjVhT8jCH_HAkkFMQaCYRBDrx8pbRtCQBSQjRRl03zanSh1OxFkjfYCGWn9QYBL5epqdFK2bcEgKn3HGwdxDivYAd5BCdHC2jJVSgMhICLeqym0oEDZlV7XsvWEolnArCMEg-NIjg",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek_k.77 “Abhishek_k.77” Abhishek_k.77",
+              "uri": "//maps.google.com/maps/contrib/109361234133506514114",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVJmd8-kv0wXSpD6cp_TFqJz2SZLqD4SrZCc7qtZ01QkJMNTV7uEg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJZBEK-2t7zts4rBiO4tjiuRl3Z41YxYcoQq_mGySURUMpuhpiZuwmyaFZ7F1kaJHpYlem9YkdgZ6zfjsT12lmQ0Qaib8ZF3H9IXVV-KwEvlZz3y4UXx5FrlxA-kqVignKgVKaswuFiWNnpcd89U2bgjyeY8NP2G74Eb",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Arun Sharma",
+              "uri": "//maps.google.com/maps/contrib/101609142381749392180",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJjEv_MnNljNpnGLBVwqXzHLQFzQTpo5Lns857AQQ-2K4wDAA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJZb8yP73FRPGZOI9YAnwI-72pIeQbZ5xA_NXV5S144Q2PGzWuXc8DMtRmkyjjKpHheLDDLHLhdpTxwAly_IfpzhfLEvUp-TQVBmbAnd6dzUFhtEvGcQw8vRzGCFHrxfGuHJyfcLI1kYH0Jfj0qn7_j_MXFFONVNHO-Q",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "It's AV_",
+              "uri": "//maps.google.com/maps/contrib/111458141558087943118",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKi6uWbne42H9KO-BQ44QRDHF5S7beNKuT5gT-a6B54Nzs8Fg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJZMqGwZGR_zjMzhzQQyAT9-VQ7UMxSyqVbpp3QW_cTYbSBl9cew7q07Rnxm7spFyj9d3q-4t2_TI-thr26G_eLbKyjzKVUhz5VpXZy1TTeD2FOQTTQn0DkriHScLeaK4iMPzp3R2PYeBKue7ZTb3KQlDWZd5Zg9iCEn",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "PRASHANT KUMAR",
+              "uri": "//maps.google.com/maps/contrib/109132448821926131109",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXrBcBRUVB-zWn4YjJcvheXzoNPEmjHd_UOkt1CBkmZphIV3z-F=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJYxWyGzr9-7jjfMq_K0XKj80er44Ho9qypZM_2D7QfEac49ZKU266Ry1bCWO9PsX0aMf7Y6Nz7pjjy5Ob-qc67MOaDtCRloPQ6KN-9O9nN9lZAFKQ8M9wImPBVqsDHe4sfXkOoAjz80ctZMyhEmxRPdcqcPMHfVV3vg",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Pritika halder",
+              "uri": "//maps.google.com/maps/contrib/117845248519120931764",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUl3odcoz2AVa1y-4ye7141XaAe-5zQbsnkpW0RGYS8uJMnJTWFLA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2S9QdZ6ldDkRKHQMru25i1c/photos/ATplDJaFdCr4PkyIIJ5SnFpAWRlnoCpoBnW8xqpzc-vTsQfYEZdpkTkLgn3t9tvMvXwee2DZo_bOv0nThPwkBl8AFGPuZVSw5K2tMzJoe6j_n1GKbG6psY7YHCU41NSBo4uC9RoLGFmScYDVEsxhCBGgHZ_eydIYSPwvNRDi",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "PRASHANT KUMAR",
+              "uri": "//maps.google.com/maps/contrib/109132448821926131109",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXrBcBRUVB-zWn4YjJcvheXzoNPEmjHd_UOkt1CBkmZphIV3z-F=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0",
+      "id": "ChIJQ5jv8lmkdDkRaZ3IklE_cQ0",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "089379 38992",
+      "internationalPhoneNumber": "+91 89379 38992",
+      "formattedAddress": "5/111, ITI Rd, Industrial Estate, Aligarh, Uttar Pradesh 202001, India",
+      "addressComponents": [
+        {
+          "longText": "5/111",
+          "shortText": "5/111",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "ITI Road",
+          "shortText": "ITI Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Industrial Estate",
+          "shortText": "Industrial Estate",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "202001",
+          "shortText": "202001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVWW346+32",
+        "compoundCode": "W346+32 Aligarh, Uttar Pradesh, India"
+      },
+      "location": {
+        "latitude": 27.905179900000004,
+        "longitude": 78.060088499999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.9038291197085,
+          "longitude": 78.0586936697085
+        },
+        "high": {
+          "latitude": 27.906527080291504,
+          "longitude": 78.06139163029151
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=968625014448889193",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e5/111, ITI Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eIndustrial Estate\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 177,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Purnagiri Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "5/111, ITI Rd, Industrial Estate, Aligarh",
+      "reviews": [
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4dk1MOHBRRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I love my india",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I love my india",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "arjunbhai1 arjunbhai1",
+            "uri": "https://www.google.com/maps/contrib/104093080134681897286/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxDoIxgayqukECtwW45rIJgPWM2rdPTquwCMHwhtsprtQUJ7E=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-04T03:12:00Z"
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/reviews/ChZDSUhNMG9nS0VJQ0FnSURLbmZqN2JnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "BEST mandir and place is good and give positive vibes every time so go for it",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "BEST mandir and place is good and give positive vibes every time so go for it",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RAJEEV Sharma",
+            "uri": "https://www.google.com/maps/contrib/106221278286374899070/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtozgWJK3wi4KnamxbX-hMXb3SW5-xayTX1MG9qKMUJC4ccOvAwA=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2021-05-17T08:28:13Z"
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/reviews/ChZDSUhNMG9nS0VJQ0FnSURZMTVDQWJBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "One of the peaceful area of the Aligarh city... ... Called ITI road.👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the peaceful area of the Aligarh city... ... Called ITI road.👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "VIJAY SINGH",
+            "uri": "https://www.google.com/maps/contrib/113921607727419392796/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBODmmu--sLhnfftoxSI6WzDulNBkuQXcQIDaCTUY8cIN7coecEg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-05-26T10:27:45Z"
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhMHFuMmt3RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Road ways are very adventures and near to nature\nLovely",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Road ways are very adventures and near to nature\nLovely",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anuj Hari",
+            "uri": "https://www.google.com/maps/contrib/104593604524323589970/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUc-XHdVxcRyGZyGzd9olTO30Xdt4IgEB9qu_G-o6Sstm1v1Oq7=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-07-27T14:20:02Z"
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/reviews/ChdDSUhNMG9nS0VJQ0FnSURZc0lfU2lRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "It's a Durga maa temple at iti road",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a Durga maa temple at iti road",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashok Sharma",
+            "uri": "https://www.google.com/maps/contrib/103280094677805800101/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3j3CPNI42BtIBP75q4IeAnLUgUzzvenz2-mEUAqnye-CtpiTvsw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-04-27T01:46:19Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJY_naduAa_h1kV4bjhywkGr1krdyJe97y68Oub3UKEerOXcOmqWup372Lv2xUzlIf2N1lqBZMunnfy6m0Pp-wzb1bCXqE96fMpGi0gjgqnAuBN_7I4itxeLT5UWwY-gipyjhGB_5iCTEIzyhwf-jzIPA0_uMm5JD_kZ",
+          "widthPx": 3264,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "Shivam Sharma",
+              "uri": "//maps.google.com/maps/contrib/107052810567752933070",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLZcUN8oixah7bckXUNY06rqV5enFmdldYkfiEe8b9rGSLIpw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJbAngAoJwK0-gEJg6iXdflz7f5w0bjT0s0fLbfKJVfJZi_mz2xCwXhbmA5z2RjNiTkPNa5AbtG_LSBFx-3BZuWAs9styQOxZWiPJftAVwjZZRU4NwKLlmr2e8h-gvHp8tzhKh7hKUzlk0vR1by-dShRGt85tQdSbEqW",
+          "widthPx": 2304,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Varun Sharma",
+              "uri": "//maps.google.com/maps/contrib/110308786604128375799",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWoG7XZCuaA9sLq8PAiHvwoyISji-LERW3bJi8hiQ5MlRA_JblC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJY8JsVJDBuWtkJ7gIXjj0Yzwn7uYgyUrTnwn5xyptXKoY10cBGX_iUwpR0lHiAAXsNaD_qfYhWUo204kMpUPowTqoJ9P3mJkMvyuzeaQ_AfIx9OjI9GcilwsMiXVJiFpnHlZ2kl-MP_CtKrYEOROT-8HgjlaNmZjsQY",
+          "widthPx": 2080,
+          "heightPx": 1568,
+          "authorAttributions": [
+            {
+              "displayName": "Jitendra Kumar",
+              "uri": "//maps.google.com/maps/contrib/100647531452337443396",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJQPNbxJXT7dp1Rg3nrCJlhQEEnucpIKilk8OeTu7oeDfbbxA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJb2uYxWJ1GMxPhcaZuZZGC_BOB87kO-c_8tlHATrgcfPo1Qguw6eTUQzQ4HVz2Qq19psj4EKxLIJwWIZjvFuSfOEgSfl3cIC9vLub6pWP6wTI2aZNGPx2rM3bzL9jngbhfpwL515HnKRSLdicwN7vtQiRp8xu4Ce6df",
+          "widthPx": 1599,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Manesh Rajput",
+              "uri": "//maps.google.com/maps/contrib/111099386644231924977",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL3wCzVyWwV16PKyMQ97KGIJ6sJUSEmsxooCiEbvF2y2ioKOg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJZE_L00t8ZDxjwoNSXlRwSLrJeMg0kJbFSLD-eH-yXX0eWk7K0AxcEAd-hjmmIEBGLM-Sa5hjf013iiookT907y3_T0-aJNpXN_UVK16ZPSgyD8THj9Np9SuTKt0HafUWEJKF1Wp_-puTpEYcj76hSz_q5bqC3GDfek",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Vipin. Kumar Vipin. Kumar",
+              "uri": "//maps.google.com/maps/contrib/107693101775732582971",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKvetqrOonlfsq_yMGGdyqg5gSCbyMrbkq9wg3Nbcpml7DLzA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJbMoiUksX8F_Gx9f_wlwpYlgKJxBNL8s_uLKWSVE_A_5Az-8vlQZsRxHCN4GBRnefukWWu6NWpE_B6U_KZdLZILwds8vZPko6P0wF-sfS7vTfq2PAVr79UZS5MPWjqgJnMFxeq6Qc4XXlUy3Ni4ifgpiIma8RjKzrjV",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mukesh Kumur",
+              "uri": "//maps.google.com/maps/contrib/101583696226606209013",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJokYf_g_yCStJvhbCUlEmhmSvlv83T_n7_s_B1k2kkWbkP0A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJb8ntNtAWpdmh53z8Lz-6rVyU4V0KuNVxvFxc-i3JAHzhylCRKigotV6b0hmhkE7DyuNcyJ2qWNrtRfnjnYoguBPTgSaTfv8LehoqWa4pIb4mC7qKZ8DGxt24Fp5GYoxmGdXsq-tPB0ixrrZIYuiV3-u_lZrkkx9gnk",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Vipin. Kumar Vipin. Kumar",
+              "uri": "//maps.google.com/maps/contrib/107693101775732582971",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKvetqrOonlfsq_yMGGdyqg5gSCbyMrbkq9wg3Nbcpml7DLzA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJY4lOqyhw0dx_Xw-mLZhb91SyZ7RN_RKBiLOiHBlTrh2k45xYnTLxH-B0uPx93dJq3LuFYnil8BXueWlQ0cHj4hHxHPIt5Xpi4oAXa1nTYXiMC2ol_LC3gSnhutGDbK1e9Q9ULMOzdZ6cMcAzQYYaXusfhFWmM058N6",
+          "widthPx": 2340,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Vipin. Kumar Vipin. Kumar",
+              "uri": "//maps.google.com/maps/contrib/107693101775732582971",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKvetqrOonlfsq_yMGGdyqg5gSCbyMrbkq9wg3Nbcpml7DLzA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJYgacA5a7F-2mZ-MWUHcXFpb6kPGEG0my4AfFugBzRZ9vT-wNTrZ2LdcXK5kdqylvcUJeiwWnPZhhGMnxta-GeAPq1osRz2Z47Gj7TE36zydHgvyBQwuHAI60RJtql4W3Rs7zfIZkxxveYNelhVpUPSoftITbwdt5I",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Vijay Kumar",
+              "uri": "//maps.google.com/maps/contrib/106042721602481950706",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdVbtn4fZM58cZ-so_NYM4DjducX2Qbq7G7CFoqXkeFDMfZNw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQ5jv8lmkdDkRaZ3IklE_cQ0/photos/ATplDJbTh9OTyIZLu26lJ1ktBfqYF3MZhbp0z98Uyg1cUdmd8cP6HfiqS0q0vJTQaBCgCG2k5XmGWnDF5lPGu93BIfRrOpQ4YCa4ZcznrF1cg6eyw9MMnaxQ02J7gBp1lC0D7H8Q0JYivJBrr-RmK0BHyhBj7Il6-Es_lpUa",
+          "widthPx": 1944,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Prem Singh",
+              "uri": "//maps.google.com/maps/contrib/115046999320227049986",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKyjIgtKrZ8nOxyE47pIgGQ0oii_I3O0X6J-Wbd8WNHjH0HJQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k",
+      "id": "ChIJPyjwO-CjdDkRB92LHUXuS7k",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "V3C6+CR5, Bhujpura, Chuaraha, Aligarh, Uttar Pradesh 200201, India",
+      "addressComponents": [
+        {
+          "longText": "V3C6+CR5",
+          "shortText": "V3C6+CR5",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bhujpura",
+          "shortText": "Bhujpura",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chuaraha",
+          "shortText": "Chuaraha",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh",
+          "shortText": "Aligarh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Aligarh Division",
+          "shortText": "Aligarh Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttar Pradesh",
+          "shortText": "UP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "200201",
+          "shortText": "200201",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 27.8710237,
+        "longitude": 78.0621032
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.869684169708492,
+          "longitude": 78.060740219708478
+        },
+        "high": {
+          "latitude": 27.872382130291495,
+          "longitude": 78.0634381802915
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=13352027500885826823",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V3C6+CR5, \u003cspan class=\"extended-address\"\u003eBhujpura, Chuaraha\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e200201\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 53,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Bhujpura Chauraha",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "V3C6+CR5, Bhujpura, Chuaraha, Aligarh",
+      "reviews": [
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0eWNpaVFREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "if u have any emergency so dont go there...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "if u have any emergency so dont go there...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammad Asif Khan",
+            "uri": "https://www.google.com/maps/contrib/103617555304233624525/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfdqXDxEq-veXMyfuHkEze3HfwbeecdhUgXhETj9hmA_UMJR5Q=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-05T10:16:19Z"
+        },
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/reviews/ChdDSUhNMG9nS0VJQ0FnSURkbkxESWlBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "No wait",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "No wait",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yasin Salmani",
+            "uri": "https://www.google.com/maps/contrib/115410421230052453190/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXC0h0-3mA29V6kQHkTOPk5plfE34kp174JF91x2JMOF7UAW4ggWg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-21T16:21:15Z"
+        },
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWLVlhSnFBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice palace",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice palace",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "arvind kumar gautam",
+            "uri": "https://www.google.com/maps/contrib/107498299157367118439/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSrDBsa_kVYuoF4YeAl8q233zUkfprXD4TxFuZ0qTFonVLL91F-w=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-08T08:37:51Z"
+        },
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsNjl6NENnEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Good 👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good 👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sufiyan Malik",
+            "uri": "https://www.google.com/maps/contrib/114374127672953783461/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1UYj_kOHrJtygCJ-Vh7i9-uymRDVzUsZL5tXMHDeIXRsJ6S-X5A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-05T06:09:43Z"
+        },
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0dHVHeHJBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Public areas",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Public areas",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Leelu Nijjar",
+            "uri": "https://www.google.com/maps/contrib/106583764346011828425/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYsGMk6eWu9FCn6EqrlEvCCsgYAT53nXjO6j7yAtEInOBGrkV9jg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-04T11:54:29Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/photos/ATplDJY7yH6-a87vy84z3VhFMr_xAdStlhpbKce_k3xBc5XptiQolCz3E7gpQtGR3sdpbL1BOigO7BD4fe-ZZHeN-YoXhVEGsKFycXFCfqFqAW6hhLe1489pDUEsBhwtF4NqwITS5zvXEzsZJ2jSB_m9T9S_Xy2ntP0FX54Z",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "U.S GAME RAJA U.S GAME RAJA",
+              "uri": "//maps.google.com/maps/contrib/109239056450417613638",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJC43Qly_WSmTnYPVPG_9NVM_KNt13r3rWi4iME-0OzGDhpAA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/photos/ATplDJZMNYKiqk3IFPRKrkBo3nrtykXLcleOAvJQBDKe1qtbzh6vKuv1wJSN53CvvdwtDonbTlw3lMQotSVFmTqE0nVyv5YRiI7pyHQEESgezfoRzi4cv0C2O_zrwHYuBhEUD2GBHTwzx8wlRX7QNnGfELWzUi6NuJT1pBuT",
+          "widthPx": 648,
+          "heightPx": 1152,
+          "authorAttributions": [
+            {
+              "displayName": "Sameer Rayeen",
+              "uri": "//maps.google.com/maps/contrib/109180477377475007539",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIB2LvVzL-v0uB7VXe7_QJkdkZXjzyxBx0qfFig-yq8Wg_HTWk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/photos/ATplDJbM3Fr-M2lD8_Qz9ZMca2wGKmE7IDFiEntFefkJaljrzR4p2sshaIa79Rn8b0qO6eyse9oxXpDiqqn9g_zclyAc5uLFi4CQ72uDxfPAQuKCo8wki85U_6GWxUbk3--jzHmPSLRWlYVRLsPSXCsy2bIdd5HeBkcrVpUh",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Jamiruddin Khan",
+              "uri": "//maps.google.com/maps/contrib/115123811965619073698",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLec0ucjJw-oXVk860hkLkTfAuR1Ew8VI82JE_0izKxOpuT_w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/photos/ATplDJZGyuDQ_IdDY5Xjh3xbRR1DcHYIaELqcvpbGTaEdem7KQS3mxjUaKna6M9LvtV-UjGIE4iYPRL-WXDDx3uzJ1sqIemneQJsFW-aUEUIMOkhwX3-M_hvpu6k4KzE5E2SlozjYZgGUdt-v9UxvuiDq9wt8STF2vJo3Rbc",
+          "widthPx": 720,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Sameer Rayeen",
+              "uri": "//maps.google.com/maps/contrib/109180477377475007539",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIB2LvVzL-v0uB7VXe7_QJkdkZXjzyxBx0qfFig-yq8Wg_HTWk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJPyjwO-CjdDkRB92LHUXuS7k/photos/ATplDJYM5er2IBEa0GA0U1Rc9BkzaupDLGJs2dJZzCuEbzdFGGDJ-yvmP47BDjcijwWwuX1mZKy35odnvYy6-4GycH79AEvO0MNnBjGUoVFEDIaRI3ORNelJm8Uay_ynSQ-GexcEaGZWIRLzmhhWG5fpdrBsfWR7N9QSdEMn",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Jamiruddin Khan",
+              "uri": "//maps.google.com/maps/contrib/115123811965619073698",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLec0ucjJw-oXVk860hkLkTfAuR1Ew8VI82JE_0izKxOpuT_w=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,3810 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw",
+      "id": "ChIJoWMHlEU_KzoR8DzCcSdZJfw",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Nehru ward, 5MF6+CXX, Mendha Rd, Santaji Nagar, Bhandara, Maharashtra 441904, India",
+      "addressComponents": [
+        {
+          "longText": "5MF6+CXX",
+          "shortText": "5MF6+CXX",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Mendha Road",
+          "shortText": "Mendha Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Santaji Nagar",
+          "shortText": "Santaji Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441904",
+          "shortText": "441904",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.173610999999998,
+        "longitude": 79.662491
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.172289919708497,
+          "longitude": 79.6612025197085
+        },
+        "high": {
+          "latitude": 21.1749878802915,
+          "longitude": 79.663900480291517
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=18169026297643285744",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 12,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 12,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 12,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 12,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Tuesday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Wednesday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Thursday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Friday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Saturday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Sunday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Nehru ward, 5MF6+CXX, \u003cspan class=\"street-address\"\u003eMendha Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSantaji Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 111,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Bhrushund - Ganesh Temple, Mendha",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Tuesday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Wednesday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Thursday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Friday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Saturday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM",
+          "Sunday: 7:30 AM – 12:30 PM, 4:30 – 8:30 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "5MF6+CXX, Nehru ward, Mendha Rd, Bhandara",
+      "reviews": [
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXNi1QSmJBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Bhrushund Ganesh Temple in Bhandara is one of the Ashta-Vinayaks of Vidarbha.\nLegend has it that one of the ardent devotees of Lord Ganesh got converted into a statue of the Lord himself.\nBhandara is 65 KM away from Nagpur on Nagpur –Raipur highway. It is situated on the bank of Vainganga River.\nIt is the unique example in the world how a devotee gets converted into God. It is a very pleasent to place. Back side of temple is hemadpanthi construction about 4 years ago.very very beautiful.. must see when u come to this temple...but needs maintenance.\nIt is said that one who visits Ganesh temple and pray here would gets all the powers.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Bhrushund Ganesh Temple in Bhandara is one of the Ashta-Vinayaks of Vidarbha.\nLegend has it that one of the ardent devotees of Lord Ganesh got converted into a statue of the Lord himself.\nBhandara is 65 KM away from Nagpur on Nagpur –Raipur highway. It is situated on the bank of Vainganga River.\nIt is the unique example in the world how a devotee gets converted into God. It is a very pleasent to place. Back side of temple is hemadpanthi construction about 4 years ago.very very beautiful.. must see when u come to this temple...but needs maintenance.\nIt is said that one who visits Ganesh temple and pray here would gets all the powers.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Girish Pidadi",
+            "uri": "https://www.google.com/maps/contrib/109980328976130022033/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVj44RvvnlS8S42kS7aROvOKac7VK9i3wgUtzPI4cO-SKjat59HeA=s128-c0x00000000-cc-rp-mo-ba8"
+          },
+          "publishTime": "2022-03-07T08:02:07Z"
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNTd0ttMDR3RRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Oldest Ganesha temple of Bhandara district place of worship 🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Oldest Ganesha temple of Bhandara district place of worship 🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr. Aniket Chichame",
+            "uri": "https://www.google.com/maps/contrib/104903644860514080684/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_eeqCWeTlglWvqPRL56ArlClhy-VGcuDn2XZ_0XUrPkpkiGgQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2020-12-11T13:23:18Z"
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/reviews/ChZDSUhNMG9nS0VJQ0FnSURJeWRIclZnEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "THIS IS THE TEMPLE OF LORD GANESHA.IT IS ONE OF AASTAVINAYAK IN VIDARBHA REGION.THE TEMPLE HAS ANCIENT HISTORY.\n\nThe atmosphere out of mandir is not that good... There is much more chances of development",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "THIS IS THE TEMPLE OF LORD GANESHA.IT IS ONE OF AASTAVINAYAK IN VIDARBHA REGION.THE TEMPLE HAS ANCIENT HISTORY.\n\nThe atmosphere out of mandir is not that good... There is much more chances of development",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jitendra Nandanwar",
+            "uri": "https://www.google.com/maps/contrib/110151243051688203499/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOB0shqONcIIo64Uik1S_l6lls5eDncxkqiIcCT7VDXneMOeqO-w=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2021-03-22T19:16:16Z"
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHbTY2Mkx3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Very old temple. One of the eight \"Ashtvinayak\"  of Vidarbh Region. Nice to visit. The outside premise is quite crowdy.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very old temple. One of the eight \"Ashtvinayak\"  of Vidarbh Region. Nice to visit. The outside premise is quite crowdy.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kunal Bawane",
+            "uri": "https://www.google.com/maps/contrib/116101463669606136785/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNCWta784m2fVIguTDrOrngfXcdbGV0AzT0zCqC4c9HdJe8A=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-11-10T04:23:18Z"
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnNG9DR2tnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the famous Ashtavinayakas Of Vidarbha, very ancient Ganesh Temple. ... It is located in Mendha area of Bhandara town, which is the district headquarter. Bhandara is 65 KM away from Nagpur .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the famous Ashtavinayakas Of Vidarbha, very ancient Ganesh Temple. ... It is located in Mendha area of Bhandara town, which is the district headquarter. Bhandara is 65 KM away from Nagpur .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mayuresh Pashine",
+            "uri": "https://www.google.com/maps/contrib/118413057161362825212/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxuph--j_dTqQ-4QzPKRFHDvE0dr3HvGgvHjT1Kjd9Hjn6Uy8n=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-10-16T01:02:35Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJaElssVifFRKUEWL1eoWowwpe9O8QBmrjk5T7UslLegrWVlOdIAotNePhV97Yq4LBq8ntPXGNp3ncdQu8Sf9C2LnXFOYx3BC_3x0ccMGktwiumbERJz--ymZvczAiwlrxHX_7cCSxETxHCLrPlPFAC63b5OjjieQnTL",
+          "widthPx": 3000,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Jitendra Nandanwar",
+              "uri": "//maps.google.com/maps/contrib/110151243051688203499",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVOB0shqONcIIo64Uik1S_l6lls5eDncxkqiIcCT7VDXneMOeqO-w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJZNBE7yAAsJZnxBNuhOtCLSM5oqdZWpVal5tyX2HKcWGT-c8h5NU-4OGZSb4XCZ5xPHgmKkv8MNwsbSGLdSXE1-FvUccPm5CSRXtJZqd34xWkQosLpzfNqmY6EEz_7lTp05m0TBpnO4Nm-r1burFBwBbOeF0PSFgKMw",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Jitendra Nandanwar",
+              "uri": "//maps.google.com/maps/contrib/110151243051688203499",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVOB0shqONcIIo64Uik1S_l6lls5eDncxkqiIcCT7VDXneMOeqO-w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJZ6njWJrEopn8HWhCzLWpLgzV62WXODocQbTUKXtDW6RG7HMiBiCy8mPhYvjzZWj_IE1ZKRE4IK14c_duCxWFA3UeWxzO2sO4-uOdGgaDlu1XskNT_dupJvbt0DNPpTuK-z6SkyhrskZcLFpqcxMY0f5-o0LyX8EqO8",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Shyamrao Bapuji Sawarbandhe",
+              "uri": "//maps.google.com/maps/contrib/117460293046210423469",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPMeKcsS9OdAWpD7IJyUJAMR938u-PIhLVDEI-v-EQFj-jRXjB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJYpgXllMZckJ6LSdOE04OoRk7-YiiJ1pOAG0cawM-7yU7FoMaTJrykeyGyO1v9dgwZoVhCckZHkBx2NAvM3R2JHwDG9mFCWRpjiqgoF7wGPJZc1Jz_lp0Dr2HUaU0BqBMea-nZZRAKiW6J-Zr2HBbCLuXjeWEBtM5z_",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Shyamrao Bapuji Sawarbandhe",
+              "uri": "//maps.google.com/maps/contrib/117460293046210423469",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPMeKcsS9OdAWpD7IJyUJAMR938u-PIhLVDEI-v-EQFj-jRXjB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJYJ_Gc7g1mwAY0oLB-mCo4QQnBOBzOifYISPlAyw5INFTgyfmII-8pXnz2ettmuz_4tmG3Vg4weMDq7IMzkRqdqzHVv7h6lJRFx_pLAB8anrwSOaNYsWHiYRRoBAk2tgjot0S_sGGznKNwgEC-WIICTWOor1jyqu7HL",
+          "widthPx": 2604,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Girish Pidadi",
+              "uri": "//maps.google.com/maps/contrib/109980328976130022033",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVj44RvvnlS8S42kS7aROvOKac7VK9i3wgUtzPI4cO-SKjat59HeA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJZEAE4fyyIOVOzH3lig660hcLrLCDHZ92tPwSqbQpspuja87MCERjXUSs-QVO7ZH9yay1itBa-XRTRsAU_fh-h8JvifjeTtuf_I_amNreYGoJVMWeD26CQVpDmJcrHBkcYcchs_lIU_Dbyc305lNF_TdC4PSrT3_kUj",
+          "widthPx": 3264,
+          "heightPx": 1506,
+          "authorAttributions": [
+            {
+              "displayName": "chetan bhoyar",
+              "uri": "//maps.google.com/maps/contrib/111031148318957926214",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXit7RgXOogP_vaiLKHrsLAhw6KtlYa5-h7q_lhDmFXgEHo9KBv=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJbQilZ6de0V3C9oxwAIFkuzk7vC5LCbTwyzjdBTPrODl4Lu5UaB2zEVUr5fiYiLhZ0DFHuwBNn9b8Oq0eJnAvssShehsBt8EkFR-VBSu4JkNiHjmT_p2ve3R3pVJI_2_9CuJ7ou0epN96tio6L0I-znoABNheSo0-JD",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Aniket Chichame",
+              "uri": "//maps.google.com/maps/contrib/104903644860514080684",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV_eeqCWeTlglWvqPRL56ArlClhy-VGcuDn2XZ_0XUrPkpkiGgQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJZ_gHLMMKjk_r4xSRCSisYTM1Y-tgdD1eB4Iept5gSCixtWf6QkLszp72RS2xI-iAihL6-XbRmFXrWabFIFAOAHUZ-kMvLHNKZaQ1fL47L0O4xio7Z57mY1M-7IwpdvYP8miVgmEjngJ1liQeJCmUNACr5tUVE0dVlc",
+          "widthPx": 2604,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Girish Pidadi",
+              "uri": "//maps.google.com/maps/contrib/109980328976130022033",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVj44RvvnlS8S42kS7aROvOKac7VK9i3wgUtzPI4cO-SKjat59HeA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJYGPWEsHfDIBiCXwsE-6cTNeA3XMkNA_R151c8CTydEcpRV0Ju_QOJvIx90mxNHh7tpBxpxI9Hcadwdsmdmz7R6YjzaZGRoPwYSmdzzkA0zy3hkHETTUWcatxqKVoGLE8uB-AzCZz7mWDwQeK03COJ_k29j8nFo5qvO",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Jitendra Nandanwar",
+              "uri": "//maps.google.com/maps/contrib/110151243051688203499",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVOB0shqONcIIo64Uik1S_l6lls5eDncxkqiIcCT7VDXneMOeqO-w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWMHlEU_KzoR8DzCcSdZJfw/photos/ATplDJbuKe3eenL2sDWIL1n6btKum458-HuqJsY3P1gspatX3JYwE8EFpgp4hs6mYzScqVBSn67wG0xD1OOGwFKjZqKsKulQbKilLRJl9d6M_nySkVR9qoFV-g6YfJaz10iUCmd9fvpWvrhBvZJEOZ_2C6DZcpu8db3vrZ1v",
+          "widthPx": 1506,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "chetan bhoyar",
+              "uri": "//maps.google.com/maps/contrib/111031148318957926214",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXit7RgXOogP_vaiLKHrsLAhw6KtlYa5-h7q_lhDmFXgEHo9KBv=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c",
+      "id": "ChIJ84_Sck4_KzoRRj8t2mKu64c",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5MC4+6G8, MH SH 271, Santaji Nagar, Bhandara, Maharashtra 441904, India",
+      "addressComponents": [
+        {
+          "longText": "5MC4+6G8",
+          "shortText": "5MC4+6G8",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Maharashtra State Highway 271",
+          "shortText": "MH SH 271",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Santaji Nagar",
+          "shortText": "Santaji Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441904",
+          "shortText": "441904",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.1705415,
+        "longitude": 79.656313700000013
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.1692278697085,
+          "longitude": 79.65497976970849
+        },
+        "high": {
+          "latitude": 21.171925830291503,
+          "longitude": 79.65767773029151
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=9794113554237701958",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5MC4+6G8, \u003cspan class=\"street-address\"\u003eMH SH 271\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSantaji Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 445,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Gandhi Square",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "5MC4+6G8, MH SH 271, Santaji Nagar, Bhandara",
+      "reviews": [
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/reviews/ChdDSUhNMG9nS0VJQ0FnSUROX01pUzVBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Crowded place, main market and square of Bhandara city. Theatre is there. Many hawkers  you can see to buy anything. Very busy always either weekend or weekday. Shops, hotels, restaurants and so many things.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Crowded place, main market and square of Bhandara city. Theatre is there. Many hawkers  you can see to buy anything. Very busy always either weekend or weekday. Shops, hotels, restaurants and so many things.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rahul Gupta",
+            "uri": "https://www.google.com/maps/contrib/105118464749757087380/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdjDJRPA_zMgsi9D0in3WkooAJ5TvHu3XZe0TeMOcfAuT4Ik71=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-20T21:17:54Z"
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaLXFfRkNBEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Most busy place & any one can guess this Gandhi Chowk play the role of heart junction place in the body of Bhandara.\nNowadays which way it's constructed by roads & buildings, it provide proud feeling than old Gandhi Chowk of Bhandara.\nFor future still development of  surroundings is going on.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Most busy place & any one can guess this Gandhi Chowk play the role of heart junction place in the body of Bhandara.\nNowadays which way it's constructed by roads & buildings, it provide proud feeling than old Gandhi Chowk of Bhandara.\nFor future still development of  surroundings is going on.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohit Hadge",
+            "uri": "https://www.google.com/maps/contrib/112302468473196965982/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxzTxccnpFdzkwlgx9ag0mz9J8StpcQ37MbCThodYx3rQyrPT7=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-09T08:08:15Z"
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKOWJXNVZBEAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Most busy square in bhandara.....if u have a control pn ur two wheeler then only u can drive into it... otherwise don't go there with vehicle",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Most busy square in bhandara.....if u have a control pn ur two wheeler then only u can drive into it... otherwise don't go there with vehicle",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Devhid RB",
+            "uri": "https://www.google.com/maps/contrib/113447435948096141834/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXn8Bdatjmbgf0FY4AGNsRi99dxv1ULu8cSsMmojWYCfzZKeqPL=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-07-02T08:02:03Z"
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/reviews/ChdDSUhNMG9nS0VJQ0FnSUNva18tcm5RRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Famous and very crowded place. This square known as Gandhi Chowk",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Famous and very crowded place. This square known as Gandhi Chowk",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vikki Meshram",
+            "uri": "https://www.google.com/maps/contrib/112641938204707148901/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKQhJEahhvl0SCSfPNVJTESurXRqB0Eo0Ob1fFCiEzMX7iiAsi=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2019-05-28T18:16:21Z"
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/reviews/ChdDSUhNMG9nS0VJQ0FnSURwLVBfeWtRRRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 4,
+          "text": {
+            "text": "happening place in bhandara\nIt is full of traffic -- vendors for snacks , vegetables, flowers , cloths and what not\nUse scooter or go for street walk",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "happening place in bhandara\nIt is full of traffic -- vendors for snacks , vegetables, flowers , cloths and what not\nUse scooter or go for street walk",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashish Inkane",
+            "uri": "https://www.google.com/maps/contrib/115801565497701895054/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUngHQEdGumWhm9NBhx8XEG-C1BdHy7Fd033X0yd8xl_TvoenQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-08-16T03:49:14Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJYcUKQsoK_2UdLpRLWOMC4DCX9EDIIxSNYz_1KTx_WbyaU07crLa4mLS97x7WI92TZ03I1lSkFqVsx3gbYooMVPu4ukeaqUD6LuLVqxE6pHhkzqApQqELuPftrEWb3QFvMoldIlUkZzNAXw5_WYdm3XjpZZvaNfBzlB",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Vikki Meshram",
+              "uri": "//maps.google.com/maps/contrib/112641938204707148901",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKQhJEahhvl0SCSfPNVJTESurXRqB0Eo0Ob1fFCiEzMX7iiAsi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJaKgtEqO440sUTQKTgKjEP0xl9dMDV7uRWBoeWdN14LzkuZKRONkYo6uL5f6s1PFE_Im0PJb6gPNOBDUj9mWKBpu8_Qi1piqupK5sZKK_foT1rXlY4iAB5dniwb-6Z9BSjggAM9oCzlDaFyoYK1PgFp4V-sfvPNZCuB",
+          "widthPx": 3297,
+          "heightPx": 4119,
+          "authorAttributions": [
+            {
+              "displayName": "Vikki Meshram",
+              "uri": "//maps.google.com/maps/contrib/112641938204707148901",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKQhJEahhvl0SCSfPNVJTESurXRqB0Eo0Ob1fFCiEzMX7iiAsi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJZcotkyQZgtMIu5TeMM1hECzEY_RhcJUmFoI_ArhtW7Dak-w8lzLPZ0eb8wyfV0oGhS6PSYokmKlVXb89pxkveJj-h1V88cI4Duk1d4QOyW5A7ZSKAQKcPmsCqUJMysecF44R6GYjtq5U-DkKb1JQ8jUshYZMui9-yQ",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Vikki Meshram",
+              "uri": "//maps.google.com/maps/contrib/112641938204707148901",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKQhJEahhvl0SCSfPNVJTESurXRqB0Eo0Ob1fFCiEzMX7iiAsi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJZtTM0OjuiN7CNiqPLJQeSTEqkENTi4yVC0PIb3ishkKtE1xo4WQDuUW3gV_6ASmJ7CGTSSqzDH7VMxphQtqRPs8fG1I5xF3ZDlqq1yEPmYi7irhPQXUV7qB80JWV7ZbRJzEWAy9xSPSEJN_H6TQUV-FeiziYve5nWy",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Manjushri Dhakate",
+              "uri": "//maps.google.com/maps/contrib/113137962524996566428",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXz1w1DnWYXDhYF1rCYNHNNAhwr_o5nC9N7ThLW_E37xEyt_HsWxw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJbtw2sx8saANQMvq6fPPWkdqhjID_GTDVBhs9ZCSvos2ifmNGaDcVw3YpS1JhB9B0wTMZ7n775zDzzaIRlJOnGeiOk-gHmYlQm9SReJ8U13S0Wn6qK_mxN3KsmeR3BEsZ6aNK2oJwJRPEqA0vnFtuyGDoGti44_z2YV",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "ghanshri gabhane",
+              "uri": "//maps.google.com/maps/contrib/102280801912915004108",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUNC2sRg3UssL2KsHR9KwOY86hqxL58Xm_HnfSjsU6ncIKZI_c=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJbb3rz08aPCcHGXJBzCmrurCS3zKG2T7FZN18iLkDWR7z3_1LqsZyjtT13G0fjMDZ9BNpZItEOBJOYJ7NjXj4cL4wmtuV2rmbO2c9TM_g1wqc0SRxJS6H1GdxpmNuCbE1tSiOUywmVlvXPp6VZirEv1KNUYeNw0MMTJ",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Shubh Kumbhalkar",
+              "uri": "//maps.google.com/maps/contrib/101257715693410215935",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVa-PYa0v379ugwpGJFZu-9KiE6SmFRqMud4hVTizdUum4UxoCTlw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJYhnn68a8O1KNVGVVsd9kNZVa_BZr0P_yT4V-zmMRRBpsudzIafTRS3aU4j42_ppdU1RgqTXJF9AP8dY5oMH2qyQzaIiAC_SVytFn_fAGdPzQpiNGhStuXYRHy4GFdKxQqeGOI6x4s_faQQC_ki4xl0_YalhaWxT6e0",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Vikki Meshram",
+              "uri": "//maps.google.com/maps/contrib/112641938204707148901",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKQhJEahhvl0SCSfPNVJTESurXRqB0Eo0Ob1fFCiEzMX7iiAsi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJa7e27_EbsqMF3zWqIx7PTG_jWznDlHtJoh1c5JpIDlR9fB2oXftI5pjfjdytQNtdsfCvx2d_nLsnShr1gJZxR_Ylo-0ODN5uiEqQd48nm0KI-s4rjYJyqvwvYcwli6metMUjYZruGDsgY18BCfGZg6hrFgYL9iAacK",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Shubh Kumbhalkar",
+              "uri": "//maps.google.com/maps/contrib/101257715693410215935",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVa-PYa0v379ugwpGJFZu-9KiE6SmFRqMud4hVTizdUum4UxoCTlw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJYqiKsWKLarSNao05e4s1j_n_gntfRAuGzQTo4hk0OFjvv_PD0CyqDQCW4viBmbbCKLgV-T_nw8ZOCjSs2IQMiZ0L0QmzxG0cmlUWcgOch00hVCj_HReVtS-qLQAbcYEkEWOcnDq3BdY8T-GAS_KdEZf5Cm881gRCmx",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "krunal moreshiya",
+              "uri": "//maps.google.com/maps/contrib/118199127482516325133",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVwh25efJeODT5PakfV60Ri1ZoWCVyV8lpLn7vQ7koER3k2t8wnw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ84_Sck4_KzoRRj8t2mKu64c/photos/ATplDJYg_V8YjR7yzO6dLFTBZxZdkK2HCwSd8Ub_NzUx925OaD531-RoQ5HEFgsK67BowaU8MZd0Ogqo33Vx_1-CTVB6jL0E-kPyzV_7cQI6Oj0AHsiAVxvH6Wl0e7nM4iDp6gLWz7nuOnqt2vbHESCApi-qDNNZAf2NklR_",
+          "widthPx": 2133,
+          "heightPx": 2771,
+          "authorAttributions": [
+            {
+              "displayName": "Gaurav Katakwar",
+              "uri": "//maps.google.com/maps/contrib/112822671175709487032",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX-7h_WxmRDXYpmJIhKp3usW9XLS-h9ipaAe1O4vwqQBgl8bZIoyQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk",
+      "id": "ChIJW3WH2bI4KzoR7niJqx-MUwk",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5JCX+GPH, Madhav Nagar, Bhandara, Maharashtra 441904, India",
+      "addressComponents": [
+        {
+          "longText": "5JCX+GPH",
+          "shortText": "5JCX+GPH",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Madhav Nagar",
+          "shortText": "Madhav Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441904",
+          "shortText": "441904",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.1713062,
+        "longitude": 79.6493661
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.169926469708496,
+          "longitude": 79.6479928697085
+        },
+        "high": {
+          "latitude": 21.172624430291503,
+          "longitude": 79.650690830291509
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=672034837058124014",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 8:00 PM",
+          "Tuesday: 6:00 AM – 8:00 PM",
+          "Wednesday: 6:00 AM – 8:00 PM",
+          "Thursday: 6:00 AM – 8:00 PM",
+          "Friday: 6:00 AM – 8:00 PM",
+          "Saturday: 6:00 AM – 8:00 PM",
+          "Sunday: 6:00 AM – 8:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5JCX+GPH, \u003cspan class=\"extended-address\"\u003eMadhav Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 28,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Chakradhar Swami Mahanubhav Mandir Bhandara",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 8:00 PM",
+          "Tuesday: 6:00 AM – 8:00 PM",
+          "Wednesday: 6:00 AM – 8:00 PM",
+          "Thursday: 6:00 AM – 8:00 PM",
+          "Friday: 6:00 AM – 8:00 PM",
+          "Saturday: 6:00 AM – 8:00 PM",
+          "Sunday: 6:00 AM – 8:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "5JCX+GPH, Madhav Nagar, Bhandara",
+      "reviews": [
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/reviews/ChZDSUhNMG9nS0VJQ0FnSURTMDhQblpnEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "God place for Mahanubhav panth people",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "God place for Mahanubhav panth people",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nakul Gorle",
+            "uri": "https://www.google.com/maps/contrib/102142525376489813231/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWt83fFqYcoLoaqtGQd5u521x8mKuqZM3aY2xTzKK-iUMwRAJMd=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-01-08T05:26:39Z"
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdGNYb0h3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Spiritual Place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Spiritual Place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tushar Itankar",
+            "uri": "https://www.google.com/maps/contrib/105856310928454069756/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWP8igRTeCP6m6r5kV2BNILCf0_d_ayi7HjnNg7KS4ydb-JDEAdiA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-04-07T11:24:16Z"
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNkl5a2lRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Peace of mind",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Peace of mind",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pankaj Charde",
+            "uri": "https://www.google.com/maps/contrib/110315458544020141080/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqAzmuwt6o8tvCesfVed374Ntv92guKH_Z5_RJYaBSAybfdw=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2020-01-20T17:12:30Z"
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwNHFtQk1REAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Great",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "GOPAL SARVE",
+            "uri": "https://www.google.com/maps/contrib/114636106580650423334/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUut9SmpqrBt3sZOlBtc7yP_HE_ur9939CTYNusry1znSqGOowO=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-09-20T11:32:26Z"
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjOTlLVjdBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "David Kumbhare",
+            "uri": "https://www.google.com/maps/contrib/115338728792885287709/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV57iS7qqmyYgWEyEfLUTW6lxnDhPS97ia6Jr88uqcTwhe0ouyGkg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2020-04-29T01:08:54Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJZRcyeGPjjC9ZklWCnklvQ0H0UcIXJYuQPqR9Pm9ozRZQfOKRUs2JvBsMdSbPZWI_7suQ3p4ygilqHZul8sZuj0_F6QK65jl7cvcQjTFlGCzQtd8pmMgJb8ftnWjEBklPPrscbTa0K0SdoW-CHjC2F0PCUXZ8Nh731f",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Bhoye",
+              "uri": "//maps.google.com/maps/contrib/109475257049108496858",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFUhf_quym1_-PtBhEVlGo40lwZiDmHhJ9ipQeiGchxlM65LBA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJY_wJsuwXDpP4WGN1nH23pzrKznZq1r8At12prabza7nbs2AfsI7vQrz9owBJ43M_O5tnikXZSg19xLgjKyaElajHftiE3qrGBzED2w-FbdFJXkh6ZaDs94tgRUC0hMPIPtbkqHbh3Y6C83X4S1B-R-g6KBP9aVXdPd",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Bhoye",
+              "uri": "//maps.google.com/maps/contrib/109475257049108496858",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFUhf_quym1_-PtBhEVlGo40lwZiDmHhJ9ipQeiGchxlM65LBA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJYQHyNePQkGqZJ83xRgN47otUT9RLif1LaAImXSHn7mNy1yymFTLSb1gUuU5XYbtDrU2BUHF6Vog_z7_ykl578rsZKi37Nu4DIH2eo-or5GvqTrE-tYaazXzEb3WPE3HcJhf1mgtzpbd6IP4ReFdZ_U39DUU7MgUC7L",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Tushar Itankar",
+              "uri": "//maps.google.com/maps/contrib/105856310928454069756",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWP8igRTeCP6m6r5kV2BNILCf0_d_ayi7HjnNg7KS4ydb-JDEAdiA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJbqYMZxBTnCCJwdMug1iatlXdqt690fLJyJffCzHx_0C_7LYv7yTii9nl3mZRhYzvAiwPC53hUQbatKUOTcWnN2KGAYgMlYGuNy_kToppWjvTM0THpfiJI9fsxlMiDUhycaOld9TqNV-C_gCN3cDQvvfuRuNcceKEg3",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Bhoye",
+              "uri": "//maps.google.com/maps/contrib/109475257049108496858",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFUhf_quym1_-PtBhEVlGo40lwZiDmHhJ9ipQeiGchxlM65LBA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJbu4tiYxoawL6lxsfsLeWnI3TTxXlCawY8BIn08pAABB4becTLzWE53nSvgpqFXd-dEjeWuTRPfB0XpYgf8uPTgBi-K0cGje9MNY2sw7d3l1h1lwSugrjMaHLn-gigtjqnO_zAOASgewSDsZ6hfdp-UopKVn-nh2Utz",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Rajdeep Raosaheb Deshmukh",
+              "uri": "//maps.google.com/maps/contrib/106976293052832786951",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJQfkEQbSZOAy2rBf2KIBo2bmFyAXYY7phzacM-yTctlpXU_g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJaXpPrTDvFO1X_sYwnOd-8pl-9ee2kWpCGOOYAF3hetogVN_jB-ZqJoA9eukqkUhwRQ-3aNolxO2IKTxHnX2LmPtYmcsaW6ypqVGclSMGzyb63s4PJ43zLaMjfup2aEZgcdxrYYiJc1yfzTF_83Bwzk5zYGzFg3pCny",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Sarang Dhar",
+              "uri": "//maps.google.com/maps/contrib/110398810704725864971",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4kfsD3GP6gMtVgq-6jyuVFhIROsh25uWiAXopsCB9uTmb9x1X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJavKodkyrGtnsbdfBWl3QfcsMV-sFnWZxOdN7nt1p0JpLKax7l4srkKe-pLee3-le3bRFE_KjY6F44K60POLMnDVaHE_iy9YYWAW5ZshkCe4W7jPMCOuOkoqVt95Sg-R8mT7i1nWDZrTl09Rp0F1d3jdYG5HbwXkcfO",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Bhoye",
+              "uri": "//maps.google.com/maps/contrib/109475257049108496858",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFUhf_quym1_-PtBhEVlGo40lwZiDmHhJ9ipQeiGchxlM65LBA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJYs2-q8ndET5hFoqfNPmK1H0JZfV_nool7Xs-pZMUVZV_lxufU7afPlKNOm1TLUZDK1phLUi8CH6kUA13CMOfpcQJIjwkndPniXTjaiP6ktbXh68J7Tv0ixjvavL_bPxebYMbtSndqBg-L9CUI60phNRDOft_nBhByj",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "OMESHWAR CHOUDHARI",
+              "uri": "//maps.google.com/maps/contrib/100756735659112414561",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJa7LRsJWPjSskKSY3g-fmNV07_yIAiPM-SsZlTgJSkU8keog=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJYElDkH3WHBqN68tK1dmoCQG79sNA4HEyujDfIKMXFkz6GKJL6XvSSA1c6ldCeYPMuwpY8elAttrO7ufpOKR67m2zFFZxa49c3IL9Pt2_eOWOH3v3xoYXH6F0CvcjBAh4BUU-pFtptCicgJi56df_LMSYuLe4F2ZFAU",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Bhoye",
+              "uri": "//maps.google.com/maps/contrib/109475257049108496858",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFUhf_quym1_-PtBhEVlGo40lwZiDmHhJ9ipQeiGchxlM65LBA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJW3WH2bI4KzoR7niJqx-MUwk/photos/ATplDJajKYKwD89lpRGCsottPGsrubSlNgWyeDWGxqN_XGri962nGhl-oNhspmNx3kxZigEa_xv2MxzutrvEcTw07A-rU9HbAp0x1M9R0gTDpmJ6SITQ3AggGda36coM6TX1XDtnDEvXUyh1ZGTJ-SpZYUq7bCF-yrJaaTu8",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Rajdeep Raosaheb Deshmukh",
+              "uri": "//maps.google.com/maps/contrib/106976293052832786951",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJQfkEQbSZOAy2rBf2KIBo2bmFyAXYY7phzacM-yTctlpXU_g=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJ8S-R7jE5KzoR8KlKiiqTB0U",
+      "id": "ChIJ8S-R7jE5KzoR8KlKiiqTB0U",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5J8V+45G, Samruddhi Nagar, Bhandara, Maharashtra 441906, India",
+      "addressComponents": [
+        {
+          "longText": "5J8V+45G",
+          "shortText": "5J8V+45G",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Samruddhi Nagar",
+          "shortText": "Samruddhi Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441906",
+          "shortText": "441906",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.165305099999998,
+        "longitude": 79.64296259999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.163954469708496,
+          "longitude": 79.641621669708485
+        },
+        "high": {
+          "latitude": 21.166652430291503,
+          "longitude": 79.6443196302915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=4974106124372060656",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5J8V+45G, \u003cspan class=\"extended-address\"\u003eSamruddhi Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441906\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 6,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Hanuman Mandir ,Takiya Ward ,Bhandara",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "5J8V+45G, Samruddhi Nagar, Bhandara",
+      "reviews": [
+        {
+          "name": "places/ChIJ8S-R7jE5KzoR8KlKiiqTB0U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLNGZERW1RRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Mi go this site may work point",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mi go this site may work point",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vedharb Trader B D",
+            "uri": "https://www.google.com/maps/contrib/111099871532875664573/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHAj59gn-bfBKrpilQVDyRyIqnu1hn9yNdxwjYG6S87age08Y=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-04-08T10:24:27Z"
+        },
+        {
+          "name": "places/ChIJ8S-R7jE5KzoR8KlKiiqTB0U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNDR5aWpRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Barve rewinding works",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Barve rewinding works",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "purushottam barve",
+            "uri": "https://www.google.com/maps/contrib/105446421913041893801/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIosrauHWqFnaTZ8Y24KayRcIsWX2-v3k9neev_sfhcFxIovg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-03-05T15:30:13Z"
+        },
+        {
+          "name": "places/ChIJ8S-R7jE5KzoR8KlKiiqTB0U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvbXN5MWdnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai Hanuman",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "जय हनुमान",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Vilas Patel",
+            "uri": "https://www.google.com/maps/contrib/108068263749888666564/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiUc6IDfqVf64f2NegHsUzyRyw6zIGzxFt8J-LbjWLORw9AzNl=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-02-11T08:11:15Z"
+        },
+        {
+          "name": "places/ChIJ8S-R7jE5KzoR8KlKiiqTB0U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPcy1ibmFnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Manisha N",
+            "uri": "https://www.google.com/maps/contrib/117349936921541080181/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzyZ5r2kMWYr5istFDeuXh_4FJAT88u0eCEaxEJNVu0wEdoZ0y=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-06-19T08:40:59Z"
+        },
+        {
+          "name": "places/ChIJ8S-R7jE5KzoR8KlKiiqTB0U/reviews/ChZDSUhNMG9nS0VJQ0FnSURZNzhhMllREAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "manoj",
+            "uri": "https://www.google.com/maps/contrib/112400866854520912479/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx5Ev7jAYfjE6CZJiq_T4JtWkxHFieBts3v_zC2dXKDlP8ftsK=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-05-28T07:36:18Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk",
+      "id": "ChIJkRpkDsg_KzoRWbOQ99BJTIk",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5MF4+2HV, Santaji Ward, Santaji Nagar, Bhandara, Maharashtra 441904, India",
+      "addressComponents": [
+        {
+          "longText": "5MF4+2HV",
+          "shortText": "5MF4+2HV",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Santaji Ward",
+          "shortText": "Santaji Ward",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Santaji Nagar",
+          "shortText": "Santaji Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441904",
+          "shortText": "441904",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.1726246,
+        "longitude": 79.6564374
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.171347719708496,
+          "longitude": 79.6550941697085
+        },
+        "high": {
+          "latitude": 21.174045680291503,
+          "longitude": 79.657792130291512
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=9893363643281617753",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5MF4+2HV, \u003cspan class=\"extended-address\"\u003eSantaji Ward, Santaji Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Ambai nimbai mata mandir,bhandara",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "5MF4+2HV Keshav Bhavan, Santaji Ward, Santaji Nagar, Bhandara",
+      "reviews": [
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/reviews/ChZDSUhNMG9nS0VJQ0FnSURla3UtTktREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Must visit once",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Must visit once",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "manish pawar",
+            "uri": "https://www.google.com/maps/contrib/113401203607252441300/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULlvoN87_f1-hIswHawxoyQKM7HrlFxgN-6hYbtbc7tJ9gL3A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-10-06T13:00:16Z"
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/reviews/ChdDSUhNMG9nS0VJQ0FnSURlX3FuVDRBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "The temple of Maa Ambai Nimbai Mata is located in Bhandara city, 60 km from Nagpur. This temple is about 1000 years old and the idol of Mata Ji is about 800 years old. The idols of Mata Ji are made in Hemadpanthi style and came into existence during the rule of Gond dynasty. According to the old saying, about 800 years ago, there were two trees, one of mango and one of neem, due to a strong storm both the trees fell, after that two statues appeared from between the two trees which were known as Maa Ambai and Nimbai. . Ambai is the form of mango tree and Nimbai is the form of Neem tree. Jai Mata Di.",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "मां अंबाई निंबाई माता का मंदिर  जो नागपुर से 60 किलोमीटर दूर भंडारा शहर में स्थित है। यह मंदिर 1000 वर्ष लगभग पुराना है और माता जी की मूर्ति लगभग 800 वर्ष पुरानी है। माता जी की मूर्तियां हेमाडपंथी शैली से निर्मित है और गोंड वंश के शासन काल में अस्तित्व में आई। पुरानी कहावत के अनुसार लगभग 800 साल पहले दो पेड़ थे एक आम का और एक नीम का तेज आंधी आने की वजह से दोनों पेड़ गिर गए उसके बाद दोनों पेड़ो के बीच में से 2 प्रतिमाएं प्रकट हुई जिन्हें मां अंबाई और निंबाई के नाम पर जाना गया। अंबाई आम के पेड़ का स्वरूप और निंबाई नीम के पेड़ों का स्वरूप है।जय माता दी।।",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Anand Pawar",
+            "uri": "https://www.google.com/maps/contrib/106854785975844509381/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-10-11T15:33:20Z"
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/reviews/ChZDSUhNMG9nS0VJQ0FnSURlMnZuNlN3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "The wait of years was completed with the darshan of Mata Ji.",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "सालों का इंतजार माता जी का दर्शन करने से पूर्ण हुआ।",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Rajiv Pawar",
+            "uri": "https://www.google.com/maps/contrib/116656132380152172280/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLADDs_0FAQHGbmD1qpg-YFHaf7dTltcjOSOV3VEFmrcI4yqQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-10-08T06:26:20Z"
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4al9xSjFBRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 1,
+          "authorAttribution": {
+            "displayName": "Ramu Tembhare",
+            "uri": "https://www.google.com/maps/contrib/101317027112051839084/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRY7OrnApaVpGnZyE2e5a53NlA1NtAkCfjR3u6ZZyYC1JbA2Qo=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-17T04:11:24Z"
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/reviews/ChdDSUhNMG9nS0VJQ0FnSURlMHEyd3lRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Aishwarya Manish pawar",
+            "uri": "https://www.google.com/maps/contrib/111151244824371704295/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULCF0HSwIVhEbJxOU0HkL1i4cvpuoqPeQ1yInGTKeVHtCufEoT=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-10-06T15:46:43Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJaOmQXKp_p78wAm6h0oGBVP1LuLlFEGFUIgN1lRdnOmpczn-_l8KC2FyxRvYNm_fXQH8Ga2nCme2hZwjaH9RmFbVurWGcF3w-4d6tAHEizCAQ3-P-KcSWIeMlsF5iqt0R6IgVC6qVUIAROEiMgJ5vEhQxbsEGHyav8o",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJZziZGU33DqDP22gz_6-AUxUAEUe2aILJ8cs7304CL18a6mwMUBOYeaJQhgJeXpwAjp_iTI6s3GpXuIwx3Kt4ZuVyAD2xZRzepTMZV8f-ungkbnz61RifaRjHHUCl05At8LpPG1fggL2lAZ1706gI0O8Y_p8K3x5CaX",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJaWTuehMi2ctZ3eMef-o4upW_xRgmZbkqEFRf9OPsS5fs1DrFGXmGwP4Cm1Pd7eqVgoKkVgN1zURBc5-E7fuDPgsARIxeeuHBHAbP6mPfkb9-IqRGMk-OTaAf2ipoTykblBIVZtNtM261JBhA8c5wL9_RiNZub_20g-",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJYVjw3y-S8Iv16dQwOhuMTexU0XsZ9rIKkG3Uaato7o1t6NAY76ctD7MwyXHky8dCa-TDmfxKLeocdahPGIx13c3SdEtQ-rJisT2NiXF68u0QiTzY_OogJ32AxVyHt7Hnz_QdVExl56TlRcH6lMjvWMiLABYrcYyR0F",
+          "widthPx": 780,
+          "heightPx": 1040,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJZ33kJ4aoZkbzm6Re5pJSI9swhPNB9rvxcffMKgW1f843ZX47RNlfSaoVHCnXecQX-YjBXTda7qh7WHSpo94PDem7EYADk3PsAYNTXmrRevryOrwr_NbNFOMNfPens4ANnPXiBGWqB97k1DNb8F-vIRY-ByCwHcMCB2",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJbHmS3_450uJK87T-BjuwTCRECj-yGbhOrFfJGEWqjHLNvQm1zYZnsh6rK5jtlwcREAGxXV1RDRxlmg3hQ-74fUzAzfdcvFt_4N69KdQanUlF_aLwnalzXkE1zXgWq9kE3qhcj1wnUBHtrhQSxlIwBijoUuM4ZyEt2T",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJaq87d087VTvhOLCK93gF5U7jgvme-c_1KLUbcdcA1mRQIr_8ITflj3wKxTeWe3wR16wIt56dAnX-5Oj_kyZQvY7jRgCmpYyLDDRutbhO-tG-ECZ1M7n-ovlkHAjVnP5KuFy0jOb4uXit0K5RozMg9PHL2G05W28Gi9",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJY7O2KDyFFm-qgRG2kHkmRHnfykANiXihnHr5AbztyoBJLe-FHKS6BzSzxsOz_mwQK5XX2jZJUEb9x-WJOJGQmIefCnOvTbGo8mWJO2yHtV6I3tkDzrG6gUOM_C8f6K4mYKRoV-3yQ96-dqB83hmA3Z-NBEVHplmx9L",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "manish pawar",
+              "uri": "//maps.google.com/maps/contrib/113401203607252441300",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjULlvoN87_f1-hIswHawxoyQKM7HrlFxgN-6hYbtbc7tJ9gL3A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJYaOlKaHBcJnZ3tnJqGmrkXHa3gFpfIwFLTeEYO9ew8u1QbNiwUSNmtrgqjU4tv-rZXHUE3eqZvwQKMIc_i5nEoxw1NHfth_0eiYatZtS43fyDp0hyKYqeuR7qElOFdlzdbNVXR-koqF18WhO2PJtxNDbf6Ox2OswOv",
+          "widthPx": 1156,
+          "heightPx": 520,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkRpkDsg_KzoRWbOQ99BJTIk/photos/ATplDJY1QQ5TG6jtCJD88xOLmFkXecfLOXiABWxhK8Wv9WrMsskJEs5rDYkdapXSNfCsMlG1rTraXrqBo1KdGItoION4FhR0HSJTcwIQICzRhj0-x7_Y7Iuvt9hQhMQVyYq5gQsb5oQROgIFAmHjEXj4lCU5dsBTJBG5EaPE",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Pawar",
+              "uri": "//maps.google.com/maps/contrib/106854785975844509381",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMe_LGM-G8TBCZ5Wcfzj90mRIxgh-8hXnLMV_SZKxkk-k-7QRtKg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk",
+      "id": "ChIJg79VvKs4KzoRGV2ys07yJOk",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5J6W+CJW, Sai Mandir Rd, Vidarbha Housing Board Colony, MSEB Colony, Bhandara, Maharashtra 441904, India",
+      "addressComponents": [
+        {
+          "longText": "5J6W+CJW",
+          "shortText": "5J6W+CJW",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Sai Mandir Road",
+          "shortText": "Sai Mandir Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vidarbha Housing Board Colony",
+          "shortText": "Vidarbha Housing Board Colony",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "MSEB Colony",
+          "shortText": "MSEB Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441904",
+          "shortText": "441904",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.161106999999998,
+        "longitude": 79.646578699999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.159755719708496,
+          "longitude": 79.6452916197085
+        },
+        "high": {
+          "latitude": 21.162453680291502,
+          "longitude": 79.647989580291508
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=16799818929834974489",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5J6W+CJW, \u003cspan class=\"street-address\"\u003eSai Mandir Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eVidarbha Housing Board Colony, MSEB Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 122,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Sai Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "5J6W+CJW, Sai Mandir Rd, Vidarbha Housing Board Colony, MSEB Colony, Bhandara",
+      "reviews": [
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzemNINTVRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's good for walk ,\nRelaxing place ,we can see beautiful sunset from. There",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's good for walk ,\nRelaxing place ,we can see beautiful sunset from. There",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Milind Wankhede",
+            "uri": "https://www.google.com/maps/contrib/114426530217749507493/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVj3puXrRFXp4rmgZKPyyA8bIpc-OgYnbfdLjiVMfVNDGK16moc=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-02-10T09:24:30Z"
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/reviews/ChdDSUhNMG9nS0VJQ0FnSURrNGVhR3lBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Good religious place.....\nGood environment..and brilliant experience\nNeed of a good priest....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good religious place.....\nGood environment..and brilliant experience\nNeed of a good priest....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "PRITISH PATRE",
+            "uri": "https://www.google.com/maps/contrib/112111885320200475160/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXs4rvj3xE7PqOYj-WpmVt2kisU-vx3yNax3QcwbY5gvxQMLrc_=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-06-28T06:52:55Z"
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4cU5mNHV3RRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Very nice 👍 place. Good 👍 ❤️ ❤️ ❤️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice 👍 place. Good 👍 ❤️ ❤️ ❤️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "yogesh ghatbandhe",
+            "uri": "https://www.google.com/maps/contrib/116478431892484211659/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUB8MafSALrWMYEBPMnOCTm8usBvmis-W7papPGzQr_wGGZv7wo=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-05-09T16:07:02Z"
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoaE5hUWRBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Lovely Sai temple ♥️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lovely Sai temple ♥️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Umair Ansari",
+            "uri": "https://www.google.com/maps/contrib/115452449711828541247/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfk5ygdpU3p5okJXsPdP0LUbqUDZ9YMhv5ZHN0_GM0g4dLdGqT=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-02-05T09:15:50Z"
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNbnNqbTVRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Sai temple between zp square and Rajiv Gandhi square",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Sai temple between zp square and Rajiv Gandhi square",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AZIM SHEIKH",
+            "uri": "https://www.google.com/maps/contrib/114880787327238943360/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7gKj7IDnVduNsq0-jspF2Wpa0sN97CIywZ5WF9HubURWicGt4=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-11-29T07:32:11Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJYdBMCR3CE4-d0AJtRAF22YgyPmWVpGQLmVGSW-_AuxLMOTdb-3uY7sAeLxEWQagCkqiRKfA-UPo7GBu3uP8yVjlCiQInW-2GgcWrpAat8J-4gM5QdCwDt3GTIYwJdzbiGw9LlGjg95l2YpgzNrEHGoDHoh7X5sep_T",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Wrushabh Limje",
+              "uri": "//maps.google.com/maps/contrib/112213393295149301232",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXMjF4iVSZlSym4xKOln65TcxI0wn8jU-UJQj8Tbo6oMo0obDpczQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJaAzWYWVBHnDlEyA8ilu4TXWDgc1l6UB1RhgxnIA0kGyefPpk7N6hcn-rsns25aLHfWelIStdIlL-AsYWc7JiZLHGIMNYEfeLsqfS2mXT6Kt8OH75JNUT27EvJBnX03CeI6KQSPeuMwvIRELo3VjTzI2h_RqhrKXXwl",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Sushant Bhure",
+              "uri": "//maps.google.com/maps/contrib/102934029904051279320",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFAXnVz-KMxGg0q4p-e-S3h-jBxlo65RRfgmNp2ckcB7sraP_o=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJay1AgZj1CvjQv32nPSSsDbIvyatHLZmrBRQ6GFmILO707sYHZxKznr2oK13kbXL9EIjncBnvEBg-fuXMhgg3Lxl0Aoi3P603c_Lad_t_JrT740z8Nun86uxTOLI0zxGZgc8qgyWa3KI1Rm0N06c95eP4zCTKYlfUti",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "AKASH GADHAVE",
+              "uri": "//maps.google.com/maps/contrib/116657925713819789599",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI6xYLFl4EBW4sRUGHsy19EXjORfBu1TfrIJ89MHpVg1ZOLwfna=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJZc8hZBtkHReqDDLtXrdeV8f_mAnlfPyMM2MXubawHw5maiXTSgULWGPoUp5DNC5vZhMYkdYpvg36gIzsOCt2pohmfN9eTvlZVpJwkVq90eBHGfbIWr8-ezqbuH0CPWkEoLoiAYYSL_GIaKFlzoZR9VQ9aYb28t-FXD",
+          "widthPx": 867,
+          "heightPx": 1156,
+          "authorAttributions": [
+            {
+              "displayName": "Ankit Andel",
+              "uri": "//maps.google.com/maps/contrib/113209814427254616571",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXqRj2Rko_ueHuheBNP0Gnup590gxyBXLmBrmQC949D3erRIbUT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJZMjkL8rBcv5U3w0daI_8ygC9WX_DZhVaW4trnZxZnvoDZ_bz3MrfMPVRk3342xWfWpfFCRKSLy6NwR7zXpcI2rchIusfsPGZgNLINCe-O9yrcSAfuHy2RMT8clXlAmZ06Qi7CvIbaRX12Z5CHyFw7SADWv2soDFUoU",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Sushant Bhure",
+              "uri": "//maps.google.com/maps/contrib/102934029904051279320",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFAXnVz-KMxGg0q4p-e-S3h-jBxlo65RRfgmNp2ckcB7sraP_o=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJbaARK0FKtKGIDENCSiBxzbsaSR6hUlyetc_d1PYcqetxTQsJ8ebSsebsr-pMhnADWHXRX5LCB8luO2c0wKr84g3N3hvCZ3STzk9W6ZGW-BXrVdjuR0FBC8Fvsq-fCGyud_ncqD0BvMZfQE5YK7kaSxf-LvhQb5O4st",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "saurabh maske",
+              "uri": "//maps.google.com/maps/contrib/118305721207256375489",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSQARH1Hg8Qalukj7YP6hfeM8ve5rA1G0zuayLK3WjMDggBQ8S=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJZ7SjdsMHVyT_8HD36b7L0GsmFfuQEiAzI4ivbuy7fTeaAs33shUCxap0HYrDnW0hMsqqWa4VtZWrqEGv9--qeM_i5w7NTkCsINkT0eagLQqoaYdCVpk8MkaSqiX9Yulg7uHM6_VnM0nCqJPNcqZIJ4nH_WNZbSG5YP",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Atharva Dhakulkar",
+              "uri": "//maps.google.com/maps/contrib/100964985379368613523",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6Mh37HG1XyviXvNcBEXuNuibw_lRBDqhGjw7kKqjKhRuL22Ma=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJZFkIh2YSsHTXMV08xdu82dWvDwhOol0yI6trbPhZgKmdVwzxtPQtp2Z5jEYlZW2ekD4KTpLsHQ626XW_A_UWqNntBKahsxj502WA0i57SB903mbhuYIY631a3OkEFAHnRYgkmVRh_37mc2wdh6VtS0IBfDGpIfsbM0",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "AKASH GADHAVE",
+              "uri": "//maps.google.com/maps/contrib/116657925713819789599",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI6xYLFl4EBW4sRUGHsy19EXjORfBu1TfrIJ89MHpVg1ZOLwfna=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg79VvKs4KzoRGV2ys07yJOk/photos/ATplDJZOzCtg3eE5Yn3nyqNp2tgAncDnj8ZTqySSP8b98RC5g2LvEDTITy32vq2OYjEgVI1PXatoYCRUyJegr8KLeI0QcMLumxLY7rCrgrvogg4BFQCn8I7Vo-6EL4FZmDDBN22F-RoOdzV33jiuwA62EtVKRbA3yidqR4uM",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Prashant kulkarni (Vk)",
+              "uri": "//maps.google.com/maps/contrib/106883062776971050030",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIkSBMfEoXJX60cCDB8Vkx2S0VTKle5ME8LxqJpUctl7B-CLxF=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0",
+      "id": "ChIJ20jdNcc4KzoR-T_h8nntLp0",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5JJM+CFV, Rajni Nagar, Bhandara, Khokurala, Maharashtra 441906, India",
+      "addressComponents": [
+        {
+          "longText": "5JJM+CFV",
+          "shortText": "5JJM+CFV",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Rajni Nagar",
+          "shortText": "Rajni Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441906",
+          "shortText": "441906",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.1811077,
+        "longitude": 79.6336766
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.179769519708497,
+          "longitude": 79.6323901697085
+        },
+        "high": {
+          "latitude": 21.1824674802915,
+          "longitude": 79.6350881302915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=11326251220905050105",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5JJM+CFV, \u003cspan class=\"extended-address\"\u003eRajni Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara, Khokurala\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441906\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 58,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Tulja Bhawani Temple, Khokarla",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "5JJM+CFV, Rajni Nagar, Bhandara, Khokurala",
+      "reviews": [
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGdWVuR3pRRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Hindu temple\nAai Tulaja Bhawani Temple\nPeaceful place.\nA big hall behind the temple...\nWhich can be provided on rent for small functions...\nLike birthday,janosa,sakshagandha ,etc\nPlz contact Mandir pujari",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Hindu temple\nAai Tulaja Bhawani Temple\nPeaceful place.\nA big hall behind the temple...\nWhich can be provided on rent for small functions...\nLike birthday,janosa,sakshagandha ,etc\nPlz contact Mandir pujari",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prashant Paturkar",
+            "uri": "https://www.google.com/maps/contrib/111997567970974582878/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKo1QsGJUGUp7agSI65TCm73CAzTRZQtW-CQ7ejR14YjNDYCw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-10-29T13:00:15Z"
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaUs2RXd3RRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Silent and peaceful surrounding not crowded so we can sit there for long time.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Silent and peaceful surrounding not crowded so we can sit there for long time.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SMASH KING",
+            "uri": "https://www.google.com/maps/contrib/106936069534796140172/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4gvqc49lemAAJEaUnt7mvNvKcz_I-7nnn4n1hcW8jUttkXtZQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-07-27T13:48:32Z"
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwdXNpOG1nRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "This temple is located on Khat road. If you are going to Ramtek then this Temple will be locate in right side and if you are coming to Bhandara from Khat or Ramtek road then Temple will be located on the left side. Near about 100 meter road is improper. Temple is so beautiful, surrounding is clean, not so crowded area. The parking area is extremely big.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is located on Khat road. If you are going to Ramtek then this Temple will be locate in right side and if you are coming to Bhandara from Khat or Ramtek road then Temple will be located on the left side. Near about 100 meter road is improper. Temple is so beautiful, surrounding is clean, not so crowded area. The parking area is extremely big.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhushan",
+            "uri": "https://www.google.com/maps/contrib/111324774573761780256/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLIFaeIdVOQlBchmWnEEHKwuFgJFwgdiwmQtUOpKzXsKryEEQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-11-02T01:55:51Z"
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/reviews/ChdDSUhNMG9nS0VJQ0FnSURHX2ZtRTN3RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It is only temple of godess TULJA BHAVANI IN BHANDARA TRY TO VISIT YOU WILL GET SPIRITUAL FEELINGS",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is only temple of godess TULJA BHAVANI IN BHANDARA TRY TO VISIT YOU WILL GET SPIRITUAL FEELINGS",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MAHALLE SIR'S DCA",
+            "uri": "https://www.google.com/maps/contrib/109378133563051547313/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgjzHcV3kM8Zpd9_5wQQDFyZWjZTERGtMBm53o0OLTWbbShhrW=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-12-07T11:48:19Z"
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtZ2RfOUV3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful temple and very nicely maintained. Jai tulja bhawani",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful temple and very nicely maintained. Jai tulja bhawani",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AK",
+            "uri": "https://www.google.com/maps/contrib/105922503421787044897/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtbfQGyK-8Artv4AaXbCFSLFdq9H7-gdPPOH5dT5UfjxAhhf0WFw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-12-30T14:59:31Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJaFl06aFNm78l9n6SBm-UOXda8oHll80jA5v103PxHvHqCasNSCVMajGQoq6EjZ_NaBz53xRUwacwEp7xzYFddzsidKA3WUZEmkm1m6Rmijzyeqky-HU77Pry2KBTUd3KzG2oh8d9RehQVHrxuSWA-Q4jaAkvYX9Du0",
+          "widthPx": 4000,
+          "heightPx": 2589,
+          "authorAttributions": [
+            {
+              "displayName": "Ravikant Chatap",
+              "uri": "//maps.google.com/maps/contrib/109947986609929067575",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXwGb5w_Owld4b_64mWa-z2fiN6bXrhgzs-EJ8qVfGeum6GhUSOMg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJZGgsUMtJ7TqeNg7MGKg3pYKwkg-2JaURUDX4DATkvcnj-R3qWLJHEWSmIZfNJ5FDvYJayFC3bq1WjMF4wxQlI4NxwNDsHiUnwPHC8IDu_zud1sZ3HIc9SCx_oItC6GaeeEl0tyEPAvEFBMi6mWEYmOLt-57620eSBj",
+          "widthPx": 1836,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "katakwar dileep",
+              "uri": "//maps.google.com/maps/contrib/114053843238925797499",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7rIFysuGGr5DmMmZShs9yABmxQ2Ek9MrDT3GcIxMUslFaEGo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJa_avpsE9vLQBZ2T8NB5B3uGAEbeLvGMCZ4oCYL0MYKvrkFuIleoT58WBBSrp0u9U_g3XYTL14k-Etg2n0vXvraFMz5KwH_AeXHcGXRAJIVtSV7vMXgA8OlVMP6qG8m97Wp79YFHcqT_fpMQvFjOXhDuQdrxZL6ucGG",
+          "widthPx": 4000,
+          "heightPx": 1844,
+          "authorAttributions": [
+            {
+              "displayName": "Prathamesh Gabhane",
+              "uri": "//maps.google.com/maps/contrib/104037890783217748986",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMz3G1dxCuQ0yFhBztmL4FCa7sFMnPu_hy2oQT0HoDuIdAAt5I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJbLEjX3OmMCXupzVhyU5dRI0fJTUfYdXSNhUbNIMYKL_73s1FosPFedKUHWQVwdcgdSba8buOAYgKr9Ik7VCvcUmt1i0JH347MZyTYm_gyNqaDZLV1Cc3Xttlgq6tVJGYhZ_45mj3rVCFVUmY_qhfSYlUfEeg8UtMQ0",
+          "widthPx": 1844,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Prathamesh Gabhane",
+              "uri": "//maps.google.com/maps/contrib/104037890783217748986",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMz3G1dxCuQ0yFhBztmL4FCa7sFMnPu_hy2oQT0HoDuIdAAt5I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJZeOHqrXEwnm59IHkcW2sFAXSIm7wZPdZbMzFGiU_WzK8ofqds070azrCUtbxoaZ4Vi6r7qvwSQCbFUdE-0bclhG6UQ1A1zO0JUVa1xSvidbyEGIe8vwZmwJDrniT6EflwlEHUU5frqyxHQfIgxX-gPuPjPqs-TXUQS",
+          "widthPx": 1836,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "katakwar dileep",
+              "uri": "//maps.google.com/maps/contrib/114053843238925797499",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7rIFysuGGr5DmMmZShs9yABmxQ2Ek9MrDT3GcIxMUslFaEGo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJaYoYvH9IqYbI6xlizfRRptoLBYihahboYjuUndIxtd05prqgcKqYmrN1AK3gakKDlyvYvQ-gGzrZU9qBNb18SO9qfxk9-6AS0NJ3GtyGaUOTJyerJSF6u9TuWsjwVnknFaJ6sT9Xlky7gH_lgL339hIOF3EDAP0neT",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Sushant Bhure",
+              "uri": "//maps.google.com/maps/contrib/102934029904051279320",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFAXnVz-KMxGg0q4p-e-S3h-jBxlo65RRfgmNp2ckcB7sraP_o=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJbBjLQg_KOuPGV5PMT67kxD3Ij_9dJuvlxuNX52LwkMdE6lbgLRI_tmAXDqU_HSWwn8Pba9gTHhQEFyVip8O_oSPoII21qyaYb4Loc4xHIaW9FJLHGgcmlTEZBn-hmT8YXZM53cHtCt4mBtzU-wk04LSwf4iyctPGMT",
+          "widthPx": 4000,
+          "heightPx": 1844,
+          "authorAttributions": [
+            {
+              "displayName": "nikhil ugale",
+              "uri": "//maps.google.com/maps/contrib/100032087556540286874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUr_g2IRnXORL2yLcskWFb7k02VazdAcB_CfnE_sz9Ohn6uRMy4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJZwIrP2qjwlb8iBBTgpTGEGtqe0vfD77j0qqI98lmORYb4BybWtkQwsvlh-NHPoU-pS-NNYxrqBZNbrMuVNJD6eR577e5yPdUWeYIGE4b_EqD0I6ta8U7A1uTDja0pHyK-aL0q5DbbxWika1OzymgnUjeEnNqKssR7T",
+          "widthPx": 1844,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "nikhil ugale",
+              "uri": "//maps.google.com/maps/contrib/100032087556540286874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUr_g2IRnXORL2yLcskWFb7k02VazdAcB_CfnE_sz9Ohn6uRMy4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJYmV9TfWvgGRL-NsVEEr3ebmnTjmUyPKk4RB3MxiQ_SMq3xOdOKmFchSojQ6vxE3YRh9WN4yoZ4PP-0G-eip5F8hNVDO7FWaYwWk3FZ4WBrEDtMv1B12G0oebBo7pKvnMem3zhs34OY0aEQu9Ykgm6owMZnypo0v0N8",
+          "widthPx": 1844,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "nikhil ugale",
+              "uri": "//maps.google.com/maps/contrib/100032087556540286874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUr_g2IRnXORL2yLcskWFb7k02VazdAcB_CfnE_sz9Ohn6uRMy4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ20jdNcc4KzoR-T_h8nntLp0/photos/ATplDJYmUn3ZNwlAV13QRn6tYUsVAV2ud_lkkUK9KFVrzvU8ZHDVNZg_mTHgkwe1EkudOvbRgskohvQSqqohO5Re0ZgCs0CRjFkOGf701P1dQ9JP16LomL6luWnupm4VgD8qn32PPziXq1kH4VtEo82OBf9dw-aJxtFqpKBa",
+          "widthPx": 1844,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "nikhil ugale",
+              "uri": "//maps.google.com/maps/contrib/100032087556540286874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUr_g2IRnXORL2yLcskWFb7k02VazdAcB_CfnE_sz9Ohn6uRMy4=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJQatTW98_KzoRRK9rDtnomhg",
+      "id": "ChIJQatTW98_KzoRRK9rDtnomhg",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Bus stand, Road, MSEB Colony, Bhandara, Maharashtra 441904, India",
+      "addressComponents": [
+        {
+          "longText": "Bus stand",
+          "shortText": "Bus stand",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Road",
+          "shortText": "Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "MSEB Colony",
+          "shortText": "MSEB Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441904",
+          "shortText": "441904",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JHX5M64+MW",
+        "compoundCode": "5M64+MW Bhandara, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 21.1617169,
+        "longitude": 79.6572621
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.160365219708495,
+          "longitude": 79.655936719708492
+        },
+        "high": {
+          "latitude": 21.163063180291502,
+          "longitude": 79.6586346802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1772985422271196996",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Bus stand, \u003cspan class=\"street-address\"\u003eRoad\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMSEB Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shitla Mata Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Bus stand, Road, MSEB Colony, Bhandara",
+      "photos": [
+        {
+          "name": "places/ChIJQatTW98_KzoRRK9rDtnomhg/photos/ATplDJaCWLCX61lSgfyHIFDIQDW8QQZyiqKSZf4y5yrzGTRU9-T-CcU35dssNcJVVutz2-ehCMM6rRzwofptDdAigPvpnG03n_vwLPb5iGONVLLg54-e4afkOqmrz3D5Nq3pxx8H2501sFkVUa52bUGrJ1_j9AquMVbEfy_v",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Prashant Thakare",
+              "uri": "//maps.google.com/maps/contrib/112504845222534551078",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLknq35wcTqxaICgNW-Xwv6Q75A3YyW8-R993c-zJ2eG94dGfF=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQatTW98_KzoRRK9rDtnomhg/photos/ATplDJZ9ejjITvVXEd0Zdp0WA5iYMcRiA-_7uNvBGzE7xMU9CkAA7A-PPQ7rjM6Hf9GQUcGqPwm-7vZhzF-uXbFrb-lExZuihIEdiIsWOz7HyP-n0of6v1HLVkqTMATZJcsR0ctfubuLxkSS2xC_hLaQk89bTXaYylv-k98J",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Prashant Thakare",
+              "uri": "//maps.google.com/maps/contrib/112504845222534551078",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLknq35wcTqxaICgNW-Xwv6Q75A3YyW8-R993c-zJ2eG94dGfF=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQatTW98_KzoRRK9rDtnomhg/photos/ATplDJZGjTFasGOv3uE3368ypK1roowZnwEvm50E3qUiC4fUrNySx0E2GHeGemlT9M1tKggTBmaMkCo0JJf0UR3_GChfxwhCDwBA2lniN6pLnXVgrRedu6-cfX6DfiGRwRvkRfzUDvuJGNYfBrTX8dt5NNHZoYqjS_NinibK",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Prashant Thakare",
+              "uri": "//maps.google.com/maps/contrib/112504845222534551078",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLknq35wcTqxaICgNW-Xwv6Q75A3YyW8-R993c-zJ2eG94dGfF=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ",
+      "id": "ChIJL_7-3jU_KzoRK4TFI8nDPuQ",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5MM4+27C, Shivaji Ward, Bhandara, Maharashtra 441904, India",
+      "addressComponents": [
+        {
+          "longText": "5MM4+27C",
+          "shortText": "5MM4+27C",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Shivaji Ward",
+          "shortText": "Shivaji Ward",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441904",
+          "shortText": "441904",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.1825588,
+        "longitude": 79.655637
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.181185369708498,
+          "longitude": 79.654337019708493
+        },
+        "high": {
+          "latitude": 21.1838833302915,
+          "longitude": 79.6570349802915
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=16446798157859619883",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5MM4+27C, \u003cspan class=\"extended-address\"\u003eShivaji Ward\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Pinglai Mata Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "5MM4+27C, Shivaji Ward, Bhandara",
+      "reviews": [
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqcXJERm9RRRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 5,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chetan Dhakate",
+            "uri": "https://www.google.com/maps/contrib/111924894918944573434/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wlsKsQqbFFoPpx5gOnA6BF0uhQb3uGU__tT_yEpUhIdQBqqX=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-04-20T03:43:56Z"
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtdy1mdjRnRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shubh Kumbhalkar",
+            "uri": "https://www.google.com/maps/contrib/101257715693410215935/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVa-PYa0v379ugwpGJFZu-9KiE6SmFRqMud4hVTizdUum4UxoCTlw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-01-07T17:09:04Z"
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2X19PR09REAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "rajan chakole",
+            "uri": "https://www.google.com/maps/contrib/100492286041794860627/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKqRX2DWNf5zunu07eLO-bHmaHzb3jBb0u64a_uPqwFREkv2Q=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-10-16T13:06:52Z"
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURCN2FTamx3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Akhilesh Nagpure",
+            "uri": "https://www.google.com/maps/contrib/107723849862376079652/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRMqJBdG-N7M6ToeOukENQgO4xJNwv2nZquJ1YKKbu007fa5jI=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-01-26T05:59:44Z"
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5ak5MMnhRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "PRIYA GOMASE",
+            "uri": "https://www.google.com/maps/contrib/110147398243198608111/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_YCSCaEW8Lv7JlB_MpNvJWtr4nFMymhdhh_IBhTn-g5NC3z6V=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-03T11:09:09Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJYytwmdX5cIdQI-oOr90OoEgjyww-ukxueNTzVrqObIxBVuod1mCqJWBgXNm162mG4XQIQK5jeXTYB_nNHCWfcpDFu949torlNURc2u5TuxEygJafcr6vhPB6MQQn3Ws3vNZIKx4I_1GFGlEED03SG2mPRXcw5mX46X",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "DARSHAN BAGADE",
+              "uri": "//maps.google.com/maps/contrib/102614536991663532606",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLnap_PjQQg5Vus8zwTUIFcwtpoUhX84shu_2jdXxrEy_VFLA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJbYdeGQs5PUNZGOIs3LNJwfS_7Ic66HNKFb6JLqL-JL-AOx3ExGtI8MXAz5m23FSY0l-PvW_JqNzB2TGorjDrj8AW_EgTgtnWHZZDPz1qCVY-yZ2a5RO7rWCHnOcyTnHTojjRkGIEkfcR7g7-1T71mwnVC8tlraejKB",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Akhilesh Nagpure",
+              "uri": "//maps.google.com/maps/contrib/107723849862376079652",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRMqJBdG-N7M6ToeOukENQgO4xJNwv2nZquJ1YKKbu007fa5jI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJZXxGj6oVKU_ccv8JqcOq59vB2tPYq94SshO9X6YRXbhQHjnhUp2Lh4d4_Z_CRvDLlHMl-PMScCxafCejBSrKrXAdU5oEKGeqc4pwhjRONiA5l422o8Lw0K78AIxrxBja4ykYzvJf8PVGtxsNHbxY471X8MnAMO-oXR",
+          "widthPx": 1040,
+          "heightPx": 780,
+          "authorAttributions": [
+            {
+              "displayName": "Chhaya Deshmukh",
+              "uri": "//maps.google.com/maps/contrib/107440086583823445337",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJD-Mm4zaArvMJYo6O52Lj62q14HEcI7OEuqz4NUPIrGlRv-w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJaOh_80mEnvDv1Ggqt1pRUeaplL1wK-3n0vLul1_f1bnF8pQeyl2PDzmkDB7X72hQU-1n8OjkrLn_OTL58XLe1cDSE9SrMMMeXvnwjZPFxHBlnSUmjmJZqdnffOgb4sgBS2DIwgLkNBGwVENyWGYtd_erTKEuKWEEXn",
+          "widthPx": 4000,
+          "heightPx": 1808,
+          "authorAttributions": [
+            {
+              "displayName": "Shubh Kumbhalkar",
+              "uri": "//maps.google.com/maps/contrib/101257715693410215935",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVa-PYa0v379ugwpGJFZu-9KiE6SmFRqMud4hVTizdUum4UxoCTlw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJa18KZQD5x5sbgwUs2Bvow98hXda5uDPohlxQtfcxMw1ZppxkHSxybkZXR75sWlpwAS1H_FRcshKaDhmQpxudYh3SQhPkNY65Vff7wDwXX1VQjWRUPhLZIkztQbamEufP-xq11T2HBE3Nr4CiTEAXbhCV08r-_QcIhN",
+          "widthPx": 4000,
+          "heightPx": 1808,
+          "authorAttributions": [
+            {
+              "displayName": "Shubh Kumbhalkar",
+              "uri": "//maps.google.com/maps/contrib/101257715693410215935",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVa-PYa0v379ugwpGJFZu-9KiE6SmFRqMud4hVTizdUum4UxoCTlw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJZqx3OxO6Y2nQBkecwp2wd8Kw_s9eVhvyuSWLIW2OT-ZIPX9Ar9JC7IKfrfvk40jSIamAF6xGqdOLA0OJ6dGD0BKoVOf9djBCDjw1Ekj5DfTYHUrSI1hogxd6r64aJQw1SPtDwQ8ePliMy59cWN1MYiaBw8bpvMqqRX",
+          "widthPx": 4000,
+          "heightPx": 1808,
+          "authorAttributions": [
+            {
+              "displayName": "Shubh Kumbhalkar",
+              "uri": "//maps.google.com/maps/contrib/101257715693410215935",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVa-PYa0v379ugwpGJFZu-9KiE6SmFRqMud4hVTizdUum4UxoCTlw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJZz1jJDaWag-a6MviHx8N1LDAVF7zfR-mgQYzor_iZ5mfEcqfijsyCw9c8_v2tWhujcRLbKQyJ8jcK4uBVPBwzkKdzjPbVMZTb6SFqqNPWrprqUdubLoiJmtuPXoZ_WmRxb_8qECdzngTdCjmgTsZ3exgBLF7Ha79rL",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "DARSHAN BAGADE",
+              "uri": "//maps.google.com/maps/contrib/102614536991663532606",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLnap_PjQQg5Vus8zwTUIFcwtpoUhX84shu_2jdXxrEy_VFLA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJZZE4nvoVWWxabWMG9iebZFOqUmYbQjY7PF3NV_uQMaTZRYGlp1NhlkrhqGYz4eBITJJi2ifY2UCbWk-LKIo4a_Lhfa0Qnrm0dHRxHqsa1GsAbwajSVPZk-7oBreJ3VEO5Ua9MzQpx-MydKSVNA8uUd4okPrmfvdPi5",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Akhilesh Nagpure",
+              "uri": "//maps.google.com/maps/contrib/107723849862376079652",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRMqJBdG-N7M6ToeOukENQgO4xJNwv2nZquJ1YKKbu007fa5jI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJZNGeHONzS6Ctt-xR1HhlbJNAp8VxFx-KxqX2ogE5-nl2xUxvUR4bSLr5hA1IRtUBMwg5-7ROHUEAUqmA5XJGwy8k0pBWHoldfNWudwQrRN8QEdErX7B65BaieBg3RMCTiVmKxXgpVCr9N9qKJ_Yd9H0mS-tNSzswWJ",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Akhilesh Nagpure",
+              "uri": "//maps.google.com/maps/contrib/107723849862376079652",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRMqJBdG-N7M6ToeOukENQgO4xJNwv2nZquJ1YKKbu007fa5jI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL_7-3jU_KzoRK4TFI8nDPuQ/photos/ATplDJbYKPLbXcYHoFSnCA-XI6qDL36O4pr2FkOffzz7bNa55KSB6-R_qd7hYaFcei-0Uq25ybFpG1l8vlJpETKTg8nygE2v_TjFHTVQBCFjlzzBdZnjWIWKS1t0uHF3UfmaMDrmBSFXajGPLNTgZIFZlsZYn-WK3bDENtbr",
+          "widthPx": 1040,
+          "heightPx": 780,
+          "authorAttributions": [
+            {
+              "displayName": "Chhaya Deshmukh",
+              "uri": "//maps.google.com/maps/contrib/107440086583823445337",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJD-Mm4zaArvMJYo6O52Lj62q14HEcI7OEuqz4NUPIrGlRv-w=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo",
+      "id": "ChIJ7Z9TzVM_KzoRXrfzP_7hYWo",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5M94+HC6, Santaji Nagar, Bhandara, Maharashtra 441904, India",
+      "addressComponents": [
+        {
+          "longText": "5M94+HC6",
+          "shortText": "5M94+HC6",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Santaji Nagar",
+          "shortText": "Santaji Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhandara",
+          "shortText": "Bhandara",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Nagpur Division",
+          "shortText": "Nagpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "441904",
+          "shortText": "441904",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.1689205,
+        "longitude": 79.65600950000001
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.1676789197085,
+          "longitude": 79.654660519708514
+        },
+        "high": {
+          "latitude": 21.170376880291503,
+          "longitude": 79.657358480291521
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=7665656522872174430",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5M94+HC6, \u003cspan class=\"extended-address\"\u003eSantaji Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhandara\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e441904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 43,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Saudagar Mohalla Masjid",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "5M94+HC6, Santaji Nagar, Bhandara",
+      "reviews": [
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNNnVhbTJ3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Oldest masjid in city. Under construction past 20 year. It can be kept clean. Especially Wudhu area.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Oldest masjid in city. Under construction past 20 year. It can be kept clean. Especially Wudhu area.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Atik Sheikh",
+            "uri": "https://www.google.com/maps/contrib/110802486012890928282/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIoyrznIJVuxzmej3Urx9WV-2lPDylGHCNH1Yyg_m-Nlk735tg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-11-20T00:40:17Z"
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNbjkyMTB3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the oldest masjid in Bhandara",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the oldest masjid in Bhandara",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vikki Meshram",
+            "uri": "https://www.google.com/maps/contrib/112641938204707148901/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKQhJEahhvl0SCSfPNVJTESurXRqB0Eo0Ob1fFCiEzMX7iiAsi=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2019-12-11T09:32:38Z"
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJbDR2NkRBEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's the new and large area capacity mosque also known as Jama Masjid of Bhandara(Maharashtra).",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's the new and large area capacity mosque also known as Jama Masjid of Bhandara(Maharashtra).",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MD ASIF ASLAM",
+            "uri": "https://www.google.com/maps/contrib/107647573481862850832/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWC9CPp2PzKV0cOxPEDLML7dSiuZqKfCz-sL_P0VQ2ivS9gSCK=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-12-11T17:39:56Z"
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBc09LdXFBRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very beautiful masjid",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very beautiful masjid",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mudassar Khan",
+            "uri": "https://www.google.com/maps/contrib/115937241771567061889/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRTOwHkyNH351ASyX4-VUDAf6AAfwXz8jdxkyOTu6Z_Oj6hw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-04-21T18:08:05Z"
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvcHFuNUd3EAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Air cooling is best",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Air cooling is best",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sameen faraz mirza",
+            "uri": "https://www.google.com/maps/contrib/107177391560710218164/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwyM92IWHJ4yf5ZmcSGqsmAl5GRWCnn6xQxmkwe5qxgaYttjjL=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-05-30T09:08:03Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/photos/ATplDJa2EusWT6zS7hJ375dyy0U8Xwf642L7J7Y6bfJGsIFsAczdor9BcetmtlSRY2ksdZJkduuBUFrXeX3b9OxFZhOv0kR3IKhJEMaCZhnyY1wN7DXeyu7t95eYLESCJWz5x62UkVLaIGyciQmTSHTxXyyfS_fl_AkB3v1u",
+          "widthPx": 2048,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Vikki Meshram",
+              "uri": "//maps.google.com/maps/contrib/112641938204707148901",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKQhJEahhvl0SCSfPNVJTESurXRqB0Eo0Ob1fFCiEzMX7iiAsi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/photos/ATplDJYX8yOzwlDLQLdj70YeEnEfGDQzqs14QGVhpftNhYXGCWhGp5FTN9zncTlyI0GbgefTZvluMMxiK_T5p0_Uf6asE4pFG5_IE4OkWNrcDl2BbhVp0MaUmGE8Z4xGv555dx7tlUy0OlSPskrbQkLXN3Uh0OXKiqzQSwqw",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Rehan Qureshi",
+              "uri": "//maps.google.com/maps/contrib/118378395258513190693",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVOQeTYSYkLWlBKqoZIc8nZfKFzIPjPr7R1bBiZhVSYiTUYnMBrWw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/photos/ATplDJZipqhYMxUs5LyLbgatLMQPbX4cfwlQNzWBJSManhxEmxyKG7CkzFTQ6NdRjuIIEqIkGKOE1rbTl3088HzHmsoMMqB5QduIn64KZDPr9C3SP2Rts8baF1rSBk5BL-vYgHAXpHx6LUveZ-ptvfcI8Hbr3HbAgGHVZuHR",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Rehan Qureshi",
+              "uri": "//maps.google.com/maps/contrib/118378395258513190693",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVOQeTYSYkLWlBKqoZIc8nZfKFzIPjPr7R1bBiZhVSYiTUYnMBrWw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/photos/ATplDJYCawiFtfRqaEQhDlzNgVSMhnbckQnHxiHtkGxEVlLSqs43fYQl3sQc9q5_JN_IDTgPgs67_cucru2MDKKqq2Bx8vc5O8P0nslddaYJIXP3sVNlTpOTGcdeyrmFS_3MQGAo2wpJCFvNFXCTluNmRfL1eiJ94FXEzJyC",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Sharik Patel",
+              "uri": "//maps.google.com/maps/contrib/107733242125826703623",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWCDpbHSv5CZZndYKrfZ0evQqqIJ1NWvG7psfdgUyqUXpbsG6o=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/photos/ATplDJZmVZUEmhOdxE71yKopjIxhjO_CLyHbva1XTFhjy_yYIWI47-1hiwOV3eIJJnw8DPzz_OJaVUhI-GFLLbEwoQE2KFO8f0__TyKSwg20UmQqhZtuyKYXwE2kBJQC2Yy_BHOHcRVPQwQej_zaragSp8maoTYvy-9aOCSp",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Ashaz Khan",
+              "uri": "//maps.google.com/maps/contrib/117268998261347253446",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXoi2rB3eFyYif13-D_yfHyyMGgxwZwkZNY6piVolZnY2Upumk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/photos/ATplDJZcoZPOhf6f-aTVr3Vf2Qiq36J56XG09jY0eA-JIy_vl2PueD7keNpWpRQnRKGv9YjF9JgklDE59pRK2x5cOYK_VoD2YQNbqfzMh39trlLqt19wJryfqOAdH0PWDXCyK4kJDMgSMqy7bs-0oDcXJIWSqBvib_DLRjJY",
+          "widthPx": 2048,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Vikki Meshram",
+              "uri": "//maps.google.com/maps/contrib/112641938204707148901",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKQhJEahhvl0SCSfPNVJTESurXRqB0Eo0Ob1fFCiEzMX7iiAsi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/photos/ATplDJY3nj22eUU6St02DSjvWvD9jWHLyteLbq0OQTd6N2USV62Qj5QlcpZ0lMNHAt9IccyoQQd_8sO71c9jhoakmxY_MMdb3mRrDbV1kHG2DBer2gkJUDm0U22EUbUHSX2J7S5BVHUS2cDPLCs0N8z0KW6-kdHXK3hNickZ",
+          "widthPx": 4608,
+          "heightPx": 2176,
+          "authorAttributions": [
+            {
+              "displayName": "Atik Sheikh",
+              "uri": "//maps.google.com/maps/contrib/110802486012890928282",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIoyrznIJVuxzmej3Urx9WV-2lPDylGHCNH1Yyg_m-Nlk735tg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ7Z9TzVM_KzoRXrfzP_7hYWo/photos/ATplDJYikhye_QWJxrsVuuPyEEn79bvAZTPqgLi1f4MDKEJAl0FOy6AKYFWbhklgjb5GHpfYAkOfDagi8NxJ4722oXD8KEqIrhbXl3uGT4CM5LGaSwdnRqjNbRn2yBHVjMxvUA8BmPjECVRi71PVLHAW3NiTzlsE0AP0bR9i",
+          "widthPx": 4608,
+          "heightPx": 2176,
+          "authorAttributions": [
+            {
+              "displayName": "Atik Sheikh",
+              "uri": "//maps.google.com/maps/contrib/110802486012890928282",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIoyrznIJVuxzmej3Urx9WV-2lPDylGHCNH1Yyg_m-Nlk735tg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    }
+  ]
+}
+

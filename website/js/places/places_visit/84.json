@@ -1,0 +1,4459 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM",
+      "id": "ChIJrWZLyNkY9zkRALv2LSiEUVM",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Ma ghagarburi Mandir Kalipahari Asansol Paschim, M2M4+5H9, Domohani Railway Colony, Asansol, West Bengal 713339, India",
+      "addressComponents": [
+        {
+          "longText": "M2M4+5H9",
+          "shortText": "M2M4+5H9",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Domohani Railway Colony",
+          "shortText": "Domohani Railway Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713339",
+          "shortText": "713339",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.683491,
+        "longitude": 87.006844
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.682141169708494,
+          "longitude": 87.005509119708492
+        },
+        "high": {
+          "latitude": 23.684839130291497,
+          "longitude": 87.0082070802915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=6003725086366284544",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 7:00 PM",
+          "Tuesday: 7:00 AM – 7:00 PM",
+          "Wednesday: 7:00 AM – 7:00 PM",
+          "Thursday: 7:00 AM – 7:00 PM",
+          "Friday: 7:00 AM – 7:00 PM",
+          "Saturday: 7:00 AM – 7:00 PM",
+          "Sunday: 7:00 AM – 7:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Ma ghagarburi Mandir Kalipahari Asansol Paschim, M2M4+5H9, \u003cspan class=\"extended-address\"\u003eDomohani Railway Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713339\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4238,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Ghagar Buri Chandi Mata Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "delivery": true,
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 7:00 PM",
+          "Tuesday: 7:00 AM – 7:00 PM",
+          "Wednesday: 7:00 AM – 7:00 PM",
+          "Thursday: 7:00 AM – 7:00 PM",
+          "Friday: 7:00 AM – 7:00 PM",
+          "Saturday: 7:00 AM – 7:00 PM",
+          "Sunday: 7:00 AM – 7:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "M2M4+5H9, Ma ghagarburi Mandir Kalipahari Asansol Paschim, Domohani Railway Colony, Asansol",
+      "editorialSummary": {
+        "text": "Brightly colored temple dedicated to the Hindu goddess Kali, also a popular wedding venue.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkM3Z1bTh3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This is one of the most famous temples in Asansol named as Ghagar Buri Chandi Mata Temple. This is situated by the High road (by pass) towards Chittaranjan at a 5 mins driving distance from Kalipahari more. This holy temple is greatly worshipped by the devotees where Ma chandi is present in the form of three red stones (Shila) with eyes on that. The entire area is quite neat and clean and peaceful. The temple has a wide open surrounding area where many other temples are also present. It is also very popular for offering pujas at the purchase of any new vehicle. The river Nunia flows by the side of the holy temple but that lost its glory due to the accumulation of garbage all along the river. So, the area to visit the river is restricted. However, during the monsoon, there is a natural little waterfall made on this river.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is one of the most famous temples in Asansol named as Ghagar Buri Chandi Mata Temple. This is situated by the High road (by pass) towards Chittaranjan at a 5 mins driving distance from Kalipahari more. This holy temple is greatly worshipped by the devotees where Ma chandi is present in the form of three red stones (Shila) with eyes on that. The entire area is quite neat and clean and peaceful. The temple has a wide open surrounding area where many other temples are also present. It is also very popular for offering pujas at the purchase of any new vehicle. The river Nunia flows by the side of the holy temple but that lost its glory due to the accumulation of garbage all along the river. So, the area to visit the river is restricted. However, during the monsoon, there is a natural little waterfall made on this river.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SAYAN CHATTERJEE",
+            "uri": "https://www.google.com/maps/contrib/100148125171730181335/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVd7DR36aSILmvfwtd55Q9PPrxUbgO_dPmJ8ycujQB6QUlIEA7O=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-02-15T13:30:43Z"
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEeDdlbkx3EAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "One of my favourite place for puja at present in Asansol. Ghagar buri chandi mata 🙏.  I often goes there. Puja system is really good. You can buy puja materials at any shop situated in the both side of the road towards the entrance of  temple. This place has many history. A river nunia flows behind the Temple which is known for foamy water. Peoples are not allowed to go there because they may slipped into it. There are many hotels to take food after puja & has many stationary shops in the outside ground. People mainly goes there to give puja after newly married or newly became patents.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of my favourite place for puja at present in Asansol. Ghagar buri chandi mata 🙏.  I often goes there. Puja system is really good. You can buy puja materials at any shop situated in the both side of the road towards the entrance of  temple. This place has many history. A river nunia flows behind the Temple which is known for foamy water. Peoples are not allowed to go there because they may slipped into it. There are many hotels to take food after puja & has many stationary shops in the outside ground. People mainly goes there to give puja after newly married or newly became patents.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Riya Mahanta",
+            "uri": "https://www.google.com/maps/contrib/100286036282685972188/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDdeq05a7BZd5FJ7oUpEx9scmaLfrqMrtvzOMao1NR7vxSu5BM=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-02T16:00:54Z"
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsazdqdW5BRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice temple to visit the puja system is very good the line system is taking your test of  patience after that you feel peace most recommended temple to visit if you come by road the temple is beside highway of asansol.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice temple to visit the puja system is very good the line system is taking your test of  patience after that you feel peace most recommended temple to visit if you come by road the temple is beside highway of asansol.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ajay kumar shaw",
+            "uri": "https://www.google.com/maps/contrib/116139064389332550256/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXD8sCO-l7tijWRtbYb7_aZLLR6_LCSV3wCzRL4SCaqJT53Y4o=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-26T06:14:03Z"
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0N3FybGZ3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very clean campus. It was about 6:30pm when we visited and the mandir was about to close for the day. There were hardly 5/6 people at that time. Had very good view of Mata Chandi and had ample time for prayer. Very good experience.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very clean campus. It was about 6:30pm when we visited and the mandir was about to close for the day. There were hardly 5/6 people at that time. Had very good view of Mata Chandi and had ample time for prayer. Very good experience.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Patrali Mitra",
+            "uri": "https://www.google.com/maps/contrib/109959005446650033260/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJU_BStumGFBVQqMz3wRCZvPK8CWrU_yw-8wr6jYZu_Fclr_Q=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-02-04T17:00:09Z"
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/reviews/ChdDSUhNMG9nS0VJQ0FnSURWM1kyR3dBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "The most precious & famous temple of our Asansol area, I have been coming here since childhood, a very lovely place. The area here is also very big. Day by day the temple is getting better. During the season of weddings,picnics & mela it gets very crowded...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The most precious & famous temple of our Asansol area, I have been coming here since childhood, a very lovely place. The area here is also very big. Day by day the temple is getting better. During the season of weddings,picnics & mela it gets very crowded...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Akash Kora",
+            "uri": "https://www.google.com/maps/contrib/110286356182887706393/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdsRPKLsFg-EpN0q2QyM0zk8OpKIxRZJRfhlpdiZadQq3EFr3q=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-15T05:13:28Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJZVUFziQ-SwsGS7maZh28ZpbxwFb9k7047GieqMppv0ZrvxaCiy-NMJEmCW4J9UhyjnoUlEpG2HE8kSbQh2hYo9_7xvHMCEbdrwbpBkqut5W7o3iD8ltI_v-1JBS6Np6uP0drg4oSAEqJ0AyyBf4Wb-zfFLKaY_YOMm",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Niranjan Maji",
+              "uri": "//maps.google.com/maps/contrib/101944829740156222405",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVp6J0si33uFR3FRqJUN3wsJGRDXjODtftt7ohX3HgVAiBvHUIH=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJauPbxkuEr4lI6HceqxOgnwn8Z18aH0uRvuAZ96kjF2ypmMWR0uzjhEOstVE5zz9lz2RxO9C_5R7xmMKnYZWAM6fX83pmiv1Ma8K2pIb-NHofi7i-AW8CFworY3cGT4rdZnX2ZCEDydAe4zzNLE97AeOWggsoxvV_S1",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Mom Biswas",
+              "uri": "//maps.google.com/maps/contrib/116693207249671397603",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWnPEBMxtO69MThWZ9E59qeBGq7PwBiq_6FP-LbzHxpLX7KlDTj=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJYQHoe52smwlP0kN94ulI_giAxNgLxREp8uRhl6tCq5xokoo_rB5nDZhvRsUxj55SvGo8MMNtu7RT6oQ_g4TrRnQmTX62TxpdU7BLe1HJfp8qgsvFyhZshnhA86YgxokjIBcQRmKHcJKe91CWooflJ6LXKWpnTsmyS_",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "SANKAR MONDAL",
+              "uri": "//maps.google.com/maps/contrib/111472166753418074050",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVrVhYXu1OCt6vLZ516i2uKlRNExEuGLtXOxxSDbxfGujaqfNWa=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJZrs-vcK9a1DYu9hIqme-omPGdHs6ptjjPM-x3xg9xx3UNqVYU-1E2RE8mOSjn48Fapr9M0FPRiWoYfA42ar9hGEZtuYURqxvO7xGuU0kBEzV8iVqCF9Sl2SPx37gPyzGWzCF9teCmCrg3hPoXxKAwV4F24J-fmQ_En",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "SAYAN CHATTERJEE",
+              "uri": "//maps.google.com/maps/contrib/100148125171730181335",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVd7DR36aSILmvfwtd55Q9PPrxUbgO_dPmJ8ycujQB6QUlIEA7O=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJb7O1UJiTDwUPFAf5LaB3v3SwcCJTgBtAtGvzGbfyy4VMxoCcJR8ZzxyrLQJNqAMlGxhk9LC9BsYzq_5rxc_3ZcI6w1Z3mhMp_E8Nj68vPUBpNBjXqBqvnjOdpbxMhtCRl34PClCEfPg88RmuS0OVlYjGccOQ_pM3-x",
+          "widthPx": 960,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "PRIYANKA CHAUHAN",
+              "uri": "//maps.google.com/maps/contrib/103378269451550513002",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUIuj0_OeAq3DXusmRqeCcLIh5ZvSqUzesYJwPwgi2kXPoIIthi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJbL74JS10nTFxqTF04AsFFJ9eItFMEshAx3k0lUni_DNt1oLjGh6lY63-xuhjT6dvRyrKWzfw0yc9FpJgDxw1hpxUBaEXRi8DOrVDZAIfkGJjxZg6zmirX8vsxiQyO_YAizhbc1hL1GdXnvvrllabWQUTjJGCaa9r5G",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Prasun Sinha",
+              "uri": "//maps.google.com/maps/contrib/115182332356116007205",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWm4vUiN2O6bwobSVd8ZeS3JMqYfb6PJBC2dtVvbyHic5gNGsU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJZLNheUtJUEAUgjb7qh7fxiIbg7UmOR-dis1qUaVxKeN0wuJToWUfGkB_mXFK6eteHsbglOOBXBYgSs84XkLVhwQZt99-a5KKalAt4YNU6b1yi4gBtZvISGkYh5cQyytP0SXFH_9AxD-UirLxvTPYBQ040xoLJcztvH",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "A Roychowdhury",
+              "uri": "//maps.google.com/maps/contrib/117635400836623769036",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLq07nZoNJm9DX_CMz8E8zzt87Ns561JIGPEz7SZaJK27djcQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJY3bIQ1QSZoWgXg7YNPRTj7Z3R8ZDH0OLiGewM6AVp4nQPqAAxj6QhLx-Eau-wvDCLaOgXSeRA2ZPbwJApshpnWK8fNtg7ReAF3l43g4S98OB0UVKqGch49Gwi_FL7TPVwQ7GSImCQU0s0U5QTijgkZmsy_5l3jCshS",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "SOURAV MONDAL",
+              "uri": "//maps.google.com/maps/contrib/113497701218803679972",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWC27blcjlNj-cbrgcNh8KyF5O90np2IaZAtA8v00wUh_VGdxG_=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJZRs8Oj5iTufKy7ofygVfZwuieLQGB7HCa8Ribk8q1AdmeALRrQ8SNnegA1Pjc0l1y8lTH4UKb0F0_qKsSv_Y_gdXsgwn8oQM2_OnDKITs08FFEZWGz5PljwByDwpGTEDekQ7_ZUeHjRL8xohHC2elS3DmLFu2fp3xT",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "nishikanta dan",
+              "uri": "//maps.google.com/maps/contrib/117458477251770827460",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU06prkK643Pg6d3xx0vlb_UYsXBKweM8rn3aCcTKff4X21h181=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJrWZLyNkY9zkRALv2LSiEUVM/photos/ATplDJY7WDGR-8VMbT12UNFZwPxiv7eDr7s_MGWfZPiB1V-lQGYotVBvI4DgDaCDeESyv-Oj33SzO84giLp16N17B3Tv2oFlSW34cYbthflCEhF8_xmCjg_vomZMglt2Kk__vYPAOQ50zLa0v9X7-s9crYAbWuwG4kQrVUaV",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Gourab Banerjee",
+              "uri": "//maps.google.com/maps/contrib/104623383155367542183",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUomn3OMaqN7IGpZLD9cdiUJSU5vh_dlKOT12rwjMtfAQ9nFyi8DQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM",
+      "id": "ChIJadCcoIYf9zkRuhbiqwx9HDM",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Mohishila Colony, Hamid Nagar, Asansol, West Bengal 713303, India",
+      "addressComponents": [
+        {
+          "longText": "Mohishila Colony",
+          "shortText": "Mohishila Colony",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hamid Nagar",
+          "shortText": "Hamid Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713303",
+          "shortText": "713303",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MM8MXCJ+H9",
+        "compoundCode": "MXCJ+H9 Asansol, West Bengal, India"
+      },
+      "location": {
+        "latitude": 23.671381099999998,
+        "longitude": 86.9809174
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.670097619708493,
+          "longitude": 86.9795923697085
+        },
+        "high": {
+          "latitude": 23.6727955802915,
+          "longitude": 86.982290330291519
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=3682956088659023546",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 8:30 PM",
+          "Tuesday: 11:00 AM – 8:30 PM",
+          "Wednesday: 11:00 AM – 8:30 PM",
+          "Thursday: 11:00 AM – 8:30 PM",
+          "Friday: 11:00 AM – 8:30 PM",
+          "Saturday: 11:00 AM – 8:30 PM",
+          "Sunday: 11:00 AM – 8:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"extended-address\"\u003eMohishila Colony, Hamid Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713303\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 799,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Susanta Ray Wax Museum and Seesh Mahal Asansol",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Museum",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 8:30 PM",
+          "Tuesday: 11:00 AM – 8:30 PM",
+          "Wednesday: 11:00 AM – 8:30 PM",
+          "Thursday: 11:00 AM – 8:30 PM",
+          "Friday: 11:00 AM – 8:30 PM",
+          "Saturday: 11:00 AM – 8:30 PM",
+          "Sunday: 11:00 AM – 8:30 PM"
+        ]
+      },
+      "primaryType": "museum",
+      "shortFormattedAddress": "Mohishila Colony, Hamid Nagar, Asansol",
+      "reviews": [
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNscWRxb09BEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Some of the sculptures looked as if those were real. Salute to the Artist's art. Sheesh Mahal was excellent as well. Must visit once.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Some of the sculptures looked as if those were real. Salute to the Artist's art. Sheesh Mahal was excellent as well. Must visit once.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sukhamoy",
+            "uri": "https://www.google.com/maps/contrib/107017085284428660810/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDYEdReu38bUUI0gvPipVRPjwu_24ERg_oM45r_zrHUvTa9eQO=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-23T02:23:07Z"
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/reviews/ChZDSUhNMG9nS0VJQ0FnSURWX1BYSVZBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Best efforts to make the whole of the work. At present the number of galleries are less, but I hope it will be increased day by days.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best efforts to make the whole of the work. At present the number of galleries are less, but I hope it will be increased day by days.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Biswajit Das",
+            "uri": "https://www.google.com/maps/contrib/109130841642031185115/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFC6FSmt1UIU-dvm3KRIy8FO8KU6S8_x-XdVHE3LukQFzfvkM=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-11T17:48:59Z"
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxNmV6NEVREAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Amazing experience filled with mesmerizing wax statues. Worth spending time here.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Amazing experience filled with mesmerizing wax statues. Worth spending time here.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Adeeba Akbar",
+            "uri": "https://www.google.com/maps/contrib/116788949258279475905/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7HVQum5XuDE7S8XPmDLdMf0p6RJIBHxJEoSk2_z0KqKH8qA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-08T08:33:31Z"
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxODg3TFJ3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Ticket price is 100 for adults and 50 for students which is higher. It should be less.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ticket price is 100 for adults and 50 for students which is higher. It should be less.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tarun Halder",
+            "uri": "https://www.google.com/maps/contrib/108900383615260578527/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw6wDiezxPf5K4jVh6LE3WHa48eDKt-nBEpUv7secdSX2ElgjT=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-03T14:19:06Z"
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5N2NIUGZnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "A place of aesthetic beauty. The statues made of wax are admirable and the  upstairs Sis Mahal has a magical charm. It can be a source of pleasure for the children also. One can visit this place with their near and dear once to enjoy the artistic beauty of the Museum.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A place of aesthetic beauty. The statues made of wax are admirable and the  upstairs Sis Mahal has a magical charm. It can be a source of pleasure for the children also. One can visit this place with their near and dear once to enjoy the artistic beauty of the Museum.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Krishanu Chand",
+            "uri": "https://www.google.com/maps/contrib/101689993492788541686/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLOSJllnJHJfNuW20GdZp0gHIqP-a7lA8ID_axyaz4lPsakhLD=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-20T01:43:41Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJbC4eCI1z-G3qynYU9pjNmA3vEUM5PGVJ95jSus-M_KtxH2gQ84wRAYKgfFuVSCA6fpgHeplkFkte5-e20G8QMlZe75DDUxMgNAvPncoLTvb4qx6n5DbKTQi4W6kOciRZDW2fBXENGoyH0l6VDLZI4FLAzY7stBujJU",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Anirban Barat",
+              "uri": "//maps.google.com/maps/contrib/101374894529519131212",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUUs4OzTab-KWp_GUCxO0BTLMkY6hpC95Kvk6tiC-7buNkb5OfkPg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJY3PyysE1s3dm2JG5hH3h7G9oPTU1_WWAuRy91K3RfR59fq4J7XvICgDc1PHgINWrNXDG-hcZYM4_20ORiGhjPWHrXtzdCLqOhXLQondPgVRw0yHUpDViOZZpo0Jq7l_NlNsmFvxW4IfbV3XKUUPe2UfK92uDBhTcEf",
+          "widthPx": 9248,
+          "heightPx": 6936,
+          "authorAttributions": [
+            {
+              "displayName": "Subhobrata Biswas",
+              "uri": "//maps.google.com/maps/contrib/116975707101179442567",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjULycmjCpCNe4ZbBxhf2Ya6DkMPLav40KAhAYjUf7h-Gq8ZaibmMw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJZaa8TSaxl_LDazT-7sutPFV44qp_EQdQr8KqKE9NdCfJ0CDINwiMIjeDijWF0f2W1KMQ42jTIo6xgtocVRiUDmO9cWM8KxDcQbUY3c_Rb6hxCFOLyzmOyLSE5eJjye4bNzto7v7FE0r8Y2-pf2xcks-0-oM20D-GlU",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Sujit Mahata",
+              "uri": "//maps.google.com/maps/contrib/116273663109119644906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX68YTbzOzmd-CrcoHMFUWvjyqu6D-ZgNTvLgVj-FcN8BzrHjM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJYsGXmqw7cQA_pWns5nk4n4OMyhhFbmgeeK9KFoNYIWJ0W_Z5EKSQUCnVZZMvpn9h-2hiih5VN1H95Ds0ilLqJB3GySNM23EjxD58-Grfk4E9rQJFmiCc7ZVLfD6qt3eHndXBa9pg-GZDtsY67S-FpGmDJTupLHAcTW",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Roots and Routes: A Living Archive",
+              "uri": "//maps.google.com/maps/contrib/118326453483522254934",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWLQUd721ZTtJoti0_fYUoljMzedu0nItRw3QwpkLsaTo5SJ66=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJYvYfay7Rn6seJYHyeaqa5Bok4Bwy7AA45V1tZITz0td8WgcaPt_FNlncGGsd2zmvzOLLu1Mu6EchCl8MyLlnVjh1e3dmwmgZQkK1CFLRPwi4UlNDkxcfoxztSpNnTQ0PlzsjS1BIcfl2fQbZ__-Xesh6K1-L6k2AVe",
+          "widthPx": 3968,
+          "heightPx": 2976,
+          "authorAttributions": [
+            {
+              "displayName": "Souvik Haldar",
+              "uri": "//maps.google.com/maps/contrib/108262894723852531306",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBtuDVkgHeLsxIGp0oAkml7n5Df6H-8c7w57YVqxlQVrM7XQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJaLyOEH2MWACzMxv1asqCt-Mu1l4lSxA8NVIlMxr0KvWJ49h7aRXUJvN9ibXdxyyhVknf0coe5Xi4BTqO7MAZ4DPppTD4yXdno6E6MXq4GAxUNor9UhwUywS7CeUoIVf0PqV5H1fIh1avPZTwJLZJ3DNJPCxBDFT5UJ",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Namrata Osta",
+              "uri": "//maps.google.com/maps/contrib/105112069396605438064",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXuBzuX3x6EbOUxj9V4woeisyEazjIAe18mk_MnUKpDZpld4U4c=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJaherY9zqwoZsvmk6iMasOFOw8q5l71-zcj2D9mp-KeHKCwaWnXvDTNMomUq8d_8eny__rPe0fCihzebq_47H8M2PYanb7T75dEdEl2TG6wcudNSOAXFn-ABiasIOcSjjTa4Vq01v1ZQh-ggBwGFQXcD3wukPN6NW13",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Rick Chakraborty (Rcb vlogs)",
+              "uri": "//maps.google.com/maps/contrib/102383309007090809841",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7PK5VY9S8kkJ9GetWcafKxtP0lj6H33QJc28nGFz1pGE7uPJiyQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJYvu_WTQy7-n65vStaCxydMEX9IS5hOn_CJegH5jyvleCz1EJsbI-6yujRaky8lOG9cQDOGnCfLeOmj0MFFEkg6PCHDQw0mvwxglwfR78PoH_VvPA2G9-9ZZFa4mzbgAklR1TN-2X6_Ps8yBDA9Z9A1ebSYnjRtte2H",
+          "widthPx": 6936,
+          "heightPx": 9248,
+          "authorAttributions": [
+            {
+              "displayName": "Jayanta Dutta",
+              "uri": "//maps.google.com/maps/contrib/111411092303937443881",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWeCWUc5OXhS4WQWEq4paSQRhP1o5U71VQBVTrjGClPOSCxZGc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJa1NFZPft1_sgOb9pUprMhPF4PJrbYRmRiAkkHFVAXPVsxr13oLjyiEiWijJ3bF6LHhGIJIk6jRASta9fUaJQP1fmWeaMazzd9_8RDYk6PpTW1onGyAFiV7xqB9UdF_KCgTSFKxsU5LkVp2oQSKYYR71YqZgU46lBzd",
+          "widthPx": 3456,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Suprabha Dey",
+              "uri": "//maps.google.com/maps/contrib/101228758544149627120",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWH-0QHA7cz6UsZu42XVq5OzR1NA6A1Pnylwh4apUOusUTEmGy3pA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJadCcoIYf9zkRuhbiqwx9HDM/photos/ATplDJafDMrTR2zkVMlLXvHkaWj6O_vgOemOc5P8ae76whg95L8i3-aX6jlqZcoRL3-Ijera9wuMl6bVnEkC-RVmfjRerjyhO206t4ddzB4myAQ2LJOmoaIAAMSO9eLS0Z8_55sXO-AeB5X56W0mpdjvXgc7SCIZ8zMfLHEy",
+          "widthPx": 3456,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Suprabha Dey",
+              "uri": "//maps.google.com/maps/contrib/101228758544149627120",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWH-0QHA7cz6UsZu42XVq5OzR1NA6A1Pnylwh4apUOusUTEmGy3pA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "restroom": true
+    },
+    {
+      "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE",
+      "id": "ChIJH-1mQOwZ9zkRVgUCJTAcjSE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Majiara, West Bengal 713334, India",
+      "addressComponents": [
+        {
+          "longText": "Majiara",
+          "shortText": "Majiara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713334",
+          "shortText": "713334",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MM8PX8W+5C",
+        "compoundCode": "PX8W+5C Majiara, West Bengal, India"
+      },
+      "location": {
+        "latitude": 23.7154858,
+        "longitude": 86.9960892
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.714136219708493,
+          "longitude": 86.99474356970849
+        },
+        "high": {
+          "latitude": 23.7168341802915,
+          "longitude": 86.9974415302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=2417619568072721750",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eMajiara\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713334\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 329,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "BLUE FACTORY MINES",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "Majiara",
+      "reviews": [
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbU9LZWN3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It's a old mine contain greenish blue water. Excellent look. 4.5 kms from Asansol Railway Station.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a old mine contain greenish blue water. Excellent look. 4.5 kms from Asansol Railway Station.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr. Rajendra Prasad Shaw",
+            "uri": "https://www.google.com/maps/contrib/107621658693927891734/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2WjB6UfC2Efzq38ETBOen6t6AImNriZvFgpK47cn3HEfzzdkZ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-11T07:06:36Z"
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/reviews/ChdDSUhNMG9nS0VJQ0FnSUROejVTbXJRRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Wonderful place near Asansol. The area is a bit remote so go before dark. Do not venture into the water, it’s very dangerous. Enjoy the view and don’t litter. Space for parking available. While coming back to Asansol you can stop to Gitanjali dhaba for tea and snacks.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Wonderful place near Asansol. The area is a bit remote so go before dark. Do not venture into the water, it’s very dangerous. Enjoy the view and don’t litter. Space for parking available. While coming back to Asansol you can stop to Gitanjali dhaba for tea and snacks.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Soumayajit Hazra",
+            "uri": "https://www.google.com/maps/contrib/107761727503667146962/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEAe2GR3XvjiifqpfjrKNS1UEe3prJlyj94NKm0ZSUEpxsTBlG=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-27T08:22:26Z"
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/reviews/ChdDSUhNMG9nS0VJQ0FnSURwa3JPZXJBRRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Its scenery is good but the fact is the place is dangerous. There's no safety there. As it's not a tourist place instead it's a factory spot. People go there at their own risks. Many people have lost their lives due to drowning there. Water is very deep there more than 300 feet. So it's better if you don't go there.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Its scenery is good but the fact is the place is dangerous. There's no safety there. As it's not a tourist place instead it's a factory spot. People go there at their own risks. Many people have lost their lives due to drowning there. Water is very deep there more than 300 feet. So it's better if you don't go there.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Md Tarique Anwar",
+            "uri": "https://www.google.com/maps/contrib/116652503335152650165/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgTfBISXTXscVmm1HFjge8wW5bF-z7HkiwPUGE6HXdIIA_7Vgs=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-08-19T03:32:08Z"
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOOXBYdGV3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It is very nice place to visit and photography. Also youngsters of asansol called it Ladakh of Asansol for the view points beauty . It is very romantic place . Also can see the 🌄 and 🌇 with enjoying nature. The mine water seems as a big deep lake of blue water .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is very nice place to visit and photography. Also youngsters of asansol called it Ladakh of Asansol for the view points beauty . It is very romantic place . Also can see the 🌄 and 🌇 with enjoying nature. The mine water seems as a big deep lake of blue water .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Soham Mukhopadhyay",
+            "uri": "https://www.google.com/maps/contrib/102307801435053606228/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUt-JruOvy8Gv8WxuexNynTXSNg5CjumYRHr_q4HuXn1Hur01qJ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-14T12:53:34Z"
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkeVl1RGFnEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The view is awesome. Loved it ♥️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The view is awesome. Loved it ♥️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hellshot Gaming",
+            "uri": "https://www.google.com/maps/contrib/102716605322593835515/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXo8i62-HYwBtq1Iy2LciC_9X285hjjdr8hSPlei3I-WYQe2_lg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-16T07:38:10Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJYdrP4SB8ZHX7LsD6XfoKcGNNKtxvSK7S10ImBRWmvBBk4sCgAZmvD4j5YStyAihxi664FZTbcndAzQxbWLW7kIqa_KTfTMhD2nh8OWfwY67iEIpKHj1yNTJV6djpzQCnA0-1Tm4uSL4Br9jyDAal897SlzadTXU4Xg",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Amit Kumar khan",
+              "uri": "//maps.google.com/maps/contrib/109318538175739408618",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKtZdH9oDfSATYos9gvn2im5Xse_I0VPJk1oObmZKYUr_gEeS4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJaV7Rgdg8ocjfw6SEaKXfyTxMsz9SJ1Dp_QbRvhZAXN1Roi0TMjU-2yh3WiAiUZpJmr_TqjshYeK5mPmnyz55HfzY3AT4nciNAng0UHe4tfEkNEV_OD6SjiN5FAMcF904ib1XvrrxrbPUb6fO-CGPfuAP8SUz0yV4SJ",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "Sudip Mallick",
+              "uri": "//maps.google.com/maps/contrib/118253108947765295373",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUYkFcTw09AVtBYkW8hACj9XDu9YHuEpiqD-8PqNNAHCL352s2BfQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJaxMB4Aw7bmF62nJhkg5KOpgdfjjWmvVsYyhIiZcToJ5RaobyLp2ygs3N9iB6yxbXoiBQ4ptmZkxdVjN_aJVA--VQy01_6dPVooZ5KYNA8valDaYQGop6Qq5m8s__crVikc-yWb0-8hTtOCxJUkV5QmrhRIdpgiMHpG",
+          "widthPx": 1080,
+          "heightPx": 810,
+          "authorAttributions": [
+            {
+              "displayName": "ARUP PANDA",
+              "uri": "//maps.google.com/maps/contrib/116120616950836489892",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXd1wjvOYDc_J5L9riVoLh2-l_YXOx5GkmSCD3mkqCrqH0g04Y2dw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJZa_RJdqMkWyj0m4e5M6yBBVUH2VhoceLykc5jCsz5b02SyYjxGR0_j7-U-o4mPlQyAy5cBq5a-pkCYb4WJ9prRflg7axGUWIbFpjFrtQ96SlM9cj1Ug-7HPLehKEkpx-DXnELP8Zbd8JCPb-fq_fvCbcLmIw_FRrD-",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Steven Raza",
+              "uri": "//maps.google.com/maps/contrib/101340641503826086162",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWUzKf0hEgwQClaz_o5BhgcdQmmAq0odEdnful2w0QN5dx9OOrq=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJa4ZWlRZKq608xQ0mJt4nNjcHvHtF3XF8CD2-Zrme1pKzEdwQ3v2bchgdpYdVyZXCu7KrSptkOXqiz73R5J7eHNWLNVhqMjm1OMewAOHWC1Su9D7jRxjgtbVSQt2zV9SEZP9i4Y92BpLhFyYCmhZr77a0vBx2ECgKyY",
+          "widthPx": 4000,
+          "heightPx": 2256,
+          "authorAttributions": [
+            {
+              "displayName": "Sitaram Paswan",
+              "uri": "//maps.google.com/maps/contrib/102548028077923023260",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3zQdmUkZcy-t66gwbO-HWEZFNZeAlNiSDSOS_xgByP8wvtos=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJaPiNXWrrWDYae6Az8Fd5CUtBBxDyoGKmWehspRkpDSgUFTYFw5DCLZIilf6IDxxjGtcD3xihhcDPL-ciltifX6tUy3E1LjsrbEz1evsxonmuVdcngCLXoCZhZ-XeDTqRzAhUpSLdslYmWxZ_KHcpeitVkoRuMpRsdI",
+          "widthPx": 8192,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "ARPAN BHOWMICK",
+              "uri": "//maps.google.com/maps/contrib/102988425282112369237",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUiqWEgqihh1KRL4H6tiPlpEmpoUaHkSrVA7GQYCUYxxxSyHFZsAw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJYw2sW_8LA-8vUuKe1638zPVJfgTmvFotghCFWLW5qNH40yC6Wj9QutSaEvIby7OwPZpEvxhf-3Uk94ixDHPaPrnkxy48Hq12U0SEZnZikMvAy5pzKtn8_HeLhvIhgWOFx5ax8AZ_AuyPqFDtsP7CvU9GfTwKckpVCr",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Arindam Paul",
+              "uri": "//maps.google.com/maps/contrib/103685166767450834547",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWL2K4S0Ljygl9DRWil0SVHEcmr-7gSuIOLJU-QForgk1Gr_g5r=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJY2s_6k2GQxt6NuwDvkWOINwUlncRwqA693_SvM0OKKsGl83IMpD5Ec9umE0QKjEU6PT7soT5BHEJFBDlNlj0YHh2579F5JithSI0jDIJX_ePXIVIoutHRVtqN1KLiEmEcAjcrzV66RSnNSDBf3dVKCx726ihn4dKAD",
+          "widthPx": 2208,
+          "heightPx": 1206,
+          "authorAttributions": [
+            {
+              "displayName": "Shubham Kumar",
+              "uri": "//maps.google.com/maps/contrib/108210937954542019219",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWZiG44ivj4xW9Lh6UGaXvEnWvL-kDPRW7JvZDi1JxdqCqCEWLm=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJbGlQe9vyyflIRHovVYiNtGJJrow6gQW0ODQ_0LkqBuvouOSQelK-up9z80W2Xwv7HpSY-p8OBi_FJY1ZAwjgrHva-WzjvXvoeZR8nrJeZnQX2MwAUF9c9e-32chuOxKgp9umeeAobIm5oghPF7cqsXaP6hValO15IR",
+          "widthPx": 4096,
+          "heightPx": 2302,
+          "authorAttributions": [
+            {
+              "displayName": "Md Nure Sarif",
+              "uri": "//maps.google.com/maps/contrib/102144373340371923744",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUuolV0vzb9LTaVjt4AqBwHUbAsQdQOvYAptn17N-h13YyiIVcw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJH-1mQOwZ9zkRVgUCJTAcjSE/photos/ATplDJbN3yVfy5jsHPImGHUrN6UbGU6FKeV3pqNY60OxC1fJM7sFudE4_UFg9kMnskzZvplVPmpi0VpJ6ybqLg3kvnVTfG5uap59L7uJScIyEWmFCJ0ID4Hn916xRbcKKYrphod20hPpDG3Tyj3NjobsGObVAyg_2Nol9whI",
+          "widthPx": 8160,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Ramnath Mistry",
+              "uri": "//maps.google.com/maps/contrib/113842320383611364173",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXQOKCVLAO22Olq5PmUjufL3q3VnauXFXlUcONGIEljTmLmsMs=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g",
+      "id": "ChIJod5XFvQZ9zkRtY3EjGqVa5g",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "33-35, Asansol - Chittaranjan Rd, Railway Officers Colony, Munshi Bazar, Asansol, West Bengal 713301, India",
+      "addressComponents": [
+        {
+          "longText": "33-35",
+          "shortText": "33-35",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Asansol - Chittaranjan Road",
+          "shortText": "Asansol - Chittaranjan Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Railway Officers Colony",
+          "shortText": "Railway Officers Colony",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munshi Bazar",
+          "shortText": "Munshi Bazar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713301",
+          "shortText": "713301",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MM8MXMM+4G",
+        "compoundCode": "MXMM+4G Asansol, West Bengal, India"
+      },
+      "location": {
+        "latitude": 23.6828365,
+        "longitude": 86.9837926
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.681473519708494,
+          "longitude": 86.982438519708481
+        },
+        "high": {
+          "latitude": 23.6841714802915,
+          "longitude": 86.985136480291487
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=10983036401133850037",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e33-35, Asansol - Chittaranjan Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRailway Officers Colony, Munshi Bazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1093,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Ashram More",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "33-35, Asansol - Chittaranjan Rd, Railway Officers Colony, Munshi Bazar, Asansol",
+      "reviews": [
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5eGZyNFp3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "This is just a crossing road. Nothing else. Lots of bank, various outlets, jewellery shops and Gupta IT college nearby. Reliance smart bazar, trendz and boutiques are also nearby. Kabristaan is also nearby. You can get bus from here for different locations. Mostly neat and clean. Need a proper bus stand",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is just a crossing road. Nothing else. Lots of bank, various outlets, jewellery shops and Gupta IT college nearby. Reliance smart bazar, trendz and boutiques are also nearby. Kabristaan is also nearby. You can get bus from here for different locations. Mostly neat and clean. Need a proper bus stand",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Madhura Das",
+            "uri": "https://www.google.com/maps/contrib/110889629587082751825/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWw8c1nnU8QiFMXnlMEjYmBmRtIMSQOgSZhesY9R3saA8WjnjJe=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-07T13:53:51Z"
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxanRuRHVnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It's an extremely beautiful place and fully made in compliance with passengers' needs and comfort so that they can feel refreshed and rejuvenated while waiting for boarding their respective flights.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's an extremely beautiful place and fully made in compliance with passengers' needs and comfort so that they can feel refreshed and rejuvenated while waiting for boarding their respective flights.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ayush Kashyap",
+            "uri": "https://www.google.com/maps/contrib/102192627673378149554/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW51XxneZtRvZT7bS6LBVYpfSNJYSeugka0Z09mdOZE1fep0n5H=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-07T03:36:32Z"
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/reviews/ChdDSUhNMG9nS0VJQ0FnSURweG9PZnV3RRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Suspicious  on road kyc for kotak bank wallet account was going on in this place one month ago.atraffic kyosk is their at about 5 metre ahead.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Suspicious  on road kyc for kotak bank wallet account was going on in this place one month ago.atraffic kyosk is their at about 5 metre ahead.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chinmoy Sadhu",
+            "uri": "https://www.google.com/maps/contrib/100541923991211690628/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4rUjEv3lvAqZDEZq9odcKyXymStppXBi8vOoIiZHiR3eQMcQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-08-21T01:59:09Z"
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/reviews/ChdDSUhNMG9nS0VJQ0FnSURGcUp6TjlBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 3,
+          "text": {
+            "text": "The name Ashram More is of olden times. At this  point on G.T.Road  the famous R K Mission High School , Asansol was situated. That's why the name Ashram More. In 1997 the school shifted to some other place. But still the name continues . Now a days it has shops , shopping complexes , hotels etc  around it.\n\nA road to Kalla , Domohani , Churulia bifurcates from G.T.Road.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The name Ashram More is of olden times. At this  point on G.T.Road  the famous R K Mission High School , Asansol was situated. That's why the name Ashram More. In 1997 the school shifted to some other place. But still the name continues . Now a days it has shops , shopping complexes , hotels etc  around it.\n\nA road to Kalla , Domohani , Churulia bifurcates from G.T.Road.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prasun Kumar Pande",
+            "uri": "https://www.google.com/maps/contrib/101096656236730598945/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqW4ZRcLnlFKQvVAKw6s-UsJ5g-jiO49OYx-2GXormxo3DdQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-04T12:04:11Z"
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWLU92RUVnEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Junction Kalla-Asansol ,shopping and hotels are nearby.  Asansol RKM Ashram was here before, so Ashram more it's called.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Junction Kalla-Asansol ,shopping and hotels are nearby.  Asansol RKM Ashram was here before, so Ashram more it's called.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Swagata Ghosh",
+            "uri": "https://www.google.com/maps/contrib/114222355918392196433/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmdra5iKWMsmSHJV46-g-3pue-f8hRnbpwOS5AwNnxNkRmce3c2g=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2023-12-05T11:20:31Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJa5VXVXYGV-8L05l_9FzVxave0IrWSJgZiOWjokPCElk-hfUz4wr-3KxcNuFlDOqyTNyoaq6swaWrX4wnris0EdMB4-dyvUSIUl5bwRFyhVsAQ3m0hJo-XFCLKgtOMMfk9AOny0KT-KsXs-F1-Y7PGSIfFhSDf9rYaG",
+          "widthPx": 1080,
+          "heightPx": 804,
+          "authorAttributions": [
+            {
+              "displayName": "Crazy 0.3",
+              "uri": "//maps.google.com/maps/contrib/118392086465367854443",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW73aMxNBoxxlTlz41pNrqXE4pBQZYQ9OHh5N408daDX_KfmlW8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJbpvloP7mKcxmv1CsrxrkvoTIjykE9f--zmZiOCxgFLdm3TiYfuEw00M2MBdREYzbMvufAp3767ozvCEx9_mLYwHj4-HomnAVXu3Q5k7DIOR6NgLUiUC5hDsznHEJcqHFkf6N9-Y4uNSJAfSuy9gAmXuM5hwgCudpbW",
+          "widthPx": 9280,
+          "heightPx": 6944,
+          "authorAttributions": [
+            {
+              "displayName": "Bikram Show",
+              "uri": "//maps.google.com/maps/contrib/117446496919557868973",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3sqyAUB8_qnVnChArrg9zZAVBGs3xzueXt6Kf-poyreMddNZO=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJayvtX7SO9g7v9IDylHSqpkAVggfCr25hYxf1-fs5OxUU4bdSzd1gWr_98NkBZtu1UnSlhBKQdJsUsMs1z8Agr7gOfKbLj99VMgRU1cIQyo6TaZ53qzan8OPrZodX-pp7ePRv_cDhbdwxpj_xk1e3Go8CSoYINnmA_O",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Sadanand kumar",
+              "uri": "//maps.google.com/maps/contrib/108475642274264533447",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW7-Q7Xs4SWX1TMMoB_Th5n3fIHbUaBMHfsz1LvshnKBJTr5t0x=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJaa37pn0-rACdAMFUq9pzwKTeAWw9OibEByyJxKjv2SpbEJe-4ZTV1huAjprI0HgKra3W-IK4_boAwUQUc8xwmfxgP2o1HRLCI0On3uTw0bTeRNZZssCY4uAJ7vDM0OI9GC8s52APlgmBaAiwWBxUGffHYM5r9tnK90",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "thakur das",
+              "uri": "//maps.google.com/maps/contrib/116429197883899220877",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWO1Ru1qN5A6DGRHxNfPwZTNdHRv29PARI6tb_aJ5GeefVjq98=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJbwOYb3BxXSxfdkxw8T9knkqR-a_pUgzXHDPZEFrdBwmSmvovz5A2mOhCdS53K1obPBuJzMaezm1n-fp0DTO8lG1M0CdL8HL84d-eziR38D9RV_jSoS_Wjg0dIHYjXNDNOYPF9URbrual0HW72lCrfjhYtpaCJeTEuD",
+          "widthPx": 1080,
+          "heightPx": 809,
+          "authorAttributions": [
+            {
+              "displayName": "Crazy 0.3",
+              "uri": "//maps.google.com/maps/contrib/118392086465367854443",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW73aMxNBoxxlTlz41pNrqXE4pBQZYQ9OHh5N408daDX_KfmlW8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJZsQSlUadOQeVdbhaTVbVZtbUuK8Iq5Er8JSTLo6Va6SiW5O98Z2klijiRIeuk2xNSF3osfTq5-Kf1DMpMsn4c1vQybUWwj8H0j91COokgHRxpG9FhBSlJds9AB33UFWHMKJI50Ups3vLIiL97SQSsQdMefokUa92tA",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "PINAKI DHIBAR",
+              "uri": "//maps.google.com/maps/contrib/100108433088100958531",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0rY9nRbgLSob4Ur4VVGmKbKs-zma8Ifwle5r-dGs7Afx7Dd0d=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJaRxfPO_Sr3-29uk2A2WnQU98hNzsmUW4YyaPmee-K_C90TOyJBdemszMYJHCan-xRXXbK3qqRWmmMK3_uNqZYSwxuf0B-ZoJ6cMoAedmdbgWTRthRMsqKBVfED3kK4j6sKHxU9uqks7UAUhcmn6J0nlyJ6LjoSUInA",
+          "widthPx": 2250,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "PINAKI DHIBAR",
+              "uri": "//maps.google.com/maps/contrib/100108433088100958531",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0rY9nRbgLSob4Ur4VVGmKbKs-zma8Ifwle5r-dGs7Afx7Dd0d=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJb1n-DkX3IP_dUSJKrUsBw7PIAFvTLEBwA7AL-K6RxgBGnqYjjXljyqrmkGnr32hIwjlH96ipGlGj624vYc7twy0vqeYWN728cvm6skDjG0ICTAzz1ZGbIv2D8IURuJJX8eoH40SUKQzgLtczrSyF8BNBYAj-ertixL",
+          "widthPx": 1836,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Sajid Alam",
+              "uri": "//maps.google.com/maps/contrib/103955950699333028723",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUfqR0pTuRlIecNwYb2ERAgVneNAiI3W41BFsPW7rwndy6V3JY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJZ9qhZf1OLP0UUBdn4XRdeATe1WwRvW_VVaRheriWwhetFvS3urPFqLCNtY4baK-Tlurdf0iZJ-XTnJVNjB49OpBbCxyCOJ25mmJO2M-Biz8hyLdjmxjPZcNYFlenKnyItiBkrR56PCkQ4GpWD7paPUfjzIenrm__xv",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Ashoke Saha",
+              "uri": "//maps.google.com/maps/contrib/109069207847733930382",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWYxswFfzVdaB9jqFABswtrIJT2e6YaSeQ1k1_JxeZ0K9MzNlf0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJod5XFvQZ9zkRtY3EjGqVa5g/photos/ATplDJbv-pOTUvdYQ-0cL0WfmFdvN44aa-DXZpMCPH_Vr-hZx_-hNMq14VxFUS3WFe3rC45i7DJqGrN5HmTS9OgTj1HugMOOSnD7s9r17_X4E7FpYDno8u7TPIl7yy_-c4S0WzhyLD5MBP_Pky0CTCphOhMpXEHKzj_eIej7",
+          "widthPx": 9216,
+          "heightPx": 6912,
+          "authorAttributions": [
+            {
+              "displayName": "Palash Mondal",
+              "uri": "//maps.google.com/maps/contrib/101835091630168189132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9Tu7UdAFjVAOQK7nrUYvYm2avu4Nr41xoQ5AHjVzDmX1T0L1C=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0",
+      "id": "ChIJv7nR-uUZ9zkR0zR6xgNuKo0",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MXHV+WX9, Ushagram, Asansol, West Bengal 713303, India",
+      "addressComponents": [
+        {
+          "longText": "MXHV+WX9",
+          "shortText": "MXHV+WX9",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ushagram",
+          "shortText": "Ushagram",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713303",
+          "shortText": "713303",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.6797869,
+        "longitude": 86.9949697
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.678349219708494,
+          "longitude": 86.9935895197085
+        },
+        "high": {
+          "latitude": 23.6810471802915,
+          "longitude": 86.9962874802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=10172063670863541459",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MXHV+WX9, \u003cspan class=\"extended-address\"\u003eUshagram\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713303\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 39,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "DURGA MANDIR",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "MXHV+WX9, Ushagram, Asansol",
+      "reviews": [
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5dTRiY0hnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice place to worship.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice place to worship.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arup Banerjee",
+            "uri": "https://www.google.com/maps/contrib/100824300387909843140/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsxSI8bL0uqG0dqSPvNFVXHWgI5VVsvAFitv1_3Mdfn5fccXxq=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-21T14:01:41Z"
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdHN1c09nEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful place..... Jai ma Durga 🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful place..... Jai ma Durga 🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nabin Sikdar",
+            "uri": "https://www.google.com/maps/contrib/112101290432569620067/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIpTReMkf5y8iJwwIJcg0h1oB9bDBJEDBksp4ahavA2dOjhkww=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-03-23T18:28:58Z"
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4aU1HSDZBRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place, basically during durga puja. Puja and arti of Bajrangbali perform everyday.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place, basically during durga puja. Puja and arti of Bajrangbali perform everyday.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohitosh Mazumder",
+            "uri": "https://www.google.com/maps/contrib/117601025239812331615/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXr5GuqgQFTV4vZgoRMrb1sSs0oc8yFO5TMHfaUlMJAcJ5-Eg0r=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-05-31T12:22:54Z"
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxX1ktbW9nRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sonia Modi",
+            "uri": "https://www.google.com/maps/contrib/102446470935350948544/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVi1yxAldkA8jKBfZv5S-M9nbj_gGhMcW4U1QXMcSOoQUreOzm4=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-09T16:18:23Z"
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNONHFPOVFBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Krishna Duary",
+            "uri": "https://www.google.com/maps/contrib/108336895061660553940/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8AnZQz9YSsouYdW-yCJK0ZGISBsmnJYpeH0cPHvhsl32BthMcyw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-13T06:32:48Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJZFUzto_PIggoxOWiLgCZ3nax7b7OPZaHaRqbGEHZXEbXuGPphqhx8zMSkJTJ3rFrAoz0ww50f1VijaUwKvViRXBEXZfyDFWlvvwWuKOxUNV9mEB5K_XJhh5ItM4D9YUQ0swqD0QnDrzQGyGxucNNpzwLbL4yiw74FI",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Gourab Banerjee",
+              "uri": "//maps.google.com/maps/contrib/104623383155367542183",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUomn3OMaqN7IGpZLD9cdiUJSU5vh_dlKOT12rwjMtfAQ9nFyi8DQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJbmV1gQqSX1lj4j8eDWYXFMEAWsMI692Bqll98v9F7Yj5U7WzGHNx9zntD66NqkryV41DRRq3Xd4gCtOkgxynexvDOse8uhJiOGNWg43BP4JDTQWd3hiHajFGAm0hSdozGn9jNuCNwvSiF0-X756tLwgD_cEqj7_bMy",
+          "widthPx": 6944,
+          "heightPx": 9248,
+          "authorAttributions": [
+            {
+              "displayName": "Nabin Sikdar",
+              "uri": "//maps.google.com/maps/contrib/112101290432569620067",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUIpTReMkf5y8iJwwIJcg0h1oB9bDBJEDBksp4ahavA2dOjhkww=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJYab4dnPMvZj8Ye7mj65ZnS9mTufgEC9akXxdNRZuy2L80WpzDBe6Sh4M_YHL4XqUXdDJEgEKkDHxStp2KIWvUN7QYavqv3FC5umuhjGPkbQVEXAsgJAte4XbrdovZ24XsZwHgrKK9l7TDBpLXAo3Ud0umr8ahqhXQg",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Satyen Bhadra",
+              "uri": "//maps.google.com/maps/contrib/102420127500631987107",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVBnqVcBnXmpIGNKajTspAmGPoGtktpth8gXwE12K7KEBOVW4qlxA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJb7tnEDfJM--NNIVvBUG6gsGEYwyRYLU2qU8JnhXBm3RF3iRs1rdTqxddZjGrutA4WWf-zzTIe8c9qSqk48XGdRc-3U3tDjCejd7VgSG2ojyGnoRFsS9bL5zBMimEXUmoXBF_CUz1iGDDp781-_tpk-aGMaUUBdAf9j",
+          "widthPx": 4640,
+          "heightPx": 2088,
+          "authorAttributions": [
+            {
+              "displayName": "Satyen Bhadra",
+              "uri": "//maps.google.com/maps/contrib/102420127500631987107",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVBnqVcBnXmpIGNKajTspAmGPoGtktpth8gXwE12K7KEBOVW4qlxA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJadIuJs6MSoA3Q1BRfd0alAirucjCB_PkWVGagD00rSf2ojfFw-A1PxK0Pavfplkv97OqaVaPVf6AUFP75HRugdvwFBpX1pIvsQ6yLMTPE_ZQ4hoHzzUjDq3co_r3E17UY40pxX3dsBCuJM-vwp4Cel171LAsZuMWbF",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Granthan Goyel",
+              "uri": "//maps.google.com/maps/contrib/109779263844669210367",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9_ec3v4mrVSNLSM8g3X3zA4RJ9w4MuOyn3mfjFqPEhx9pifNw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJaC-7uso1M-pdaEAvMU6fTA3fJJ3KqiPd39SCJn6Swi1_QLo30mc2WhjOSonzVV1O0tONEqmYr8BenTn8BPnu6tK6UKGC9ohkQmigE-8Hrd8yaC__LLJzY9q87pUDWoVedg3yhangMhywqDaR7bcRAbUJewuOEwRoue",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Gourab Banerjee",
+              "uri": "//maps.google.com/maps/contrib/104623383155367542183",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUomn3OMaqN7IGpZLD9cdiUJSU5vh_dlKOT12rwjMtfAQ9nFyi8DQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJZjgLvoZSjyRU-newL7QhM75sh7wqdyqtzacTaxzpPxdebd5V4dGDvFtvIlr0gkDITOiA5LcQybHsPLN919JV7OH4BgYiyMUSTfoqDewY5Cq2NUqn0w9m1_L9E52a1ejLlcEM-1zUbQjjVp3lLHxFKL4b2gnibkp4x4",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Shiv Kumar",
+              "uri": "//maps.google.com/maps/contrib/104995741107523387539",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUxBy9mAFCXiqFY_6YCHu0XsLIN1N6Upc6-fvVFeSKMFPlqAsUm=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJYozJ-FTiBPwLNYhq2Gl_OO37vOPDoMvqo8axHgnEhUCGkqbvoP-Ue-5F7x3rAV0yf9sAhVlq9mGS-_ISRmrm_6BEcW43yTvz1AhNu-i-0Yz19nZGClh0d0Ofirp46UCssG20LwwEfyVfhDJ_ZDwiol3Q4Vtx4oze-G",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Granthan Goyel",
+              "uri": "//maps.google.com/maps/contrib/109779263844669210367",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9_ec3v4mrVSNLSM8g3X3zA4RJ9w4MuOyn3mfjFqPEhx9pifNw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJbkTGBSEjop-p9UP9CMcCeecTKRddMxj-E_xmtWs0_Lg5tfcCNxcSrlLv6kBjWkPk5EAuXU7ldJszONncfge3Dw2fvOGRjbxHVBhrJbWdLaHVsVSSAP9f4BSCJIqCN74axQYnVcjllLxnI-A8VN0UdwN6wFdy2cvOcq",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Granthan Goyel",
+              "uri": "//maps.google.com/maps/contrib/109779263844669210367",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9_ec3v4mrVSNLSM8g3X3zA4RJ9w4MuOyn3mfjFqPEhx9pifNw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJv7nR-uUZ9zkR0zR6xgNuKo0/photos/ATplDJYA-XFo753E6k6e8clsS4DWl_KSgDUMJzEEthof8JCXkujwIJMZFSs3qllQI87y6q304firjyqgdknJt6GebQ6VxeTB3-KFD896G0Vi74s1e17OdMINJmVuED7TRG5nrzFtcWonkolyJbP1QbATomHiyihT6QB1cdNC",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Sujan Mandal",
+              "uri": "//maps.google.com/maps/contrib/103810769780579395013",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIOm537GWUa0jPG4hQtbTihzNiSGNRRgmRwReGp0rsuQXhHfDQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA",
+      "id": "ChIJjzQVk3gf9zkRosKSDSrqvhA",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Asansol, West Bengal 713340, India",
+      "addressComponents": [
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713340",
+          "shortText": "713340",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MM9M2M4+CP",
+        "compoundCode": "M2M4+CP Asansol, West Bengal, India"
+      },
+      "location": {
+        "latitude": 23.683514799999998,
+        "longitude": 87.00686309999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.682166069708497,
+          "longitude": 87.005510919708485
+        },
+        "high": {
+          "latitude": 23.684864030291504,
+          "longitude": 87.008208880291491
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=1206659216519119522",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713340\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 82,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Ghaghar Budi Chandi Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Asansol",
+      "reviews": [
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEalpIbG5RRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Ghagor Buri Chandi Mata Mandir, is in Asansol, a very quite and calm place for mata ' s puja archona and peaceful also. Spend a day devotedly with lap of nature",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ghagor Buri Chandi Mata Mandir, is in Asansol, a very quite and calm place for mata ' s puja archona and peaceful also. Spend a day devotedly with lap of nature",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Barnali",
+            "uri": "https://www.google.com/maps/contrib/105116038543477468898/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1PzZYmXQnhIAB_z-z2sB9ENuPqPW3D8jRjyl7A2uSsG2tu4w=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-31T05:01:19Z"
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoa3Vid2JnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "The name of \"𝙜𝙝𝙖𝙜𝙝𝙖𝙧 𝙗𝙪𝙙𝙞\" temple is depict the story of a goddess who appeared in the dream of kangali charron chakroborty wearing a ghagra.\nSo it is called  maa ghaghar budi mandir.\n𝙉𝙤 𝙥𝙪𝙟𝙖 𝙖𝙧𝙚 𝙥𝙚𝙧𝙛𝙤𝙢𝙚𝙙 𝙖𝙛𝙩𝙚𝙧 6 𝙥𝙢\nAlso famous for 𝙘𝙝𝙖𝙞(𝙩𝙚𝙖).",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The name of \"𝙜𝙝𝙖𝙜𝙝𝙖𝙧 𝙗𝙪𝙙𝙞\" temple is depict the story of a goddess who appeared in the dream of kangali charron chakroborty wearing a ghagra.\nSo it is called  maa ghaghar budi mandir.\n𝙉𝙤 𝙥𝙪𝙟𝙖 𝙖𝙧𝙚 𝙥𝙚𝙧𝙛𝙤𝙢𝙚𝙙 𝙖𝙛𝙩𝙚𝙧 6 𝙥𝙢\nAlso famous for 𝙘𝙝𝙖𝙞(𝙩𝙚𝙖).",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jayanti Mondal",
+            "uri": "https://www.google.com/maps/contrib/105357912207603540872/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSuTIZfEGtdrp_3QATMrYi-m7ftqMrTfYhL0KbDcaYZLgfSON7=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-02-09T04:55:16Z"
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/reviews/ChZDSUhNMG9nS0VJQ0FnSURSb056YWRBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Maa ghaghar buri is all merciful and listens to her true devotees. Jay maa 🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Maa ghaghar buri is all merciful and listens to her true devotees. Jay maa 🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Madhab Mondal",
+            "uri": "https://www.google.com/maps/contrib/114616832569264784138/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBLKdT-SVQNwnrJwCmCKxI4aGQNVc9Qpguehf7IzDN1PI23Ur9=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-04-15T06:23:39Z"
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0ejdQWUJBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "VERY NICE PLACE",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "VERY NICE PLACE",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MOHAN GORAI (মুন্না)",
+            "uri": "https://www.google.com/maps/contrib/113421284474351664918/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhtqL9HMeZZLcrIulw0GecyBOM5DqUoPJm0gYEbAMHDLRRuzSK=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-01T15:34:39Z"
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/reviews/ChZDSUhNMG9nS0VJQ0FnSURSOHNPV09nEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Gaghar Buri Temple, also known as Gaghar Budi Mandir, is a popular Hindu temple located in Asansol, West Bengal, India. It is a revered place of worship and attracts a large number of devotees from different parts of the region.\n\nThe temple is dedicated to Goddess Kali, who is considered to be the divine mother and a symbol of power and strength. The main deity of the temple is a black stone idol of Goddess Kali, which is adorned with flowers and traditional ornaments.\n\nThe temple has a rich history and is believed to have been built during the early 18th century by the rulers of the Bardhaman Raj. According to legend, the temple was constructed after a local farmer found a black stone idol of the goddess while ploughing his field. The idol was then installed in the temple, and over time, it became a popular place of worship.\n\nThe temple is located in a serene environment, surrounded by lush greenery and a natural water body, which adds to its spiritual ambiance. The temple hosts a number of festivals throughout the year, including Durga Puja, Kali Puja, and Navratri, which are celebrated with great fervor and enthusiasm.\n\nIn addition to its religious significance, Gaghar Buri Temple is also a popular tourist attraction and is visited by people from all walks of life. The temple's stunning architecture, serene environment, and rich history make it a must-visit destination for anyone visiting Asansol.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Gaghar Buri Temple, also known as Gaghar Budi Mandir, is a popular Hindu temple located in Asansol, West Bengal, India. It is a revered place of worship and attracts a large number of devotees from different parts of the region.\n\nThe temple is dedicated to Goddess Kali, who is considered to be the divine mother and a symbol of power and strength. The main deity of the temple is a black stone idol of Goddess Kali, which is adorned with flowers and traditional ornaments.\n\nThe temple has a rich history and is believed to have been built during the early 18th century by the rulers of the Bardhaman Raj. According to legend, the temple was constructed after a local farmer found a black stone idol of the goddess while ploughing his field. The idol was then installed in the temple, and over time, it became a popular place of worship.\n\nThe temple is located in a serene environment, surrounded by lush greenery and a natural water body, which adds to its spiritual ambiance. The temple hosts a number of festivals throughout the year, including Durga Puja, Kali Puja, and Navratri, which are celebrated with great fervor and enthusiasm.\n\nIn addition to its religious significance, Gaghar Buri Temple is also a popular tourist attraction and is visited by people from all walks of life. The temple's stunning architecture, serene environment, and rich history make it a must-visit destination for anyone visiting Asansol.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gouranga Sadhu",
+            "uri": "https://www.google.com/maps/contrib/115877709632663638529/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeuegPf8ayc_8zH7kJpbAG63WE9b8gmfaVXZOQgfs4xi3PKXmd=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-04-22T06:44:48Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJZoK17eXQ8pDqe2SqjEimHlFIBIO8e40m-gOTgyY4DulROOaJDeBxg664QzDLExRPFkcSmyDLJEDjBhccEl9TTPX7efXbwGvZ8-nv5uiCnDvi2PL_cQZioL2AMoaBIFaIjM2ad9yyV7nwMSKTG0weRUiJsmuCwUZDnf",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Vivek Lodh",
+              "uri": "//maps.google.com/maps/contrib/105996749593600160144",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXjdt_ebXGDagenXjUR973dRs9p7r9tzX_MZSsoR2aIrlFdPWMGBA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJZ-GYQTutaaOZqJ4-Gj-Vg3ah8NC3viOpTCsFThPlruCjIyROQIMBcpagw-tLfL4r8gCzMfrBFN6xl6OFlM8v7Ac27s4cgMqagif5xabOCHSBYglAn0rBGQTsOPIyeH-ok_ZX0nDAHbcYkdjB5TQGK28Ojs34mASmkF",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Bhagyashree Chatterjee",
+              "uri": "//maps.google.com/maps/contrib/115837825412226378588",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIR0_wZgOF1mQE8BeiRQehFXotHkILaB-4QaapqRkm8MmAGtw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJYDQrUDDVJcgoR15krDGi8n_qtwQDud2yQ30HLrkll8n8wnlt3Wc827RB-fSbF7eB5XFwztXauy2y8PLb0GbhxBOL0MbZsIvppPgsbVPHuCQq-S3mxvbpurmbuT685BJwWi5SRefxf3DMAbnrI7sLZcJXNq_8FdKijM",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Anup Giri",
+              "uri": "//maps.google.com/maps/contrib/108166305517978800971",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXPegixmmH3xesHmrxwehamC3afcTsi8cnpwFPEtrxopCRoJzsB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJacLeW2tGJTKHP-NcYYeB1uctzbEbcY_X_BG-SekTvxVMmtGIjwDenYGWAVvZymS1VAMZKJ7b5l__B0E3FYBElPp9qtReVYOTOhVwFVz0HdZJrA2atZlo2TqLIPSJFPGAgdohzWDeJO6bx9HDS7zNtamIw67L0VyvwO",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Suvendu Majhi",
+              "uri": "//maps.google.com/maps/contrib/106405837507831794051",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXtewdZmFARSrZ6myDBSMTxPoM-_U7B0vs7Azm4-DivjKwOlLLh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJZjjEugmfOSyeLZjZ10Xd3eSh_xhIMfcQVArWBxUXL7MgaRz0Ukz3a8eE9rm7mpnl9OvCEBliZX6d7Bk_2s-5vInegB2VVMdS9X9Bp0k1esvJQo3FkwEqgt2C-9om70CcUwOQGpsn-vnytqmuSbWKh35t4h6jvfrFXw",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Suvendu Majhi",
+              "uri": "//maps.google.com/maps/contrib/106405837507831794051",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXtewdZmFARSrZ6myDBSMTxPoM-_U7B0vs7Azm4-DivjKwOlLLh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJZWD6RcebDbyfDMUqrifVvXlaQhQIJ0gJ0yHADvyz-b6b9Di2_303PmWgluubqqSNvmjeJWrz94Kn6YrMoxK7BoCLtzgTcd2bbr9rE2p7KQjt5StpYo5WmSsevkBpJY3rLTFTO-LUO6mDhfkWWrv2PffK7ZVxdQDHtP",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Suvendu Majhi",
+              "uri": "//maps.google.com/maps/contrib/106405837507831794051",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXtewdZmFARSrZ6myDBSMTxPoM-_U7B0vs7Azm4-DivjKwOlLLh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJZpL4tiE4j0-aper3wSrBptMkT6KUmjZeVHkIlX6-K8y9JKUFFugDA8yH4blSuH5fJPJOT9ShGEO7_Pc2UF2v5bouTAKINss1JGvO_EMb-Yqa5z85lQQ2Z5L_Wh9zvRnLBinefBy-d0VoR6sEbf33oSRZDnC9Zz2Wxv",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Arpana Kumari",
+              "uri": "//maps.google.com/maps/contrib/114126634572248132867",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFUjiga20Ok6yLkcEegscf90iAHu2D_fjMq7WHh_wTGV6aNqQC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJZ5xaWa4WXtAZ1kjAwGS1Pdr4eHspnYBh45mmskm-MxoZ5ie1nnXgJS7llkEag3mMXufeXyaCX6siBkbPWHgh13N9LtdrBdkrgcsaDt6yLxsTDJFsJ_1SpQjzifMx15H9UwsHdFSLfoPN4n3zt04fmx8ReugS8vGm72",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Arpana Kumari",
+              "uri": "//maps.google.com/maps/contrib/114126634572248132867",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFUjiga20Ok6yLkcEegscf90iAHu2D_fjMq7WHh_wTGV6aNqQC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJYVkG2XsXoYxutPSG35xBKkVrO_b5zVeVW58t7H1ByIR6PyzG2SMIAeCD1yzaRZbQIbBU-hSZH0TAu_C-YK-fW_Loqatjmn4O-x5-cAVMm0UYBAN-CVAqTwOSQtFxOqREyhPFVgCr7sYgQ550MUOXQbLj2ZxU0wV76b",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Arpana Kumari",
+              "uri": "//maps.google.com/maps/contrib/114126634572248132867",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFUjiga20Ok6yLkcEegscf90iAHu2D_fjMq7WHh_wTGV6aNqQC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjzQVk3gf9zkRosKSDSrqvhA/photos/ATplDJb4bvGE1IN6vk6SXDl9psjqxvtKQa9eBGm4FBNr5WxfkwEf8tOWJ6yOPh4MVBuO4hW3EVz63ZxPkXJldRep4c7u2rMuOoJhCMMpawkwy8kRb-DpCwY7VLqwnO_lGaIZT8ERIppMp9kNV_RElij9LICQLB5QCiv_JFJd",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Suvendu Majhi",
+              "uri": "//maps.google.com/maps/contrib/106405837507831794051",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXtewdZmFARSrZ6myDBSMTxPoM-_U7B0vs7Azm4-DivjKwOlLLh=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8",
+      "id": "ChIJt-NCQi8Z9zkRp1zUW9MkQA8",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MXHR+PJ5, Ushagram, Asansol, West Bengal 713303, India",
+      "addressComponents": [
+        {
+          "longText": "MXHR+PJ5",
+          "shortText": "MXHR+PJ5",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ushagram",
+          "shortText": "Ushagram",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713303",
+          "shortText": "713303",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.6792704,
+        "longitude": 86.991608599999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.677945869708495,
+          "longitude": 86.990186219708491
+        },
+        "high": {
+          "latitude": 23.6806438302915,
+          "longitude": 86.9928841802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=1098918799275744423",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MXHR+PJ5, \u003cspan class=\"extended-address\"\u003eUshagram\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713303\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 27,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Murgasol Sarbajanin Durgamandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "MXHR+PJ5, Ushagram, Asansol",
+      "reviews": [
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/reviews/ChdDSUhNMG9nS0VJQ0FnSURlamFLTTZ3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Every year in durgapuja I visit this place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Every year in durgapuja I visit this place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chitra Karmakar",
+            "uri": "https://www.google.com/maps/contrib/111685881687091677150/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7pQ7yRcfjCRoC4lGKta51MT1cJdlpnPkhDxjqAPsmsJYhj7wE=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-10-16T11:36:50Z"
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtM3IyN1lREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Good maintained place. There is a very good higinenic environment.  And the place is very near to murgasole bus stand.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good maintained place. There is a very good higinenic environment.  And the place is very near to murgasole bus stand.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Trilochan Rana",
+            "uri": "https://www.google.com/maps/contrib/111576249727187979094/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgzfSBYrlPp8yn1rTou-r_UqrM5Ml0lBmBE8hJeeIXadxGyrZN=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-12-16T09:10:40Z"
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/reviews/ChZDSUhNMG9nS0VJQ0FnSURNdDdYQkdREAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Durga puja is worshipped every year in this temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Durga puja is worshipped every year in this temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Binoy Tripathi",
+            "uri": "https://www.google.com/maps/contrib/102826581892643422136/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVt-VBCKKfwsNIv6dUreZ7Peah1B-dQx_Fep2MA0jwpnj7O3lVN=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-01-15T13:02:07Z"
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1MGFmVHdBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Place for pace. my respect always.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Place for pace. my respect always.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Niraj Saha",
+            "uri": "https://www.google.com/maps/contrib/111289264168175544318/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw8UD8qXA5eFtBXkjnq4ARntTbwrJpPSFTHNBEcdm72yVxsfG4Cw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-08-23T07:07:50Z"
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1eXBLZTJnRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Wonderful place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Wonderful place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "goutam das",
+            "uri": "https://www.google.com/maps/contrib/114225198431042140549/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULzI07tFsnk6Zj_6UeC6A8y6NdLq8_Tc5YwHxjfQD7S1ejnER7CQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-12T14:36:14Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJZszla0ZxEngzp9maV72ybxUrvBmndZy8k2vi36da0uBHjR5T7gk8Lxmn32DyinqxhU-QV9qx8gxn3vtfHd9sDIKdipUwT1s7oIW4_jz2RgmG2_jn9gXAJ-gNyuT_e2KKryqvy1A-PopS7AD-P2znBvnyIPyen25kS5",
+          "widthPx": 1040,
+          "heightPx": 780,
+          "authorAttributions": [
+            {
+              "displayName": "Rajashree Upadhyay",
+              "uri": "//maps.google.com/maps/contrib/113051745669004810917",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9jrpv2jp6s14ZzJ2u9LfsSXF_Hmk3OZfzQ3xpUr4TQvc5kvdr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJY1RCn5MydQUQ3wOphyRZYaDjVUU5kEV6gVC7x-WY2kU71mSuQWQTXIQfJ6waXvFW_EeWNs10qrWQbJ7euGrNtLVrO_-7t1pv3zMlurLuMA1YDA70io7Rt8-6DZVGX989uh_gY_XPbr7WPfhJuCCoLhHlBQh8P7MUxF",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Rajashree Upadhyay",
+              "uri": "//maps.google.com/maps/contrib/113051745669004810917",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9jrpv2jp6s14ZzJ2u9LfsSXF_Hmk3OZfzQ3xpUr4TQvc5kvdr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJa8tW50lhJ4sJJKh8Xy_eKebH2Hc8HAHknXEEU3N7Uddlj4jCpAU_TKzodKZokIk9ZXSda12v6Ws51Dm8rEPILRW260FDtwU9mZk3s-4kpFyY4CyB-mVCqKRbGcjhl6ubvuOwXCP2-QHihyq9yJyh3Xsu9Q2f3DwlOw",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Rajashree Upadhyay",
+              "uri": "//maps.google.com/maps/contrib/113051745669004810917",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9jrpv2jp6s14ZzJ2u9LfsSXF_Hmk3OZfzQ3xpUr4TQvc5kvdr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJZDC-6czuzuFpdkoRnpyKOMR8qrADXveWxY6ZxqRa10UE64kjvqS0zzxkBu9RRvVSTj1HHYLM3CAyPtFwwGsDYRuF6kpbXRLbFF7cqrezoZO89yJSr2bEUYg6Vf9_wpn91U9PWbOm3zQJ_ZLRjGUBpl28MMgLBZIMoY",
+          "widthPx": 1932,
+          "heightPx": 2576,
+          "authorAttributions": [
+            {
+              "displayName": "Rathindra Nath Saha",
+              "uri": "//maps.google.com/maps/contrib/104382605949972295771",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyeSD4ni1NLFJShbie8DG5paxfRqswEw2lj8qOIpeDeWQutzwK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJa7QxUZvfMu0cwc8DcH7VysLByfaE-3tUh9qIPCCyPgRAw-p56uhRHdQ66F64FPpGqqi8lG7KMljYIEM7zU7tlQqzQPjv0wFPR35gFNZ1LkSslu96G0D71BFVxfR0W3lmWP5tGoO4UHVPpP8Xh4Fdf1VZgVebC6EQVE",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Rajashree Upadhyay",
+              "uri": "//maps.google.com/maps/contrib/113051745669004810917",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9jrpv2jp6s14ZzJ2u9LfsSXF_Hmk3OZfzQ3xpUr4TQvc5kvdr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJbrKGwGVKdOQ1zon3oh0ZXO2Z9lOjU-Ylxf8WiDicIX7zbJrq4z3LdUBIArAeZbcI9PB0RDaH4uKY5ra4R9iPYkZb7StiWH4JvKq-hebrKVHFABxOsAFH3hG-z4Gzmkvsd0u_lyRIBYPE4H-eNR-4llcwt-rSA9YxqP",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Rajashree Upadhyay",
+              "uri": "//maps.google.com/maps/contrib/113051745669004810917",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9jrpv2jp6s14ZzJ2u9LfsSXF_Hmk3OZfzQ3xpUr4TQvc5kvdr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJbeAcL9YTn0_GtYwkvjkATL_ucsg__6LSFyLldPLIZurTFjk0ta2qXj06jeReVDhW5Io-Ju5FuTTtMmZs1QIfgVd117oUDnyKe4-6AdpLKkMGdVoV8toBGM16r39QGA9n9EfJ-rzkpCL1IJ8XYEJ1o7XXopNMjXa2P5",
+          "widthPx": 5312,
+          "heightPx": 2988,
+          "authorAttributions": [
+            {
+              "displayName": "Prasenjit Ghosal",
+              "uri": "//maps.google.com/maps/contrib/110332821167851877090",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKeqPe4sNIwQ4Co5AycD_cH9yEmAl5LNwk7IIvqke3CHD4uug=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJYcct-3cMADc9zmalYyJNwuPv2GFyfFyivwzO-7xEbMAqtmAmo9MKQeGpAEtue-HD8Bha9uaP8B8-pw3Vo6WRdef8Lrbm1ZmVGhq5lEnPWQXvL21Aw61Lubfs9GzbkQZVRqASMDojdz000mCKx2OYbjYLS0ZBFmKvfQ",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Prasenjit Ghosal",
+              "uri": "//maps.google.com/maps/contrib/110332821167851877090",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKeqPe4sNIwQ4Co5AycD_cH9yEmAl5LNwk7IIvqke3CHD4uug=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJa5PBNEf8xrhf4fN4guYNSw5zJ3QZcoF6beT0KHGwedCXlotnvqalIo1MvyMxihImLxnjKxT-SCz0EGMPOmSinraSmEOC4sbP5qpCKjUE9jgEAs8LZ1AjRzxyOIzP_N_WQezMx7vHbCb5QWqSg4ntcpi7u33_U3rKcQ",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Crazy 0.3",
+              "uri": "//maps.google.com/maps/contrib/118392086465367854443",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW73aMxNBoxxlTlz41pNrqXE4pBQZYQ9OHh5N408daDX_KfmlW8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt-NCQi8Z9zkRp1zUW9MkQA8/photos/ATplDJaT8Lv0zVrbRmR0cf0OqkssYk24w4yjBpmdAmbMxj2Sf_pNT44UTjrKBkgqZf_nuJSKwWFvx0EEkk2_a1Erwl8NPuAZFLej4RTbO1uFkWqxpo-veUnvhjZfxPTBIkYAq9znW62GrqsjNGIx4U5qJUhq2oTusNuklrA_",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Jayanta Banerjee",
+              "uri": "//maps.google.com/maps/contrib/104592235276162694070",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlTgEygJHBOz6Aqx1f4JM90uVrnj9akckOvCUpZlSud5uo61g=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0",
+      "id": "ChIJL6erMxkf9zkRkWo0q2T-Og0",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "1800 212 1655",
+      "internationalPhoneNumber": "+91 1800 212 1655",
+      "formattedAddress": "Shatabdi Sishu Udyan, GT Rd, Munshi Bazar, Asansol, West Bengal 713301, India",
+      "addressComponents": [
+        {
+          "longText": "Shatabdi Sishu Udyan",
+          "shortText": "Shatabdi Sishu Udyan",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "GT Road",
+          "shortText": "GT Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munshi Bazar",
+          "shortText": "Munshi Bazar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713301",
+          "shortText": "713301",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MM8MXV5+5Q",
+        "compoundCode": "MXV5+5Q Asansol, West Bengal, India"
+      },
+      "location": {
+        "latitude": 23.6928895,
+        "longitude": 86.9594371
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.691483119708497,
+          "longitude": 86.9582595697085
+        },
+        "high": {
+          "latitude": 23.6941810802915,
+          "longitude": 86.960957530291509
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=953353979464805009",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 10:00 PM",
+          "Tuesday: 6:00 AM – 10:00 PM",
+          "Wednesday: 6:00 AM – 10:00 PM",
+          "Thursday: 6:00 AM – 10:00 PM",
+          "Friday: 6:00 AM – 10:00 PM",
+          "Saturday: 6:00 AM – 10:00 PM",
+          "Sunday: 6:00 AM – 10:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Shatabdi Sishu Udyan, \u003cspan class=\"street-address\"\u003eGT Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMunshi Bazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2078,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "iconBackgroundColor": "#4DB546",
+      "displayName": {
+        "text": "Shatabdi Sishu Udyan",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Park",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 10:00 PM",
+          "Tuesday: 6:00 AM – 10:00 PM",
+          "Wednesday: 6:00 AM – 10:00 PM",
+          "Thursday: 6:00 AM – 10:00 PM",
+          "Friday: 6:00 AM – 10:00 PM",
+          "Saturday: 6:00 AM – 10:00 PM",
+          "Sunday: 6:00 AM – 10:00 PM"
+        ]
+      },
+      "primaryType": "park",
+      "shortFormattedAddress": "Shatabdi Sishu Udyan, GT Rd, Munshi Bazar, Asansol",
+      "reviews": [
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOclA3U0dBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Park are beautiful.. there are so many places for photography but this place not for family",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Park are beautiful.. there are so many places for photography but this place not for family",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Riju Roy",
+            "uri": "https://www.google.com/maps/contrib/107163689380096054842/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWslJGI3q9AureCa1tPAbwAQcGmloEPwVTUeMILbyvUXjrdkfgXCQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-15T18:18:29Z"
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/reviews/ChZDSUhNMG9nS0VJQ0FnSURFaHFHd0hBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "This is great place for having fun with friends. it's not family perk because I got see there has lots of couple . structure is little good but not so much .. there has free chilled  water available .has canteen also.\nU can see beautiful lack view every corner at the perk .and .The name seems to be kept such that children perk  but  thats   park of lovers.everywhere   u can see lover there doing love making.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is great place for having fun with friends. it's not family perk because I got see there has lots of couple . structure is little good but not so much .. there has free chilled  water available .has canteen also.\nU can see beautiful lack view every corner at the perk .and .The name seems to be kept such that children perk  but  thats   park of lovers.everywhere   u can see lover there doing love making.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RB World",
+            "uri": "https://www.google.com/maps/contrib/110630663053574113117/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI_uuHQhP1fUOw-i9PrFNK3qF6IadElXUNMGierb1J06WSLOI4G=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2019-06-22T12:43:39Z"
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOLTUtWklBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "This park offers a romantic atmosphere that is ideal for couples seeking a peaceful escape. The lush greenery and serene surroundings create a lovely setting. However, families may find the intimate ambiance less suitable due to couples engaging in public displays of affection.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This park offers a romantic atmosphere that is ideal for couples seeking a peaceful escape. The lush greenery and serene surroundings create a lovely setting. However, families may find the intimate ambiance less suitable due to couples engaging in public displays of affection.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sahjad Alam",
+            "uri": "https://www.google.com/maps/contrib/111954082192184297734/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUoyIiYILNRFgtSLMDRvGceT_tsy-AdASvD9gmclnXZeicGbHz=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-20T02:01:54Z"
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkN01pVG13RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Not a good place for children. Avoid to go there with children.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Not a good place for children. Avoid to go there with children.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yogesh Sharma",
+            "uri": "https://www.google.com/maps/contrib/107674926715363503790/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXX25OlcnIicRKWWBWereEh1nmQHjLFEjNS13tPE17DquAK27np=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-13T13:03:13Z"
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsNmVtQWlRRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 1,
+          "text": {
+            "text": "The worst thing about this park is that there is no food or water allowed inside the park. If you need to drink water or any food, you must buy and eat inside the park .\nYour bag will be checked upon entry to ensure that no one is carrying any food or drink . 😑 Bad experience 👎\nAnd this park is not good for young lovers👎",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The worst thing about this park is that there is no food or water allowed inside the park. If you need to drink water or any food, you must buy and eat inside the park .\nYour bag will be checked upon entry to ensure that no one is carrying any food or drink . 😑 Bad experience 👎\nAnd this park is not good for young lovers👎",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aniket Pal",
+            "uri": "https://www.google.com/maps/contrib/100185942437789674274/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUC3lAXME0D0zD280-tfascLJ96a1ghhmH6dlLfj7-YcKHM0CWYVw=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-11-21T18:56:05Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJa8wxfW8SWZmwOjCmMuF_7qZrjG3CEQCuT9G6q8voFxEfmoAYvgCM2P_PMyVFwIKYgP1363dTGoh5esjOeQgH1pyoA6DZ9NHNNd0e_XJQDdZL-xIQmyIiBkQjtmTfEsuUDGbEf4N7KOgmBYcYkkLabdnfbamPlZZpyc",
+          "widthPx": 1080,
+          "heightPx": 701,
+          "authorAttributions": [
+            {
+              "displayName": "Subhasish Das",
+              "uri": "//maps.google.com/maps/contrib/105571926954338233001",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWhatnNcDwAWNnqkTUg2fhMtQPocYKzdjG3da6HruBgf9MHWQat=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJYqrcmI7aJJcYDO_KyjBztaWZhj2gXVShtkKlXqgjM8Fxd3jdTP0yOzO3OewXnZ-EsWRkpPdXuZqpSMnh9TY6Hkx-I8GI62vu8E6a1b3g_-wKr_BljOG_NIH0VQsfqWhJcBCmeu_CF4IaiAGWhTUwbNnTxfVeG9dojZ",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Being Abrar Khan",
+              "uri": "//maps.google.com/maps/contrib/115020679633973974590",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEkCgqa6cd0itiYzIjioQzXnPdt7Dq1qdFW0L7Vex1CnL3bNMeAg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJZSOqCTfLgDjsFpGCSqjiiK-Bof0f_00HR8nFVh2mbh2O5oszc4edK60cCVmbeBlcGi7fHxwYxDxklm52jjkpiztgEPkK2SyjBpw8is3RCnTkePGjNIf8uZCjJ9p-57yFgCjwzHW7E6u3Ndaj-OxgFPPwjixgcpMq-E",
+          "widthPx": 740,
+          "heightPx": 415,
+          "authorAttributions": [
+            {
+              "displayName": "MD ASHIF ZAMAL",
+              "uri": "//maps.google.com/maps/contrib/102053079910812238406",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVl_lJBi3UxUlswCHVkD5myjG3T8dyAAA5vNL73YY9JF79d4sZ5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJbH7Xkn14j4puTsVL9v3YpYLu3ZAYEsSeBYqEzrQg2vsnYDJeegQoQkdm9p6a4ROUhLcdCWygyR3GZhM2mksgmVF7yF8CPwSX4VjbdIf4F3KObSPngkH8gxUqsMUz1lyL98feIQu-Niu9hQxi9UEWbbX1ulDcGff3b1",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Sinha",
+              "uri": "//maps.google.com/maps/contrib/101069076194501290874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWkorSGxzZ1U0FZo_kRmr3D_TAhI4JpLAgdtjQFIbXoyj9JppZZZQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJYxrjMunbcKKB2X3wOBczfSwkIQ8IToeKr_g_R6tWB0NvP_h1y-2DRmH3QRatsMQYfC6gpTJjRFjnspPzzhQQqYkasifQLmFmmyJ6E7khb_inC7hKh-m37J0dOjcJ9RTivfNH5SChTpEH_B5K1N81pLhElROAVRRqdT",
+          "widthPx": 2160,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Kritika Mitra",
+              "uri": "//maps.google.com/maps/contrib/116409592939080855271",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUx6_9dcROJZ8LM-1NYEisTS186JvQswEi7OIf40Qfpy6fCYXzbOQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJZ-HDlk70x4tNbstY2nO8Jv_1DfGGxuw5vxEJidy2RGsNnT8UGreNFGXepF8KfuRNb4oIMG9kRRC7j2Bf04WWgbgwxeYm6E_6rsOoMndbGEPTvSkFJd0pT8T-Ow9QoG-2Q9PeJBM3kOwHduhV95X7Uv_JeSVw0EhiFA",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Being Abrar Khan",
+              "uri": "//maps.google.com/maps/contrib/115020679633973974590",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEkCgqa6cd0itiYzIjioQzXnPdt7Dq1qdFW0L7Vex1CnL3bNMeAg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJbeDURHbC0ZfWIcaQ9cWPj86n6EiYisKld5AoaDv7UlUjmHgRK98zg1tf__UjErN2SKgsYoRNtYkAHGp2Qlbrb-FMaDpgOeYqJrUtAC-D-gcugqscMJzL37r_Ym9cc7H1EFkIXDgrxhKbkOnvkGQxU-g9hAKj0BPLHr",
+          "widthPx": 1080,
+          "heightPx": 714,
+          "authorAttributions": [
+            {
+              "displayName": "Subhasish Das",
+              "uri": "//maps.google.com/maps/contrib/105571926954338233001",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWhatnNcDwAWNnqkTUg2fhMtQPocYKzdjG3da6HruBgf9MHWQat=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJaJAxts6lUZysxnnouaMXXb6mt6kXooV6eITnmH_oIlJrMXYNYKwYL6IMQbMNztnV2-R9b8yr2B-TR9ZyyA-3OuOamerz5Njfm5oWOE5zwBKc7vPUYEL9nwJRjYIJtP8KRHykjuViIsyKufBhk67bnoUZO6kg_1NO8m",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Being Abrar Khan",
+              "uri": "//maps.google.com/maps/contrib/115020679633973974590",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEkCgqa6cd0itiYzIjioQzXnPdt7Dq1qdFW0L7Vex1CnL3bNMeAg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJZPEw-AR51pVRaN10Q40NpmoGZRbd7D_Qb64D_VVMVaS2RGVUzObxwHkboXOcC1bCSGC3IL3aNrgnOYYldEmWqq3IFHQX9Ii5hWq-lfK0eqPwaRCo6wIfoqUkoUFU0NENC7abWJ8StJBKjejz7tggy65aMPvRUjfGhk",
+          "widthPx": 1080,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Subhasish Das",
+              "uri": "//maps.google.com/maps/contrib/105571926954338233001",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWhatnNcDwAWNnqkTUg2fhMtQPocYKzdjG3da6HruBgf9MHWQat=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL6erMxkf9zkRkWo0q2T-Og0/photos/ATplDJam8bKhG8vRNA0zBZK0smGa0SnckT2WtDac4KO2rYJxETQr_yZd035iWRL0CkxK0x44qvQrSiBeS6yZwakAd4OIZXk7EmslSb91Ad6SQlXDgeV-JmdTzXK-J3OWrUE0s2wQld5DoYu52puw4C5tkvm7nX3Rfd5_IOM5",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Being Abrar Khan",
+              "uri": "//maps.google.com/maps/contrib/115020679633973974590",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEkCgqa6cd0itiYzIjioQzXnPdt7Dq1qdFW0L7Vex1CnL3bNMeAg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40",
+      "id": "ChIJmy_0DNYe9zkRfkLann2LG40",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MXMH+M3C, Raha Lane, Pathak Bari, Asansol, West Bengal 713301, India",
+      "addressComponents": [
+        {
+          "longText": "MXMH+M3C",
+          "shortText": "MXMH+M3C",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Raha Lane",
+          "shortText": "Raha Lane",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pathak Bari",
+          "shortText": "Pathak Bari",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713301",
+          "shortText": "713301",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.6841947,
+        "longitude": 86.977626700000016
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.6828698697085,
+          "longitude": 86.976381719708513
+        },
+        "high": {
+          "latitude": 23.685567830291504,
+          "longitude": 86.97907968029152
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=10167873955371303550",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MXMH+M3C, \u003cspan class=\"street-address\"\u003eRaha Lane\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePathak Bari\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 180,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shree Shyam Mandir Asansol",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "MXMH+M3C, Raha Lane, Pathak Bari, Asansol",
+      "reviews": [
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/reviews/ChZDSUhNMG9nS0VJQ0FnSURwOF95b1lREAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 4,
+          "text": {
+            "text": "The very authentic place for peace seekers. The spiritual vibes clean ur inner soul bring peace and give satisfaction.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The very authentic place for peace seekers. The spiritual vibes clean ur inner soul bring peace and give satisfaction.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abhinav Barnwal (Abhii)",
+            "uri": "https://www.google.com/maps/contrib/112348167134415733131/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJxhYZDygTHdg4iBZyrvkSy6L3Gwmh3HPzMVxMmuo-5DR2RRwbMQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-08-28T20:40:51Z"
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/reviews/ChdDSUhNMG9nS0VJQ0FnSURkc1l1MzVBRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very very very good and very nice Mandir",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very very very good and very nice Mandir",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "mayukh ghosh",
+            "uri": "https://www.google.com/maps/contrib/108872131424858467751/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpCZwk4R2uZqccX32Y70HHIkbUHvumcZ4WHSIlBV06WFVNFg48=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-02-24T16:09:33Z"
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZMkpEMS1RRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "A well maintained beautiful temple . It feels so good to be here , peaceful environment & most importantly you feel peaceful after entering the temple. Idols are so beautiful that it seems they are real.\n\nI'd suggest you to visit here using the public transport because parking is an issue here coz it's built in market place.\n\nDo visit the place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A well maintained beautiful temple . It feels so good to be here , peaceful environment & most importantly you feel peaceful after entering the temple. Idols are so beautiful that it seems they are real.\n\nI'd suggest you to visit here using the public transport because parking is an issue here coz it's built in market place.\n\nDo visit the place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sneha bhalotia",
+            "uri": "https://www.google.com/maps/contrib/111076031502480763197/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLlaLSraMHhIoCmwtsFYVIA2mKCN6qE8dMFC8Cu0ekPxtzEuQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-04-01T11:33:51Z"
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZck9PTDhBRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Great peaceful divined place..one must visit..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great peaceful divined place..one must visit..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Neha Anand",
+            "uri": "https://www.google.com/maps/contrib/109090535911663508553/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFqDHu52rUPMKGiusSCfSZS3XsBB1IfwYFv1OZ1Ln4KiV-Omu2=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-04-06T03:46:32Z"
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/reviews/ChdDSUhNMG9nS0VJQ0FnSURJMmZ2UmlBRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Shri Shyam Baba Mandir Asansol dhaam\nPeace, silence, worship 🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Shri Shyam Baba Mandir Asansol dhaam\nPeace, silence, worship 🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shubham Jhajharia",
+            "uri": "https://www.google.com/maps/contrib/115457660623917458451/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5lMaqUvvIZ-vqFUn_disFpemaQhlSp_Rn4FQopWSYgmlI-ct7=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-01-12T03:51:03Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJa1R6Kp1BcdyZ1oHdRRJObeGKQEiLooLJ8C_2qJOCcYHHaEOBo6JVlGfRNSH0YzNmqHPg-sGNnJm5HKjVORUEILwZTDvqQ3o15x7keBOiQAF2spe1t6tR9LHb37AEY45Xufhb8-gXeP0NyjeN6BEh8Fkuzvsd-V8YzJ",
+          "widthPx": 1440,
+          "heightPx": 1922,
+          "authorAttributions": [
+            {
+              "displayName": "Saawan Nayak",
+              "uri": "//maps.google.com/maps/contrib/118328759892976824305",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVATkR4Oi0f7sOsbkyxBLQk7OnoXCPDi2s4Bse22e2dCJT7j0Ek=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJZRlVQayS6wfAopcku26MD4TwxVdfijWh1YcQ02OBmcuj4VRcNcvuQPbGLFNq6ZoF3EgbyK5fgQFBcOCAESd6tprufLZ5eP0FWwECDUZKsTNsFGoRwVYsBKu_goh1jPJaxDxney76OHT6IbJXuyfg1DgmXQJcolwYo9",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Sikander Yadav",
+              "uri": "//maps.google.com/maps/contrib/111616417188158689520",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWqUXtNbfMenFzhW8vzt7taRBVRSbLfir9NKTwCJdndH7T6ISUT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJbX8gO8gd5CR1A5vaxV9VpUA3rAWEutmTZQSKlA-iweuQViFN6RJENn3q2RjFV65KK8LIfu6Svki81n8exQAJg0ZYiMguawngXKY2lqoYAn0S8MLsBNPiXqk4HrwFiFLtncMJfLZNwS8sVAHWFiCCKe-Sf0L5VehfN9",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Shashank Motivation",
+              "uri": "//maps.google.com/maps/contrib/111190420276293730964",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWRGE85Gq8BYS4DU7DobQwjKXu_1HISAo44SbAIpqZ2PfiiMk4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJYAiX3MMMjrc2aJ0-j2V_PrJ1jZomojWt7IzJVnNNkRtwAAzSlW8jlhjHiUoVnLAhqS2qW5t_HzHhLWkqHfkPVQxL3FxhjplIXnWj7Sn-nBh7UaYjk-xN-50rd7odVRKbZ8AbBs0xnhQRGJMd4iTiTYe_F1EcaUbsLT",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Sikander Yadav",
+              "uri": "//maps.google.com/maps/contrib/111616417188158689520",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWqUXtNbfMenFzhW8vzt7taRBVRSbLfir9NKTwCJdndH7T6ISUT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJZAYnAwmqfVFoNo1ac3el8g_bnan_6PTEANsAA2W3bLU_FNe77isY20yElKhFixxyjebdFw0_0Ucfnpfsvp5_uYleJvDcdKVkUHK3_LLf1EVq_hKy34ANrA_kLEP450lHAZi5vCq0TrOz0ZtpRvNdWlhR9HnCHitbo-",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Shiv Kumar",
+              "uri": "//maps.google.com/maps/contrib/104995741107523387539",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUxBy9mAFCXiqFY_6YCHu0XsLIN1N6Upc6-fvVFeSKMFPlqAsUm=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJaZ_Ajz8dZBtnY53WjC5bZPrhYLHXxDF8TPRf-YOcBwbmGW_QUOJVkCkFqmgTIRgMHxxeNuQkMu9E6vrt5vHScrpODpqGzpmY1x_AWzBt5HBWEEbpzN9UIXWms7RFs92UmvYT543CKrzXJT_kMG5MFXOHP4_6qZ6zLk",
+          "widthPx": 1430,
+          "heightPx": 1428,
+          "authorAttributions": [
+            {
+              "displayName": "Saawan Nayak",
+              "uri": "//maps.google.com/maps/contrib/118328759892976824305",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVATkR4Oi0f7sOsbkyxBLQk7OnoXCPDi2s4Bse22e2dCJT7j0Ek=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJYgVv5tx2GuEVmAiSkBms0MBkPthGdczpcRNr6zJcCVRwzRw5_FBRGfi1_k8ougDcTfEpxG09AJYjxrAKOhbVRBa9t1XRKzEiz7yCg10Uf5dl6v8Vd7wxEMM5BDSxQ0OC1NTY--Jx_d8JPCxErmk_5W-kj0sPxWWfnK",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Shanu Roy",
+              "uri": "//maps.google.com/maps/contrib/115429847819511684005",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW-x_6s4YW-kE22xCZxYUUkpGThq75GURSH4QY_fQkWjA5sgiM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJbDK4KJvYVxpxZI_5aEMLPD8RmXfb1T05xzjdqK3OwU721-eigXBpOW6EtGUIHvtZVrHQHbKFyX9SP6R-rrkGvmT2pB7yz5FiL1tusQICYy-2PliD74xraYMcStrM_SrLgHUi01bFTtYEJRiGMKsl93cTr9t2iVVU1t",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Rajkishor Tiwari",
+              "uri": "//maps.google.com/maps/contrib/104007211687417478217",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUVxFbio-_Sw7kbSw0l1Li-0TrUi3nnETOtM_y8WZUUyGzrofrs=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJY86Nx6QHWhY-K-tJ0Uc4vBzXhvib5E9CTHXk3O-0TBgzRHqYyu_dnfRKLKRZMRPSI7U8o01zPQ90ktfNjgj_L1Qg3Mr13n6CWZ40GXfopT1xD9uLbR-Mt--C3OQReWIqNYdQU1cPew_nYJq8BrHZETS-ZJxEwUNU0e",
+          "widthPx": 2088,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "mayukh ghosh",
+              "uri": "//maps.google.com/maps/contrib/108872131424858467751",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpCZwk4R2uZqccX32Y70HHIkbUHvumcZ4WHSIlBV06WFVNFg48=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmy_0DNYe9zkRfkLann2LG40/photos/ATplDJYBtoSLPpDqzoxXQsutqRs6GykIaSju-pGfOdRt8TpTTOr2fstqiYZi05bsQrji-8SOshcp1aIUuyjzxTTkBFvGBMzCx_hiuU0y_943u28mN7E1hqwxsyesiOMpgBr_X8pb-akX1Dze8AB5KqNVPD8jzU5CpZ5ZM4KY",
+          "widthPx": 780,
+          "heightPx": 1052,
+          "authorAttributions": [
+            {
+              "displayName": "Rohit Kr. Agarwal",
+              "uri": "//maps.google.com/maps/contrib/116789319710620992104",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVf-si2VQ4Objf_0AOOK4zt5ts67DW5LxyiHIYsI8bv-zEoweQrlg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk",
+      "id": "ChIJlyW9vPMZ9zkRBv4KhYzn_lk",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "M2G6+3R9 Kalipahari Road, Domohani Railway Colony, Asansol, West Bengal 713303, India",
+      "addressComponents": [
+        {
+          "longText": "Kalipahari Road",
+          "shortText": "Kalipahari Road",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "M2G6+3R9",
+          "shortText": "M2G6+3R9",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Domohani Railway Colony",
+          "shortText": "Domohani Railway Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Asansol",
+          "shortText": "Asansol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paschim Bardhaman",
+          "shortText": "Paschim Bardhaman",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Burdwan Division",
+          "shortText": "Burdwan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bengal",
+          "shortText": "WB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "713303",
+          "shortText": "713303",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.6751725,
+        "longitude": 87.012112
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.6738331197085,
+          "longitude": 87.0107483197085
+        },
+        "high": {
+          "latitude": 23.676531080291504,
+          "longitude": 87.0134462802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=6484875104173620742",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "M2G6+3R9 Kalipahari Road, \u003cspan class=\"extended-address\"\u003eDomohani Railway Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsansol\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713303\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 17,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Asansol-Kalipahari More",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "M2G6+3R9 Kalipahari Road, Domohani Railway Colony, Asansol",
+      "reviews": [
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNod3JHREx3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "pawan kewat",
+            "uri": "https://www.google.com/maps/contrib/109784102241226792296/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3NFS_2rJgH431Zx5KaMeDkan8hF8R7X0vIfAr_7AoZuFUflwt=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-02-08T14:49:05Z"
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCbHFiSWxRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Bikash Roky Raj Yadav",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Bikash roky raj yadav",
+            "languageCode": "mr"
+          },
+          "authorAttribution": {
+            "displayName": "Bikash Kumar",
+            "uri": "https://www.google.com/maps/contrib/113461392349147738736/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXgioyS8J-FjR6v-rrUmBv1lAEkP1BFvI8ghtJoeazAC_CQpk=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-12-24T13:06:04Z"
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/reviews/ChdDSUhNMG9nS0VJQ0FnSURSLWRiQTlBRRAB",
+          "relativePublishTimeDescription": "12 months ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Satyazeet Nandy",
+            "uri": "https://www.google.com/maps/contrib/108859352418097392129/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVer2L3o98ixVMMAXjOottFQdRAtDEqqEiQsv02XaJ7ebz7So1HNA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-04-29T10:46:22Z"
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/reviews/ChZDSUhNMG9nS0VJQ0FnSURlaU91d0J3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Puspita Mallick",
+            "uri": "https://www.google.com/maps/contrib/100258660281535154390/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1Vzzu4Ndr4fKbuI_P3FMsYc_uuaEqtkMwCaFNXQ_CvrE2nd_u=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-09-30T12:36:25Z"
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/reviews/ChdDSUhNMG9nS0VJQ0FnSURsbUpxejJ3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Subhajit Hansda",
+            "uri": "https://www.google.com/maps/contrib/107252998435343016924/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVE3soiNduAPrUJb0sLc1pYcPAhmsfEI3IznSdfKkm2tXhmv58G=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-11-30T02:37:22Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/photos/ATplDJbtYEFM8WpB6MecUrKplCMdw0Xp5JPoxCJ4xoIVGKLc3NmNnkRhQnefBvGr-4QDcFsL-Pcz3aRDCiqF11sI5bHQrzDKUbAY2zsyt5fKphaNyB1MfhL7p9x-n3hgxdmLzFajgRDHAFhqWvqefZk7oCG6Fk9ju--J4Rrd",
+          "widthPx": 3264,
+          "heightPx": 1504,
+          "authorAttributions": [
+            {
+              "displayName": "Tanmoy",
+              "uri": "//maps.google.com/maps/contrib/102141232061355403597",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFTrMiqxxv8VMjsK2DqoHG2rcpaXsZTerMy6guDaOBXTpm8lGL=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/photos/ATplDJa4wSswvXnmqRg12jJf0PqAvGS_3AbdM14FrmCAcp_pPaRFNzlsj5EJIiHKZFhX2MDM-Oxy25diS-TlTkcWnJpDe_LDn0MrxTVEEcRS5NkeiilM3vdy_1XJE6pKYmWv5T5-j35YiLTixFThwLv6XS-ls0XpnVB_ezmV",
+          "widthPx": 4080,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "Avijit Mitra",
+              "uri": "//maps.google.com/maps/contrib/106715362945294169134",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWL_w49KOHiWl-1PbsSXN28_4Q4V5_lN7fiAXx6nHFGDQjsAQqp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/photos/ATplDJZwkHpTHgDA5p3TLIlaro7bv0JPD9C2qee1GOe5IugL8vJCZWv0VkgXuXnTjYrS_tu7Wv1QUW9eS5MpIL0XyHt_f36KZAPd6GkvaBh7Olnf12RlLOEJXkJZ9uIqBVAlcuXeil956YummpZRrVQ5xakCqCXwx9qNUc-6",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Sandip Bauri",
+              "uri": "//maps.google.com/maps/contrib/100966914692428018141",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ949O8eBrr5SB91eAJ0dmQocZyiJq9cO2A-c5du8hKvb6flw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/photos/ATplDJZTqg8S9odhhPQoBeyJSQ78GogSNc3luPD8SIqagt3LxyfdwuvEDsWWJv7GbIxTGY0M0hISvYvyqdcpkDN8TngtUkTcQn-hdvIB5ywgSRrJHyWWfW6vNgJqN3R9SFRW-z6J3UAZQySAm9bapsoHluJHUPEe_nFKy3Dl",
+          "widthPx": 3264,
+          "heightPx": 1470,
+          "authorAttributions": [
+            {
+              "displayName": "Sourav Mitra",
+              "uri": "//maps.google.com/maps/contrib/103934797930468866851",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWZEkR0VxOdbTzw1WjPakQV7C377Y_7a_tZLF9ifDf9G6bOI6wh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/photos/ATplDJY9F0queiTnDah7AUFhh1D0UVbylDjZz5SlwNlkYOiMSUwd6S1DwjzX8WBhPlPNyaQIhKouGNahWtmsvsOX2c89lzh1X7GTYPztan5HmTp0_yBSOM95ctynGDWrgV_AOhn1EbJNWy1y8CWTPwBj3rKlI4SSNLK_J9Pm",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Avijit Mitra",
+              "uri": "//maps.google.com/maps/contrib/106715362945294169134",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWL_w49KOHiWl-1PbsSXN28_4Q4V5_lN7fiAXx6nHFGDQjsAQqp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlyW9vPMZ9zkRBv4KhYzn_lk/photos/ATplDJaL6AGmn59c0r8tqnDmGXEU_kugseUJh4LE0e1R6888kzHyaGxzsQcVi_yjJyNaSMGlE_6B_0D906iC5QcHPHqPoBSQOfPA3JppT59lKyOdv1HfD1DKupUkinU4RG7Zgs6eSfuEVbYjwEuxrPExwmwJdrBZbkTx1G1i",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Subham Das",
+              "uri": "//maps.google.com/maps/contrib/106680999340878885215",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVGFRnAMCwR4Xjl0DfNpx_D3gdMBfds_YWVOU__y0gf_738aQ9h=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    }
+  ]
+}
+

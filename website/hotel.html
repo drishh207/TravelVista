@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotels in City</title>
+    <link rel="stylesheet" href="css/styles_hotel.css">
+</head>
+<body>
+    <h1>Hotels in City</h1>
+
+    <div id="city-name"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const cityNameElem = document.getElementById('city-name');
+            const urlParams = new URLSearchParams(window.location.search);
+            const cityParam = urlParams.get('city');
+
+            if (cityParam) {
+                const city = JSON.parse(decodeURIComponent(cityParam));
+                console.log('City metadata:', city);
+
+                fetch('http://localhost:9002/hotel_rank', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ city: city.metadata.Response })
+                })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    console.log('Received data:', data);
+                    displayRankedPlaces(data);
+                })
+                .catch(error => {
+                    console.error('Error fetching data:', error);
+                });
+
+                function displayRankedPlaces(data) {
+                    const resultsContainer = document.createElement('div');
+                    resultsContainer.classList.add('results-container');
+
+                    data.places_with_reviews.forEach(place => {
+                        const card = document.createElement('div');
+                        card.classList.add('result-card');
+
+                        const nameElem = document.createElement('h2');
+                        nameElem.textContent = place.name;
+
+                        const addressElem = document.createElement('p');
+                        addressElem.textContent = `Address: ${place.address.join(', ')}`;
+
+                        const overallScoreElem = document.createElement('p');
+                        overallScoreElem.textContent = `Rating: ${place.overall_score.toFixed(2)}`;
+
+                        // Add click event to navigate to places.html
+                        card.addEventListener('click', () => {
+                            const data = {
+                                city: city.metadata.Response,
+                                hotel: place.name
+                            };
+                            const encodedData = encodeURIComponent(JSON.stringify(data));
+                            window.location.href = `places.html?data=${encodedData}`;
+                        });
+
+                        card.appendChild(nameElem);
+                        card.appendChild(addressElem);
+                        card.appendChild(overallScoreElem);
+
+                        resultsContainer.appendChild(card);
+                    });
+
+                    cityNameElem.appendChild(resultsContainer);
+                }
+            } else {
+                const noCityElem = document.createElement('p');
+                noCityElem.textContent = 'No city specified.';
+                cityNameElem.appendChild(noCityElem);
+            }
+        });
+    </script>
+</body>
+</html>
+

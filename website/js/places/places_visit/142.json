@@ -1,0 +1,3234 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs",
+      "id": "ChIJO5WmZXkH4TgRX3QQ3sMf1Xs",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "097173 00203",
+      "internationalPhoneNumber": "+91 97173 00203",
+      "formattedAddress": "6953+QM3, Azad Gunj, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "6953+QM3",
+          "shortText": "6953+QM3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2093767,
+        "longitude": 74.354161699999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2083720197085,
+          "longitude": 74.352609669708485
+        },
+        "high": {
+          "latitude": 34.2110699802915,
+          "longitude": 74.3553076302915
+        }
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=8923073162809209951",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 6:00 PM",
+          "Tuesday: 10:00 AM – 6:00 PM",
+          "Wednesday: 10:00 AM – 6:00 PM",
+          "Thursday: 10:00 AM – 6:00 PM",
+          "Friday: 10:00 AM – 6:00 PM",
+          "Saturday: 10:00 AM – 6:00 PM",
+          "Sunday: 10:00 AM – 6:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6953+QM3, \u003cspan class=\"extended-address\"\u003eAzad Gunj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1590,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "iconBackgroundColor": "#4DB546",
+      "displayName": {
+        "text": "Gulnar Park Baramulla",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Park",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 6:00 PM",
+          "Tuesday: 10:00 AM – 6:00 PM",
+          "Wednesday: 10:00 AM – 6:00 PM",
+          "Thursday: 10:00 AM – 6:00 PM",
+          "Friday: 10:00 AM – 6:00 PM",
+          "Saturday: 10:00 AM – 6:00 PM",
+          "Sunday: 10:00 AM – 6:00 PM"
+        ]
+      },
+      "primaryType": "park",
+      "shortFormattedAddress": "6953+QM3, Azad Gunj, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4dksyWVV3EAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 4,
+          "text": {
+            "text": "One of the beautiful and well maintained public parks in Baramulla area, which is located on the right flanks of river Jhelum. Well laid tracks/paths for morning joggers and evening walkers in Baramulla town. It also has amenities for the amusement of children. Lots of ornamental plant varieties, well manicured lawns.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the beautiful and well maintained public parks in Baramulla area, which is located on the right flanks of river Jhelum. Well laid tracks/paths for morning joggers and evening walkers in Baramulla town. It also has amenities for the amusement of children. Lots of ornamental plant varieties, well manicured lawns.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ishfaq Tantry",
+            "uri": "https://www.google.com/maps/contrib/116241220530542486295/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOvlR16ipX3Om8Kg4ZGq5yeOImvjdMsLKX-kq4QR0H75FulAw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-06-04T05:37:38Z"
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2a3Bmb2d3RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Beautiful view of hills surrounded by trees and river flowing, atmosphere is good for family get together. Food items are allowed.\nToilets are in a bad conditions without water.\nKids playing train and swinging items are attractive for kids mood.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful view of hills surrounded by trees and river flowing, atmosphere is good for family get together. Food items are allowed.\nToilets are in a bad conditions without water.\nKids playing train and swinging items are attractive for kids mood.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "perwaz khan",
+            "uri": "https://www.google.com/maps/contrib/112813580414317105707/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUodkXcFqYadPksrSOH0Q3XR1tI4qdAPt-BleimPPN0sVqZWFI_MQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-09-25T03:47:35Z"
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5eHJleUNnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 3,
+          "text": {
+            "text": "The park was amazing till last year now there are no slides they have got damaged  . The park i knew till my childhood was absolutely good but now it doesn't look better it's getting worse day day  the govt should do really something related to the park and it's condition",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The park was amazing till last year now there are no slides they have got damaged  . The park i knew till my childhood was absolutely good but now it doesn't look better it's getting worse day day  the govt should do really something related to the park and it's condition",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sheikh huzaif",
+            "uri": "https://www.google.com/maps/contrib/104518685351133226516/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKALhyDXkBORAbJtvKRLONZK3yxIqSAWjIuttEgyQbkOC7Yg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-16T04:55:43Z"
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwdl82cGd3RRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Beautiful place needs more maintenance , yes you can spent quality time there.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful place needs more maintenance , yes you can spent quality time there.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "basit wandroo",
+            "uri": "https://www.google.com/maps/contrib/112062702769852815068/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKnJhCBispkl9UNXomIuaQTdmG3u5MRzlK421ikI2_5iZJ23to=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-08-13T15:04:21Z"
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/reviews/ChdDSUhNMG9nS0VJQ0FnSURseDY3TzFnRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Beautiful park, but lacks vehicle parking, had to park on road.....no spacial food arrangement, no stay arrangement, toilets available but not in usable condition... family especially children  entertainment need to be enhanced in terms safe equiment and security installations",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful park, but lacks vehicle parking, had to park on road.....no spacial food arrangement, no stay arrangement, toilets available but not in usable condition... family especially children  entertainment need to be enhanced in terms safe equiment and security installations",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mudasir Yatoo",
+            "uri": "https://www.google.com/maps/contrib/110769312926282083235/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJBcmhBq_pT_pDluC6VqmJBJHMu-y-xJfwK0bNISHip1_LgtO4=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-04T06:21:00Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJZgCuHSN1YJabtvadLj1oo1-kJy69MjdeYlKsV8wAsqBhUFzQcIzxxPfh4Qb_utKis1SWjW5a806Z6ZXi3cAYvoMhBsKDn37lWbebcHYFek9EeGN7smoLyzRXlFT5HHZW9QKSgOPQ90ZikxyWkw9IRDLSTOUGnVDNE5",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Dr Shafeeq Ahmad Sofi",
+              "uri": "//maps.google.com/maps/contrib/111603843039201049514",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVJFPI1njHQ1cvQjQPfZ7P2Bi1BMTGnH9p1CzEtyYEQIeBVCtDp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJaKi3NBmXD6x-q68ImLESg_UNXDy45G1wDEtMEM4LFZbulZ1AftWf5oJ2leZXMqhnlgScpa6BgxCbMbnjnA6a9W7JPTRR8WA8xNonWVyG2jHtP3HCsfp8ChwxFSZ2ZdScGTAKgeIto2aO_gYzEP03i4MF2_m7ulqR0j",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "IqBaL sHaH",
+              "uri": "//maps.google.com/maps/contrib/117147404546425663884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXaL-Ra86vnIFLxCHsPXCiM3--Vsrg2EbWGe5Zv0Ujy7KlpBKAU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJZKjNe0h2DsUypxMTp6EJUEzvVCWdFGFDrMIziN-YBlkUvyLjXSadEooHcIeQKupcegcWjG_c2Ifae6kFnpv0QZaUhOZkDXgdQns0Abv6bPABTAWQEJC_36OUvLu8lkRUtf24mzhF1nCZ0hPM8kkATJWdljIsifgi8",
+          "widthPx": 3984,
+          "heightPx": 5312,
+          "authorAttributions": [
+            {
+              "displayName": "Drive Kashmir",
+              "uri": "//maps.google.com/maps/contrib/101817964956613369922",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3hEfuM4M90QlOg4Uof_0YQAJ5L3vY05zvlTpvT_N_vhp8aCo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJa8Ftl55j-LvogKDh7goAGjt9K0fyXCxrMV4wepOwaqpBxwD77m2eHZW1dTkjQpoVer5R1VuQXa1IoSKzFa9L9fjKP5A31zfF6lGQHLnLOMbzN6stQqnVBgh8u-hgHllci6mXPIDKyZsX0Rfkc-30K__dQYfMn_2xVB",
+          "widthPx": 2128,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Aziem Habib",
+              "uri": "//maps.google.com/maps/contrib/107781915927964552786",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUwIWG5g3achJBb-8P_wNzfzSVXrL6uD898vypKQPSI45MizK6B9w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJZC294E8XhC3HADzgFYboioCfc5itqu8HDjL9uNpBTegAJ_2r_zNFZBpXK3SJKS09mLVo4VQqaaHbTy7_J8gvA54p7nLJplmVJjAKOfo2feEvfyWR62rZpiRa171ROwwu5Pph64ha-YAM6hhH3Kh5rFLCvLHMysb4Sp",
+          "widthPx": 2592,
+          "heightPx": 1944,
+          "authorAttributions": [
+            {
+              "displayName": "BUBU RATHER",
+              "uri": "//maps.google.com/maps/contrib/117134613008498881850",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9lmoLseQpr_IcPiUFjf8m7oDyfS7eB0d7D7lJ7IcK3vkWPZmXrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJboCNRDE4qoJoxYua4Nimcr82O1Wv0rxxZEzTg6ym96Z9HMRVxfnIrcV4RpIXyHv3LF65Y3-8uI7RVa5-aof6ObsA6mDjRp1SDEMwfS0ZVvAiPLEFAi1JywKKAsugIx-APj3MbnZuIBCvx8ShcnDN0kgSyLqmreRSQy",
+          "widthPx": 4898,
+          "heightPx": 3265,
+          "authorAttributions": [
+            {
+              "displayName": "Asif Mohammad Mir (Aashu)",
+              "uri": "//maps.google.com/maps/contrib/108774120690379245593",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJbrKslSj5xIq7NRHpSPZ-poRT3DQ3r7CbaQbRCe9mdB2SFRKM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJb3HQZ7wlJEJ00nN3VhKJJaCI-K_3OHbPCNmrdzoKYkrE2QhM3jAGAPFnbS4Rkxb_GOGMlToS6hsgdlKUFO2R0uXQX7bf4rg6Tw2R22it4K3hI7zNKc3I9NlFP_eHrn3dPS5I9DHZbN1YoOHkNRMNuOz19xNa8SSkXs",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Aijaz Ahmad",
+              "uri": "//maps.google.com/maps/contrib/109261090677564149784",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU_cbFhGGC5AkEutc-Dcg9OJIfZJO3Mp1EgZzJpXzonFrT1cYjY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJZCWSMXcVhAPSJCaL541enDmlk9KbFsts1Um-W9y9VHlUn8zRyoGqny2nHjF1qxewUjtokLgMhLoBwuVRyr8xiLqcyJxqGJ1ACdZbq8Oo8q7SA5XHd13Di_-j2FJjUS2EXl9IVf5Eu7WbpnJYvCGcaXWNalaBxH0JiW",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "QURESHI MALIHA",
+              "uri": "//maps.google.com/maps/contrib/114494015123203419894",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXmceTBukHS9iZPbYZ53VRjD9xh_gYgTdKxorAY11jutBDjmG2c1g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJaibRWoosA0AoH74Fgt0oxVtO5v7ChLj1i5Mb-a16yre3dm2YNgdl2OFoxgjYf6vqdut_EJFNtMuq0q0Hbs7Q23RK8-tC_gxPPORXs8aymH7hQRCBrX0DaDnqKvxOEXRoCORa1kcFSRC7WIduv-mlmVkthQmvrb7YYI",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "MOHSIN MEHBOOB DAR",
+              "uri": "//maps.google.com/maps/contrib/101426130089193618496",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXZSzlZeSOyLY3eEjEB9IM3FIcjA4dDDpEb2D22t-CN6abyMl6tZA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO5WmZXkH4TgRX3QQ3sMf1Xs/photos/ATplDJbNtxfB445rCvuKdNbae3wT9i4Kk64K1bZp2-WxoZduisyTLmYrVAKGRe0x9vq69EJDONVVNJsn661HjuDXN5uiTAtBYgXduwVf4aLDZoD9wBP9g7t3EvGXscZKrFmO3K3IJZLt_7FL-FJ5nH8Quu6-59jMzktHnFE",
+          "widthPx": 3984,
+          "heightPx": 5312,
+          "authorAttributions": [
+            {
+              "displayName": "Drive Kashmir",
+              "uri": "//maps.google.com/maps/contrib/101817964956613369922",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3hEfuM4M90QlOg4Uof_0YQAJ5L3vY05zvlTpvT_N_vhp8aCo=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw",
+      "id": "ChIJTVpPOwMH4TgRqDMpTYykCLw",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "689G+M4F, Haji Bal, 193101",
+      "addressComponents": [
+        {
+          "longText": "689G+M4F",
+          "shortText": "689G+M4F",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Haji Bal",
+          "shortText": "Haji Bal",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2191848,
+        "longitude": 74.325298899999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2178633697085,
+          "longitude": 74.323956219708478
+        },
+        "high": {
+          "latitude": 34.2205613302915,
+          "longitude": 74.3266541802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=13549260401441059752",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "689G+M4F, \u003cspan class=\"locality\"\u003eHaji Bal\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 45,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Hajibal view point",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "689G+M4F, Haji Bal",
+      "reviews": [
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1aWZTRjJ3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome place to explore!  Ahh that view of Baramulla city is scenic ❤️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome place to explore!  Ahh that view of Baramulla city is scenic ❤️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammad Arif Sofi",
+            "uri": "https://www.google.com/maps/contrib/111274813845091304547/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSOY4GTTyFwSdLHOV-h1vmGftHNBHCgA2KTLmubDUSLE8RH5S5=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-08-23T14:45:53Z"
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEamVxVGZREAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 3,
+          "text": {
+            "text": "Needs to maintain roads",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Needs to maintain roads",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aadilshah",
+            "uri": "https://www.google.com/maps/contrib/107443404231167493611/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbCM63LfQqZk4Jv4_HycneLN5fYGbZMrLABUuQ_OH28GqN982C=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-31T04:32:29Z"
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/reviews/ChdDSUhNMG9nS0VJQ0FnSURPbE02WjZBRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Amazing Viewpoint, You can literally see the whole baramulla city 🏙️.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Amazing Viewpoint, You can literally see the whole baramulla city 🏙️.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammad Naieem",
+            "uri": "https://www.google.com/maps/contrib/112549969762858280624/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_5wdBM7SBiEYtzKG3xeVYvFrB4NzUYNuhmlirKT_d_TuCBVs8=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-06-06T10:32:17Z"
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/reviews/ChZDSUhNMG9nS0VJQ0FnSURKbk9qbkJnEAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best place to visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place to visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Simrin Pal Singh",
+            "uri": "https://www.google.com/maps/contrib/101850206541720239786/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgyRmGp468PF3L4YVY0sZnrSSfjplY8PjurDxED_pNuapZUiO1xA=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-07-28T13:22:15Z"
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/reviews/ChdDSUhNMG9nS0VJQ0FnSURPa0luRDZRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "You can see whole baramulla from there",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "You can see whole baramulla from there",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Iqbal javaid",
+            "uri": "https://www.google.com/maps/contrib/105816869578957480521/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3qbmHIzwMNKok0oeea69Y7ENs3upihDc7sfx-mY8wt6qqUDUU=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-06-25T06:21:41Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJa5tUNjWMAquyJAGG1RI32O9AnP88ip_RbuA3smklp5TSNUYv17zICzZv1mobPulPRTkQ0MBUDhriGia0MwyXQExKIjvy6Es72HmByjQK4Ouxr2g1LvP6xe2LisOz3GACQQ_70SDr6Wb11L1AKHrWIuIinpKexnzEgy",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Danish Bashir (thecreativengineer)",
+              "uri": "//maps.google.com/maps/contrib/102446330020829439206",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWD8ZkyrZ9GVEdCVSBI6p3ZQYKhb2vPuhGWMyR5TPpydNQQISK8yw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJb9zwD6thmpbTGOmce1u2M6N1sf8jII0TzSVXHLfjy-Yzy83kZBprhX5IoxyMnZQLp7UdrROo1vn5X-myIN2N5B7j1IGIKUUJFA1Q9BNbfVdG7d-lMuQDQXDmgONXZcI4bwy6R3XBIb-PeUMS0iCxMXgTJ02h2enfbl",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammad Arif Sofi",
+              "uri": "//maps.google.com/maps/contrib/111274813845091304547",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXSOY4GTTyFwSdLHOV-h1vmGftHNBHCgA2KTLmubDUSLE8RH5S5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJbbsUOuVYGsfktyph8jCqWSTK96-SqBORHDfzILVLzVyCI3U4oeUKYfKAcSeYHycAq9YTLqamOsSdNhECuqR2jFA9daZnTcSRywuXAW2pS-F9-8UMCe5Aj-cWcWeniizrkPGspSdr5RRS3gF2_ynX9wGnS9_lvnhqG1",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Farhaan War",
+              "uri": "//maps.google.com/maps/contrib/103081481803914903967",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXQMLPsBkvOR7XlxrrpafB07Hli8opFuNSbeduFVcssamIg0XRm=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJY4BjK3naJS4tF6GBkzLKiIH0X8p738LRefnVATkyj6UI5D2nFbgpm2intzfbp1mLVSaPn0ykA2Ax23qlNbHQnFb75Si4cpSf-DgYY4Y0NcJi43RnNKwSB8IH_uB2g9LTWhkycai4zuQhEueEDsP71rnJXVilZhNLdG",
+          "widthPx": 2600,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "MUZA MiL",
+              "uri": "//maps.google.com/maps/contrib/103396236915014678632",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVwut2dp64WkIc98QJd1ZxrVTKglEcIftKvtA1JfCUd1MHN2T01=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJb8guxAw6mmbWYaouUhXJCh3XdsujlJuYRYFkunq7SCKWBpQcFYO_FUlOyRyr1ejneTIyKXGTFs_TK-JyJIZ70LjHvALjPVkcQEMRx5_WCoRuAE6PetffqBEgJ3oQTM3X-tZ_sAWuX-vxevdoHaO4pvUYBlXHR7RJ-C",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Abrar Altaf",
+              "uri": "//maps.google.com/maps/contrib/111825524249817056700",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWcg6ZWNBPBy6Zby_7bgyLJF-HLpyO0LYfWZgpZvV-2QPaM3ljT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJZmvSuSA8Zmt2HR2n15zK5yg3OFIxxFFIX4CwlEtebti_LPafWbGjBQac1freKcelA5jbKZNGtay3gCNzRPZ5d5TSpsrgCE3twlt7vD1ijokjBztI30Mgnk-FWpFe4A7kjP_araw0LuIUlKQIfwA-u6EqUgacEsT4OY",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammad Arif Sofi",
+              "uri": "//maps.google.com/maps/contrib/111274813845091304547",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXSOY4GTTyFwSdLHOV-h1vmGftHNBHCgA2KTLmubDUSLE8RH5S5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJYHeI6Ysp9_jU3kYI21v-12dloishEqObku2ESY6uSkf3B4H23pMFChlg9FJhQxlV6Jtf_nupQ5T4dt7EDWoQAatvmIMLAAldAgtMGTtlUEcDSYbz5Gyk07YGhKYWhR7BvNIYvibVThmZInPAdGA_an0t7uHMfw1dlV",
+          "widthPx": 1440,
+          "heightPx": 1440,
+          "authorAttributions": [
+            {
+              "displayName": "Anaytullah Ahmad",
+              "uri": "//maps.google.com/maps/contrib/116141986335688838114",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWecYYTNDm-42L7y4JquJ6IRHRUZv6sMErWFHdIzOJtiwWCzvGP=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJZy3V8SND8bj9Wj6DWafj_yXf3AwYRUAdtMlHpaqtXm-wiKp4Dt8Vqi6tR6rOkBepnm6ythK9GRchknfcwEp0q4IwkSt2zj4C4wT_BZNn-FzEJ5tetUFgPnNWwrgbkhPKRb_Qhlp8pl7qyCp4Tg390rQcQy3NYm5F_F",
+          "widthPx": 1844,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Bhatt Irtiyash",
+              "uri": "//maps.google.com/maps/contrib/104683744972541412163",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIdK_vVVcwP2ONbXraHllOfNQsX-TT8d8jSiEpjrj4x-nYNgA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJa9dg1CW_crEtFAzIkJcX2MxQaWIR9nVE5TMiUm-CU4KJvJlze07rYJQh05NM8AqTnhF_vjF32K_pkzZ2-nWPs5VIcfY7UX1FcdKGY7cfew-HpZSAeGryoeHLrbk9WzZp3zrcPxz5nSOpVagv7hdCIy63fjrDb7ogFQ",
+          "widthPx": 2048,
+          "heightPx": 1152,
+          "authorAttributions": [
+            {
+              "displayName": "Google Account",
+              "uri": "//maps.google.com/maps/contrib/117696204160500815909",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVHPOhBl4NTcoDr-urn_9eK5JYopuRrQ96WiCXywKGusKYkJJY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTVpPOwMH4TgRqDMpTYykCLw/photos/ATplDJY7usY8gOZa9kUfJTLGOOk9oSC-HEIm1TJ3YaiZ0YpRPIxH8S05KJfGYenHmonW_bdr6iUeMWdVCAIR0GXRe2AK5OOMHqCBvuLC5aWIDBiLjNAHJgrSg5d-UFqV1WxhWclT7fHVL9FGwOk6pst-7WFFOWfU56NDJzy6",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Iqbal javaid",
+              "uri": "//maps.google.com/maps/contrib/105816869578957480521",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3qbmHIzwMNKok0oeea69Y7ENs3upihDc7sfx-mY8wt6qqUDUU=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50",
+      "id": "ChIJO7EOm2QH4TgRtgh1WV8lB50",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "684V+QXX, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "684V+QXX",
+          "shortText": "684V+QXX",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.206984299999995,
+        "longitude": 74.3449759
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.205638969708495,
+          "longitude": 74.343543969708492
+        },
+        "high": {
+          "latitude": 34.208336930291495,
+          "longitude": 74.3462419302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=11315053680244623542",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "684V+QXX, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 265,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Masjid Rashad",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "684V+QXX, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaLWFQQTVRRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Masjid Rashad is situated in Baramulla. It is Tableeghi jamat markaz. The Masjid is fully carpeted and has ample parking space.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Masjid Rashad is situated in Baramulla. It is Tableeghi jamat markaz. The Masjid is fully carpeted and has ample parking space.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashfaq Ahmad",
+            "uri": "https://www.google.com/maps/contrib/106592978887913971105/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl64EVXzXweqceeeqa70HXLeL60thJ5kVUp1TCj36bqebdwSc=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-14T02:44:05Z"
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbjZXQ2FBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This Masjid Paak is present on the main connecting main Highway road and Market road. The Masjid Paak is really big and beautiful, you will feel the real peace while performing prayers",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This Masjid Paak is present on the main connecting main Highway road and Market road. The Masjid Paak is really big and beautiful, you will feel the real peace while performing prayers",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "KASHMIR KHATAMBAND",
+            "uri": "https://www.google.com/maps/contrib/106978285046119106745/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXM8-ynx_GJG6JzIlOH_eHxmh6_WZc_8p4uqoJH6CO-_ATdwY=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2022-04-08T10:04:14Z"
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXaDgtak5REAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Masjid Rashad is the main center in Baramulla , the people from other side Baramulla like from Sopore visited the masjid because it's interior design are very much beautiful and the architecture design is lavishly beautiful 🌺",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Masjid Rashad is the main center in Baramulla , the people from other side Baramulla like from Sopore visited the masjid because it's interior design are very much beautiful and the architecture design is lavishly beautiful 🌺",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aasif Iqbal05",
+            "uri": "https://www.google.com/maps/contrib/107717445464672039255/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZE91rW1sZZeD-BDo_TlQSYpcVpX5gzk_1LhM__2Q3EyX4CXjG=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-03-08T09:33:59Z"
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2anRmc3ZRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 3,
+          "text": {
+            "text": "to the next level at the same time as the first time in the future and the other is a great way to get the best out of the way and I have to say that I am not a fan of the most 7th and the other is a great way to get the best out of the way and I have to say that I am not a fan of the most important things to do in the future 7th and the other is a great way to",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "to the next level at the same time as the first time in the future and the other is a great way to get the best out of the way and I have to say that I am not a fan of the most 7th and the other is a great way to get the best out of the way and I have to say that I am not a fan of the most important things to do in the future 7th and the other is a great way to",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Zahoor Ahmad Lone",
+            "uri": "https://www.google.com/maps/contrib/101953958922206848188/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUXcIH3ZKWdsQkje9jo3wPCwOg-OM3DjchXu2u5Xib77ak1BMQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-09-29T16:22:18Z"
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/reviews/ChdDSUhNMG9nS0VJQ0FnSURvejR1dWpRRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "If u need peace and tranquility visit this place\nThere is so much peace and blessings here inside the main compound of this Masjid.\nMoreover there is Shab bedari on every Thursday.\nU can come here and u'll definately love this place. In sha Allah",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If u need peace and tranquility visit this place\nThere is so much peace and blessings here inside the main compound of this Masjid.\nMoreover there is Shab bedari on every Thursday.\nU can come here and u'll definately love this place. In sha Allah",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Suhail Bhat",
+            "uri": "https://www.google.com/maps/contrib/113045154446392139630/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVR9MY--A_DzBY-HVbpIlbUVqprIhVc3sSWRzodmozOinIQNMx-=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-03-26T10:13:47Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJbdT1IARmSpeSzChW76AaiXJWaejJHUfKuzxOx8rPQ6gAtj1HuOiV4GJkvMTuRhI5am4-RUqGLfm6ZbicR3rNhZ5T-gyKvambK3-e3DmwuSP10kJ3R39iatOr6o2sFcfBnxMZY72DVYEr3ZB88yKQ7wqB8PXm_Vidun",
+          "widthPx": 2155,
+          "heightPx": 2576,
+          "authorAttributions": [
+            {
+              "displayName": "Rayaan Javed",
+              "uri": "//maps.google.com/maps/contrib/108348349909717906259",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLvYaBeiT5NNgufGPsq1n-MiiSp7NocfE6ULtpEvcnMOlEv1Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJaGU_LsVlsbs04tkODt1CwWzSW6KRrfltoLxlnRfZNwLB5yDuUBXW4EUEMfWCgvI13zYEw35dd_70-ga-8yakzd_1Qsc6Zhst_MO8YhJZqdjcH4Rn7aMXXpYRwvQiOcWeEuaRJyyS6zfKD9AcNeBgGN5xqGaAQJ4Nsj",
+          "widthPx": 679,
+          "heightPx": 451,
+          "authorAttributions": [
+            {
+              "displayName": "Shoaib Ahmad Pir Syed",
+              "uri": "//maps.google.com/maps/contrib/104830783080530898387",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMXCahMQMg80_-wBusqOKwY7ZfHLRq3arlG8YL7F74NjMW_jj7=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJamE71mMvnxFvt90eXEXfI5Rh1yEesQr_64Ir_b_K-uEutg2wtXd6lZejT-QODCZsW_nEfAbi5mC2D0jyRCe9zVPE3C-Ly321wjs6A3wiz8sSSYzBcZaO3TyLMJJN8_aV440bSs7qAYEPOp33lin9apgeA8YXunlNuI",
+          "widthPx": 4000,
+          "heightPx": 2137,
+          "authorAttributions": [
+            {
+              "displayName": "Ashfaq Ahmad",
+              "uri": "//maps.google.com/maps/contrib/106592978887913971105",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVl64EVXzXweqceeeqa70HXLeL60thJ5kVUp1TCj36bqebdwSc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJbdPdxAD8-0bXwNdDv2p4e7iOBhoWENqUyLROeRz0ZpG9e-DMWqQBsoQaL2VGokaeKiw2ZusKsd9VzFdIYApVgIH4BgLfdDUfT_EJm0uoV3QdJm4X6DFsukggHEHyU6JNsJAAgB8oLEOEFVOSLiR68taDX5rqoE0zuB",
+          "widthPx": 4000,
+          "heightPx": 1792,
+          "authorAttributions": [
+            {
+              "displayName": "Zahid Rafiq",
+              "uri": "//maps.google.com/maps/contrib/115291275101018174832",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWui7cPtWe3XPEoirtHv50ftWsA1nVK4pD1vctRVEeTMf83mYsw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJZuU3x5EjzK681w-OQVEfheriJIbZHUQphv199Ztr6t3gxk9jn89gt7LkVMJPxKq5JyrgH5K2V7SMFyLLe4OKAqM5LK5wVFW5Nd86WWXF7FrSy4VrvdV2GdmSIUqs9IZc_wV-QTH5f_hSUZCTuG88XZ8PmcQiHk0FbL",
+          "widthPx": 480,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Shoaib Ahmad Pir Syed",
+              "uri": "//maps.google.com/maps/contrib/104830783080530898387",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMXCahMQMg80_-wBusqOKwY7ZfHLRq3arlG8YL7F74NjMW_jj7=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJZ5DDhzJ-MjNmJas9941hdjoTm4ROcnCjFdZLYvNPOrqUsoui-8nOQJbvDGBXolcez64JeLj-o0nYIqMupFmhPJVFzsDDiTVABuU9vZdL01nI8XroQdU2LFicw2ki2FtYG0SZ93u81RsiNvAdKX32qPiYL3T4bu14_O",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Anaytullah Ahmad",
+              "uri": "//maps.google.com/maps/contrib/116141986335688838114",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWecYYTNDm-42L7y4JquJ6IRHRUZv6sMErWFHdIzOJtiwWCzvGP=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJYY9gKcnhTreM5CBWq72Y4r9QEbLC4-eEqpmEUw-_WPpx527WSTmg6Mq5eShp1ChKNZ6nWz90Cy-d3NSTRZzjSv1e54e9PUL-lrIvi--Q8RDvXRF921zIDuRHZEjqehLiXZXjUSzbAAcpIARj8cPbnXrkRfcfyBp7xV",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Imran. T.A",
+              "uri": "//maps.google.com/maps/contrib/108629780303266265447",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEMhiSaToe7bbdHOYdFPll_mQVl3MingzrIkzFR1ddyLKPeG3X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJaz75v-lNbzR6XIbzvL49eiq2LVQFP41ACCB34emCKor2K7p81T1e7vckHOOP0mb0wW3dSfLLc1TC3pq2qa5N7dYKvuRo0Tr5X1HbkgdHTK3JI-UEGWTS4zM4_7R-PvVkwdSQZvr20wVwQhQqcZZkCchy6YDluzQQ65",
+          "widthPx": 4080,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "KASHMIR KHATAMBAND",
+              "uri": "//maps.google.com/maps/contrib/106978285046119106745",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUXM8-ynx_GJG6JzIlOH_eHxmh6_WZc_8p4uqoJH6CO-_ATdwY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJO7EOm2QH4TgRtgh1WV8lB50/photos/ATplDJblJB8TO68rvul7q1_miK07bzmdijf_LPMHftBcWZWfvWJ14kMKHXU44C-t2f3oik77J_BXm-fYHBKH61PkvDgktQxCurKR9BMZp6F9Z0U72bPRuq1yf6BcWaqconepBx9FfW3KVqO1GT7OljssBgNb9-TnvZFbUQBo",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Umar Aziz",
+              "uri": "//maps.google.com/maps/contrib/115449882566686381442",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK11l8DRDXBc_jv9Fk5U3NlhEt3hJUWu83LPnry_YEH12tbIacD=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E",
+      "id": "ChIJvVQqAwCp4TgRnMhKlD97_9E",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "58XX+JX8, Kanli Bagh, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "58XX+JX8",
+          "shortText": "58XX+JX8",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Kanli Bagh",
+          "shortText": "Kanli Bagh",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.1990498,
+        "longitude": 74.3499496
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.197778119708495,
+          "longitude": 74.348516969708513
+        },
+        "high": {
+          "latitude": 34.200476080291494,
+          "longitude": 74.351214930291519
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=15131948785989240988",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "58XX+JX8, \u003cspan class=\"extended-address\"\u003eKanli Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 6,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Kiter daji",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "58XX+JX8, Kanli Bagh, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/reviews/ChZDSUhNMG9nS0VJQ0FnSURwb09TeGRREAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Surrounded by nature, wilderness and a stream flowing adds chaarm to it. A great place for hangout and chill",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Surrounded by nature, wilderness and a stream flowing adds chaarm to it. A great place for hangout and chill",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aijaz Lone",
+            "uri": "https://www.google.com/maps/contrib/114580438123686530225/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoGAo1PxTXmmjRQS8QB_QidS2MJ8DlCEo8XGLxdhjq-TTQmGY=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-08-14T05:41:56Z"
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKeHJpeVdnEAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Unnamed",
+            "uri": "https://www.google.com/maps/contrib/110510846747397929053/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwEZnCW-keg14ALKoWvFgO5OcM4MEvmsERBtZR-I0vOT2edANB=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-26T03:57:43Z"
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKemF2UzVnRRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Haziq Ahangar",
+            "uri": "https://www.google.com/maps/contrib/112854173522199903481/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0icYH6F3v4MhSa_o3wNjduWBW1AtkCtWJqQGV7UoATS0OxhG7=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-07-02T15:24:57Z"
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/reviews/ChZDSUhNMG9nS0VJQ0FnSURWa05PNlh3EAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Dar irfan",
+            "uri": "https://www.google.com/maps/contrib/110054292404346676925/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3zP_4CX1zKRkHLLyZISQ1nnCH3rNvZKRONUJY5-4y59bmOesS=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-10T11:30:37Z"
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/reviews/ChZDSUhNMG9nS0VJQ0FnSURGeTRha0tBEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "Rehan Aashu",
+            "uri": "https://www.google.com/maps/contrib/113649199675689310201/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZXpSzCgg3uKcgNZAnP3vrwGegV4h1iCioiuZWIK1uUP2DluU=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-10T05:51:42Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJb2rNv7n5tPyZmaGIl68mF99prDXid57bk342597G4vpcSsL1gAocdaW_WoJha_Y9X-3u0X8_I2TBo4U7rwdyhdXKVMNJlTCMNSsfm26n30KW0EJJqngpIMCZn9fAGv_5THgYZmONiZNNSPzryJ7TYU2jMUDp6y7wik",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "AP PICTURES",
+              "uri": "//maps.google.com/maps/contrib/107834343867181922344",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdxw6s-a0WUFFA33qVdxBoeOTgI6VeGHc7O_Bbh32XEIaDjrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJYE9vweNZNCNf-gGJBdBFM-pTcsduNHbWZcr7OdzM62CXJM7H_Qqi614PVVNBB3mwcxgK7bNVWfqogquQeePvOkPvWhUoPTLL4vyYzDHWjSSJgqgKrkA5kLH9ZBe2UI0G93LPZ36lpRkg7Qr9XoE4QeRv5NE3eJ34Gn",
+          "widthPx": 12000,
+          "heightPx": 9000,
+          "authorAttributions": [
+            {
+              "displayName": "AP PICTURES",
+              "uri": "//maps.google.com/maps/contrib/107834343867181922344",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdxw6s-a0WUFFA33qVdxBoeOTgI6VeGHc7O_Bbh32XEIaDjrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJbr2stn7gV8rsO0IJSJ85wiJfgvR80ebdWieSDW3M3oqJ89QuQKitziZcEo3Td8tlfRLY5MOTo0xsBqYOeUd-3FQzVq6clHc0cyY0-jm5g1bUDaCdRCMVaOSwMURwuzJcnvASFosnZY0lTMIktPOu7P18cC_UHKAha7",
+          "widthPx": 12000,
+          "heightPx": 9000,
+          "authorAttributions": [
+            {
+              "displayName": "AP Photographer",
+              "uri": "//maps.google.com/maps/contrib/116685272860823741300",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWa2yxKT3WsxhkH5tkGu5-bXypViQAy2uqQTxVOPrCV5TETaKc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJasetwIfBcDb9R8x8tRwIvCvgYBGyFDYB0CeAbhn97AT9_RTK0jtY-TrF9OtHh6hFPJAJ5BWvOvUQPoDCddsTYHrrmRLWGus5wp7jouBb0C_iUpie6hVUZ-0a5RMaFT_dsx8tJaXEKwByQ7MRYNkTUlu3xwUWcgymc",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Aijaz Lone",
+              "uri": "//maps.google.com/maps/contrib/114580438123686530225",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXoGAo1PxTXmmjRQS8QB_QidS2MJ8DlCEo8XGLxdhjq-TTQmGY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJaM30r9LVbb-_5zkCxBvpILg-OB55ZULZXWG54gzPXOFX3kiFNhwlkDNbi_kuTC5N20SQseQOzo_ndVoVm42TEJ6RT4SEqxsm0ZAHheaztcJwOV1AAk7WGa0sG5lYvNY2LU-5z5pDNH8WjpGYX3Bf_r92m9kQLZMcgu",
+          "widthPx": 1152,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "AP PICTURES",
+              "uri": "//maps.google.com/maps/contrib/107834343867181922344",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdxw6s-a0WUFFA33qVdxBoeOTgI6VeGHc7O_Bbh32XEIaDjrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJYmePpVCROdiaIE34DJH2MEw8kvQx-nD9P3Nwg6QRc6cdu92sQCTNahJILV0Z_HrULCGTwkoJeEFRMg0QMGU1NzCnuneGsS257sdMJuXPOCQbSljmsxhZojBmgiyFgRmtng9TORpiKyjO2_L0379fcg-nmdApb08pxT",
+          "widthPx": 9000,
+          "heightPx": 12000,
+          "authorAttributions": [
+            {
+              "displayName": "AP PICTURES",
+              "uri": "//maps.google.com/maps/contrib/107834343867181922344",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdxw6s-a0WUFFA33qVdxBoeOTgI6VeGHc7O_Bbh32XEIaDjrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJaL_aXDhunbbLoodo8rWNQp-pYOy1mQ5Gblqke119byQNCmNjyz7JfhZ0zQTjapmX82mUejAjtEOLRM6FGa4vVUYzlvz_okLC4lf7xuWVmq1fmHoVl_jJSCWrvGUwLnrSGnDyS8VUSFfzGVYV8tvffTnGUNtrcEG4u4",
+          "widthPx": 9000,
+          "heightPx": 12000,
+          "authorAttributions": [
+            {
+              "displayName": "AP PICTURES",
+              "uri": "//maps.google.com/maps/contrib/107834343867181922344",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdxw6s-a0WUFFA33qVdxBoeOTgI6VeGHc7O_Bbh32XEIaDjrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJaug4QxuXGcLax4MOH2Pb5-DGEgvrDLDL1ex1fHzmDrjzsYLRSF-4l99rov0m0kMi-_L5QsT9diO1KuawUEeyVO_H9BXdAvxP8kg-GlwGLusQ9qob5za1DyVF2WHB8emwE1ia2RePDLWWAy-IkYeP3LcK6ckR9ny8pk",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "AP PICTURES",
+              "uri": "//maps.google.com/maps/contrib/107834343867181922344",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdxw6s-a0WUFFA33qVdxBoeOTgI6VeGHc7O_Bbh32XEIaDjrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJaLFLdLloe0X5PCt2x7ZrZw4ricMDDEhSDFULyMg-Bl7F3Z2bJLh4bNG_kLX_RKdxglu6Z_cApesygAx8sZPshxhT6fbY4oI-AT1irMvWFTS_zYLixoMALXoXSG-Abblij0zFbexe4fXFOU29oZNp41lKNqs37zG7mv",
+          "widthPx": 12000,
+          "heightPx": 9000,
+          "authorAttributions": [
+            {
+              "displayName": "AP PICTURES",
+              "uri": "//maps.google.com/maps/contrib/107834343867181922344",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdxw6s-a0WUFFA33qVdxBoeOTgI6VeGHc7O_Bbh32XEIaDjrQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvVQqAwCp4TgRnMhKlD97_9E/photos/ATplDJZvTySR-RMyrcIhMZ5LFYOAOn6vK1JtfXRqk_4o0_QgOzThb05dvOPm-xQXfD4SUzT3sG5DVbhMem65mVVT3UtoxdIsbCZ5oLGoWSMfw4yR-381zNDnnTWNmqmt8EnM09KklnKjHM8wnFk-hKBBrRzXaOdm07AO9i2t",
+          "widthPx": 12000,
+          "heightPx": 9000,
+          "authorAttributions": [
+            {
+              "displayName": "AP PICTURES",
+              "uri": "//maps.google.com/maps/contrib/107834343867181922344",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdxw6s-a0WUFFA33qVdxBoeOTgI6VeGHc7O_Bbh32XEIaDjrQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E",
+      "id": "ChIJsZ22CSgB4TgRt1Wfe5KBk8E",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6876+933, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "6876+933",
+          "shortText": "6876+933",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2133831,
+        "longitude": 74.310185699999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2119452697085,
+          "longitude": 74.3088703697085
+        },
+        "high": {
+          "latitude": 34.2146432302915,
+          "longitude": 74.311568330291507
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=13948634937035806135",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6876+933, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Tuti pal drangbal baramulla",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "6876+933, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsODVTNnBnRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best place to visit full view of baramullah but its very hard to reach there on view point",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place to visit full view of baramullah but its very hard to reach there on view point",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AROUND THE WORLD",
+            "uri": "https://www.google.com/maps/contrib/109285323997091632100/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVE30GpIsglEmTD-yTdZMHqx2vO5AWb6QfmcdKS-J3ouDMTcRJT=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-26T17:58:39Z"
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0OVltcjV3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Don't be afrid it is just like a game,\nStart the game reach at the Aim 🫁.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Don't be afrid it is just like a game,\nStart the game reach at the Aim 🫁.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "shamsuzamah Bhat",
+            "uri": "https://www.google.com/maps/contrib/100180263117647599540/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc7XuGczMAyb3zmhoe5Ilc1MRTfSdmzgCLbgbCvmc91ALXreHRwQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-01-31T09:32:23Z"
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5MnJ2cFRBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rifat Javid",
+            "uri": "https://www.google.com/maps/contrib/108401883141853094873/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1Iz2ISZRm3ks6FcG4m_vpVdKm8PdDu8hrj_YZjvOZT9by7g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-04T13:58:41Z"
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqbXA2cDhnRRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 1,
+          "authorAttribution": {
+            "displayName": "Malik Adu Gaming",
+            "uri": "https://www.google.com/maps/contrib/117154813812710591758/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyeugNUXiXCdGbugQLut6Ui8WZXrQn03qM-eiILtosxNTqAsj2=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-20T09:33:12Z"
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1aHEtNDVBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Waseem Ahmad lone",
+            "uri": "https://www.google.com/maps/contrib/113831205210858589813/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWah23UOtAVulpADTeDz6rlRljJ5Vg49fQizvIp4Fq_QOTIfUzi=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-18T11:35:43Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJbAI4mYk8UK-v3yynw6ZiQAePo-sb4U5BjJZnrDQAJG54fgzKBK_4HVyPKG27E2pm69MQBoszFcsFlhw5mkpNOKo2kPPgNrP21PemAA82NKCvFtQnYybPu8WV3P8gVCdI-BtSMf3_UdQFpxNNmxbpmXdmDAIgPv0Mr9",
+          "widthPx": 877,
+          "heightPx": 1106,
+          "authorAttributions": [
+            {
+              "displayName": "SARAF KHAN SK",
+              "uri": "//maps.google.com/maps/contrib/104950949853508472743",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgynUSRMdxBefp0M7CAoTjLJcNm0jOYyBDwNZFlUi6d6xNycTJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJY-USMseNA1ivV4yl7a2G2dA9hvEcLQMKglQcC5M7mHRzrTXZ8LQGRItG2q_BEJ4U4VL0qYhBS-YOqRDfku87BXfn9xSykSA2kr3Bob5JkqMgrW94zceX2A_Ibz49GPCeVXWT8qyXypp1uZDqdo9jV5vxSVmmZbpP4z",
+          "widthPx": 2400,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "SHAHID HASSAN",
+              "uri": "//maps.google.com/maps/contrib/117058350872743799040",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRyA_LHwNB6SqaEQztIQq925B8lWeIbFQ3Nvh08iLhAux03NQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJZ8u_P9LC4xc_RDKK9M_4vhUi3qdbNP23-Oq1AdHDD-N1_6-iK_Ut0xN472nG5Bs1YmhgD57tRcdfbmTx-8IW-_AC-ChVVP4plMnfwbarPcLXHtF6zVZY5H1bJimBf49GCZvcCKeHJfjg3Z2-QzjGuC2fXxL8863fhQ",
+          "widthPx": 2251,
+          "heightPx": 2813,
+          "authorAttributions": [
+            {
+              "displayName": "shamsuzamah Bhat",
+              "uri": "//maps.google.com/maps/contrib/100180263117647599540",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWc7XuGczMAyb3zmhoe5Ilc1MRTfSdmzgCLbgbCvmc91ALXreHRwQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJZ1u-5Q10Zdeoqi8qVrBxVm17mkXiaKT2cFY73OUCaq4yFVJh-OlV555YYIp-Y-3fvP4n29xvxml59mBmkz8uEA_wVBRfFgIXKWck8cxkMFzEeJwLbT2PRhJD6e664_9k1PggOE4rFQWot2kZZLDUq1j_oqgx4m0mCj",
+          "widthPx": 960,
+          "heightPx": 1044,
+          "authorAttributions": [
+            {
+              "displayName": "Rifat Javid",
+              "uri": "//maps.google.com/maps/contrib/108401883141853094873",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ1Iz2ISZRm3ks6FcG4m_vpVdKm8PdDu8hrj_YZjvOZT9by7g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJY--mIKzO3cNAIW0mfiDB82WUs_68wQ04cWGLCSQDgl54w4ZRHCzrYj_Km4bydVT9OwNd7iBpH5zUoMHZ65kNvicDrXq6qM2EilP5Nt4_ajZl14RwYY03WpyIRaDkVdtU36oqUgQOafj1yyYhyCs03ds8l8VXicz06A",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "SHAHID HASSAN",
+              "uri": "//maps.google.com/maps/contrib/117058350872743799040",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRyA_LHwNB6SqaEQztIQq925B8lWeIbFQ3Nvh08iLhAux03NQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJYq7FenFWNGhoCcaGeLbh5cJgPCoE1cwuGTx842bLZY0JIJRfzilggE8asEEZbO_sTl9YmjlYQhGtxigo8Kp76JpDyLWw32tz3JFQlB6g9UYeQ8GrVWBxhAz-Hbd35NEA8HqLjL2HQ2pJMth27tgqwhrxwOGP3j1LWY",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Mehran Bhat",
+              "uri": "//maps.google.com/maps/contrib/109256567302245225297",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLMQVyA85DuyIzEFxtbY4kOr4HW4nyVBQoOJ2QsZ9emOrYkRDw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJbehKN3Q8jIjbO9mUPbm4S-FTx9-_sjBxeXoVJyxN6h9mlPCn4RkcR5noGO4UoZWk07sxgkK6r0sOHbIkzDMP-YHCsnrgI_HXaEi8pdnQvEBENc20gIIDEKoaJCwcXgohk4E_6ka-hbHh_0wGlrhBWaE8K6AxiAo1wn",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "SHAHID HASSAN",
+              "uri": "//maps.google.com/maps/contrib/117058350872743799040",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRyA_LHwNB6SqaEQztIQq925B8lWeIbFQ3Nvh08iLhAux03NQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJbgAf9g2NDqSMkeQBhZbwYWz_URgwykZflqDqFZFxQOtkP1eYjPK3gSLLbdy47Gg5AoLS6KAX62wbwshRxuE_rWlV8w21smcL5IIiCWg_0yOh3RKheqdRLB5JtzDdnjnNvuvON6VADME8xWfJW7cvxYZ1jo0XeJga-C",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "SARAF KHAN SK",
+              "uri": "//maps.google.com/maps/contrib/104950949853508472743",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgynUSRMdxBefp0M7CAoTjLJcNm0jOYyBDwNZFlUi6d6xNycTJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJZM56g4a1EbsHePNEivjnqv9S1hR2z3oaDo8gl7ie6hs1GGJLyVjosKcr7m70Xrekk15EjIpC4xqPLwg_kaykV-D9HtqCv8uEaybXfAUG-HWtk9vnbtqvlAU6VHb7QMHnbjH5vpu74nyDgFFDGmCijIDP0OQL3JFv0D",
+          "widthPx": 1080,
+          "heightPx": 801,
+          "authorAttributions": [
+            {
+              "displayName": "SHAHID HASSAN",
+              "uri": "//maps.google.com/maps/contrib/117058350872743799040",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRyA_LHwNB6SqaEQztIQq925B8lWeIbFQ3Nvh08iLhAux03NQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsZ22CSgB4TgRt1Wfe5KBk8E/photos/ATplDJbnFNvso0vF7ZecRCo56LOo3JpN8MC_Vf6P-rYwE0aMe_V3LVOhsB0TCiFIeYTivbufHIOsTDojngNMV-0Pse2njtSY3gN4yV7BraGFlXmSInsCSGifjjd_Fth7UZw0gVk1tdQZjbRXMkbeuPciW1qrUdYbB8-08xFy",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "SARAF KHAN SK",
+              "uri": "//maps.google.com/maps/contrib/104950949853508472743",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgynUSRMdxBefp0M7CAoTjLJcNm0jOYyBDwNZFlUi6d6xNycTJ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w",
+      "id": "ChIJIbwYLe2p4TgRL1v9dtUKI9w",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Baramulla - Gulmarg Rd, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "Baramulla - Gulmarg Road",
+          "shortText": "Baramulla - Gulmarg Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P59M9+GC",
+        "compoundCode": "59M9+GC Baramulla, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.1837824,
+        "longitude": 74.368573099999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.1824286197085,
+          "longitude": 74.367116969708491
+        },
+        "high": {
+          "latitude": 34.1851265802915,
+          "longitude": 74.3698149302915
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=15862534224469646127",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eBaramulla - Gulmarg Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 27,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "View point",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "Baramulla - Gulmarg Rd, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtaTg3Z25BRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "You can view the whole town upto sopore and some parts of kupwara nice view from this place visit soon !!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "You can view the whole town upto sopore and some parts of kupwara nice view from this place visit soon !!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "The honest Writer",
+            "uri": "https://www.google.com/maps/contrib/111462692829984124660/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1sHhcGAOIgQBRuMuok7cEZ8q3eDntzxndNdV4jNlWlNUvoP25=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-01-09T09:40:38Z"
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKMW91TUJBEAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Just amazing 😍..the view is just mesmerizing",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Just amazing 😍..the view is just mesmerizing",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Umar Sofi",
+            "uri": "https://www.google.com/maps/contrib/100767856035713234275/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVeDoC4Wj-aXb3Ng9w2-aMf4yaJxZW6Q8NtQE9WLlRHyYn2PEkZQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-06-26T19:24:33Z"
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/reviews/ChdDSUhNMG9nS0VJQ0FnSURXcnNYZGlBRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place from this viewpoint you can also view the entire baramulla valley.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place from this viewpoint you can also view the entire baramulla valley.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Saqib Rafiq Najar",
+            "uri": "https://www.google.com/maps/contrib/109804075486217538942/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9NT_BFh9hO5GrFqDo3d0swnOzns9kBXBypiXabq3sQ-eew86r=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-03-24T15:54:03Z"
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1ajlud3R3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Best look of Baramulla",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best look of Baramulla",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Khan Mustaffa",
+            "uri": "https://www.google.com/maps/contrib/100699692472767413121/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqeB6fV43QUgwdIWTIW2STxkscV6kg-nMwUx1A3L2OHuBoS2EP=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-09-01T11:42:55Z"
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/reviews/ChZDSUhNMG9nS0VJQ0FnSURxczk2NEhREAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Amazing view",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Amazing view",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jatinder Kour",
+            "uri": "https://www.google.com/maps/contrib/109979851779068794175/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvfZ4yskWt4cqzgGvxUIi-dnXP3UmeMa0TeaiTboCqcw7mDlQt=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-07-15T17:24:02Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJbygKoIk-lOntag2JjuKoaW5HkKk2ihsjlGmIsT8tGxUC5CuH8TvVJEkxC7K3xy3QoW9f8o0gZnwzTz2f3La9quso5Z-4LVIZElmYr_Fx0grwNNHEHjrxrmaRhVaDJ8cLx4hBXtMzO-uWRWM7Mf5uvPDCb7tUU_TEb4",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Sharan Bali",
+              "uri": "//maps.google.com/maps/contrib/113191050096149111765",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW2V2qUoNtuSHqkfMEjTFnlsGHuBxIz7VrHfuLc7GCzklbxSk73UA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJbhy0xFfafUVw79d5JckoobnFxJ85OwNmtWb_aL_bafGxK-efY-jcV3dWEfncxNG5CpAE-84p2mi3YLJydiPaCJIhEQ3TfzCQyN67_0tLmeSHF8mVyvf2ZH7EsdSLZyKxyqZHnEmrmP2GrjJ8bDLB8TKuGtYPXzaMDl",
+          "widthPx": 2250,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Nisha Nandi",
+              "uri": "//maps.google.com/maps/contrib/118248941232208212706",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKu8Isdub9G5TkJF3tC7CHdAfIrqh8ulqSCtzqJG06LGprCmebO=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJa7vOH21lIwmsgf1AEqNeqM3IzcghtGbthFXm_cPmAFMb-fS0iTOJ2VbHnp0brZB38a2UWSn0al6RPDN2JA7JYY_ZdK4F3kmXTcDx8SAzgRr0WhtmDIPq7ACxg6BuaFG-0jPF8ngRUILL0aLgEjeYthhsafh13vuKYb",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "The honest Writer",
+              "uri": "//maps.google.com/maps/contrib/111462692829984124660",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1sHhcGAOIgQBRuMuok7cEZ8q3eDntzxndNdV4jNlWlNUvoP25=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJb6UrskzwuH2pyIubWdKagxTFXLryR_QbA1Ed-GX6l3XcYYC7DBDv0KesVoALBSDVx9kllUijvQsXL7fZafbzM_d6lq5D1MaDC-2m3KLV8Uhcy0lEVGxqS9iFBHJWXAIYPrLyiACRmMdWFyLaPB3ciSADamHAAjyhlY",
+          "widthPx": 9000,
+          "heightPx": 12000,
+          "authorAttributions": [
+            {
+              "displayName": "Umar Sofi",
+              "uri": "//maps.google.com/maps/contrib/100767856035713234275",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXVeDoC4Wj-aXb3Ng9w2-aMf4yaJxZW6Q8NtQE9WLlRHyYn2PEkZQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJb6xGJPpflLsSa0y1LPr2oF8IhAQWW5DST_R_iXqoGvdsuJ1NJjsR3jqi_p_ZpVT_3FS3_a_hcNSsC-gX6YqIJSUfPGW4t_ibjcOsLCBerAKSY1ZOWw32hmTukXUhXnWOfEOvGcas5oZprEN5UV8SInxjF5B4R-Yg-w",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "The honest Writer",
+              "uri": "//maps.google.com/maps/contrib/111462692829984124660",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1sHhcGAOIgQBRuMuok7cEZ8q3eDntzxndNdV4jNlWlNUvoP25=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJZ6U5OdCMPlgcfvQ631UtAnwpI4YR-84hGP3t3ZEh8-Kao7tvmE8f5pn6TxtdlQMVD8RWUD2UuBNpoISxGxSp0pyq90JUjzjG1ro37L-e_XSW7tx-Y3y5oWV3O0l9CPZUTPiwN2nuerg9uMwfrmBkvzIDwKMLB0k7Ga",
+          "widthPx": 9000,
+          "heightPx": 12000,
+          "authorAttributions": [
+            {
+              "displayName": "Umar Sofi",
+              "uri": "//maps.google.com/maps/contrib/100767856035713234275",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXVeDoC4Wj-aXb3Ng9w2-aMf4yaJxZW6Q8NtQE9WLlRHyYn2PEkZQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJbSi9qxM3XnfIHbZbkji3cTweV4G2b7oFXzon64GTVGwVUOIcYd83Tsjyk1peIPAFLN4wFKKQLzoCSKBthDkCZkBFUvM9DrtscWC7QzuDLAmqpkBmcJAAQgp1E1K4pzJCHk3_IKytDyYZGUeF9EqT8NF0G76cdnognv",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "The honest Writer",
+              "uri": "//maps.google.com/maps/contrib/111462692829984124660",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1sHhcGAOIgQBRuMuok7cEZ8q3eDntzxndNdV4jNlWlNUvoP25=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJaT6c1nBU1RWVHO2dQglLa4QV452yWrmNPOFF9R4NlJ34cJ6I1_o1DomZ52N1bwPDPqVlC4PO1ICOIYVwTA4qA4FU4aWKgjV8l0fjAP1PKDh9nqr2cIUXC-uHQXjw9pSESWZx2DsEZuHk7_BoedPVJ7-agWGXlEN80s",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "PANIN PHYSICS - Er Shuieb Yousuf Lone",
+              "uri": "//maps.google.com/maps/contrib/100975912838929943302",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXyn18pgSLYxmztEW5-9piq6y_jKykptdwvpi3aFQB2rJTq821-Cw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJZ2KOe8306x9vXObv3tlP3yyZuE7u_Piin4i65Dwlux0X7H2XkzjfNh9Zti7cBRpnRVGyke4rpflaUhpgx5aDn4n8GmQui_eFQqgjUutY8fzuWfBzffV9QwdvX-pzBiGRRs0VtKK-jyrpqy6J40Cdy8IoInEK-ultQv",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "The honest Writer",
+              "uri": "//maps.google.com/maps/contrib/111462692829984124660",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1sHhcGAOIgQBRuMuok7cEZ8q3eDntzxndNdV4jNlWlNUvoP25=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJIbwYLe2p4TgRL1v9dtUKI9w/photos/ATplDJYulRgG-hgPSaWyaq7-wmgZcojsSXq0P3YlMog1C9Q1ocFtPtvk0gZGO7vWr0e7eM2jVjbQ1EiIdONgRH5dQs7R5gPRy1GADKOX8uv77_IoOTepBUiwFineIi5np3yMpALFr6ymD88p6MdRQpmkGMZsz_vbgR281HQc",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Hashim Aziz",
+              "uri": "//maps.google.com/maps/contrib/113658416506233384391",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV5_hTcBxsFvutt7TwrPuCBs3ifACB7V7GurjDkLJswG6MXcPzt=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E",
+      "id": "ChIJm_uWRNSp4TgRs-pSRQZJr0E",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "17, Rangwar, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P6923+37",
+        "compoundCode": "6923+37 Baramulla, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.2002234,
+        "longitude": 74.3531991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.198803419708504,
+          "longitude": 74.351756069708486
+        },
+        "high": {
+          "latitude": 34.2015013802915,
+          "longitude": 74.354454030291492
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=4733082024671374003",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 9,
+              "minute": 45
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 15
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 15
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 8:30 – 9:45 AM, 4:15 – 7:00 PM",
+          "Thursday: Closed",
+          "Friday: 4:15 – 7:00 PM",
+          "Saturday: Closed",
+          "Sunday: 8:30 AM – 7:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "17, \u003cspan class=\"street-address\"\u003eRangwar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 87,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Naturo Heal Ayurveda Centre",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 9,
+              "minute": 45,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 8:30 – 9:45 AM, 4:15 – 7:00 PM",
+          "Thursday: Closed",
+          "Friday: 4:15 – 7:00 PM",
+          "Saturday: Closed",
+          "Sunday: 8:30 AM – 7:30 PM"
+        ]
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "17, Rangwar, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/reviews/ChdDSUhNMG9nS0VJQ0FnSURaNkoyUDR3RRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Only Ayurveda Expertise clinic in Baramulla",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Only Ayurveda Expertise clinic in Baramulla",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr. Bilal Ahmad Wani",
+            "uri": "https://www.google.com/maps/contrib/115589172955747260358/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXA0KqHykIHhQ-n3P8U3oKUGko4-veA4YIy0BlrRjhbLiTtWp4G=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-23T15:56:44Z"
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/reviews/ChdDSUhNMG9nS0VJQ0FnSURCeDhuTDVRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Masha Allah...beautifully masjid",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Masha Allah...beautifully masjid",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Khan Mustaffa",
+            "uri": "https://www.google.com/maps/contrib/100699692472767413121/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqeB6fV43QUgwdIWTIW2STxkscV6kg-nMwUx1A3L2OHuBoS2EP=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-01-30T12:01:26Z"
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvZ2RYX013EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Muslim Religious place very beautiful and eye catching",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Muslim Religious place very beautiful and eye catching",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shahid Rather",
+            "uri": "https://www.google.com/maps/contrib/101536605153250544862/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOVOvjkaBWwWNEtEBHMpY7hOp8IpUV-U217NYKSeYP7YfS_dxM2Q=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-02-18T07:23:06Z"
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/reviews/ChdDSUhNMG9nS0VJQ0FnSURHeUtPcXd3RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Mashallah Beautiful,Amazing Masjid in Baramulla..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mashallah Beautiful,Amazing Masjid in Baramulla..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Travel with Muzamil",
+            "uri": "https://www.google.com/maps/contrib/103932185121511661592/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlcRjGHloqq8NgF8SDueqdfIG63d_rP8Szx7y4n9Gr2p01pMJf=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-11-16T18:24:24Z"
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/reviews/ChdDSUhNMG9nS0VJQ0FnSURRa3FqRjZRRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's beautiful n peaceful place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's beautiful n peaceful place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tanveer Malik",
+            "uri": "https://www.google.com/maps/contrib/106520702270936083708/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMNedctkJoXjvSN_5KRlMwNDv_fEI5Y5FQudn5JE9eLLiixg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-07-23T19:32:49Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJafeqQlVxCjHxsXJ4BTxUoeX_CVOGNFAu-XZEznuOj193urDeWkWo0MxjoouNC_foKtBqOqpQCMWWTU1XuyDTEYO4-5mEfQ95LgM39sEolH5B0m28130NAwbYFMKEInYnCnXAgK4XM9YtClLHa4EyOE6YuMO7B0rVRt",
+          "widthPx": 4026,
+          "heightPx": 2734,
+          "authorAttributions": [
+            {
+              "displayName": "Zeeshan Wani",
+              "uri": "//maps.google.com/maps/contrib/108549352863614241746",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXloHIKwR475_URrva_1n7CZSQXPw9P1J_0KoBVVRYdg2BqlsKb=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJbhtVvPMDjCsuee96ci1vo3IOKsyQ3DYfBK1aC98PC061SYWf4pCMXNoO-21mXSAm0iX-gkuBDjldmMWLtbSzKf0NlqqWfqq8HPu5pmXIs-YygX55McctSWmkkPN6H-s6Wvqz_Ic3g2Tdb2sDrfqHjkiipRySMIm9Ce",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "rashid rather",
+              "uri": "//maps.google.com/maps/contrib/101061369792524380383",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUdaVh3MfiScVf8BittjckzaWPEMniJv3jMdMb2pE8assfakP12=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJYJO465iRBkNemXPmP4Rg7-ixquHUpFWO8XvBNcAqq1kLQd3nf_6J_IjOs2qfb6zeRqYN6AiDn_48Rb701K4dj387Bekyzes0O44IbtDqDqavGgSrZu4cMO8MVs6RH07hl7bIu2Q8BPhYqg-XTVwtefQiHYdFmLvIpG",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Fayaz Ahmad",
+              "uri": "//maps.google.com/maps/contrib/114720862291330894511",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWO8ibxWgsOcpvLqAh-hUhpUt41g0DEVsfTx0mw_wx9HP8JihZ-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJbX7v2bau-5izzPnDeh2-WcufoCYHF3k1FQvc-ovFp0mWuLndDQHTROKZ3XdfepfL3H6cbe1X606Fj6usjZg7cjwaXi_u0efJO9LsWtqHoEhfZi-Jo9EgXj69_-kxCtB7SlWmVd76dWcwJPM5tJ14Zh6bPoIgOARNBD",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "rashid rather",
+              "uri": "//maps.google.com/maps/contrib/101061369792524380383",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUdaVh3MfiScVf8BittjckzaWPEMniJv3jMdMb2pE8assfakP12=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJa-h75ZvuBIsGBVWGAYfGh-RfcBdmLHtX5B4xlN1IFEYPM76bL5ruxc3NniZtae2MxFA1SrtyHN4raB2_SrsnWXdRRVZiyDkL_9Rn8x-wR3_K9os3za03_0R25tlE-8_PrkpbQd8juZleTXr9TiUv0uyGVFoKE_1fnk",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "rashid rather",
+              "uri": "//maps.google.com/maps/contrib/101061369792524380383",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUdaVh3MfiScVf8BittjckzaWPEMniJv3jMdMb2pE8assfakP12=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJZIccn7EcwxaSaJkK732tLh-N1W7xoUISfUhmw4ufPe83GEOEwTto0CVE10S21EydHnWHfCMzLn03Gh85y5f8EgUd6VR3ZLKVHEuUgxjWwBrJO7SyAhjdvlY_YWkOLjxyMes_qnazS9JDwk3AGJuKxgHKB959Z7FIdG",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "rashid rather",
+              "uri": "//maps.google.com/maps/contrib/101061369792524380383",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUdaVh3MfiScVf8BittjckzaWPEMniJv3jMdMb2pE8assfakP12=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJa53aHAzG9I_hiDqIRma6OkkzZmXZwI5LmYGIVychXSw-2_9tTNmi0K8obt4eAVp_PoTrCtvAofdQqKLfJAkn0nm-fFOV2iZCsBCOpC500zCqVQuYqvpkRSpkUrKbGOKRvIHi8du3NeA10aSksktxjnMp7_SF6tM-Vy",
+          "widthPx": 4000,
+          "heightPx": 1848,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Bilal Ahmad Wani",
+              "uri": "//maps.google.com/maps/contrib/115589172955747260358",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXA0KqHykIHhQ-n3P8U3oKUGko4-veA4YIy0BlrRjhbLiTtWp4G=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJYuG7q-6a0qzLM3bXX3MF9-6ycu9rtuIVAStpIjDL7gOnGrCtxCkALSCxpy2cfUZBETCE66P-GK1LK5qbXkHpmYZ3UdDNjQrDn_JR-9bgwv_06CXp5oybdFAVRvDV4GcP30uB2yngm7n3nDjfhsGyvBMEd3PfMyOw2T",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "rashid rather",
+              "uri": "//maps.google.com/maps/contrib/101061369792524380383",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUdaVh3MfiScVf8BittjckzaWPEMniJv3jMdMb2pE8assfakP12=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJaQzuPm8e2CJRad6KYcVMnhO5wDTZZ0XVUHciz4007Zb10-Co11NFxLVQSMC8QU5i1_nZbKciyhc6poOngFRR6ILcyjp7D8lwBfkeNRovyIgBUqCzOKAoRLTMxgcKNl_60ci07LRFD8MOEiLKw8BvMAu9I8f_PPG873",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Bilal Ahmad Wani",
+              "uri": "//maps.google.com/maps/contrib/115589172955747260358",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXA0KqHykIHhQ-n3P8U3oKUGko4-veA4YIy0BlrRjhbLiTtWp4G=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm_uWRNSp4TgRs-pSRQZJr0E/photos/ATplDJYVbnE7NGq9ay-iThra_isTLD8yYsn5GAjQU521AyEqW4B9A7DwuxNYSJQavI-FJVph30t_inoP4joPx2uPWVg8jN1zD8K3n4p0cK97L06D1XO-ZQ6VJLadh5krxBgkP-DiRpVcf4JyM0kNi0PTFa1gygE_wgVaFHpW",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "rashid rather",
+              "uri": "//maps.google.com/maps/contrib/101061369792524380383",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUdaVh3MfiScVf8BittjckzaWPEMniJv3jMdMb2pE8assfakP12=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA",
+      "id": "ChIJqXX-GQqp4TgRpWavKkU1gEA",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "682X+4G6, Kanli Bagh, Narvaw, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "682X+4G6",
+          "shortText": "682X+4G6",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Kanli Bagh",
+          "shortText": "Kanli Bagh",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narvaw",
+          "shortText": "Narvaw",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2002873,
+        "longitude": 74.348750799999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.1990600697085,
+          "longitude": 74.34730781970849
+        },
+        "high": {
+          "latitude": 34.201758030291494,
+          "longitude": 74.3500057802915
+        }
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=4647773386631505573",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "682X+4G6, \u003cspan class=\"extended-address\"\u003eKanli Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNarvaw, Baramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 6,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Narvaw Valley Baramulla",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "682X+4G6, Kanli Bagh, Narvaw, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGMVlyRnBBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Nyv place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nyv place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Owais Naik",
+            "uri": "https://www.google.com/maps/contrib/113407905878318075639/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzqGPPrj3ZFeRlnzsOuNDYgtdWpJ_drxn2Ro2-VJWq2xuV4A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-30T11:34:41Z"
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKaUlQTHh3RRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Wring place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Wring place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Zahida Akhter",
+            "uri": "https://www.google.com/maps/contrib/102461023564002361199/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsTvYrBSMTHjDdgcCXmAxeIg2FHsp7wDsHSNEqwD44OZcuDw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-19T17:21:18Z"
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/reviews/ChdDSUhNMG9nS0VJQ0FnSURXLWFuczJnRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Manzoor Ahmad Rather",
+            "uri": "https://www.google.com/maps/contrib/102424238899497684156/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-03-29T10:36:57Z"
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/reviews/ChdDSUhNMG9nS0VJQ0FnSURac0tyVHFRRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 1,
+          "authorAttribution": {
+            "displayName": "Arun Kumar",
+            "uri": "https://www.google.com/maps/contrib/104483121979450823099/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLldOCy7YlPL09clrnHxnjmjNRSn8wyH8FttBXC1iJsA9iiXMM=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-22T18:02:00Z"
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4Ni1xNlpnEAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Mohd Ashraf",
+            "uri": "https://www.google.com/maps/contrib/111853033852348415221/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSiR_LefVwrvW8iIoDi22Hr_rXnw5cOJv79nORUpFWutrW0PhI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-15T10:28:49Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJZq42KmM-dsz-D0-G3ktui4kUtkNIpES22ugWKKiHNpfMqNlpo1k8nrFQ6IqNJTToEAp3M0d-X4Np_hBrWtKagHK-dqlnKNN0hkAtBwhdV-J9s1aFpFiUzn6PRnj_vrYbGZQc4QgMPnebQGMmPT0AEa_C9A0-K-c67v",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmad Rather",
+              "uri": "//maps.google.com/maps/contrib/102424238899497684156",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJZqrpFrcGmPVOv8JxeFkY3gEcDTukvUm5ymwN1aHi71DvlWNSMhowwFFkimfN__NOKz4_5p3XCUqbDCa-w0qfekFtpk7tY2HVuUD9anWzngD2eNB9XXFBfwIlH3N6Uo0e0nzy-3jCiqPvZ4cyBtHvoqfg7uWrfVBXgf",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmad Rather",
+              "uri": "//maps.google.com/maps/contrib/102424238899497684156",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJYijfju1U6DubVC-MQpTaF3iKm1kmxsKaUa3ZDkLToo0gxquQBQ-W9isRh5oBECgocmfjyGaUgubEJJ1QLu_EFX2uYsGrhfSI58yyUMZJYgx-fSfXbe_LDL2TS76gcWqA7VDKwi0Spg_E4vALgTn8JHjTKAvQuOvXrU",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmad Rather",
+              "uri": "//maps.google.com/maps/contrib/102424238899497684156",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJYSX0FObFDdjPXrWTG9J8w3O7HfW3WndMILww2ruhGj5qOUs7-Rb_mDHw_r1ZSiwQGz16_bLcsph0sj8oBLxrcwPBQTFVP2oGoX7PxxFsITGpQmSO9MZ0J1mg73MSYpNUdLFx4cb9uMa4cqPDM7VhW5fcuXQzxGuSIA",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmad Rather",
+              "uri": "//maps.google.com/maps/contrib/102424238899497684156",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJb09dN8k4txhqBFU_l5pILCq4FhUlon9iYVLI1LMQtDiIrYUNP3He1VJ8lHI4Y9IcuXvSoB9U1o94OT_SdgABordA09qF6thGWxPw2LrQZbzcc25-fEiMeJXWeGYhf_Yu6MetTvgspPeA94GF401d8QjQi2SDzeS60U",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmad Rather",
+              "uri": "//maps.google.com/maps/contrib/102424238899497684156",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJYmJaLT-015yZ_Fg4grmtfNS50Erawwf8Gw0izHAV0CW_tH1p6JalaSkiCANe225CFNlUhAupwlBU3z9910YkIyaFS-7DMTu463SDtkrUUW90H8qjhR3yy7GworFLGTTkmNl_mbA4ijvv2xsW5GbuxD_asRgykPNb0L",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmad Rather",
+              "uri": "//maps.google.com/maps/contrib/102424238899497684156",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJbMxHc6e6I-ubcdA-es6iSlTmkHqhzzMWmZ03Ejdo2qCVMhmIfgjaAdeZBIvmiqYJihVB1Clqm0sNDNaQXTWPSm30IxVEJSrKOKQx2jNNOY8IDI1MJSZLkc0irzDBOs4tE5V3axnObGPp-8KHjqN_9LJ1jYsV_KF_vT",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmad Rather",
+              "uri": "//maps.google.com/maps/contrib/102424238899497684156",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJbAxCYhyPUvzh84yZrUxKfApzpvfeVLmRi9mtzH4z6B9kIx2c4pC3Tdzz43okVcCL9LxanLKpe38HthQxtrLb1A9PweXYLfcNinHkYkTcyfbOCHd_iWieWdRDY-YWfkRAGwoxXLyMLLOMoggvOgnYwO__NLoVHO9Ivu",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Tanveer Ahmad Bhat",
+              "uri": "//maps.google.com/maps/contrib/114453001264850058896",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUNEcgFWXi4i-AsaS7C2zzgBEmi8rCR4sOkfyfOQLheV0x6ie0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqXX-GQqp4TgRpWavKkU1gEA/photos/ATplDJbxR-TAnV2bIxMf1LbuM0ZgsXDB5QgOLZom2jr-xBEl7p252fJWlNS7nh_uk5NTk2yxVuhxQPw7O709X0uayeif2mAlc1hKPXR-8JdWxAUjqWVmvkEaNUXkhaoaIDfuKAd35zmUR4ZBw_x29VA5oiNNBbrqPsB5E9r9",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmad Rather",
+              "uri": "//maps.google.com/maps/contrib/102424238899497684156",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVw9ZAIfqXzBk-V06Z1kzb1UguAXtLdwQsQEuhztZJ6mOWSNj9g=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k",
+      "id": "ChIJgRP--2YH4TgRuBf_qrCqr4k",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Suspension Bridge, Dewan Bagh, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P6952+44",
+        "compoundCode": "6952+44 Baramulla, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.2077557,
+        "longitude": 74.35032489999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.206016469708509,
+          "longitude": 74.3489389197085
+        },
+        "high": {
+          "latitude": 34.208714430291508,
+          "longitude": 74.351636880291508
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=9921336179880302520",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Suspension Bridge, \u003cspan class=\"extended-address\"\u003eDewan Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 24,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Suspension Bridge Baramula",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "Suspension Bridge, Dewan Bagh, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/reviews/ChdDSUhNMG9nS0VJQ0FnSURWai1iNTRRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful walking bridge for public cross over jehlum.\nThe suspension bridge vibrates as one walks with thuds and heavy steps.\n\nReliable and comfortable to walk upon",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful walking bridge for public cross over jehlum.\nThe suspension bridge vibrates as one walks with thuds and heavy steps.\n\nReliable and comfortable to walk upon",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sheikh Aatif",
+            "uri": "https://www.google.com/maps/contrib/101796568014651345422/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrdaWBNOOe6ePRU7QMHRf2xKqbMxKRNaz2s8ok6p0rNF5_LQ3j=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-12-20T12:30:45Z"
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/reviews/ChZDSUhNMG9nS0VJQ0FnSURKZ2ZqR1hBEAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "An evening spot in Baramulla for almost everyone. People come to this bridge to enjoy the magnificent view of Jhelum and enjoy the light breeze which continuously flows at this bridge. This suspension bridge is very beautiful and people come here and enjoy the views during the evening time.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "An evening spot in Baramulla for almost everyone. People come to this bridge to enjoy the magnificent view of Jhelum and enjoy the light breeze which continuously flows at this bridge. This suspension bridge is very beautiful and people come here and enjoy the views during the evening time.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sofi Zubair",
+            "uri": "https://www.google.com/maps/contrib/118086126364133648316/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnEzo8zE2IiHvOfds1hXMcblNuoY0YyRa9vsyMKsVhu5a2hpUG=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-07-18T06:07:47Z"
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkN3ZYUkpREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Good location spoiled by chhapris taking photos",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good location spoiled by chhapris taking photos",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sukeerat Kaur Channi",
+            "uri": "https://www.google.com/maps/contrib/115538753865756398387/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWya57H3uBkHl8J16i2pgqv2qaoxwOmElD8Jp7UBBaZ0FMup0XpQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-02-15T10:36:29Z"
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxX3VlMU1BEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Most peaceful place.\nAmazing view of Jhelum covered with baramulla town on both sides",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Most peaceful place.\nAmazing view of Jhelum covered with baramulla town on both sides",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Junaid Javid",
+            "uri": "https://www.google.com/maps/contrib/112797362778396709867/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAqMWIHBrJx-h7zdiX3sJQAieV1yg1MSwNrxV-bu24oGBIGAVT=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-06-08T15:17:06Z"
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSai1iSTNRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Amazing photos you can click here",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Amazing photos you can click here",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mushtaq Ahmad",
+            "uri": "https://www.google.com/maps/contrib/107591117234605092621/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVi4ccQJTGm7eWSgL5c-q7_VUF7L0lJ3LEDVY2JtD1ENfRZIk=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-04-13T10:06:07Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJYLpRU3N6m9me-E00fVJMLzU0Q1rYRUR8zmN3x2EEMivp6GumSjPn5AedctOqCeId591FGbFPW60kgljWSzeQe0tgDEszDn6clCBMhqZ3CRrO1N2M7tzVjfcRDPCqdqp88a_WurVWlIMMcXSv1dB35GwPuGbyINUcXn",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Suspension Bridge Baramula",
+              "uri": "//maps.google.com/maps/contrib/103643397501218101346",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI0O2ImWm7h_8Ay4t_LHxoWMm_Dwldp69mWWNKCkjRx1N1IYQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJZOJIDMIYeBsZ11cP96eAmpOOZAt1XGqUq5ssXkCzv731e9mO15HTo6e-LVhW7gk8K7h3LLwV64byZ08FBby-wjxGQ3piFwmXCB6RX2MUuWaokKua589pwMzkgBnYbyjOy6SWHm2zgBIDWHHqCntM9rP6kGHGRIGmX7",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Najot Kumar",
+              "uri": "//maps.google.com/maps/contrib/105776437772031378334",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJltJzDW9N1SauEqCWo3WwSCY__4n1wx2WkjtFyDoC4NKAPRc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJapnSQOJZxjEAo4VtSc6Ui1TSJ7vXIHrnPUyOY_U7IQhSnb_qwZFi4V1l1HXswOznUkGoZDX6bzQTYJyGPk7BvEZwuj-JNmj4bDCOFY9rd5yZXq9KsvDrb8Xkg3vk5c1X7oCQS7wFA6hTLPKgcXgMsa3Lrht-9Ml8SF",
+          "widthPx": 1656,
+          "heightPx": 1240,
+          "authorAttributions": [
+            {
+              "displayName": "Danish Lone",
+              "uri": "//maps.google.com/maps/contrib/102916035662227658025",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU6W2uGikhFKsCLbmkOU4XueYtAzOEEA2Ua_ppuT3bRC5AK9EXblQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJbWJg8bhqgvfuwWEZsnExk_VOEj47u1UOKpK3FQLgXOfWXGyJ-uQaEprzdsi91Y1tXAlDLNHJEZUEOBNp7ZoXThawPWgGh8JjvEKqhYRlEOKtKqMugGH9Y9N3JXkYWrZedF3Vkw2WbnsbLX4K8oyEzFAsME95lDTHtU",
+          "widthPx": 2600,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Suspension Bridge Baramula",
+              "uri": "//maps.google.com/maps/contrib/103643397501218101346",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI0O2ImWm7h_8Ay4t_LHxoWMm_Dwldp69mWWNKCkjRx1N1IYQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJa7m4grd7W9JNVgvevEvx46XH4B-xPUlTEKq7EUUXc-KCG4OIYPiDfGeeE52y2zXaB5YcOFUIxC1VBRRkTo4mGX5RqD6uIgpvPt2XZlc0BxdgCE-yZCVE5IR7FxQDoMV9xRe2DxRfLHdZHTsUfrD8NKZQPvK4Ip-DMN",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Anaytullah Ahmad",
+              "uri": "//maps.google.com/maps/contrib/116141986335688838114",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWecYYTNDm-42L7y4JquJ6IRHRUZv6sMErWFHdIzOJtiwWCzvGP=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJaTAXKnusgr9LudyP1DHdE30Yff2T3glsdmh2_OfNxmpRSwq7yrL-g9fwAWnKF1nW5S14ovuBQnoJlEHbPprloXb1tmRh0z-uDGAROOW3fwkoLxNNxXjAd0zGj1sF6mWEtb_KEm2ixHxD5Qo8FkgpEV5SYtiV8byjI6",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sheikh Aatif",
+              "uri": "//maps.google.com/maps/contrib/101796568014651345422",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrdaWBNOOe6ePRU7QMHRf2xKqbMxKRNaz2s8ok6p0rNF5_LQ3j=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJY1EHBbS3yZPFrLZGArVGboxFP5yyxQ_Fylz6xUv0-f6zB28lWRt49rcLVQ2NycpWr7a81Ronr7oToRncvqnG-pE3A2WLLe_ldK_TgigOLf8PuNOoZ-vzNkuYiRprFdE40-93icIdhUjm2IT3HP9U6I3K3nr_dyFO3_",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sheikh Aatif",
+              "uri": "//maps.google.com/maps/contrib/101796568014651345422",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrdaWBNOOe6ePRU7QMHRf2xKqbMxKRNaz2s8ok6p0rNF5_LQ3j=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJaB86bO461UNCVudPJHOjjCsHtO615DNz_7noBI1gkyUccg_w2mWwEEiHQTQzOle3wJmAX7Rwn3PcN-PhtoZWCKuyNQ5_8pWhla2dKtaF2b2PmimyCe-L4h1nGowqmjiK1JPEX9Uta03l6Sb4LxdvnQGdlcPqxnyRA_",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sheikh Aatif",
+              "uri": "//maps.google.com/maps/contrib/101796568014651345422",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrdaWBNOOe6ePRU7QMHRf2xKqbMxKRNaz2s8ok6p0rNF5_LQ3j=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJY--PL-Qm22Db0kewcQxgpPAwb_Hwl6ALmALc2UsoTJN1PpaOZZeuP8aARbKONbwXeNqcP3mFoXtCdh-s_Ha2sqf6Ku1knl1yE0GBCKjFF1iauEqImvMsZ2c0Aem6NG5MZ3zgPLigjwycODUpinRMe6jEUA5ixBB0ll",
+          "widthPx": 3472,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Suspension Bridge Baramula",
+              "uri": "//maps.google.com/maps/contrib/103643397501218101346",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI0O2ImWm7h_8Ay4t_LHxoWMm_Dwldp69mWWNKCkjRx1N1IYQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJgRP--2YH4TgRuBf_qrCqr4k/photos/ATplDJblOmRlrLepu7zFYOi4T4gIgyQqLmgXQGx7MwPLuLbrN4bYrs9mGxGO21l67o2_Y5mVuvmb08KU7kKZirxm5o5oEiY0aqLO9eIDjD8NUIrH368MiNd7HvGj7qtg-U8Uqlg-PLs0WNL_15n7KnwHhMgZNzco0SnQm906",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Suspension Bridge Baramula",
+              "uri": "//maps.google.com/maps/contrib/103643397501218101346",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI0O2ImWm7h_8Ay4t_LHxoWMm_Dwldp69mWWNKCkjRx1N1IYQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJMReleNsH4TgRL3f0KIdu8YA",
+      "id": "ChIJMReleNsH4TgRL3f0KIdu8YA",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6888+M8P, Drangbal, Baramulla, 193301",
+      "addressComponents": [
+        {
+          "longText": "6888+M8P",
+          "shortText": "6888+M8P",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Drangbal",
+          "shortText": "Drangbal",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193301",
+          "shortText": "193301",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2167023,
+        "longitude": 74.3158227
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2145880197085,
+          "longitude": 74.3149711197085
+        },
+        "high": {
+          "latitude": 34.2172859802915,
+          "longitude": 74.317669080291509
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=9291329033028794159",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6888+M8P, \u003cspan class=\"extended-address\"\u003eDrangbal\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193301\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Gratnar waterfall",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "6888+M8P, Drangbal, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJMReleNsH4TgRL3f0KIdu8YA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1MGJ1QTBnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "At zachaldara",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "At zachaldara",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Danny Bhai",
+            "uri": "https://www.google.com/maps/contrib/115468716313863907825/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXosgJcq5B7-E-8yJSRA2skV0F0Y8oYAQxOU-AB6aSS0Bmbayc=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-07-30T20:20:41Z"
+        },
+        {
+          "name": "places/ChIJMReleNsH4TgRL3f0KIdu8YA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaenFqWjJnRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "DANISH BABA13",
+            "uri": "https://www.google.com/maps/contrib/106207216703002256281/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWiqUygfxU6LyO8cjhOaBBZNGX3qjUw_s92g2iWVp9k-shXLeN=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-09-10T15:15:06Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJMReleNsH4TgRL3f0KIdu8YA/photos/ATplDJYeahMeaBowo6miZYBas8_zJc_9OPAX5Ham3F0YHaxuv9wqp-NIia6qcPG6f6iYTXZ4kSRFTWIsGhroCukuBL5pP14z1sN8X3EWXcJPej71Q12u_Gc8R8BFOV0d50iLXlQpBKIuSGpkI-6lfz2R25_pd2yQjAb6xszR",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "OVâįŚ Śhãŕįf",
+              "uri": "//maps.google.com/maps/contrib/114833353994196051814",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3Bqcvxcpm9kRvtP4wlSsSWN_06vR6O8DLv1BAGFBsJwoWMbR1=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJMReleNsH4TgRL3f0KIdu8YA/photos/ATplDJYaxtov5xRos2JeDlETgq1z5djOkQhM1FyY-Ino9pAm6JasywXRDxnJtKD3VbZS8W58OU8b8-TS7e8j4jzAvCOpl2FwTtxs9eO0cJ_88ernvkm6HlqeQW--G5DUvkszhP0D1kFme3bNvTKIM5sbWG7-deFS_mkqbb7J",
+          "widthPx": 399,
+          "heightPx": 570,
+          "authorAttributions": [
+            {
+              "displayName": "Danny Bhai",
+              "uri": "//maps.google.com/maps/contrib/115468716313863907825",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXosgJcq5B7-E-8yJSRA2skV0F0Y8oYAQxOU-AB6aSS0Bmbayc=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    }
+  ]
+}
+

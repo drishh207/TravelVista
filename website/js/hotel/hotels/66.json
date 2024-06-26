@@ -1,0 +1,2014 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw",
+      "id": "ChIJ8a7x-zPfBTsRcVKTIOMGQcw",
+      "types": [
+        "hotel",
+        "restaurant",
+        "lodging",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0475 227 9000",
+      "internationalPhoneNumber": "+91 475 227 9000",
+      "formattedAddress": "WWH7+438, SH48, Vijay Nagar, Anchal, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "WWH7+438",
+          "shortText": "WWH7+438",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "State Highway 48",
+          "shortText": "SH48",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vijay Nagar",
+          "shortText": "Vijay Nagar",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Anchal",
+          "shortText": "Anchal",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 8.9278517,
+        "longitude": 76.9127163
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9265381697084969,
+          "longitude": 76.911383919708484
+        },
+        "high": {
+          "latitude": 8.9292361302915015,
+          "longitude": 76.9140818802915
+        }
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=14718052629797360241",
+      "websiteUri": "http://www.archanaresidencyhotel.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 11:00 PM",
+          "Tuesday: 11:00 AM – 11:00 PM",
+          "Wednesday: 11:00 AM – 11:00 PM",
+          "Thursday: 11:00 AM – 11:00 PM",
+          "Friday: 11:00 AM – 11:00 PM",
+          "Saturday: 11:00 AM – 11:00 PM",
+          "Sunday: 11:00 AM – 11:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WWH7+438, \u003cspan class=\"street-address\"\u003eSH48\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eVijay Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnchal\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "userRatingCount": 495,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Hotel Archana Residency",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesBrunch": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 11:00 PM",
+          "Tuesday: 11:00 AM – 11:00 PM",
+          "Wednesday: 11:00 AM – 11:00 PM",
+          "Thursday: 11:00 AM – 11:00 PM",
+          "Friday: 11:00 AM – 11:00 PM",
+          "Saturday: 11:00 AM – 11:00 PM",
+          "Sunday: 11:00 AM – 11:00 PM"
+        ]
+      },
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "WWH7+438, SH48, Vijay Nagar, Anchal",
+      "reviews": [
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0NG91UDhBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I like beef dry fry very tasty, it is awesome ❤️\nAll the food here is very good, I like all the food very much.👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I like beef dry fry very tasty, it is awesome ❤️\nAll the food here is very good, I like all the food very much.👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abdullah Nazir",
+            "uri": "https://www.google.com/maps/contrib/102186282605731193751/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdmtE8Wy084RM-fDckC9w7sIoIbDIVpR9YDG9tj5kBo5gzSC_G=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-03T12:21:27Z"
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1aHZLeWhnRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I visited the hotel recently,their has been a complete rehaul in service and the facilities.The bar and the restaurant both impressed me.Great atmosphere and a decent roof top bar.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I visited the hotel recently,their has been a complete rehaul in service and the facilities.The bar and the restaurant both impressed me.Great atmosphere and a decent roof top bar.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vinayak S Sivan",
+            "uri": "https://www.google.com/maps/contrib/107819369178776680717/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVulnSSrXtzPzYu2GJUaNmlt3o3b-kaJf0ruuTmKCJktnhDg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-23T17:05:37Z"
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/reviews/ChdDSUhNMG9nS0VJQ0FnSUROaC1yeDRRRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nothing but Ordinery",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nothing but Ordinery",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amarnath R",
+            "uri": "https://www.google.com/maps/contrib/110348308514311468476/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc2QZW3rm17A6DwOwMo3ATCPCJYdFypPPq9Io6tVTApLrQmHIR=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-26T15:26:56Z"
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/reviews/ChdDSUhNMG9nS0VJQ0FnSURkNGFITnhnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Wonderful service and great location.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Wonderful service and great location.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Roni Raju",
+            "uri": "https://www.google.com/maps/contrib/104592220404176708176/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQINwkk2WIDl8bWR78Z8Mc45AJjWPBlAgp3AZ0OCWO5DQvvS25=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-24T11:12:22Z"
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvNll1TVZnEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Stay: Every area needs improvement- service, cleanliness, facilities etc.\nFood: Food is tasty, pricing reasonable. Service at restaurant is good. There is an air-conditioned portion in the restaurant.\nParking: There is separate parking behind the building.\nLocation: Very near to the bus stop.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Stay: Every area needs improvement- service, cleanliness, facilities etc.\nFood: Food is tasty, pricing reasonable. Service at restaurant is good. There is an air-conditioned portion in the restaurant.\nParking: There is separate parking behind the building.\nLocation: Very near to the bus stop.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Joseph VT",
+            "uri": "https://www.google.com/maps/contrib/108356314960186584659/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLpnYqMOn2juqgCqBtKqziohnCcVKVVrkOHDA_fqoAd4RweTQ=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2020-03-01T18:00:04Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJa-SjqTpjbZ2gxkBhwRbNlFD2nuTK2eWbQrfl8PemtjJAeLLhBRTFLCN7pi4_XuPbJLKdgwYYULnC-U_NvkqIHKBvQUJteX74tQEHqje-BrHOGHSQxeMK7_bfsamrZyjGEc29s-wOdG_PCpVOcCjRV3IUON80LSQy7t",
+          "widthPx": 2943,
+          "heightPx": 3354,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Archana Residency",
+              "uri": "//maps.google.com/maps/contrib/101251925848951106501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUqie-9kpiLKBIWpMuTw_v51FKo9odSC1wUn24MJnzrQ4PtQ4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJZ_dcwotClamPjgmXK7BrUW4U6PgjasURlMExJBOFupi-wAXJoINfdr9HuYmrCeu33-jGDdu1GUXfowMwekSj2TqXhPdvT7pow8v59kgUMUPi5HeJI7pLkWRgrtDQMj2XlQeWSc1yPOuTHCoch4LxIj3mu3pdMthkqy",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Shyam Baiju (_mr_sept_2_)",
+              "uri": "//maps.google.com/maps/contrib/117137989220936522167",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUAiC8QfQ5mQua3vOMO3dvDfd7DWkTUwYIYOTmjSxaOO0cJUb92fQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJbxzrFbCVr4A1EMOJCwgV1O5qff8jbtAFpT0UOFEeQKkfY_Pxvrs7XLnEPgEz0qLT2gvxf7uOKLyu6YNAXzcppHKdgVEOqMcIuLZDEvb8C_MwjT6D6go7aP2tKXQlA3Vlvd0wY0hv44EMQ-qBNBcarw-RbcCPt-bR6_",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Archana Residency",
+              "uri": "//maps.google.com/maps/contrib/101251925848951106501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUqie-9kpiLKBIWpMuTw_v51FKo9odSC1wUn24MJnzrQ4PtQ4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJYvrZybR-ppijZiveX8LdBwB26lnn6bggnVI9662pZ4HzxGnft90vCLipJIiF_T27hdyD8bJjJVIGwVuC1rx9G34GNoS3dYLX_yPJMXcLD1budCVK6sbRDVFUkIIW7XhvcPtp9qTs0vZTTu1z1YvsK2YHjANLKuOuUq",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Archana Residency",
+              "uri": "//maps.google.com/maps/contrib/101251925848951106501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUqie-9kpiLKBIWpMuTw_v51FKo9odSC1wUn24MJnzrQ4PtQ4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJar5htSTcE_-rCPOblpoFtArIg5O-TbXhPZeD1D9-xtpf8Q6HzBNV7uQ5tlRmNrZasMEHzFIxluMzOBFBrXz2-InoGn_TqmzW6ABM7CY5Ktw1XKZoqtIeih4zSUIx_6txAUoNI_g8Q7RPpbbLJMqjC4pYFZfNu3jFb8",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Archana Residency",
+              "uri": "//maps.google.com/maps/contrib/101251925848951106501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUqie-9kpiLKBIWpMuTw_v51FKo9odSC1wUn24MJnzrQ4PtQ4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJa40ctnhQ6rbL-uf-w16_sVwU0asgQyfEcqhBHOoBI8gMlSAMUcwPWYcJRJ_PdgAIISLF6fsrjYlNeu8fPvkLw5q5vKboQmIjluPj227nOwMGa-OniqZQk4nkJVzGWSRkQPsEiHMbeZUu5orl5zM-D0VLPWzDWh0zbc",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Archana Residency",
+              "uri": "//maps.google.com/maps/contrib/101251925848951106501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUqie-9kpiLKBIWpMuTw_v51FKo9odSC1wUn24MJnzrQ4PtQ4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJbCfOuFR3afxvaXUR_IGQFS0NYZXIURQMZlOgSFT4ahkfVDSiGtxbVgwFI9-i-ElOPYYsz7tPOmsszupTPCaUWvmM4hJN4MG4Eui1viE1Xd8iJLJfxSs4gkszMVCFVljMO7GAb0-lc-9KCQNloH2zhUJFSKBahN7uJx",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Archana Residency",
+              "uri": "//maps.google.com/maps/contrib/101251925848951106501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUqie-9kpiLKBIWpMuTw_v51FKo9odSC1wUn24MJnzrQ4PtQ4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJaGelFLuX0B1trh6NbaicjGf0kWM0v4hfhrzNPol3_fzL_ka2pEc_T3YQOdxZhf55hjym-cFuTxnrToeUevoHdca8n05BHcamCyX2ZJFmaQ3O-jIU-sm2dGYD9g2DBGCW62c466f3LHsYhhJFsPywoCdQp2TylWeEdp",
+          "widthPx": 4000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Archana Residency",
+              "uri": "//maps.google.com/maps/contrib/101251925848951106501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUqie-9kpiLKBIWpMuTw_v51FKo9odSC1wUn24MJnzrQ4PtQ4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJb5JQssuA5MQeU_CG4hxPdod_3KuxRnntzu5CNGzfXtHtoq2HYjOzaIIYmRM9rHN5-BeYFOPAuXHLYSHn7XBSfY9ShlekxfYNK7P6edsVsoEe-Q8lJPTDpKg0237I_cF5GraDBdMzgA2cCangmLgBG_I9UWcsQrR2b8",
+          "widthPx": 2608,
+          "heightPx": 4632,
+          "authorAttributions": [
+            {
+              "displayName": "Alvin",
+              "uri": "//maps.google.com/maps/contrib/104123227343525556678",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCQGWPaKQW2Jh43axK4mD2on_oQpJZsG1rfjCmGtlZWGc6qvS1DA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8a7x-zPfBTsRcVKTIOMGQcw/photos/ATplDJbnmtPAuzlsLfbKzeR3bj46LpgmWXXLetH6wfaC8Hltf-q7SMiyyxGzIMfNcxk__2_HFgATH9MUPYd9vfQ3VY0ZondYDRWxaedI64pNe0NADRPQ44gPXJtQuwMEFLFapgMVmnCySgW6got4UC6Dj2O5dqy51uFThRuy",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Archana Residency",
+              "uri": "//maps.google.com/maps/contrib/101251925848951106501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUqie-9kpiLKBIWpMuTw_v51FKo9odSC1wUn24MJnzrQ4PtQ4=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "outdoorSeating": false,
+      "liveMusic": false,
+      "menuForChildren": false,
+      "servesDessert": true,
+      "servesCoffee": true,
+      "goodForChildren": true,
+      "restroom": true,
+      "goodForGroups": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "parkingOptions": {
+        "freeParkingLot": true,
+        "valetParking": true
+      }
+    },
+    {
+      "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI",
+      "id": "ChIJg3l-QV_fBTsRVq2so-8isiI",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WWG7+MQR, Anchal, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "WWG7+MQR",
+          "shortText": "WWG7+MQR",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Anchal",
+          "shortText": "Anchal",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 8.9267279,
+        "longitude": 76.9143897
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9253026197084981,
+          "longitude": 76.913170069708485
+        },
+        "high": {
+          "latitude": 8.9280005802915028,
+          "longitude": 76.915868030291492
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=2500099155782577494",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WWG7+MQR, \u003cspan class=\"locality\"\u003eAnchal\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 13,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Darshan Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "WWG7+MQR, Anchal",
+      "reviews": [
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEdUpuWU1BEAE",
+          "relativePublishTimeDescription": "4 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "The best hotel in town. hospitality service ambience the view and the price. .. Great option to stay🥰",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The best hotel in town. hospitality service ambience the view and the price. .. Great option to stay🥰",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "iam anchalriyas",
+            "uri": "https://www.google.com/maps/contrib/102207260315478340485/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHytixzVAaaDhIDJxX94Z5kB702i8XqW3xaaVDogOFzXOnJIVN=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-24T08:11:23Z"
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEazUzU3dBRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "The best hotel  in the Town 💥✨",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The best hotel  in the Town 💥✨",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MR ABHINANDH",
+            "uri": "https://www.google.com/maps/contrib/101404573597425015501/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVa84IwTo2sMH8NKhn5Idrl_U0FfIocdB_zMP8LLBkzaF0bQU6U=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-01T07:18:32Z"
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/reviews/ChZDSUhNMG9nS0VJQ0FnSUREOS11aGRBEAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 5,
+          "text": {
+            "text": "The one which anchal needed",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The one which anchal needed",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jojo Mathews",
+            "uri": "https://www.google.com/maps/contrib/112682209457680607621/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnj1IHIjjRwLjNcmUF0fARe8ni7I8qnh6xfocmdzZgxkEThQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-15T17:00:19Z"
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbUpiZFh3EAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Upcoming paradise of ANCHAL..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Upcoming paradise of ANCHAL..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gopu Ganesh",
+            "uri": "https://www.google.com/maps/contrib/117836723280059908708/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQMUtNSqnqesvSwAbP1t_keA9oweWArwmgIK7VCI2XK2n3dMki=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-13T18:07:32Z"
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEbWNDc0lBEAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "HYBIZ",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "HYBIZ",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tapash Roy",
+            "uri": "https://www.google.com/maps/contrib/103027695565932641546/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYslPYuzDSfb_6-4ACFbxz6mOGLj7VYh0TDhQXzsUc-uJIIhk=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-30T03:40:25Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/photos/ATplDJYwa3l3XRl4RORYGIJLW70MLnMJ6VW2LlebvFzTvIOryK_Fkbp9gYFpFXMUB547x3_V7PoqH10oZ6pUiQp9RBgPdJhgiMaCSoFuU0GtN24luvqAPe8SNNB0V4ndfD0vYJo8E_HEzPtgQImdycfxvH48_bKGi3Mj4-EM",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Tapash Roy",
+              "uri": "//maps.google.com/maps/contrib/103027695565932641546",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKYslPYuzDSfb_6-4ACFbxz6mOGLj7VYh0TDhQXzsUc-uJIIhk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/photos/ATplDJZXCk9y4mAaguFDV2lvpSWYZDUCXSffjAuq2wkfU_BSzlWRATNFYA5JEfql-BBSvlyCdlMiF7t5HsrYx386uOl42Ky8c0fOhEPSQvRhS81ZMIx56G8BJ-2r3cCYTN5sQBVV25KLEH2w9ERPY3EfN2i_juTSW85g5lUD",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "MR ABHINANDH",
+              "uri": "//maps.google.com/maps/contrib/101404573597425015501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVa84IwTo2sMH8NKhn5Idrl_U0FfIocdB_zMP8LLBkzaF0bQU6U=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/photos/ATplDJaQCy9cKoxbXrUSJT3I1_vXHVbn7sfNyXGG7q7gGSlSvZkn6CK3XSPDID8RiEytJ5-8I5xmyXk36rLmH1NDJ1hYctZHgY0Y3ooJ4HJK7-w3iRNvcR0z7WMMhjwiI4N9Vq9eQmK1AAQjdygBOVkenaluUIzOaOjgZ2NN",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Tapash Roy",
+              "uri": "//maps.google.com/maps/contrib/103027695565932641546",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKYslPYuzDSfb_6-4ACFbxz6mOGLj7VYh0TDhQXzsUc-uJIIhk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/photos/ATplDJZZWuFken8TECIsGfYP2zMA8WJ5MoQQXXmF7rFNq8Ly4hpNN76VkClVYuMZ8d2SygZLjiNi29SkdpMu5v_ISw5w7MQszkLrgFeXxDl4uz2u5tEE5utAr3Gutl1hA3lbJ5e41ot0odHEHOMZNJ3w6WeDOSn8LhVY51hx",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "ARUN P SURENDRAN",
+              "uri": "//maps.google.com/maps/contrib/117816627299804781033",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVWu4LR34Xi9BjnArX7FgaXqyudAco64-sjz8stJctocsLlpXDB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/photos/ATplDJbIyij6Ya42m4_BDrVdsSt1c5EYM_AqJFOVBE_wfdivOOzoRdHMmFkS0lPrzUPs4HnhTiauuULPTDwza19ct8hB-UpUH2yAYqTPZ07gU-ceAKkAOr3UKmvR_6v4__5K6Unk1tItdvmptSeGWtrU4kDabOwyUrdG2b6c",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Sujith R",
+              "uri": "//maps.google.com/maps/contrib/100012142529728654416",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVWtFuj7peUT3ngW-ZbJz2Z7E8n4XGVd5PKIAvF6Iq_kFm-5pWlyg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3l-QV_fBTsRVq2so-8isiI/photos/ATplDJaat2HRmS31F9s0WyxYwoHi0rfy-_o73w8ozh7Td64wGaWWO_TJcpMeOJFwQa-xeO7CkELQpplcGeEBLBoMlpXRTDnkF_SpBaOJVcwjDIGh6ZRtxXXKbPPN5KJ7TUz4NYK5bW0SADQIYJerPYiGgDc4dFvRC78HIGFB",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "MR ABHINANDH",
+              "uri": "//maps.google.com/maps/contrib/101404573597425015501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVa84IwTo2sMH8NKhn5Idrl_U0FfIocdB_zMP8LLBkzaF0bQU6U=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw",
+      "id": "ChIJqer4LQDfBTsR1KWBB-hl_Lw",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WWG7+FXR, Anchal, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "WWG7+FXR",
+          "shortText": "WWG7+FXR",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Anchal",
+          "shortText": "Anchal",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 8.9266358999999991,
+        "longitude": 76.9144464
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9252869197084976,
+          "longitude": 76.913097419708492
+        },
+        "high": {
+          "latitude": 8.9279848802915023,
+          "longitude": 76.915795380291513
+        }
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=13617871420494292436",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WWG7+FXR, \u003cspan class=\"locality\"\u003eAnchal\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Hybiz",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "WWG7+FXR, Anchal",
+      "reviews": [
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/reviews/ChZDSUhNMG9nS0VJQ0FnSUREdDR6SVpBEAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 1,
+          "text": {
+            "text": "The food is okay as compared with other multi cuisine restaurants also the service was very poor coz after ordering the food we waited for around 30 mins and the restaurant replied us that the food is over and cannot be served . I am giving 1 star rating for the service and not for the food. And the ambience wise great experience.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The food is okay as compared with other multi cuisine restaurants also the service was very poor coz after ordering the food we waited for around 30 mins and the restaurant replied us that the food is over and cannot be served . I am giving 1 star rating for the service and not for the food. And the ambience wise great experience.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nithin Alayamon",
+            "uri": "https://www.google.com/maps/contrib/100223206634829447739/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK4sHMtQGT2ZT_hzUlCVjqptpa77djz9MoOE3W2daMe9T_b1IHpA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-15T13:39:11Z"
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/reviews/ChZDSUhNMG9nS0VJQ0FnSUREbDhHWmF3EAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 1,
+          "text": {
+            "text": "The food is not great and even the service is not great, atlwast not even a 3 star hotel",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The food is not great and even the service is not great, atlwast not even a 3 star hotel",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "NKS Panicker",
+            "uri": "https://www.google.com/maps/contrib/109948990886927424547/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKahjOeerCbRqNeV_uG_ZnFmDabzaXk6XJYaspcO4dGl0FUUw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-15T09:50:08Z"
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEOHMyREdBEAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Best hotel in Anchal",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best hotel in Anchal",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AK",
+            "uri": "https://www.google.com/maps/contrib/113906769189739393263/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUt0kmFXmzo4E4gbnCXCc6GKlfkjDL9Ini59H7_SpW-xrh1pNp7=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-26T16:10:07Z"
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEN2VQZlhnEAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice Hotel with beautiful ambience",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice Hotel with beautiful ambience",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "John T Simon",
+            "uri": "https://www.google.com/maps/contrib/104934352211382245143/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXi4QOfxlAgK1sK6TURzVNnmRXoyHTVe5s1xRaI_1e4BT7X2ThC7w=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-31T12:07:36Z"
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEb05ETG5nRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "shibu Anchal",
+            "uri": "https://www.google.com/maps/contrib/111789543075580488291/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdnv64tLqIzhtLTaf6TyFtFhFhFtvVPb73D7_bbYQeKh5vpV4a=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-23T06:27:03Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/photos/ATplDJYNUenzb3Jy4VNqbZ8zYHUPPW-fK6-NyERNn9iIS7SIntQqZ8Z3OCGSD5LGJ1DeKutm_-sOBHjDnJNE5DPFV_6326bvAC_D0g7VjL8UIH7QPCU_8q8q1zDX1P0SCFRSsGNLjMBw5-bVe3us8pVdmQv56hQQqSaZ5wT_",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Info Info",
+              "uri": "//maps.google.com/maps/contrib/115448954887362924909",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIMEXFM1VYc8D1YwQnaxe3NoLvdGkmWgm3gYMg42pV4LGOCbQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/photos/ATplDJb4pvQG6KA3gJLyst3fN4v6Pt9CVpvlO_tXwqR-anza1-uRNIcZU3yYBhDRNVETGZp8Fgb0a0IK3n3SnWN-f2CABCbLjz92kkHmC5Qo28i3JWwTtgxMAmVr_nu2ZoUgQ5gKRb1R2Jhj10a9uWWCiYXnkHOuBJ1S8AS8",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "AK",
+              "uri": "//maps.google.com/maps/contrib/113906769189739393263",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUt0kmFXmzo4E4gbnCXCc6GKlfkjDL9Ini59H7_SpW-xrh1pNp7=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/photos/ATplDJa0X2JZE06bNJg5n0vFZBi3UD37-zBZZomSEozRrL6vfSbbYDUWjIsPQJgF_ygc5528PoE8q30IKW8JMVqbAdX4twgop6M2BeJkwJDf2msJeo5EJ5H0H6PkO0PoSnretvwgoZvHYmBnt673XxH-QwoLp7xAIaXHiPF1",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "AK",
+              "uri": "//maps.google.com/maps/contrib/113906769189739393263",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUt0kmFXmzo4E4gbnCXCc6GKlfkjDL9Ini59H7_SpW-xrh1pNp7=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/photos/ATplDJY5dj2V-YnUF_Zz9cRJKJfeJGyvIhBuhSEHLRNrV1xNQd6_HwQFHZemoFeClrKhiYsLWql8oher9xjpeCa7mEOAyurEbyKt7VVHzJ2KlF-F7Nbk1gvJXH_gz91-4kLbQcu8MHuiSwG93z_Y-d-i5l6gBmycGA3Q7k4",
+          "widthPx": 4096,
+          "heightPx": 1832,
+          "authorAttributions": [
+            {
+              "displayName": "S S",
+              "uri": "//maps.google.com/maps/contrib/113961776540572749412",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdlyokzV_hq3MrdiK_n245Tk2vBhslxUNx8t71oZgJf3Z2rQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/photos/ATplDJY1jvrK819_afO35TMXRiQ1tktVdwWPN6OrQKgQ3JAoxwIxjjcTArO5n_21Kh3bDLb3rZDurOZM_ja83-D2ZrICV2N5Xxm-wXcQ-DuCYK_wWvJ3ihNUj28m4xlSj87Y9nRzTfOWq9gJdckexHjh5z7O-4EWpFLrY1Bf",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "AK",
+              "uri": "//maps.google.com/maps/contrib/113906769189739393263",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUt0kmFXmzo4E4gbnCXCc6GKlfkjDL9Ini59H7_SpW-xrh1pNp7=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/photos/ATplDJZy3-WfuOy6zmRVRe9KL4ziE3snpAJeKDIwICFxNRAaFuF_sJOym5C0jft6CrvsAKpBmmfLe2cMPJuti9e1uFZItX42SRdqLk69pgCItmtVsK3H598-Lxcz6e_9_0L5aGN4S3XqE4HksQvzN9jrm3sjB_qrbA63VI42",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Sujith R",
+              "uri": "//maps.google.com/maps/contrib/100012142529728654416",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVWtFuj7peUT3ngW-ZbJz2Z7E8n4XGVd5PKIAvF6Iq_kFm-5pWlyg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/photos/ATplDJbAixtx4XfIm5WEHGdnrXlwuqAd2ImOWHeCDq6B09vZqgHRdGvqXYuEy8Q6IJrWPbIgfyhpJYlXv2R8a1LgYBcv9Tld_9vwOBdcpc2-xwVNEV2lUrPvySnekf1qqHyGA9scEAl0FibncEaxYLvQCUko1lcO5KI9w09I",
+          "widthPx": 3264,
+          "heightPx": 1472,
+          "authorAttributions": [
+            {
+              "displayName": "John T Simon",
+              "uri": "//maps.google.com/maps/contrib/104934352211382245143",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXi4QOfxlAgK1sK6TURzVNnmRXoyHTVe5s1xRaI_1e4BT7X2ThC7w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqer4LQDfBTsR1KWBB-hl_Lw/photos/ATplDJZFfGls6gWUp8xbwtdgkskPrc1aXCB32Z-XhFEf9C0UaRdvI3Y5TV0KTmrXRsQCte-P9KefjNqC5e0-ywSJJmyWmiE7M0SdWLAIbIq4MHtLbPwKQJogoIkX3V5hbJYoLFkFNi04777iJt8OZNfUXBR4hOWhvTnkOsTt",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "AK",
+              "uri": "//maps.google.com/maps/contrib/113906769189739393263",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUt0kmFXmzo4E4gbnCXCc6GKlfkjDL9Ini59H7_SpW-xrh1pNp7=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJwUSf2WrfBTsRjbOGal7VpDg",
+      "id": "ChIJwUSf2WrfBTsRjbOGal7VpDg",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WWF2+H3P, Anchal, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "WWF2+H3P",
+          "shortText": "WWF2+H3P",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Anchal",
+          "shortText": "Anchal",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 8.9239617999999989,
+        "longitude": 76.9001878
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9226625197084957,
+          "longitude": 76.898797419708487
+        },
+        "high": {
+          "latitude": 8.9253604802915,
+          "longitude": 76.901495380291507
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4081621763795366797",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WWF2+H3P, \u003cspan class=\"locality\"\u003eAnchal\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "തിരുവോണം ഹോട്ടൽ Thiruvonam Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "WWF2+H3P, Anchal"
+    },
+    {
+      "name": "places/ChIJW4X8VJjfBTsRPkbKllG8LtE",
+      "id": "ChIJW4X8VJjfBTsRPkbKllG8LtE",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WWH6+C28 Lps, jn, Vijay Nagar, Punalur, Anchal, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "Lps",
+          "shortText": "Lps",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "WWH6+C28",
+          "shortText": "WWH6+C28",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "jn",
+          "shortText": "jn",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vijay Nagar",
+          "shortText": "Vijay Nagar",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punalur",
+          "shortText": "Punalur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 8.9285444,
+        "longitude": 76.9100679
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9272344697084964,
+          "longitude": 76.9087266697085
+        },
+        "high": {
+          "latitude": 8.9299324302915011,
+          "longitude": 76.9114246302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15073192061463840318",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WWH6+C28 Lps, \u003cspan class=\"street-address\"\u003ejn\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eVijay Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePunalur, Anchal\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Ponnu hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "WWH6+C28 Lps, jn, Vijay Nagar, Punalur, Anchal"
+    },
+    {
+      "name": "places/ChIJCz4UlLPZBTsRjgLCI9uJ_6c",
+      "id": "ChIJCz4UlLPZBTsRjgLCI9uJ_6c",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WWJW+H98, Yeroor, Kerala 691312, India",
+      "addressComponents": [
+        {
+          "longText": "WWJW+H98",
+          "shortText": "WWJW+H98",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Yeroor",
+          "shortText": "Yeroor",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691312",
+          "shortText": "691312",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 8.9315474999999989,
+        "longitude": 76.948154700000018
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9302002697084966,
+          "longitude": 76.94683616970849
+        },
+        "high": {
+          "latitude": 8.9328982302915012,
+          "longitude": 76.9495341302915
+        }
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=12105545897685942926",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WWJW+H98, \u003cspan class=\"locality\"\u003eYeroor\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691312\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Punchirimukku junction",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "WWJW+H98, Yeroor",
+      "reviews": [
+        {
+          "name": "places/ChIJCz4UlLPZBTsRjgLCI9uJ_6c/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxaXB5VEtBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "DJ KANNAN",
+            "uri": "https://www.google.com/maps/contrib/103350586479297245587/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwHFYwzyzruotAoSKfENQMGW3xPUaUg0yaTbavs6THaehEG7o=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-27T08:18:31Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJCz4UlLPZBTsRjgLCI9uJ_6c/photos/ATplDJbAi9Kh-c0uXkyIy-eJlojmOmFEMtXzpjv84_hxvioCz-ggAthYCPmPepxSt85snmYmMNDULZTlNm5C1_QbkR327fmyJbIqTyF7Wdo-OJWxrxdffhuKlY3ehze9FPhISGjJg8hsy0f7gN7OmmfyaNEUDuxZwAW1AD8P",
+          "widthPx": 1992,
+          "heightPx": 920,
+          "authorAttributions": [
+            {
+              "displayName": "sibi punchiri",
+              "uri": "//maps.google.com/maps/contrib/104914202862496551680",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLmuqIs6CtpKGIMonKkbAY-6OrU4KzAb_-8VXCnZpwv1a7x20Y=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCz4UlLPZBTsRjgLCI9uJ_6c/photos/ATplDJZjr8rnwGzJwl3yhD3PPfHxwwGiU8PQsqZ6UZZx75-IhnO8sdaECBiSczxfGgebV7uogjiGmuqbWrLokLh75g4Q5vMFgI0r9QsSpYUOYLujYAAkeMyMJ7UkMWsDRGdNEK93JX3kMt0pn1600aBF1s7hXVmGKkPMzodS",
+          "widthPx": 1920,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Subin Yeroor",
+              "uri": "//maps.google.com/maps/contrib/117291735154252679275",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsg0cAej2SEuvJ8dEURrc7YMIboDuqYbW9VDavcD_7Ia4yC2U7=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCz4UlLPZBTsRjgLCI9uJ_6c/photos/ATplDJYy9RBU3LoC76tCW7paIaNIaLnkTIjbX0hxDx7TmzIEOYQz59XD-dorQZCQ-PSh9iusP4awAd4SWq4mInmPT6-3D37wMm9SEDikaOKS85lw9gPBFq_mB2VxIFthBBjr2ueXaXg9OjAYaY4LgoiwMecayDlkcg8W0Ja3",
+          "widthPx": 1920,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Subin Yeroor",
+              "uri": "//maps.google.com/maps/contrib/117291735154252679275",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsg0cAej2SEuvJ8dEURrc7YMIboDuqYbW9VDavcD_7Ia4yC2U7=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJaba5BdnZBTsRgZD6tJsUzjw",
+      "id": "ChIJaba5BdnZBTsRgZD6tJsUzjw",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "088259 25078",
+      "internationalPhoneNumber": "+91 88259 25078",
+      "formattedAddress": "Yeroor, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "Yeroor",
+          "shortText": "Yeroor",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JWRWWMQ+32",
+        "compoundCode": "WWMQ+32 Yeroor, Kerala, India"
+      },
+      "location": {
+        "latitude": 8.9327034999999988,
+        "longitude": 76.9375347
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9313816197084961,
+          "longitude": 76.936185019708489
+        },
+        "high": {
+          "latitude": 8.9340795802915,
+          "longitude": 76.9388829802915
+        }
+      },
+      "rating": 3.2,
+      "googleMapsUri": "https://maps.google.com/?cid=4381462146466877569",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Yeroor, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Sreemurukan Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Yeroor",
+      "reviews": [
+        {
+          "name": "places/ChIJaba5BdnZBTsRgZD6tJsUzjw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNENDlDcDNRRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "nishanth unni",
+            "uri": "https://www.google.com/maps/contrib/116794058665697941890/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdZj_ZSGSAuGeTWE7ax2lBZ5k6oXDDGvDO-wsm1ztxP05BfRof=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-04-01T03:48:44Z"
+        },
+        {
+          "name": "places/ChIJaba5BdnZBTsRgZD6tJsUzjw/reviews/ChZDSUhNMG9nS0VJQ0FnSURabHNYU1pREAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 1,
+          "text": {
+            "text": ".. 🥵",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": ".. 🥵",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Athira Anil kumar",
+            "uri": "https://www.google.com/maps/contrib/108934972596910733349/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKxOLmcAWZ4TTlzJ8nkvsFRttJ8B776YOnhWXdzfKzd9e2g7w=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-09-30T09:26:13Z"
+        },
+        {
+          "name": "places/ChIJaba5BdnZBTsRgZD6tJsUzjw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4Z01lMFN3EAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Silju s",
+            "uri": "https://www.google.com/maps/contrib/117189365988107332395/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrzVSC3Ou6CH3ruYYcTAWIBSnLJnEUUL6QhyQen0ZE0w5Xe18=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-05-30T07:15:10Z"
+        },
+        {
+          "name": "places/ChIJaba5BdnZBTsRgZD6tJsUzjw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqOXI3azV3RRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 1,
+          "authorAttribution": {
+            "displayName": "2DAY 4U",
+            "uri": "https://www.google.com/maps/contrib/111431245491932781750/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwbHefmVzT4irMgX5vfJtLRDJkPx6_qCZJXRa37h_K7v01ftNf=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-21T12:45:12Z"
+        },
+        {
+          "name": "places/ChIJaba5BdnZBTsRgZD6tJsUzjw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4OTV1emRBEAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "dileep kumar",
+            "uri": "https://www.google.com/maps/contrib/102376761123209575896/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJF0Xlt9izqCgS7Q6nXqjUfB_ve0h6Rd0X42h4WZw4JL_tLWQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-17T01:20:49Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ3fQmHUXfBTsRCorzcIrDn5E",
+      "id": "ChIJ3fQmHUXfBTsRCorzcIrDn5E",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094479 79303",
+      "internationalPhoneNumber": "+91 94479 79303",
+      "formattedAddress": "BAGHDAD HOTEL SHOP NO 01NEAR GOV LPS SCHOOL EDAPPALAYAM KOLLAM TENKASI, STATE HWY ROAD, Kollam, Anchal, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "STATE HWY ROAD",
+          "shortText": "STATE HWY ROAD",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JWRWWH7+MG",
+        "compoundCode": "WWH7+MG Kollam, Kerala, India"
+      },
+      "location": {
+        "latitude": 8.9292465,
+        "longitude": 76.9138586
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9278754197084975,
+          "longitude": 76.9126693697085
+        },
+        "high": {
+          "latitude": 8.9305733802915022,
+          "longitude": 76.9153673302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10493320656164456970",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "BAGHDAD HOTEL SHOP NO 01NEAR GOV LPS SCHOOL EDAPPALAYAM KOLLAM TENKASI, \u003cspan class=\"street-address\"\u003eSTATE HWY ROAD\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKollam, Anchal\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "BAGHDAD HOTEL",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "BAGHDAD HOTEL SHOP NO 01NEAR GOV LPS SCHOOL EDAPPALAYAM KOLLAM TENKASI, STATE HWY ROAD, Kollam"
+    },
+    {
+      "name": "places/ChIJ81uWbL3fBTsRx-YnQp6Vuc0",
+      "id": "ChIJ81uWbL3fBTsRx-YnQp6Vuc0",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Anchal, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "Anchal",
+          "shortText": "Anchal",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "6JWRWWH4+XJ",
+        "compoundCode": "WWH4+XJ Anchal, Kerala, India"
+      },
+      "location": {
+        "latitude": 8.9299985,
+        "longitude": 76.9065602
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.9286500197084973,
+          "longitude": 76.905209469708481
+        },
+        "high": {
+          "latitude": 8.9313479802915019,
+          "longitude": 76.9079074302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14824044155413980871",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eAnchal\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Rayyans",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Anchal"
+    },
+    {
+      "name": "places/ChIJMRC7v_jfBTsRwBITTpkVeRM",
+      "id": "ChIJMRC7v_jfBTsRwBITTpkVeRM",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "VWW2+49F, Kottukkal, Kerala 691306, India",
+      "addressComponents": [
+        {
+          "longText": "VWW2+49F",
+          "shortText": "VWW2+49F",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Kottukkal",
+          "shortText": "Kottukkal",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kollam",
+          "shortText": "Kollam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "691306",
+          "shortText": "691306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 8.8953204,
+        "longitude": 76.9009191
+      },
+      "viewport": {
+        "low": {
+          "latitude": 8.8938329197084975,
+          "longitude": 76.9000932197085
+        },
+        "high": {
+          "latitude": 8.8965308802915022,
+          "longitude": 76.9027911802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1403176507086672576",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "VWW2+49F, \u003cspan class=\"locality\"\u003eKottukkal\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e691306\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "VWW2+49F, Kottukkal"
+    }
+  ]
+}
+

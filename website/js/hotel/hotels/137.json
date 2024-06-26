@@ -1,0 +1,3515 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU",
+      "id": "ChIJ2W65_PTd8TkRCvnAqdolYsU",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "GH5M+433, Khagaria-Mansi Rd, Khagaria, Bakhtiarpur, Bihar 851214, India",
+      "addressComponents": [
+        {
+          "longText": "GH5M+433",
+          "shortText": "GH5M+433",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Khagaria-Mansi Rd",
+          "shortText": "Khagaria-Mansi Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851214",
+          "shortText": "851214",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.5077601,
+        "longitude": 86.582671499999989
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.506409419708497,
+          "longitude": 86.5813329697085
+        },
+        "high": {
+          "latitude": 25.5091073802915,
+          "longitude": 86.5840309302915
+        }
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=14222972194270542090",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 11:00 PM",
+          "Tuesday: 9:00 AM – 11:00 PM",
+          "Wednesday: 9:00 AM – 11:00 PM",
+          "Thursday: 9:00 AM – 11:00 PM",
+          "Friday: 9:00 AM – 11:00 PM",
+          "Saturday: 9:00 AM – 11:00 PM",
+          "Sunday: 9:00 AM – 11:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "GH5M+433, \u003cspan class=\"street-address\"\u003eKhagaria-Mansi Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKhagaria, Bakhtiarpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851214\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 144,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Anil Line Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 11:00 PM",
+          "Tuesday: 9:00 AM – 11:00 PM",
+          "Wednesday: 9:00 AM – 11:00 PM",
+          "Thursday: 9:00 AM – 11:00 PM",
+          "Friday: 9:00 AM – 11:00 PM",
+          "Saturday: 9:00 AM – 11:00 PM",
+          "Sunday: 9:00 AM – 11:00 PM"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "GH5M+433, Khagaria-Mansi Rd, Khagaria, Bakhtiarpur",
+      "reviews": [
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNObTluMjNBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "It is a very good hotel, rooms are booked for a century and the food is also very good, it is also good to say the least.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is a very good hotel, rooms are booked for a century and the food is also very good, it is also good to say the least.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashish raj",
+            "uri": "https://www.google.com/maps/contrib/111245458772004509863/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI2w5UxujLsO8gTkDVFeyaPJkSaVY6FsRZgW4QShplsgndPJ_N=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-18T05:08:05Z"
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/reviews/ChdDSUhNMG9nS0VJQ0FnSURsakl6UTFRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "It was ok ok for place like this, can’t expect better than this.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It was ok ok for place like this, can’t expect better than this.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Guddu Kumar",
+            "uri": "https://www.google.com/maps/contrib/112442081457350292084/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXz_Hzv0cSfGSRnQ_YQD4AHPTIi2-Ep1Cf-sRxjBFamBAmGXYuGJA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-30T15:11:11Z"
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1c01DRzBnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "All Service is Average good. this is to Safe compare than another Hotel. thanks",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "All Service is Average good. this is to Safe compare than another Hotel. thanks",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manish Sharma",
+            "uri": "https://www.google.com/maps/contrib/107075948990412767186/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4X2_53ifxyt_MiWRDQU2SJuoYKmXrs9U7QruYAORwCZ3-F2c7=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-07-19T08:12:39Z"
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqdXR5SUlnEAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 1,
+          "text": {
+            "text": "Ggg",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ggg",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SATTAR KHAN",
+            "uri": "https://www.google.com/maps/contrib/101868880452702763590/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVt6cYnKd42AcL9SaP-FbTufFAwiTSf09i1oqsDGvx8mxQr_kk=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-04-20T13:36:06Z"
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZ1BYSVpBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 2,
+          "text": {
+            "text": "Not suitable to visit with your family. Its OK for a tea break when travelling solo.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Not suitable to visit with your family. Its OK for a tea break when travelling solo.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abdul Ahad",
+            "uri": "https://www.google.com/maps/contrib/108875566499386270797/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIUeGYYnDaLkWJUiNKAcf8n5nHkQDG4rkU5JWbstEH5ocXUMxK=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-06-24T11:19:31Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJaWbwBLMCMF57hrm6_0njs7m4wbobyUW66mdDoLxxx13NNyPOuebJXPVqpnSDF3ULyJtTlkYiFsZDKLNxH2hdFldeLbM97I6ceyVQWoUYsQsyzn_H6LSVhZT71vPSytG_PHqHsMD3UohO-Ah4Fqyy2QL3KycPLOk5Lp",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Anil Yadav",
+              "uri": "//maps.google.com/maps/contrib/111516934396063172323",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXdKHmPZsxRdS-Xpwv4viM_QwwEBQBWdcJzUKAEQuucMZkciero=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJYeRJnOuRry4b8Fl5fLoFo245Y1XAs_8wVgi8Fvaqvmi1sSQ4SqbgzGHSngrwu6i7BWExaHgNDWNHsh8YYcwEOt6vi2sLS1fFj741SS1gwA8Aj-oSFMK7Pj2dqYKx26RVWRaSv1-gMTx-eyVIeibezxUNCDuX9NAldl",
+          "widthPx": 483,
+          "heightPx": 450,
+          "authorAttributions": [
+            {
+              "displayName": "Juli Kumari",
+              "uri": "//maps.google.com/maps/contrib/117988863670717322836",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjURer3G7DPt_gL5bpIAJqSE7LOEvlf6p0JZ-Ec_h9JCZtIeQ_JD=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJbAAO4_Nw4scvgG7eNdFPkQZGpGe3rcvUSlejE0_jsQ9rBXgVf31x-UGTKfeDO2sCPm-nOkp6qEur6fskBkV4P-89CjcfyEY0DZsWaFDr13xT-ogkRYwmYHOZg1OH2hMBgJVUIb3QRVSKSuv0SLLL_pOOLnA9Edqc62",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Ajay Ghale",
+              "uri": "//maps.google.com/maps/contrib/114150762130066728715",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLBS0jfeFaK9tmLZrwUFlMB3HAcQE26g75KdEIPt-4e8gJo5g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJZSHTF87w_56Lfx64eWtSjl1WenkD0kUaoK7-6jK4z3cmsJVVkW3WfIqlG8PFnZ-KpIgpXqo2WHZbREKl_w_niIqc58H6zHFEdneMYBhDifNuYs4KlNoizPhAjI8y1rfRfyeblnFcxCg06zBo7pLEtvQ5ePYu-JErAy",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Kundan Sagar",
+              "uri": "//maps.google.com/maps/contrib/101770863998526652931",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI2gyPslXMcI76q_dd1DWa2cvODYmRFkWAd2rGVNhqJrJ4WnRI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJaLBvRd0ZOOFatjWT8Bv0JG-ZE4KqhUcuezoeRUIknE4JfST3EXORTRXUyfs7N50CXnu-Z9xHe5jZzZxPIYNVJT6DSgqjPXkJyxsu9iysgvVUlcsRu2m2SbCdMEESgO1eRYocym8Z37dHmHmjX6uRAz2tBlYDSgdJvs",
+          "widthPx": 720,
+          "heightPx": 1416,
+          "authorAttributions": [
+            {
+              "displayName": "Anil Yadav",
+              "uri": "//maps.google.com/maps/contrib/111516934396063172323",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXdKHmPZsxRdS-Xpwv4viM_QwwEBQBWdcJzUKAEQuucMZkciero=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJaaJGRJ8OL0i0CeQin7kbhj7xe1NAGP2VMn1yLmT4h-L98mpe7cmpED039ALz-X86TaTmd1hts_-HXGPdjMOgtRsVDy5CBeytSrpgUuJ1iRcOoZu3ukSZJlS-yPzq7oWcvPIrK7C1Ck7NqEsRtdP3SyizuZMDdLQyVs",
+          "widthPx": 2560,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "sunny shekhar",
+              "uri": "//maps.google.com/maps/contrib/103005106232751889103",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW0jT381VoAMHKD1j1GVOP-SKaAbwirZPdXpnu2cyQhWGSKLLBwjA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJaO0m-M1cNDg9hA5tu-8fFwH9EDMVZE3eQSmFQRrTeabUzHY6llM0j5ntmN8ATTqwl9AhzB0gjKkhVi6XAZRfg7cCi6GYqLkFu4ivaCoIYzFYg_yLudvCPaxCAenAgwuH86JvOa8lNojRyiWjeN0b_FDuMsyUCUfn02",
+          "widthPx": 3472,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Kundan Sagar",
+              "uri": "//maps.google.com/maps/contrib/101770863998526652931",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI2gyPslXMcI76q_dd1DWa2cvODYmRFkWAd2rGVNhqJrJ4WnRI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJY5XTjw701ZNbmwbQYTqUHsVFYKuqBUQ90vY6CZFtMe8unotlurNUiuy2fo8BfrOj1qvzxZ8S4P7l-f2jrHVjBtSQxhM9hmXmahtQHUjlW3dQQByJQv0zwkCMAWhDFVAehvdvV6DO9JQTEQPnnJVGyGgITcBjg3qEsF",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Mannu Yadav",
+              "uri": "//maps.google.com/maps/contrib/118124131841145686368",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI3ozZG6HFOBfj5Og-uLRGwiy_8KfQyTPM8su0t8cmYTVFasg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJZzC8opui7UncqN5opFoUnHMK1KHOOBI509N5g-SBMY1BUBacBeLROpKrqNC9CJdVtLGSKelXXRYYbtXag-sdZQzInNVDEQk1HmWxkDOPQZvW14xJCDBxjUyFu9aVtuXDhloZ2PK_qpj8387RSWsmhxarQdWtXqLeki",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Narah Chauhan",
+              "uri": "//maps.google.com/maps/contrib/110435047408514674543",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXAxRH4uNdCgaacfh1cejy4btg4NHOs0Zy8g2pEqv7XIoYZGzZg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2W65_PTd8TkRCvnAqdolYsU/photos/ATplDJaMmMh22C8VF3A2yQ1iVopRCAz9ms5dntAWLWzWPGKqQ9Tu1dtnxO81uefEQSV8roYbV_CcG0A4wCeg6rhMrXFJQq6fwpWNojZ6rjD7zb6PCH3Ux4jf3cxnr7GloBoG0vNSLsSTiqv29SZQVcSMtGbPYG1TFyxynQpE",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Yadav ji",
+              "uri": "//maps.google.com/maps/contrib/116752051836423431787",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW4-s8kUNCly7MqOoqoUTt6XXglRrBBCoN1e0eIafuWIYEUPZhR=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": true,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c",
+      "id": "ChIJc3iwr8rd8TkRIxwy2LDlg7c",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "FHWW+P68, Paschimi Thatha, Bihar 851213, India",
+      "addressComponents": [
+        {
+          "longText": "FHWW+P68",
+          "shortText": "FHWW+P68",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Paschimi Thatha",
+          "shortText": "Paschimi Thatha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851213",
+          "shortText": "851213",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.4967801,
+        "longitude": 86.595579
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.495538769708492,
+          "longitude": 86.5942186197085
+        },
+        "high": {
+          "latitude": 25.498236730291495,
+          "longitude": 86.5969165802915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=13223665478594075683",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "FHWW+P68, \u003cspan class=\"locality\"\u003ePaschimi Thatha\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 155,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel amit inn(RAJ DARBAR)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "FHWW+P68, Paschimi Thatha",
+      "reviews": [
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5NnI3SWdBRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "Good place for marriage and birthday parties",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place for marriage and birthday parties",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Harishankar Kumar",
+            "uri": "https://www.google.com/maps/contrib/108381678313602244544/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiCWyIE2pUbphUAEW6jimeDco1-q0vvLwINs2AcPYZSDl1YU1I=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-03-04T11:13:08Z"
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/reviews/ChZDSUhNMG9nS0VJQ0FnSURwaTRmT0dREAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Hotel amit In very very nice .i like this hotel & I love this place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Hotel amit In very very nice .i like this hotel & I love this place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Priyanka kumari Kumari priyanka",
+            "uri": "https://www.google.com/maps/contrib/114008569759273262690/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-Pbhl8sg-jXAhes2IK9F7UMiJsAG9WgI0aGdHFOxZrwwz_g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-08-29T05:13:39Z"
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/reviews/ChdDSUhNMG9nS0VJQ0FnSURscEl1V25RRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Low cost",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Low cost",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ajeeth Kumarsingh",
+            "uri": "https://www.google.com/maps/contrib/106795901194682365287/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVc5qz3KvrkBFYfTGdmadZYOrqSlKpK9CXl71dLUHto_89IwM=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-30T09:56:53Z"
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3dE9tdVhREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Rooms and washrooms are clean however not properly furnished rooms are fully AC loaded.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Rooms and washrooms are clean however not properly furnished rooms are fully AC loaded.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AMIT KUMAR GAURAV",
+            "uri": "https://www.google.com/maps/contrib/117413317651287891846/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-q5CcF4Bqwkxntn_MskGAbzBlW95Nzl228Pot22obmw1ObQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2018-10-09T16:36:47Z"
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/reviews/ChdDSUhNMG9nS0VJQ0FnSURkN2EzNzJnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "exllent",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "exllent",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Roshan Kumar",
+            "uri": "https://www.google.com/maps/contrib/104734692642133088108/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9yPCsMqXDad8ii1_hGE8N0H0tP6ehc6Bg1co87FuNGC_NnQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-26T09:53:43Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJavdYcZ0E2i_6aD9wJ_3mlXJEmsinB9Y_I5mnTA-lDk5D6WIHBhrQ6g145yiXOjIeB9Ww91lZcrTguzmbMRDrMID3mvI1wOUahjXgkSPfFmUhy6LqvcJseOLb76qdwAuVTN8sFJ_dIS_p47fOpHNl-3fp7FN9mQshw",
+          "widthPx": 4608,
+          "heightPx": 2176,
+          "authorAttributions": [
+            {
+              "displayName": "ONE - ABOVE - ALL",
+              "uri": "//maps.google.com/maps/contrib/106379889139306681349",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKIe3WJlew6vv9HX3z4t0dnCSOCUQ7O_R1so2NRnXe-vpX0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJbZZiizJNvZ_mE3B52hgwsPsbX8Ry_fSR_-5g4EdAjv2v-E9ROtPHzguXC9KCLmf58CvHTnZos2DCcF3JRqg9SPtiOouGG4WguprAZfptBW-c3ZZ6DI4vXN_raQMWzg_vUiG9LQkKInghbI5J7Y96k6KP6zlaP2yJX2",
+          "widthPx": 4160,
+          "heightPx": 2080,
+          "authorAttributions": [
+            {
+              "displayName": "Its CRAZY POINT",
+              "uri": "//maps.google.com/maps/contrib/105026839965236334305",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVzZG669Aq_futfgktJv6Vh-wi50kzT3yt-BDAJpp090WlsW0yv=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJZiAOrN6CuONVn6qwcIpke5Yy0qE6ywGTIfTbWW788ZFxB0Xa3f9eDZicBm9CMoSjSgbPBDZj1z12qt5AVcHbkRkmZF-9BDgO3IT0SMrxtq799eaZXiTry5j3J5uTkq4gNfEC64Y3icrCTyZaEdY8BVCFDwG6PLjc9m",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Molu Kumar",
+              "uri": "//maps.google.com/maps/contrib/102182898494893522830",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXp2bOC5ZcndYTXisCaIEhlFkrGrohq84MgswHtNJYyJ_WYaHIX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJaYaTo3_ZEDyFhJyzdxOH67Z3BKodOsdupmLZ-RcLOel9YLmyTHsRAruaShfJlirghI0xC9bnCqEcbrirseVuUPaHa__tmxEW957MO38ijLA9O5USIeP2cXBre_8nddOSAr61T61bC6AfThlSOIN9QQxUEkGvdgU1Nh",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Mandeep kumar",
+              "uri": "//maps.google.com/maps/contrib/114366672308085870127",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVM3XbAKJb57pOKRC3g0tAP9PQQwzgcpCPXX4k0d_GkF1-desxRLw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJb0s9RDXCoNmx-TS3Hsz96w_Pl3Yb_kHGMNnOVFLfjw1UoNMG0xRYo-Kt5FPPRYfCqEJPW9jy8_Mb1TZGcUJTa1M1Q45n613FWeXPXZyKTxOHI6NuqQFouCxaKVQe1vnuSu_1Yws8eOcYrkY2l4IuHH7MGLG3rUQWrR",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Molu Kumar",
+              "uri": "//maps.google.com/maps/contrib/102182898494893522830",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXp2bOC5ZcndYTXisCaIEhlFkrGrohq84MgswHtNJYyJ_WYaHIX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJaKLc86QMQp_pCRJYeDaKd8HDz8iE5KILP1vfCcPrI5578ixEIP0XbZTWhA13-bB8Cegj5zE6yInD0QwhF3bozH17TqgX91hPOh5ADSD-skrSHNyZipSCtpH8JX-mJgU7PS3E_SNFqXV1RRdcKVH4bxgqexBwI0vUIN",
+          "widthPx": 1836,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Molu Kumar",
+              "uri": "//maps.google.com/maps/contrib/102182898494893522830",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXp2bOC5ZcndYTXisCaIEhlFkrGrohq84MgswHtNJYyJ_WYaHIX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJZt4rE1O793FsCw4FSt_oKo9LcPcsIhT26cKinCHaelYQNhLcUh5UV4H4zPIG6kDhiLV055xYeg7WrCUlerZQf7Ju0Uokx7w1Q7hgmKUFHukrXb4yLTLSnPRDwgTuAbEo1eQFjikPsV8tMV0-pi0ZCnbs3jR1o8SYYu",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Harishankar Kumar",
+              "uri": "//maps.google.com/maps/contrib/108381678313602244544",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUiCWyIE2pUbphUAEW6jimeDco1-q0vvLwINs2AcPYZSDl1YU1I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJavbEeWkLjwcWdDxHUGHCKik7aKe0TUPssKQao4K5FrwPoAqSLuWI1k7obrtziBb_cHEsiAXBHUFmlYMbGNis9TL1G_iIOX-CHVXggN6ZbnGS-OzoWaJtr6GaX0AnMuqMW3m24qnkrG2mWwF65PmzADH1cg77F-_tW6",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "SUBHASH KUMAR",
+              "uri": "//maps.google.com/maps/contrib/107745229855275698037",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFcbhgcQvyxrUK1O0sGcyYB2HVTXB2HXDl54fhiNR7NzzoHomM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJZuukZ1HjGTP6pZKz--FdjG06cgnDhnNxwRG3vOZSpce7dKHNLJR_uFtV_9yuXO8_pT7VpgLMnOPufTKx3ZReGC9HGTS4riKXUMexW4qQA_t3Qkm29kx2ikrqQxmnY8hetdZ_A_TEVsgfH16yFdt5T3s28A5Yfot2ck",
+          "widthPx": 2340,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Ayush Shivam",
+              "uri": "//maps.google.com/maps/contrib/103864581542430570723",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWhEQ3wc2bQW-8PKIUZltOCoxxp2HBP_tJ4gbVWilDkw5bP0gmIOA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJc3iwr8rd8TkRIxwy2LDlg7c/photos/ATplDJZYrCNEwz-IhDWX7nMO041mYdNVDe1VToKgwipSNhbJs6IPWMK-yHWb8XjcZ2F_P5xKP9LCsUMCd_AuZFy2ntZPGxrDN0WmyO5el67UQMibxtnU2qvhKu0THdPnLs1tFNyA4QS3A5USCzoiWGb5jOdq6M2qd_vECDC5",
+          "widthPx": 1836,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Molu Kumar",
+              "uri": "//maps.google.com/maps/contrib/102182898494893522830",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXp2bOC5ZcndYTXisCaIEhlFkrGrohq84MgswHtNJYyJ_WYaHIX=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk",
+      "id": "ChIJb31UVMzd8TkR7ThEZo-qlkk",
+      "types": [
+        "hotel",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "097096 95878",
+      "internationalPhoneNumber": "+91 97096 95878",
+      "formattedAddress": "Shiv mandir chowk, Naya nagar banni, Maheshkhunt, Banni, Bihar 851214, India",
+      "addressComponents": [
+        {
+          "longText": "Maheshkhunt",
+          "shortText": "Maheshkhunt",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851214",
+          "shortText": "851214",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MQ8FJP5+C9",
+        "compoundCode": "FJP5+C9 Maheshkhunt, Bihar, India"
+      },
+      "location": {
+        "latitude": 25.486012799999997,
+        "longitude": 86.6084532
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.484574719708498,
+          "longitude": 86.6070004197085
+        },
+        "high": {
+          "latitude": 25.487272680291504,
+          "longitude": 86.6096983802915
+        }
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=5302613144148130029",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Shiv mandir chowk, Naya nagar banni, \u003cspan class=\"locality\"\u003eMaheshkhunt, Banni\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851214\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 71,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Dhana line hotel and family restaurant",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Shiv mandir chowk, Naya nagar banni, Maheshkhunt",
+      "reviews": [
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxM3BxbEF3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good food with best quality service.।।",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good food with best quality service.।।",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "krishav telecom nd general store sauraha (mehta)",
+            "uri": "https://www.google.com/maps/contrib/114104102428152863117/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWz1zwXpcW19Ak56kqJtOtm3UXXBLCnbcUgpxt2KweejfQOZs9=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-30T14:23:26Z"
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1cWJQTmxRRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 3,
+          "text": {
+            "text": "Good place for lunch and breakfast",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place for lunch and breakfast",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "HARSH Raj",
+            "uri": "https://www.google.com/maps/contrib/106312600111717666478/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbrjICDeJXhojIZ1ZwfknEHJUhjYmK0_gqdYxlH287H_TSysEw8A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-27T08:43:49Z"
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNhX01qY0ZBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the best restaurant in bihar with very good taste of of foods at reasonable price , the sitting are is also cool and comfortable  and nice and hygiene arrangements of washroom , the behavior of owner as well as working staff's very polite and  there is also good parking space in front of the hotel so you'll don't need to find parking space for your vehicle it is just in the main side of the road so it will be find by anyone easily , there are lots of food items available here but if you visit here anytime don't forget to try This Hotel's famous Dish Panner Butter Masala  ,the taste of this is just waooo.....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the best restaurant in bihar with very good taste of of foods at reasonable price , the sitting are is also cool and comfortable  and nice and hygiene arrangements of washroom , the behavior of owner as well as working staff's very polite and  there is also good parking space in front of the hotel so you'll don't need to find parking space for your vehicle it is just in the main side of the road so it will be find by anyone easily , there are lots of food items available here but if you visit here anytime don't forget to try This Hotel's famous Dish Panner Butter Masala  ,the taste of this is just waooo.....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rupesh Kumar kamat",
+            "uri": "https://www.google.com/maps/contrib/104571798868012581584/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOIiv1u89PEFRRrkiybwtg7iqiCY4wi6EMtW44CGtDkQlB7G4V=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-07-26T05:38:33Z"
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaaklHWnZ3RRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Here you will get home like tea and Food .It is a little expensive.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Here you will get home like tea and Food .It is a little expensive.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Santosh Kumar",
+            "uri": "https://www.google.com/maps/contrib/115252408528962125512/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1Cf-k0lGHceJ9EoAvrjcYt4ap-sTxZZS9gmiOMaRNsVNcWeR=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-05T13:43:33Z"
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4azVLc2RREAE",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Good and tasty  food. But service is little poor.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good and tasty  food. But service is little poor.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Binod Kumar",
+            "uri": "https://www.google.com/maps/contrib/111810456180201669481/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLndr4JZBon5Rzrol3qTC9-yQUUKZVn-86ud0ylWVAnJ4Lc7E=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-05-25T07:11:50Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJbsBbMacXIul8WQYElXKAHyB6RT1Gv6_zsTIZ4R07scK3tnjuOzT7rmR5LAH_4ZceKrcbMVqMmZHiWQmVGopjnopvSF8--RNGFBn5S-dbdyoOGDWEkXEwehwqrtfoWLavC0S7GVyYIJU_E82nXsh4k_woK8VXK59udv",
+          "widthPx": 1080,
+          "heightPx": 559,
+          "authorAttributions": [
+            {
+              "displayName": "Dhana line hotel and family restaurant",
+              "uri": "//maps.google.com/maps/contrib/117709373883164162667",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL34KbQZqsaMGQtwu4ktetMj3jqpeI1FyxTH7df2cc5TlwNmg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJZGZWibsqlwy80q_YKYc17ijobHdrEEfL-x7Inkw-aGjxpgXRnes2s6IAhgcptNZJ-_aflC93ruGJwW8G2SDkbhioNULw29WFFeo0J22_Uso5AeIbTP2SOIgY2uuj3p0Gdv4uMS9Zp-6xCyugjj9FptSk_AEnu2ty_z",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Siiva Chakma",
+              "uri": "//maps.google.com/maps/contrib/107192752841492901786",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX36TSPFdYIWnjqXTPVy2xPUhE6HW2w8zaiq1Bw-OWzE6tQ5VTffg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJbwuUdpLnXILtPBDDVerVda2rv_GQpoKxiq0wiSVnblLPeN_cSZDN-3-rnEKKINMm124cXoZZNf_p7RUGbRmoolaA9ledEw3z1oobzMhUMm2wpI_fQX17pchEW4hB6X8n4hO3TcXTh2Qp0DhIBjFdv5Tf790wGHk9o",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "mr_patnaite",
+              "uri": "//maps.google.com/maps/contrib/103305177521395461978",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyKWssZVeOwDi7Ss-Uu2mEdqmaopSTN7zogrIjXgcvUsqvYkso=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJbXlxXg0nVlSV-Kow87PEBYrw8FjhaElU4aGVrig_UfSPJ4MeWgziqU0LUGlQOC_yczHOz1kELl_DdZUJKQ5a3V3JZa5HAcMU6m0cfnZsqNysA0Ve0Qndtz9SCUYYyQO-IVgavbT7osS0wtU5i-fIw2TMBqQv06q1Q",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "mr_patnaite",
+              "uri": "//maps.google.com/maps/contrib/103305177521395461978",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyKWssZVeOwDi7Ss-Uu2mEdqmaopSTN7zogrIjXgcvUsqvYkso=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJYKD9vDFHrhO8dedQptQPGpJa3u1jDXH06W0Vf-BT02yUnUFclEsyy7E7roxFj8xoEjfLdqalvAi13MidIgm-dvPWdEsJ491fivBTjBKBRlQPbcs7g7xUtCZGoJJDR_GKGMHCSGzR6Pf6V-li0qr0MBRZTnc069WEG4",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Anish Kumar",
+              "uri": "//maps.google.com/maps/contrib/115179104635292706066",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlM0WPyHQXynQSJOrSdir69PI0eLKLThmJT5y2INe8qgnvKhw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJa2Cp2cYcx4_4hBWaZV3S0oAvdX3OpufOXhh-ADPp8EC7pKKuCKqkVD6AGKcCmPUCzSmz5ucpwi6sVs_91G6Xg5FL7Fv0w9FYa2DK83-zGFzIpt5BcZRgRNnAm_w7WlBXV02rGr7EgWIXMmqfdKalEIJwobRx6te1lT",
+          "widthPx": 1842,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "MD.Naushad MD.Naushad",
+              "uri": "//maps.google.com/maps/contrib/116749652839033335443",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXwztNqYE-fCXkzhS-KNt5JykAi9_NQWuTT8w1mFoj1MmdW93FM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJYv_i06r2euOhGf8P55rz7NTCusgHzUnK2GsI1vzArXTTKsFfEIo3ilt-wiL5UXhGBcCr0NHxiyD36kUySOlXZNMWP3Q4ZmfzM00zemA8HY568IF8p5WQaaJ4ny-KPGyAPb3Gxlsh1BFMY3DIFF97XW1pLq7sh7UXP-",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Prakash chaupal",
+              "uri": "//maps.google.com/maps/contrib/111216796145608247617",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUiwDedsBdrSg5VdgD1K_4nJYpQdikbHjDcy0I02ZS1EgCd_IwM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJYlQTLKYXSahR-ztbkE0qQOu_Qd6xNUgfY7-AZvsz5p5QlK_fqAXli4eOFvzhUb2MBdHnvvn9HzlZ_UKICk4ai23AZHAKjlT_Gn-Gx83fgsFzfbOP2jBGSxB9HabC_Zyi-op-IQV13ne47WoivNpDNKufPN7Nl3bRnW",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sandeep Kumar",
+              "uri": "//maps.google.com/maps/contrib/104422274266569196860",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWzd_IHXSl4DJmurVbQTM8uo8Jm17lF17xVwebd62tg-NKHRv-k=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJZk45V_h-oY0UCJApMFhWHUW9W9M9WMbn8-6TpBYfKVfjBm4_8HDumpmF_HNlJ6Mpol4D53g-YHOCPRshQAvoiH4w_lzz8S142frqM2biEJ3_-7vYHMED2wXohuOWT4olTL1nw46HH7Hi0TLys8Xj39nMEM7tV-OroG",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Krishanu Pramanik",
+              "uri": "//maps.google.com/maps/contrib/105486291482048024353",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBamTHOBUVeYyvHXhUgaDcVUwrbmmI-oNmzHJHl7Jy8H-K6zIbag=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb31UVMzd8TkR7ThEZo-qlkk/photos/ATplDJboJeRYPJqE_JPlYXsO66kN_Iy2RL7P17w7-iEEnAIOkcqdW8jX1ONJ4_sxSXwRgRpIBLZLTB9yfg4xnFmloFJCeV2zxP9UiZ7F96GJRHpiMTxuYBdaaDGmw3acFk2SR_Fi0N3uP_T372iY6kRzcF5NutdokaxHGfB3",
+          "widthPx": 2303,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Nitish Premi Films studio",
+              "uri": "//maps.google.com/maps/contrib/108116125775485744501",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIEHJc-6H5EP6RkH7545IVRKDfR-oc4g2-GNopf1_gQ5nOiNg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI",
+      "id": "ChIJs5yP6-zc8TkRg0nExFkE_qI",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "099342 78794",
+      "internationalPhoneNumber": "+91 99342 78794",
+      "formattedAddress": "FJ8Q+HP3, Pashchim Tola, Maheshkhunt, Bihar 851213, India",
+      "addressComponents": [
+        {
+          "longText": "FJ8Q+HP3",
+          "shortText": "FJ8Q+HP3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Pashchim Tola",
+          "shortText": "Pashchim Tola",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maheshkhunt",
+          "shortText": "Maheshkhunt",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851213",
+          "shortText": "851213",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.466387899999997,
+        "longitude": 86.6392946
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.465102219708491,
+          "longitude": 86.6380198697085
+        },
+        "high": {
+          "latitude": 25.467800180291498,
+          "longitude": 86.6407178302915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=11744829661828630915",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "FJ8Q+HP3, \u003cspan class=\"extended-address\"\u003ePashchim Tola\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMaheshkhunt\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 39,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Vaishnavi Guest House",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "FJ8Q+HP3, Pashchim Tola, Maheshkhunt",
+      "reviews": [
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVM3NfMGhnRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "It's a good experience you can stay here at cheap rate and better facility",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a good experience you can stay here at cheap rate and better facility",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Salahuddin Owaisi",
+            "uri": "https://www.google.com/maps/contrib/107363251045548355564/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgmiawMIWqlQnhnMyys6a6ZPT_pSMCy1jZ5IjFu-y4mIPHMaF2dg=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-07-25T04:46:27Z"
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/reviews/ChdDSUhNMG9nS0VJQ0FnSURCby1IdHl3RRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice guest house",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice guest house",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "kumar gautam",
+            "uri": "https://www.google.com/maps/contrib/108863485801037773970/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3EMZ-flgWH1gZVnkl45kdm7V1KMo7lgZIbgy83DRa0l_YVVNJ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-10-26T07:31:42Z"
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNeVotZUJBEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice guest house. All staff are friendly and cooperative.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice guest house. All staff are friendly and cooperative.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AMIT KUMAR BHARTIYA",
+            "uri": "https://www.google.com/maps/contrib/113756253079097179212/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGOk33cgfylx470U2vGHA-tf81A7YMcLRTashGKvsOpQgPnIcx=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-01-24T06:38:01Z"
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/reviews/ChZDSUhNMG9nS0VJQ0FnSURkNWYzalJnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "BHASKAR KUMAR",
+            "uri": "https://www.google.com/maps/contrib/105120220458460031028/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbttXmlWBlHp6GRCe3cPCtaaXY8LCLO3HNnmr_h3y2AOsDkw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-25T16:02:12Z"
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/reviews/ChdDSUhNMG9nS0VJQ0FnSURBODRMeTV3RRAB",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Really good catering and great facilities.....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Really good catering and great facilities.....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Navnit kumar",
+            "uri": "https://www.google.com/maps/contrib/111113309083821718865/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUoy5ZpiXYswyoVrwdqCNnCAtZrfWkABjS_lNwl3540TsfRRpE=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2016-12-29T03:14:58Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJZWc2Pa09O_EUAO5_myDsi0-ejR4znezCQXhTarXnqlIzk71rsRmfY8QoiSe19__5UND_cUoWzTGGQU6b7G1c8A4Q7WrRicLtXGWk21RgP7sEN6gfRek0z8myjJ58twpiLinONY6zrOANJZ4CEeQnm-B2HwifKPQeqm",
+          "widthPx": 4160,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "PunkJ Kumar th",
+              "uri": "//maps.google.com/maps/contrib/113446881578256349045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFdyuZtvOFQeN6RGeUPZKYnF1uZsC4cvABdPvrHc0u_TauG-id=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJYmJ-SEh02c0KtmVPuBEKX8VGR4KR9NSDYGsWa8c59xc2H60bDSwXkGhRDMGLfOKQzsPhMzH8DaBtiAIwvKLgY5jFC9IZ3ChjIZctUFWsmyPW_AeTcWYL3dGa0zcNxenJgVPHz3cjsYqS6-4tJ-fmo8mtjucgjH2ImL",
+          "widthPx": 4128,
+          "heightPx": 2322,
+          "authorAttributions": [
+            {
+              "displayName": "rk KUMAR",
+              "uri": "//maps.google.com/maps/contrib/102586367192026489299",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKKdbf7JMV4TdWaQAXm_xsWDhuA5l1FswsrcH7Chk16qoskXw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJbtvrDf-jRLNVe8x42dsgJ9b5BKeORBfji9PRRNBWiWbQM53d8R1KVUdwAoY3JVGiLBRRXCzkTQthlm3-ZX3Bo82yYIMhEyj20Kxs4vLmWYVe_SHzoF_gInu9SdhyMBYWTboK4SQ8_2h_jQPT09ysdDQeOP9k3x-rQ4",
+          "widthPx": 764,
+          "heightPx": 1024,
+          "authorAttributions": [
+            {
+              "displayName": "rk KUMAR",
+              "uri": "//maps.google.com/maps/contrib/102586367192026489299",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKKdbf7JMV4TdWaQAXm_xsWDhuA5l1FswsrcH7Chk16qoskXw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJYXa72RPUQnMpZgOMHgpx7PEVlNC8DtgmdOwWhnowrk5EwGO_qxqyw3qGWUeBcrQbptxVsF_3aLE9zOgirNNtcLVGFgjUYdkMP9AX02Rw_65H8A-ciTihktcg81F9Tv1_An9hJh1nxR6oVeeP9mZkqnhgCFkodOKT2Q",
+          "widthPx": 2249,
+          "heightPx": 2249,
+          "authorAttributions": [
+            {
+              "displayName": "महेश महेश मोदी",
+              "uri": "//maps.google.com/maps/contrib/112543704460306712635",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL2rizxgnziNdhePstVBfwg5PCAqn5sHkj9KUPtmITansdVxw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJZ7tTzICGsX1HROSWOIo9TL9VuyKE74opWDKpNeINm1leqkPZDlhcDZo6Gyvmnhgm0-Q74WdNEUhI6qorpCn675kjaVc0GubqVb0qj47Nb2F2p5-rMsECOvwm5zyMiqAcL9iJscqnypMAod16f-zTg19Bdn1PUgOoGB",
+          "widthPx": 741,
+          "heightPx": 507,
+          "authorAttributions": [
+            {
+              "displayName": "rk KUMAR",
+              "uri": "//maps.google.com/maps/contrib/102586367192026489299",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKKdbf7JMV4TdWaQAXm_xsWDhuA5l1FswsrcH7Chk16qoskXw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJaKlVPnuhRa6XoaLg7Wpy2OGBmGiMMpChdRVYK-nIbF_lYxcEPaFX8sxccjm9Ryw187JULvx5PPK-9cUrdn9YTEaKJOkevKE91LXijJO669oS9EkR5ThlKANN63V2PIwf8sQ_VS6nsJleXZ6ZgkNWOHDshK8PGrI_Tv",
+          "widthPx": 4160,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "PunkJ Kumar th",
+              "uri": "//maps.google.com/maps/contrib/113446881578256349045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFdyuZtvOFQeN6RGeUPZKYnF1uZsC4cvABdPvrHc0u_TauG-id=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJagdXPvrkJOZx5g7QkSBO3zcxNPevQRygozR_QeWOvpc2owt0RO-WyVWyWzLW1Rk_40pTO41Pmm2y6kSw97L7kIGMAjY3InRBN5e7JebyhxdMyRv3MpP4lIvti5SObkAsP30OH4nEcLP54IXpaZ0JnB_8WY2p5d4bzu",
+          "widthPx": 4160,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "PunkJ Kumar th",
+              "uri": "//maps.google.com/maps/contrib/113446881578256349045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFdyuZtvOFQeN6RGeUPZKYnF1uZsC4cvABdPvrHc0u_TauG-id=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJYVp2NLblJSKPY0ZIlSnroUCCk-xiFTvft6VmtqfPdF2zvIit-aU6A17uwyanUc1qBpdPmKeWlTyU-D3GoeNVYnvVPelpqgF_iiCdipdzAp9UDluj8ApqrUjc5doYgp-bcBL4psHWOyLYsVNIBpLnaEPkj7JWZSbJ56",
+          "widthPx": 1024,
+          "heightPx": 764,
+          "authorAttributions": [
+            {
+              "displayName": "rk KUMAR",
+              "uri": "//maps.google.com/maps/contrib/102586367192026489299",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKKdbf7JMV4TdWaQAXm_xsWDhuA5l1FswsrcH7Chk16qoskXw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJaroP5f-Jeg70GpHLbAVWtFgXb47tnHTajmWMEBadYQ5EGnjSyrpXEHxijuuHq6pZoj_ObPiP8Q7GjCwvz1dlUTAFSbig-UnvHhcdZ6A2SgLS3lvuwJ-LbGBOKgI-19k1Sj9IQsXlS1uvAs54E3rP1b0Z5vu6nTzTge",
+          "widthPx": 4128,
+          "heightPx": 2322,
+          "authorAttributions": [
+            {
+              "displayName": "rk KUMAR",
+              "uri": "//maps.google.com/maps/contrib/102586367192026489299",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKKdbf7JMV4TdWaQAXm_xsWDhuA5l1FswsrcH7Chk16qoskXw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJs5yP6-zc8TkRg0nExFkE_qI/photos/ATplDJZCZNClADwhnRYPEQBwoyG1g0MfsMtf_P-lgK-RzCdM_EBV6rkqQgt1iqgg5_FGBSxtMmVaPjz15pvseCuUFFBQrCmW8Djp12LFXmV1r522jZhJk8c7EQTb7PnnlKXl8IPLFowNvV07vvS1hFEJSWCFTNvg0dSMyTNS",
+          "widthPx": 1224,
+          "heightPx": 1224,
+          "authorAttributions": [
+            {
+              "displayName": "DHARMENDRA Kumar",
+              "uri": "//maps.google.com/maps/contrib/100424383030875889292",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRJRQLjB7c85iBNvQFsgIs4CpVBgZ3diZIq3Q_w3O3hqNRjmCl-Q=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M",
+      "id": "ChIJ4SfJ7Ozc8TkRisbBxPoFn_M",
+      "types": [
+        "hotel",
+        "event_venue",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "099393 23194",
+      "internationalPhoneNumber": "+91 99393 23194",
+      "formattedAddress": "NH-31 road, beside Gyatri Market( 9939323194, Pashchim Tola, Maheshkhunt, Bihar 851213, India",
+      "addressComponents": [
+        {
+          "longText": "Gyatri Market( 9939323194",
+          "shortText": "Gyatri Market( 9939323194",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Pashchim Tola",
+          "shortText": "Pashchim Tola",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maheshkhunt",
+          "shortText": "Maheshkhunt",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851213",
+          "shortText": "851213",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MQ8FJ8Q+FP",
+        "compoundCode": "FJ8Q+FP Maheshkhunt, Bihar, India"
+      },
+      "location": {
+        "latitude": 25.4662187,
+        "longitude": 86.6393417
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.464842269708495,
+          "longitude": 86.6380663697085
+        },
+        "high": {
+          "latitude": 25.467540230291497,
+          "longitude": 86.6407643302915
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=17554756447114479242",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "NH-31 road, beside Gyatri Market( 9939323194, \u003cspan class=\"extended-address\"\u003ePashchim Tola\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMaheshkhunt\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 22,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Maurya Rest House/Maurya Vivahbhavan",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "NH-31 road, Gyatri Market( 9939323194, Maheshkhunt",
+      "reviews": [
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNja1oyWGdnRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "We came for a wedding function here. It was a good stay. Polite staff and full of services. The owner is very helpful person. It had conventional hall and marriage hall fecility also.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We came for a wedding function here. It was a good stay. Polite staff and full of services. The owner is very helpful person. It had conventional hall and marriage hall fecility also.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Babban Kumar",
+            "uri": "https://www.google.com/maps/contrib/118130248976716509333/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNedL_7MVdWKlFtPvBtTe9DOef9bKS-QkmrhZawCdNO2U-mg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-03-13T10:24:11Z"
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHaHFIT01nEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Good place . Clean environment. Parking fecelity.24 he services.\n\nHappiely stayed there with family.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place . Clean environment. Parking fecelity.24 he services.\n\nHappiely stayed there with family.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Adarsh Kumar",
+            "uri": "https://www.google.com/maps/contrib/114124341808446087871/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaKYHJAK8UpIE-SlKeid7u-ruE_VCqXqDhiM9OC1SF33tF11I=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-10-27T13:14:21Z"
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0NUtHZlpREAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Its a good place to stay  with family and great service. Proper space and 24 hour current supply. And a secure parking space",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Its a good place to stay  with family and great service. Proper space and 24 hour current supply. And a secure parking space",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amar Kumar",
+            "uri": "https://www.google.com/maps/contrib/115291215264664163449/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNf_j0cgELeDmx7ueuZ0eeb6g7OtX277Wh9Xra_HIbMoTR5Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-06-03T08:49:52Z"
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNja1kzWF9BRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Awsome hospitality and bettet aminities. Safe parking space and 24 hr electricity.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awsome hospitality and bettet aminities. Safe parking space and 24 hr electricity.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kanchan Mala",
+            "uri": "https://www.google.com/maps/contrib/115362787493009710180/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEX951yhHDh7eH30KxorN-Z5UhEPV7R9w47z1MTrSw56MkJomblQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-03-13T10:10:29Z"
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjcFpqVlV3EAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "acchi jagah hai.  good stay.  clean and peaceful place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "acchi jagah hai.  good stay.  clean and peaceful place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Suraj Kumar",
+            "uri": "https://www.google.com/maps/contrib/108900566683213690730/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZU-xnzVe5sLwfP5vcXZbc8TjLHxOMr9c8oVwTqlKbTLvugw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-03-17T09:19:24Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJa64mHbFh01iHwUSkIYLvs8q_99lFyOMQzPyT9R-0SXB0e2lJR1TZ_h_sAbyyn9YzsG-bxCdQY9IEard2psqnOdBhpn-EA2bcNcxzyDGznNFjHA9bCvmI0E7moYEn4ZKaHq5caNL617Pv1qUeUs4Og7pRrU57jMhhKk",
+          "widthPx": 720,
+          "heightPx": 405,
+          "authorAttributions": [
+            {
+              "displayName": "Maurya Rest House/Maurya Vivahbhavan",
+              "uri": "//maps.google.com/maps/contrib/111544537119224461400",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXigtR51c1edDccK5sgZHw2n7qd_LlcBVxu3K2iGYHB1o8I-lY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJZqwtrT4G5X5fCPcc4bv2UeHBxcBdtE8OwELBhjriBps7TQvsboa2WBNCxV_0usoLLsDidR9BvfK7_YI-Vx0t0PaeOco5rrAZEAF7rTHIdZwKqC8bVe00okHO21OTKw1_K3KXn1ZM_ca6SjOAHqf6DUilNCDUsvf5Rm",
+          "widthPx": 2048,
+          "heightPx": 1152,
+          "authorAttributions": [
+            {
+              "displayName": "Amar Kumar",
+              "uri": "//maps.google.com/maps/contrib/115291215264664163449",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKNf_j0cgELeDmx7ueuZ0eeb6g7OtX277Wh9Xra_HIbMoTR5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJYX0oEmLGjzPTcNhjDQURrHSPUe4rvLDtRjAg_W9EYI7j3fJaiGYVFGHTUtmcJMqGndhlSi2u1ncWhHRU6v8YIa9yBISXuJyFkx2Rlm06igbWp9BQpfExU6P3sAfPSx54mYZORoWO_Bid6PlYmbOUQSiq-dYsA-zFc",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Adarsh Kumar",
+              "uri": "//maps.google.com/maps/contrib/114124341808446087871",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaKYHJAK8UpIE-SlKeid7u-ruE_VCqXqDhiM9OC1SF33tF11I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJZ14GWU66zr3WMFbbDoLUjUzstEA2V7mj6QEFcXGWSRgjGgDdecakVQcQza-ajpIIbV1bnps0zfDn4wv1aCJ8ftkcMrt-xIKKtLjeYZfvC9Il2rFYx-RQPCQBDMfGRzFKi4AUhClU-md-eoaQtzm--NSnZogu2jZl2-",
+          "widthPx": 1152,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "Amar Kumar",
+              "uri": "//maps.google.com/maps/contrib/115291215264664163449",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKNf_j0cgELeDmx7ueuZ0eeb6g7OtX277Wh9Xra_HIbMoTR5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJZ0nIpKmgH__iIqzHj4BN3pDtzFGtNDncIK2Y75nxdfft7Pweww-IbwltqJcQpk3bo6e7lIRWH6sdy_bdJEl8TNAk4q-0C1HH9959snyfjw-iFq1tPuKke9tjQYBRi-1lGTLyDy2pmy9GbYNsV9ZGg0E65E3Uzow_D2",
+          "widthPx": 2048,
+          "heightPx": 1152,
+          "authorAttributions": [
+            {
+              "displayName": "Amar Kumar",
+              "uri": "//maps.google.com/maps/contrib/115291215264664163449",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKNf_j0cgELeDmx7ueuZ0eeb6g7OtX277Wh9Xra_HIbMoTR5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJaa7i15N3E-mOEBo4VJMTz8wOAG6PezrTOXJw-b62CXZU3PKvDKq-H5Gopsj3L78_NHMZ7HhUnftZ9tnB6KE6sIH_KoFyK1M2NOYYx57Ceanx7CeJDIOLdc9w88kltjosMg96KMQ9hfm9lmL0pSNvWZpeWhLRw4EYCh",
+          "widthPx": 2048,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Santosh Kumar",
+              "uri": "//maps.google.com/maps/contrib/116362289083595542088",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJsyGGWQdR1wPhGAbICzmc2ga6kBwzjEzGGM5-NHsCacS1EHA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJYXYe4R-6seljolt2uOL6mL6XD_r3Il0Sdc752VZQD3NY1FwpiXoarrIfg3qOEpMQj0jPfuN9VUHaIheqObZSh_eRSU0yt-tdWSlu4UH5A27KzHQpBazkC3bC-Wk-B2Y5D2fLfEXRsjuEQ5WNuEKFKSaijPsYLeSYUd",
+          "widthPx": 1152,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "Kanchan Mala",
+              "uri": "//maps.google.com/maps/contrib/115362787493009710180",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEX951yhHDh7eH30KxorN-Z5UhEPV7R9w47z1MTrSw56MkJomblQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJaL2UmzrWokWd-4YldItzSRHogsKejgMn4PZIP8eLYWKusjaxzwtJok72SXptLUOAIUjfk4un7rAJ9NjB_zkIkng3hoPtoneZaz4r5nxbBbC29rPLS9pP0CfO8Bv1DdQDvhC_AektQS4Y0B7vBrAfdxC9vN2myDije4",
+          "widthPx": 1152,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "Amar Kumar",
+              "uri": "//maps.google.com/maps/contrib/115291215264664163449",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKNf_j0cgELeDmx7ueuZ0eeb6g7OtX277Wh9Xra_HIbMoTR5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJbtt3pa-KyY-KrXDZrKqMSvFIIsX5quwDHweZ8QoYgsG3wDbq5e6yuVEc8I18kmZb3ixSkA1VK2JEI_hhgvqMHOAvSISm6lrcuDwWcHauTu3cj5WVQfdLp5twCDdnKqmiraz-g4whAG6KdZH96hcUSmVm706Fpm7GM",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Adarsh Kumar",
+              "uri": "//maps.google.com/maps/contrib/114124341808446087871",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaKYHJAK8UpIE-SlKeid7u-ruE_VCqXqDhiM9OC1SF33tF11I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4SfJ7Ozc8TkRisbBxPoFn_M/photos/ATplDJb1W1iesGSs0Lc1Lwuhw5o2ZOPq24qOsqAqaFy2SCfC9-S93uAo-MpLDNizgjCIRO3Ic8NeOaPTIms_8_RUd9aBAnPw9x6dpeqkeiVkliBByZI1Ku2KDDnTgkhuIgs-o9i90LYVwqVIufqXHwsz-41eOlrWByUHwvA",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Adarsh Kumar",
+              "uri": "//maps.google.com/maps/contrib/114124341808446087871",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaKYHJAK8UpIE-SlKeid7u-ruE_VCqXqDhiM9OC1SF33tF11I=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJDZwptj_d8TkR8RaL6KEwxX0",
+      "id": "ChIJDZwptj_d8TkR8RaL6KEwxX0",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "FJ8V+758, Maheshkhunt, Bihar 851213, India",
+      "addressComponents": [
+        {
+          "longText": "FJ8V+758",
+          "shortText": "FJ8V+758",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Maheshkhunt",
+          "shortText": "Maheshkhunt",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851213",
+          "shortText": "851213",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.465669899999998,
+        "longitude": 86.64294439999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.464384219708496,
+          "longitude": 86.6415989697085
+        },
+        "high": {
+          "latitude": 25.467082180291502,
+          "longitude": 86.6442969302915
+        }
+      },
+      "rating": 1,
+      "googleMapsUri": "https://maps.google.com/?cid=9062703297102288625",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "FJ8V+758, \u003cspan class=\"locality\"\u003eMaheshkhunt\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "APNA LINE HOTEL",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "FJ8V+758, Maheshkhunt",
+      "reviews": [
+        {
+          "name": "places/ChIJDZwptj_d8TkR8RaL6KEwxX0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKMzdTWUR3EAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Rajesh",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Rajesh",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajiv Kumar",
+            "uri": "https://www.google.com/maps/contrib/115939812254556952770/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBULFQTmkvR9J1PO4PQ__qMaEA2IHZabx_B9ekUqXyyutG9BQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-07-08T01:54:32Z"
+        },
+        {
+          "name": "places/ChIJDZwptj_d8TkR8RaL6KEwxX0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOZ0tUQjJ3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Himanshu\nMaheshkut khagaria bihar",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Himanshu\nMaheshkut khagaria bihar",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Himanshu Kumar",
+            "uri": "https://www.google.com/maps/contrib/111967389475023317352/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGVOGSthzOghZ36YRWE57OsnlJ8KGaEVQMJRLLuB7PB6l2cQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-11T04:48:29Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJDZwptj_d8TkR8RaL6KEwxX0/photos/ATplDJZaCQQ1PvDJyA3WKo-B761YtDSZiQb4ZqWAF2RUlFU4Dpr5-WK1uIMBilPq-S2zKpfIwNqLUgsTH9_GyOk3zfDdHEKBj9SlA-aBiBl2zJCGTkeB4W8lMm_frd2BvuiqscQXHH6FaakYA9gFNXRitqGOFFiwgYKTltNe",
+          "widthPx": 2592,
+          "heightPx": 1944,
+          "authorAttributions": [
+            {
+              "displayName": "Himanshu Kumar",
+              "uri": "//maps.google.com/maps/contrib/111967389475023317352",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIGVOGSthzOghZ36YRWE57OsnlJ8KGaEVQMJRLLuB7PB6l2cQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJDZwptj_d8TkR8RaL6KEwxX0/photos/ATplDJbwQKCOwTx58kPb-KViW3n0MxpP1d8sr420wBJ6z49nqHbPEokIhlhr2290Qu96iwzXIr1KREO37Y9dQH5v0Ga6xoS7nKllQFmhyIbGFKv9hGVigASnWpSNgXW6Fd8h5JoOROpwkCJzZMv-2PkLm6x1SrHBDDCgX0S7",
+          "widthPx": 1936,
+          "heightPx": 1936,
+          "authorAttributions": [
+            {
+              "displayName": "PunkJ Kumar th",
+              "uri": "//maps.google.com/maps/contrib/113446881578256349045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFdyuZtvOFQeN6RGeUPZKYnF1uZsC4cvABdPvrHc0u_TauG-id=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E",
+      "id": "ChIJATFhc03d8TkRToqLRPA_Z3E",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "085399 43804",
+      "internationalPhoneNumber": "+91 85399 43804",
+      "formattedAddress": "Old Bus stand, NH 31, above Maheshkhunt, Maheshkhunt, Shamshuddinpur, Bihar 851213, India",
+      "addressComponents": [
+        {
+          "longText": "Old Bus stand",
+          "shortText": "Old Bus stand",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maheshkhunt",
+          "shortText": "Maheshkhunt",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "National Highway 31",
+          "shortText": "NH 31",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maheshkhunt",
+          "shortText": "Maheshkhunt",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851213",
+          "shortText": "851213",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MQ8FJCG+XP",
+        "compoundCode": "FJCG+XP Maheshkhunt, Bihar, India"
+      },
+      "location": {
+        "latitude": 25.4723845,
+        "longitude": 86.6268604
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.471035519708494,
+          "longitude": 86.625511419708488
+        },
+        "high": {
+          "latitude": 25.4737334802915,
+          "longitude": 86.628209380291509
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8171570350061750862",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Old Bus stand, \u003cspan class=\"street-address\"\u003eNH 31\u003c/span\u003e, above Maheshkhunt, \u003cspan class=\"locality\"\u003eMaheshkhunt, Shamshuddinpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 80,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Vimal Marriage hall & Rest house",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Old Bus stand, NH 31, Maheshkhunt, Shamshuddinpur",
+      "reviews": [
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/reviews/ChdDSUhNMG9nS0VJQ0FnSURkNVlhRm9RRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Woow hotel in our area . Must visit and enjoy the services.The hotel staff are also very polite. The marriage hall and dining area is also lavish and beautiful.The Hotel rooms are also neat and clean and well furnished as well.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Woow hotel in our area . Must visit and enjoy the services.The hotel staff are also very polite. The marriage hall and dining area is also lavish and beautiful.The Hotel rooms are also neat and clean and well furnished as well.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Divyanshu Divyan",
+            "uri": "https://www.google.com/maps/contrib/117043059514438438250/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLH2VUg-GbtT8n8U_Y6wEDvZUq7LXZz70-beHLn9lYbSPiNqQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-25T15:19:24Z"
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/reviews/ChdDSUhNMG9nS0VJQ0FnSURkbGREdzBnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Best banquet Hall in khagaria\nBudget friendly\nGood service\nNice connectivity (rail and road)\nWell furnished rooms and spacious hall",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best banquet Hall in khagaria\nBudget friendly\nGood service\nNice connectivity (rail and road)\nWell furnished rooms and spacious hall",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Deepesh Yask",
+            "uri": "https://www.google.com/maps/contrib/117171140750206024465/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuPc7xaK57N_eGI8PQBKdF16_dP-Tar4iFJVpf7j9ei7qqASY=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-25T16:37:49Z"
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/reviews/ChZDSUhNMG9nS0VJQ0FnSURkNVp5V0hnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "it's one of the finest marriage hall in Khagariya...one should give them a chance... service is fantastic and cost effective....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "it's one of the finest marriage hall in Khagariya...one should give them a chance... service is fantastic and cost effective....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hareram Kumar",
+            "uri": "https://www.google.com/maps/contrib/101735943188053973128/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0g0PrLoZGHQR4jDUoswGgbLWboiBnZY3Fds3a1YKDXfu4bA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-25T15:02:28Z"
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/reviews/ChdDSUhNMG9nS0VJQ0FnSURkNWYyT2tRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Comfortable to live and clean environment arround. , railways and roadways system is also Good 💯🎯....any type of occasion visit this...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Comfortable to live and clean environment arround. , railways and roadways system is also Good 💯🎯....any type of occasion visit this...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Avi sri (Aavo)",
+            "uri": "https://www.google.com/maps/contrib/111383771894967985146/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpmfLqrVRsKxXqVtm2ZPW2Xks8KPC6EysbDVEkeCMgs1akNgnV=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-25T16:04:08Z"
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/reviews/ChZDSUhNMG9nS0VJQ0FnSURkcGVEUkdnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very well arrangements for party and marriage, big hall , well furnish room , DJ and stage decorations also excellent.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very well arrangements for party and marriage, big hall , well furnish room , DJ and stage decorations also excellent.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manish Kumar",
+            "uri": "https://www.google.com/maps/contrib/107851804622162023865/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqJII_lWdDWlP-QD6CxVl4nmuhuPngD-0W0z1l4ZVaKuh_lbg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-25T12:59:09Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJYzO3Sz93Pg36nF5KentHfvljdqudtziFD_dM7i9yBczqFftO8cw50Mb4o8T9L91HgCrhIKl1bsn86TpIfXNuxEdOybDHOc6dkHYF5wBbajc8MqIHKt7c0AmJ4bFUlHIIv6Ni2oJBsbfIicc0xaVx_k2GKoixD_rIw3",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Raj Kumar",
+              "uri": "//maps.google.com/maps/contrib/102930323101216847333",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOF_S1xsA5R4eAPCedzBTXbO_C3CGuFVRXpFtpnnReETEvBvI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJZp6NWIfBJjxr0cTGd5XKQ9RVXHy1NSVuq73i5aCjUVGjIvzaEZffuMpoAzRLm4oIU0_mufn3i68iPw8MUw5Fi4jqZdAfPBgpdy_XROXHrNXyUtEIczj51WR3LHXMZBdQSvxoutKxSYR5i9bX5hZUTz_Zxmpgg8GmaL",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Vikash Kumar",
+              "uri": "//maps.google.com/maps/contrib/102977377542056024871",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocITOs24nteJikF_exvEExIotMIaK7GVO6qPWIBzT5BCYiwuvw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJbK88AyOoBQ3-1zAUQFT_xs0Zz0gc4eAJ0ZU7NyQWFmYMU4wnn1arbaaBKNrptoSxyIzPZfoX-fCa9qaQywN_CLvuHwW2nupdRrlJefSS5rJs8YAd0ABfisIMIBseyLFyzpFYeTSnUdFlWzdckDO5ULYtNo1rRjBCQV",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Raj Kumar",
+              "uri": "//maps.google.com/maps/contrib/102930323101216847333",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOF_S1xsA5R4eAPCedzBTXbO_C3CGuFVRXpFtpnnReETEvBvI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJa26ZjdwD12qdNqS0ph8HxfkWgZRbc2qeofbVNbIIiIycgx2mV0thC-PZM0YikEUwj76_soLVF6bcJZHKy0oafXv03W9uUDZmPH5E-nvimbStLadKB9arRfUTWRt0r5jOZfIAQ3LnLioo9iuk_Np1jFAKpDYuYpWzhN",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Raj Kumar",
+              "uri": "//maps.google.com/maps/contrib/102930323101216847333",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOF_S1xsA5R4eAPCedzBTXbO_C3CGuFVRXpFtpnnReETEvBvI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJZkS1OHIWwRDYzSXZ_uob-nzSQDvwXrKRjQUn7Z18spISgLiL1dNdZJHF4BGiFzphtRDG9zuD-YzCUYTu-17GTjqsOIWYFe5ISwKsFn4ItmHZPqehtKMsmCmy64Atye1MQ4g4lFo9UsMpZJ-xBhNDrSZIYUKqwtWY2O",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "vikash kumar",
+              "uri": "//maps.google.com/maps/contrib/110819588321915397877",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVevlWuXhKS_LdyeH6MqTdXuwCIB-CvVBUCoveXgRYkEJJzRw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJY-QURZifhfsdQ7GsE-6EApO809aX2DEX8gzP6LLr8QtqlWLc-bD3_73VjM3tpjgc4VvfGdrS3CI5Z-4StccN5FRD4yvfAsRvBLSjePhVgSdtQb1f9_2cu0yVgDZnV025fPnKbyS_CPa6ZCHg2jHYnmjpjDMgThdIFb",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Raj Kumar",
+              "uri": "//maps.google.com/maps/contrib/102930323101216847333",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOF_S1xsA5R4eAPCedzBTXbO_C3CGuFVRXpFtpnnReETEvBvI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJaZX_3AqbHgkff1YNOc_NFazdsyfT9GHhNyTZ-Xin6am2LfefGLDm6JxhL1q2SLPqtudK1IYeq-NStqmYtvTxD0fFp03AGtqZiU6RI6ozE7INxPD6eEZqdKgWqJwNMnN1wXPSqmOAHziew1_hy10VzE0dJuW1BxZJGB",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "chandan shukla",
+              "uri": "//maps.google.com/maps/contrib/105922779021606425385",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU45L6Uc7CSdnCaNPuzQiflIMZquX4ODja25s0U8_n50oLwGT-6=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJZyH2d3Bp5SpGDLUTxKCtEmTqTYvkfnMjAxj80d5B842TcRtUYjTuVbPbbFP7GndO_FKmwljUlXscyJpK7A7esIDXWfiCNpyne0-MMgGM2XsSLngRvcLsnPn9BvE7ub72pQ8UqDIkEoU5iOH2Fyj205v-8VlQjab9Ig",
+          "widthPx": 3072,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Upasna Raj",
+              "uri": "//maps.google.com/maps/contrib/107197210875598660093",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLaY9TtMHzLgmHcxMTglD1gRNEz949FoAOUqHFXa71h6mS4spVs=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJaBNnv9chOF9lsV4s8iLpUk_WuPoYsXspChwZuf9_JCpa9Mrg8SFQDvzQfV-_3UAd0weBNOGuvSwsJY7ZuxnpMXyEirqF9C9sTFFd9pxlbUWqgBRVvbz5N7M9h_HURLYejMLN1o9-yXCmLzGAdO2bQrt_O6y2mczwE5",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Raj Kumar",
+              "uri": "//maps.google.com/maps/contrib/102930323101216847333",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOF_S1xsA5R4eAPCedzBTXbO_C3CGuFVRXpFtpnnReETEvBvI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJATFhc03d8TkRToqLRPA_Z3E/photos/ATplDJZDSMOGPlqjVevp0eRC3nIN-ME5krRN6eLIujC4qOV0pUnSERH7moX_oWWmSi_HoAW5RCGpe2YtzWty2y-flf37TkEA-NChTtWwnVqYfoc48X5aZ6meWi5r5oICP_sMHHBKjBQ6ijyqAUV-vtBa12PnCJrOawh3JLxY",
+          "widthPx": 4080,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "Manoj kr Gupta",
+              "uri": "//maps.google.com/maps/contrib/118224281153787671604",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKEX337A6RuqmK1n03IaLVTc-oCKM3wJE65A3Q1ma5JoqEEqw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA",
+      "id": "ChIJQxwXFZXd8TkRVrmsH0FTecA",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Maheshkhunt, Shamshuddinpur, Bihar 851213, India",
+      "addressComponents": [
+        {
+          "longText": "Maheshkhunt",
+          "shortText": "Maheshkhunt",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851213",
+          "shortText": "851213",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MQ8FJJG+53",
+        "compoundCode": "FJJG+53 Maheshkhunt, Bihar, India"
+      },
+      "location": {
+        "latitude": 25.480459699999997,
+        "longitude": 86.6251458
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.4790924697085,
+          "longitude": 86.6237914197085
+        },
+        "high": {
+          "latitude": 25.481790430291504,
+          "longitude": 86.6264893802915
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=13869208066633546070",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eMaheshkhunt, Shamshuddinpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 15,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Apna Dhaba",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Maheshkhunt, Shamshuddinpur",
+      "reviews": [
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/reviews/ChZDSUhNMG9nS0VJQ0FnSUREcFlLUENREAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Just wow",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Just wow",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vishwjeet Ydv",
+            "uri": "https://www.google.com/maps/contrib/108172766010251064337/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJGGS1O8S90tapIUd4Djea39Jncnh8bf6dssARlq3sv628O9Wu=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-12T04:46:57Z"
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4a3AyLVhnEAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manjeev “༆ Manjeev Chhoti ༆” Chhoti",
+            "uri": "https://www.google.com/maps/contrib/108221222279155984276/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTXFOp5XnZL9pJO5cRo78nNyQRENHA62vfTf5fUyvx6awv9slo=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-06-05T05:37:58Z"
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlbUxldmJ3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sonu Raj",
+            "uri": "https://www.google.com/maps/contrib/104634923828903940865/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4RsQAnJYOmgQ6wLE3cIDFtIlEwGuASIptmPz75qH0T3EZA8GjEA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-09-05T13:55:44Z"
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4MnNqamNREAE",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashish Arya",
+            "uri": "https://www.google.com/maps/contrib/109946796098396239597/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlrG_mUn8Hf3bcW6PRN5eZCyTw26va0vhlX9LAWAePAXAS-AMJ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-05-15T17:35:51Z"
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4d1B6bEp3EAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Vishal Sharma",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Vishal sharma",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Vishal Kumar",
+            "uri": "https://www.google.com/maps/contrib/108651623480609148646/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbIPeWgMFxKeVoQiovQ9dANRWkUqTJ5pQmxeVpIFhDeRmSeQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-05-30T08:32:01Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJYlyapFRoxcfPih3r5Ip5xRESfencPkWQYhyel9POpBBIdSNkoAlC7tdqcbfRcYP2_n167xl6yXd3M7S_s0VyLjZLWTRRJLSKzhQnJ5qoj2LwkRIHNwyyEQ6j2JtUYk0z8ROX3CRBXsYP27sI0qoC8GV4uLuGiBzS7z",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "RAJESH K KUMAR",
+              "uri": "//maps.google.com/maps/contrib/113547990490525829576",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyVNIQv0imiIfa6BlGTFtUZ-BlG-YEXgy0JnIXU4TOGm0Bq4Jj=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJYbRuEdNHm-sgQVb0WvplST8KFgWXoK5Jd7m9_U4KllHfq49R3ZeXHwFc-p4tl93VGnXEmPy0LE199HaD73Rhb7_Jw5CM_UkppgIuni8Ray8luZTXdZ3aBiQZaZ3VR-joCNXsltbG_cxAOHQ7T9BCKNwAQfKBDrMuEc",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Ashish Arya",
+              "uri": "//maps.google.com/maps/contrib/109946796098396239597",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlrG_mUn8Hf3bcW6PRN5eZCyTw26va0vhlX9LAWAePAXAS-AMJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJbBg8IrPHtWgG3CJ4TeiLhiBwchIU2JUGXdgCY_uoNfU5xDAm01ynY8fxDmVeIDyRoArP3TpWpGiHw0BLK2YKZ-YSYscco2GfEnBtwL7UxJRrZeKM_s8TFE-dKbsLiswAVhj0cRnu_vXrhfPciuiCby_XrQ7ze8IKDE",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Ashish Arya",
+              "uri": "//maps.google.com/maps/contrib/109946796098396239597",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlrG_mUn8Hf3bcW6PRN5eZCyTw26va0vhlX9LAWAePAXAS-AMJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJZVXLxj7RDNTLzhbO0V61zv1jvq7XBkceoI0MWRM9sULETcdi-h6yyC83sjBRFdG07ACPeXPnggsAyePF05EVURhCsgHCk5gOYyba9wyt9sdARqh8qSvg8fyuNo320vI6hwfzpZzRnjcaLpbFtXdnxDdKkQSf521Vlf",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "RAJESH K KUMAR",
+              "uri": "//maps.google.com/maps/contrib/113547990490525829576",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyVNIQv0imiIfa6BlGTFtUZ-BlG-YEXgy0JnIXU4TOGm0Bq4Jj=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJa8sDx_D4MPVLHhldMwy4qjtOlGMd4nDdthrmtx_05CwzZJxSktued_ZI6DeacTlx12WqQAk1lDk2YfPVBlk0PvvkiBBrBb59SkKniwY2Ht5Clr86yCdcDtBtrEV1J4Sc_dY9lNPAhkztm4zpMzpOEetuYr9nJfltz0",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Ashish Arya",
+              "uri": "//maps.google.com/maps/contrib/109946796098396239597",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlrG_mUn8Hf3bcW6PRN5eZCyTw26va0vhlX9LAWAePAXAS-AMJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJZXmcBRfUNDv9AYb64p8Ymh17bt3rnG7fz-6z-D6mInONNda4ZD9ZkrxbOxuRQcYDpfhW3WjXaB2i2jEczzwgwCsIktC1Ex8Y-0NiqL52h0-gmzWTX3UjI7lHbCZdQGZjjmE3w8P5Kd_opuggO6IUbmFVGxScdCE5Y9",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "RAJESH K KUMAR",
+              "uri": "//maps.google.com/maps/contrib/113547990490525829576",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyVNIQv0imiIfa6BlGTFtUZ-BlG-YEXgy0JnIXU4TOGm0Bq4Jj=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJZFFvITgIqFUdAtLkNbmdmBL9Aajorkav_bwXnLx-xJNc_58DZA3_wnLK30J0Lvo1emrlM6HaWYZLIm21ZggG9CxCA0A5wTtA2LH4jjfX1BqQ0989tdvE4DL3eWLQ_nUOvk8X1KjBqlvv4WC5c3cbRROKxBJFgqfdQj",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Ashish Arya",
+              "uri": "//maps.google.com/maps/contrib/109946796098396239597",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlrG_mUn8Hf3bcW6PRN5eZCyTw26va0vhlX9LAWAePAXAS-AMJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJZbvbzwh1xghT0UsWi0IDht1sJF3_NfmgbO7ZZnOedGRyTrlPHqgpqruzvTEJY96NeqRZCKUlzyZzoRRoo9sgXcFXVN9uugImJVznK07F-HLw5GVcuwswmSBXr-w4E9ZvugGA-g31jc5XxTqPNR3IEQn5N4IN5wlnbF",
+          "widthPx": 1529,
+          "heightPx": 3400,
+          "authorAttributions": [
+            {
+              "displayName": "Manjeev “༆ Manjeev Chhoti ༆” Chhoti",
+              "uri": "//maps.google.com/maps/contrib/108221222279155984276",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTXFOp5XnZL9pJO5cRo78nNyQRENHA62vfTf5fUyvx6awv9slo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQxwXFZXd8TkRVrmsH0FTecA/photos/ATplDJYDNShJFdCE-eJ60WoufwtcXrWKbTfRilfp4vDVu0RM2q20iSbLZL3cpkDnrJ_0J3hFgFIOEb4jTP9sfwHI-afaCGXeOxxdlk0HByHQ3-VbEhx-tjxPhxyKI0Zk30mxz319h2Ml7E9_L-wyOfL5irdR4wMW3pPmMdPj",
+          "widthPx": 1856,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "RAJESH K KUMAR",
+              "uri": "//maps.google.com/maps/contrib/113547990490525829576",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyVNIQv0imiIfa6BlGTFtUZ-BlG-YEXgy0JnIXU4TOGm0Bq4Jj=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": true,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ",
+      "id": "ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Bajaj Showroom, near by National Highway 31, Maheshkhunt, Kazichak, Bihar 851213, India",
+      "addressComponents": [
+        {
+          "longText": "Bajaj Showroom",
+          "shortText": "Bajaj Showroom",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "National Highway 31",
+          "shortText": "NH 31",
+          "types": [
+            "route",
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maheshkhunt",
+          "shortText": "Maheshkhunt",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851213",
+          "shortText": "851213",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MQ8FJCM+6W",
+        "compoundCode": "FJCM+6W Maheshkhunt, Bihar, India"
+      },
+      "location": {
+        "latitude": 25.4705388,
+        "longitude": 86.634811599999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.4692006197085,
+          "longitude": 86.633419419708488
+        },
+        "high": {
+          "latitude": 25.471898580291505,
+          "longitude": 86.6361173802915
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10680955175914382461",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Bajaj Showroom, near by National Highway 31, \u003cspan class=\"locality\"\u003eMaheshkhunt, Kazichak\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Dhaba Savera Line Hotel & Kulhar Tea Shop",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Bajaj Showroom, National Highway 31, Maheshkhunt, Kazichak",
+      "reviews": [
+        {
+          "name": "places/ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtNTdtb09nEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Chotu Kumar",
+            "uri": "https://www.google.com/maps/contrib/113711628598057015200/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJuXMOGWCgeoLRVCZHBCHtVslzCZxGYnNwxusdM3LH0plIYaQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-11-15T14:35:50Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ/photos/ATplDJalHlBA7pdDzG5O7gjn4uCSnCkjjNgrztComp7KXuJ5d2FSlPC7AiWAxkTn8Up9rE4nogTqPVE8MHxcClicXjy5EUL16qnsKNjqrls7BqBpMj90oYQxdb6EbL3ZWkqRyIVFsxXIuIzE_4NPD5Gms_HMBPDvf7GYSyKk",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaba Savera Line Hotel & Kulhar Tea Shop",
+              "uri": "//maps.google.com/maps/contrib/111344527954360063375",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPK2Z2hu-bqGwbi_eMmy8R-BmqA6jNxq-jGb14MWN6TQNxcw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ/photos/ATplDJbAkR2uOGBzmCQEWxTvtDRkWI49cYd182zZCiZqbkwnEWacudTVH9oYSL1dhcNJqO7ryhfzl0L2bO6GblMSJnnjTizOZPp4LT_ohubQA6hnPhWBohPyZkMQCcBLJsgHFvOHg-dG-42iIysDb_9lNIBhui86q06Ngyhi",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaba Savera Line Hotel & Kulhar Tea Shop",
+              "uri": "//maps.google.com/maps/contrib/111344527954360063375",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPK2Z2hu-bqGwbi_eMmy8R-BmqA6jNxq-jGb14MWN6TQNxcw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ/photos/ATplDJZVftlYVYY1aqmA0Ppvzf_8vPTCuPaAi3ocaPTjz0DK_s2oeKHSY2sGAj4BR_7fK5vkE-sEqjLWsaBP0qEriQrYvCNiu7VaE9EuarJEDHHzu6tt7lIL0EUEHN83XT_31NdDPwdtA-OfrgATG4herXzdSp8ZNLEA5nkg",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaba Savera Line Hotel & Kulhar Tea Shop",
+              "uri": "//maps.google.com/maps/contrib/111344527954360063375",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPK2Z2hu-bqGwbi_eMmy8R-BmqA6jNxq-jGb14MWN6TQNxcw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ/photos/ATplDJYUY9wQM9AaokMZQ2H3zgGDXdFcAv5ntrtUdDsbHZegVkDKNKi3dmhtMnN-JoFp9rUXFdNbwPjknytVhkOrGqSQbYXRDxBacPm1sk46cMzgT08hxHsSZEbELKl3k6-DjN-dDu8RDgVVVPOSw7keFzN5Tv946raNsm8L",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaba Savera Line Hotel & Kulhar Tea Shop",
+              "uri": "//maps.google.com/maps/contrib/111344527954360063375",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPK2Z2hu-bqGwbi_eMmy8R-BmqA6jNxq-jGb14MWN6TQNxcw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ/photos/ATplDJbGWk9TgSd3Tkd-KSaTWvLd8PAIlaFxRmRoHAgiL1ajR1Rpsoy8pMRKD0bHq-AkSg_qRsDKhHveOoan7_7PWRSHAHeon6mYv7ap7Gm5MBPgtJr1bIu0_afqYRLVYJ_Xp5jiH4EUChd6Ao89m5aAJR6yEdNJkDCKSYMp",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaba Savera Line Hotel & Kulhar Tea Shop",
+              "uri": "//maps.google.com/maps/contrib/111344527954360063375",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPK2Z2hu-bqGwbi_eMmy8R-BmqA6jNxq-jGb14MWN6TQNxcw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJUjB_Pzd8TkRfSQ_ciRgOpQ/photos/ATplDJaDV3csIkukWL7TwC07MV7mCWi9VVbpubhZ-hHzYg1g1CkUye_wai58oi7js8YPNVudtYWNvc2M-Qrq0TKAsWdbvBjxfe-u8U_GuuVapaumHrwShZUQ3ugGwJB0WuK4s8l2oHb6MjYTu89kkzGyBMynfMgFKkbRKYYU",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaba Savera Line Hotel & Kulhar Tea Shop",
+              "uri": "//maps.google.com/maps/contrib/111344527954360063375",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPK2Z2hu-bqGwbi_eMmy8R-BmqA6jNxq-jGb14MWN6TQNxcw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA",
+      "id": "ChIJVzgSmSLd8TkRxLmekChPbJA",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "082983 58042",
+      "internationalPhoneNumber": "+91 82983 58042",
+      "formattedAddress": "KASRAIYA DHAR, FHVW+GFF, NH 31, near CHAIDHABANNI HALT, Bihar, 851214, India",
+      "addressComponents": [
+        {
+          "longText": "FHVW+GFF",
+          "shortText": "FHVW+GFF",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "CHAIDHABANNI HALT",
+          "shortText": "CHAIDHABANNI HALT",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "National Highway 31",
+          "shortText": "NH 31",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "Bihar",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khagaria",
+          "shortText": "Khagaria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Munger Division",
+          "shortText": "Munger Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bihar",
+          "shortText": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "851214",
+          "shortText": "851214",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.493803399999997,
+        "longitude": 86.596167499999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.492501869708498,
+          "longitude": 86.594880169708489
+        },
+        "high": {
+          "latitude": 25.4951998302915,
+          "longitude": 86.5975781302915
+        }
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=10406779874589981124",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "KASRAIYA DHAR, FHVW+GFF, \u003cspan class=\"street-address\"\u003eNH 31\u003c/span\u003e, near CHAIDHABANNI HALT, \u003cspan class=\"locality\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e851214\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 10,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "PIPAL TREE",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "FHVW+GFF, KASRAIYA DHAR, NH 31, CHAIDHABANNI HALT, Bihar",
+      "reviews": [
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/reviews/ChdDSUhNMG9nS0VJQ0FnSURlek1QVmt3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sanjeev kumar",
+            "uri": "https://www.google.com/maps/contrib/104837750656917344720/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_2FpPc_J6lGsJDsbTpRCstnqPMTLrq6riZCeMicGFOVa9G6XB=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-10-04T06:13:08Z"
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJMWY3QVpnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Good place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Avlin Kumar",
+            "uri": "https://www.google.com/maps/contrib/118086451033940878759/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGRkuQyS6HoTOkR6AUjH-OslOqNkytv9-7Rr7tzAPf17CEfSY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-09-09T10:09:09Z"
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJOGVETjFnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Fantastic",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Fantastic",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Phulo Kumar",
+            "uri": "https://www.google.com/maps/contrib/116690235761571265973/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGdLXYndxw4WaTibsi-vb-p7QeoaaclVlCqvkStCRxlZg9PQRw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-11-21T23:34:22Z"
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/reviews/ChdDSUhNMG9nS0VJQ0FnSURPaU5XQjhnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "saurav kumar yadav",
+            "uri": "https://www.google.com/maps/contrib/115602432391399724983/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZXwjHL6MkeC-tdebkHLYKlW3qa21WmspBsqOQImBkIe3mwSBm=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-06-26T02:58:21Z"
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyMTZ6T09REAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Stashfin Care",
+            "uri": "https://www.google.com/maps/contrib/104324046638329225659/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9o6aa7JfHkqrC64j4ZZXWdowXDCTrVR0NNW2uKR7gaej46NmV=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-05-27T16:44:31Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJazKDEUOL1yZFJkwx9ojJeAXXO8yobQItDAmos4jgypWCNmXfc_xvzE2XEFQWeNcymTanvlVsh30CTcaTPGB8ZQLeQB999YuNrFH3wxurZiT21QJh98vQAxIuvE4WuAhLOP1KexbnIwwLx0xgnDKEAybkApMrdrbacB",
+          "widthPx": 4312,
+          "heightPx": 5760,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Raj",
+              "uri": "//maps.google.com/maps/contrib/104510792397847826706",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWEEBuUfSileE6mkZuNklgdM3VX31oFRO5GTw8p6vhokzpv7n8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJYV-GmBsZUF-TMwLlRvj9ZIbFVRUxXCupt26uSY4p64YOg5EHxZo6x_Ou404VXZobNgsftGMcv8jPWdlDtnyyxSBkaIBGfRF4rXCwrWuxA7iD5ERCLxR_cZTY4VouomUliKxQH3mQl00mw8fLCcPYy0f-u_7IkoMsix",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Phulo Kumar",
+              "uri": "//maps.google.com/maps/contrib/116690235761571265973",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVGdLXYndxw4WaTibsi-vb-p7QeoaaclVlCqvkStCRxlZg9PQRw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJaPmq83w6UjytvKvHeERgr2WTxDW9ULtTw7HWZmt-OSNJoYgRxE6xDUnwV-X_qsEEC4NQUiA5YlVgB-WKVTY1miipLGwMcIeieyO7RFyBbvfQCM7gvTEchdfzgyaDjZ6Q24qbqS-7AeLPuW0OEslqBMhcK0tmatketd",
+          "widthPx": 4608,
+          "heightPx": 2176,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Raj",
+              "uri": "//maps.google.com/maps/contrib/110450334582782295595",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXPhuMLlt10ccuewzQ2DfflVmwVPvfJi23IMsZair_MxQeZu2kl=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJbxDsZAfx2TRD_bIl3cAWl19ETMsIlMCRTzBvR8DRjYu4oaffys--_KULAEJ0bfPRie3XyS7QNgCWHM2Y-3Fpzs9u7s9i1QrtHYxvoBNqPIdtp9V3rFUwzSV7NnjVxycAzN9C37-URhoY7sItCmI660kTVJGpYH1vJE",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Stashfin Care",
+              "uri": "//maps.google.com/maps/contrib/104324046638329225659",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX9o6aa7JfHkqrC64j4ZZXWdowXDCTrVR0NNW2uKR7gaej46NmV=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJZJO6CsqQ8gVe8YUYQHPNM8bszhGh7z1cX3dr2PBAT8uwIwCgKksarKY2wiYcTYNG6GU_NiMkmMkJXKZt21JAapMzDeVRmzS9uCSKDHmIPpG2TRv_rXDtytPd2p3odCwaW1ZK0BFUEFZurTJbOPVTwhHqXftubCXjOY",
+          "widthPx": 705,
+          "heightPx": 947,
+          "authorAttributions": [
+            {
+              "displayName": "Chotu Kumar",
+              "uri": "//maps.google.com/maps/contrib/102858547927690165499",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUhDGXHjeMUDL3ro__Jjtbf8puDnEmUCHNf71hJZ9TPkedRBLI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJY5UqTC8Z1SGMfMQ-LU7at10HBBxwZHOLnSxx6BZceQrUihOozlT-uKN4Xp91Fz3pwOIm1jfdF_Aa2IAUM2Jx3BG4y3-8bkcrRF0Q9ySStlpBAyLZx1MTccI_i5fu8P9g3sXgakI7cGRM-vPZxLBc7pQl02dmRSTh3L",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Phulo Kumar",
+              "uri": "//maps.google.com/maps/contrib/116690235761571265973",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVGdLXYndxw4WaTibsi-vb-p7QeoaaclVlCqvkStCRxlZg9PQRw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJZviOV6FmdlegT6CxBOx9jasLpoA3FVTZ9lvxLsEOldj34z64sguGvG36AG9W9CcKwVJy8b2cHV_wMvYMr6hD5txbYSSJizb0OVDzL4k4PS9qTZhtr2oQOW5tCtySg_82PJYkr0j-KJc3vKrBefkH5VYabGkCYwB1Hd",
+          "widthPx": 2728,
+          "heightPx": 5760,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Raj",
+              "uri": "//maps.google.com/maps/contrib/110450334582782295595",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXPhuMLlt10ccuewzQ2DfflVmwVPvfJi23IMsZair_MxQeZu2kl=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJYbRJ2GhJEWfHPol2vMlkQnW8Pe0oVvi5TR53ICUQK6RMv1JBEN9dd_N7NUIp9m7gS_jkviOo7kETcalFBvrRdKKUsiG37as8VAOL6SOp-BbgRtcabWSV7Hqvkp07r6H_LWg16tnGL7f2Qz3Ac0wGaoSjTLKzcAkGiH",
+          "widthPx": 960,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Paswan Ankit",
+              "uri": "//maps.google.com/maps/contrib/100283483218362616604",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7PYxsttC9TBWTju9R7x1xOy9ZPe5SzplJlgmdh1caMqqo-D8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJYeawh3wNMnzpsGwM09OZcL8n0qcM6zqgVib23TqmYuKrwershnqW9YwPZks1JwFrgfVXjbivynt00TVaegP8ajfO0LBQiFH3LJ6fE8_FF2bdkvxGRXr2kJlpEnAr1pjarx327ou-JafOHIyhm3kPtydJTdAt08fjX8",
+          "widthPx": 1216,
+          "heightPx": 2560,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Raj",
+              "uri": "//maps.google.com/maps/contrib/110450334582782295595",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXPhuMLlt10ccuewzQ2DfflVmwVPvfJi23IMsZair_MxQeZu2kl=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVzgSmSLd8TkRxLmekChPbJA/photos/ATplDJYirWeTdwoUagt9MV28uF1Eqezxkj1gdIvFXE6-Y1Eis4E0yFd6WD3VWx6GymonrQuBC11DXLUDufToC6PncBM8FoY7mYDhks8I24MxBadBD49ovakOcC8rMYnixLOQ_kiS2IpGKj__q4uR7fxHmuJUJllUJy3Ctai5",
+          "widthPx": 2176,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Raj",
+              "uri": "//maps.google.com/maps/contrib/110450334582782295595",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXPhuMLlt10ccuewzQ2DfflVmwVPvfJi23IMsZair_MxQeZu2kl=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    }
+  ]
+}
+

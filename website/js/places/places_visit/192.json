@@ -1,0 +1,4806 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg",
+      "id": "ChIJ-72E_oIg4DsRePl4LG9J6Kg",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "099989 91200",
+      "internationalPhoneNumber": "+91 99989 91200",
+      "formattedAddress": "NH 8, Satyam Twp, Zadeshwar, Bharuch, Gujarat 392011, India",
+      "addressComponents": [
+        {
+          "longText": "Zadeshwar",
+          "shortText": "Zadeshwar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Satyam Township",
+          "shortText": "Satyam Twp",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392011",
+          "shortText": "392011",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JHMP2GJ+7X",
+        "compoundCode": "P2GJ+7X Bharuch, Gujarat, India"
+      },
+      "location": {
+        "latitude": 21.7257131,
+        "longitude": 73.0324752
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.724509719708497,
+          "longitude": 73.0314546697085
+        },
+        "high": {
+          "latitude": 21.727207680291503,
+          "longitude": 73.0341526302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=12171058734805088632",
+      "websiteUri": "http://www.baps.org/bharuch",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:30 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Tuesday: 7:30 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Wednesday: 7:30 AM – 12:00 PM, 4:00 PM – 12:00 AM",
+          "Thursday: 12:00 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Friday: 4:00 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Saturday: 7:30 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Sunday: 7:30 AM – 12:00 PM, 4:00 – 8:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "NH 8, \u003cspan class=\"extended-address\"\u003eSatyam Twp, Zadeshwar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharuch\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5925,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "BAPS Shri Swaminarayan Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:30 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Tuesday: 7:30 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Wednesday: 7:30 AM – 12:00 PM, 4:00 PM – 12:00 AM",
+          "Thursday: 12:00 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Friday: 4:00 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Saturday: 7:30 AM – 12:00 PM, 4:00 – 8:30 PM",
+          "Sunday: 7:30 AM – 12:00 PM, 4:00 – 8:30 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "NH 8, Zadeshwar, Bharuch",
+      "editorialSummary": {
+        "text": "White-marble temple complex with ornate, carved prayer halls & dining options in landscaped gardens.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/reviews/ChdDSUhNMG9nS0VJQ0FnSUREalpTa19RRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Swaminarayan Baps temple in Bharuch was a calming place, surrounded by peaceful scenery and spacious gardens that brought immense calmness. The architecture was truly remarkable, and the uplifting atmosphere made the visit truly unforgettable. It was definitely a highlight of my time in Bharuch.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Swaminarayan Baps temple in Bharuch was a calming place, surrounded by peaceful scenery and spacious gardens that brought immense calmness. The architecture was truly remarkable, and the uplifting atmosphere made the visit truly unforgettable. It was definitely a highlight of my time in Bharuch.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manav Kewlani",
+            "uri": "https://www.google.com/maps/contrib/107956034678789904544/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMNqs760Q50fh2NZSpDuZ8NQCJM46hKIDkZkaXIwapOLURzqu5Lw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-12T16:56:53Z"
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWNjczU2p3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 3,
+          "text": {
+            "text": "This temple is located right beside the highway. Very calm and peaceful. Not that crowded when compared to other temples. Beautiful architecture like all other temples. Closes at 8pm. There is also a dining room inside.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is located right beside the highway. Very calm and peaceful. Not that crowded when compared to other temples. Beautiful architecture like all other temples. Closes at 8pm. There is also a dining room inside.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Suxant",
+            "uri": "https://www.google.com/maps/contrib/101822038523524271496/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGA4-YN-g39F4RcwviNkJo28g9zOReJrVZ4PxhWhCDvjIvppI4=s128-c0x00000000-cc-rp-mo-ba8"
+          },
+          "publishTime": "2023-12-09T11:54:27Z"
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/reviews/ChdDSUhNMG9nS0VJQ0FnSUREMS1LZXNRRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "It's a nice place to pray and a peaceful place The mood is automatically changed when you visit this place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a nice place to pray and a peaceful place The mood is automatically changed when you visit this place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "rajesh tangudu",
+            "uri": "https://www.google.com/maps/contrib/118446206689597962386/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhllMGnC87HkB8ocqHML2vpHChyiR9EO0IAlShCbiuefnXrL2e=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-15T11:31:39Z"
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwXzhpdHpBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This is very beautiful temple with beautiful architecture.The temple have with some stunning carved pillars, magificent architecture and delightful idols. It is one of the significant attraction for visitors to Bharuch.There's lot of space available for parking to all type of vehicles.Very well maintained and beautiful garden.You enter the temple and you can feel the positive vibes.A complete temple where you can pray,stay,learn,pratice all the teachings.The area cool air and pleasant atmosphere.Best place to demonstrate your stress.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is very beautiful temple with beautiful architecture.The temple have with some stunning carved pillars, magificent architecture and delightful idols. It is one of the significant attraction for visitors to Bharuch.There's lot of space available for parking to all type of vehicles.Very well maintained and beautiful garden.You enter the temple and you can feel the positive vibes.A complete temple where you can pray,stay,learn,pratice all the teachings.The area cool air and pleasant atmosphere.Best place to demonstrate your stress.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhargav Patel",
+            "uri": "https://www.google.com/maps/contrib/101210959397652252827/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJG4BwAm1nZ-a9qdXIfEwM1cxtOtqDycI79MSh7hkWaUYGO4gI=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-15T02:45:32Z"
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEaGZ1aHZBRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "beutiful and divine place with larger outer garden area where you can sit and enjoy the evening while taking blessings",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "beutiful and divine place with larger outer garden area where you can sit and enjoy the evening while taking blessings",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mitul Chovatiya",
+            "uri": "https://www.google.com/maps/contrib/114487201141187967439/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVF3ggHZIV9lk2_1NN8vnn_3YnrUylkJ5Ipc9B3uuO5nUwpIpWF=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-30T13:21:19Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJbxMX4PJAOiHwPY5Ubqp-woSSl4Yzse94rdhbRrnhtH2TwJGXVnepQJRLN7uRlnC4uNZP0ofV1PEw_QbUy2_ndDRRlTKv2viGy39M_lywZ8vbeSWdkAqsAEYU_oWgiCqUCa1qOsxBuL9deILIcm9j15vMSTo8W6Uj7K",
+          "widthPx": 3722,
+          "heightPx": 2792,
+          "authorAttributions": [
+            {
+              "displayName": "JAYESH RATHVA",
+              "uri": "//maps.google.com/maps/contrib/114156702580332926206",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWUXM55LgM8Gdgq2lCACiRlIUFVV69l0-ca4Bzsl8cpLr5c6n--=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJbMP0XL0gESNxhAjoerDvIIHKQIzQLTL0g8PrdQycHqcPnTjkYxxJGw5r0rJ_1onTYQj568cbta2ZQ2sUJDr4tbIKxjtJuANMQy74Enr_GYNNZOUn2YLEV5RhIyQY82bUklG7lzrCBZ7t1P-rO0AI0p-DL3CgxQJKUe",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Tanmay Samanta",
+              "uri": "//maps.google.com/maps/contrib/117127463874657218184",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWzmjBP2U6CFSPQhOTzeEaWB4BpKzBQSg9uqD3th0vCQRuf8YGy=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJZo9Qa83FkiV7vtItYMJBpC_djEVSC13ICKZMQs40UY1pgQq5gjKcXPgqiBP8eDOUo7I68nluFJEHe0FSdoxYRi6T8kydkMHEoFihMJy84ZKXWy4jR_rpvX1yAI5bha4ub7mJH3kORlNnQ1n32mEfLbpguk_JEhk5ts",
+          "widthPx": 600,
+          "heightPx": 400,
+          "authorAttributions": [
+            {
+              "displayName": "kunal khatri",
+              "uri": "//maps.google.com/maps/contrib/115453670347953390246",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVSGwhjybynquOFJLN-SEYDQwxOApm7H4gDvB-xVl3M9MTxq0zFUA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJbyupO6h3hRiHDDrCbs_CvFHGzkRyWwlvdaCd51jtlUpcPR1INS5EiYdYvFIHQebMKarBIQsYp9GbE32AEto_jgXF9e-w_2tg91Apbr0sYDjSbY3FJXhCCel_vfV3pz611_FH0Sl6w88hiTIGapWxJmUuMH4-3d8jC_",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Suxant",
+              "uri": "//maps.google.com/maps/contrib/101822038523524271496",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGA4-YN-g39F4RcwviNkJo28g9zOReJrVZ4PxhWhCDvjIvppI4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJabVXM8f3PBR52UmwdYDwFmYa-hO6OMppezkouOwumvw1nYf8i0fttDmK9vYpkrctHYuwEmQ653soeLxlegy16Os1nosejaY_Jxdcu1_Dg-Z4EN7sXdsb8ahg46hCa0xaT1O2YJO-VOQtE6_JTkfNqeh01tHauy9cGk",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Dr Mithun Khandwala",
+              "uri": "//maps.google.com/maps/contrib/105630682644992321791",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaKQT-ctbcyGz-XMissFnJbJoTDm9cU1d3HuY_NV4QCcm6rgkEhA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJbSN9z_3caRjHdPIw8FkWpm2q9RNvsCQKLRKWQf8NVekSSEl6mFz1XrlXwEE4OycRPySNRNohKAEL5MSr3UpxoBVfKjU1KgoYxbMKZkc_G8F7HPdIV0U5zwB67PLBBeLKgbVYpbcGOdtc0ieKed35Cbp756fK2s1cJX",
+          "widthPx": 828,
+          "heightPx": 589,
+          "authorAttributions": [
+            {
+              "displayName": "Bhagyesh Jaware",
+              "uri": "//maps.google.com/maps/contrib/107513500108040270069",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRX14qwKR7soElViW8rFhbvn_c6_GIcAC3nsZHJ-7h9DV6Dvs2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJZw0Bb2LxUNxVjOp-8pdAMKjLM17dckJcx9oztJ4g2fj0c-C-2yeVr388Egt9v5NB788GHxi56ST1TFtnM-PGGXkK0gnFIVHTXSTJrQX_ktVnl18DF_70UETCObC-RRbtXe6fL6EZR0wQqrSawa_2xub5EfMucbs5Pd",
+          "widthPx": 1080,
+          "heightPx": 806,
+          "authorAttributions": [
+            {
+              "displayName": "Yaa.its_ Dipenkhunt",
+              "uri": "//maps.google.com/maps/contrib/105283852191169534995",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQ23__X4rPiIpLksWXwLHIZ1WJToIAFt6qkDtSPtSlziU1vW7ylg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJaz6mFJPPZMRbzZ45RGnV4oizIv8qUSxig_uZC7y9pIc8CHkcqAsE-q7qoRZL4b0ECqSCmBWloCY5GdopFUZWxD9Z-cacbOGAV0U7uLAlF5waYfe2cE3aETVw-aIlYrJPxUt66H93xkhVxSpbwaVC4YuR_s8EgHElh0",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Shailesh Kaklotar",
+              "uri": "//maps.google.com/maps/contrib/106816961263118955775",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjURoHkbZf11_B7QXLrfXDZ-crzL_6iqP7YzB8pZXtSAtsJW5OGv=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJaJOdi3Kut781v3Sz8D7IQTPTSgP0TFLApi_eQZwQ0aEKs9EKJ7uaqJ4lm4vAXhHjKhM7s3phtbl2eEMRQXSyBk93vDLeonc2hynItpVtWYp8oc8LYsCHcjZGqSzqA_gh0JPIP36nrm3BOj9yjLWs6T_ij5ysUaRVLY",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Dr Mithun Khandwala",
+              "uri": "//maps.google.com/maps/contrib/105630682644992321791",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaKQT-ctbcyGz-XMissFnJbJoTDm9cU1d3HuY_NV4QCcm6rgkEhA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-72E_oIg4DsRePl4LG9J6Kg/photos/ATplDJbg8jl5b0vn1EJ6Z8OjATs7MPdYk3Y8QFWEPcFNmiu3hskGXl3ICbC6bzB6Zow7kw9Wmz5LorY3_gQA5-an7VpShQhA1ec_DN5PiZ-wQvoYvD6OvxVj5zUrzxCAtXh64sU5WBeBPEfiNkFEG3iflR4XCHbsDFVMq-22",
+          "widthPx": 4284,
+          "heightPx": 5712,
+          "authorAttributions": [
+            {
+              "displayName": "Laxman Bhunia",
+              "uri": "//maps.google.com/maps/contrib/110325754353371253033",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJMSUc8dNkm3wG9oL4q4RxE7x-Jf1Qx5gjasPTFsfQ3VB2JLam1=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A",
+      "id": "ChIJp4ZKQ4Ug4DsREIn8j-UR81A",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "075883 75204",
+      "internationalPhoneNumber": "+91 75883 75204",
+      "formattedAddress": "P29H+3XG, Ramvatika Society, Zadeshwar, Bharuch, Gujarat 392012, India",
+      "addressComponents": [
+        {
+          "longText": "P29H+3XG",
+          "shortText": "P29H+3XG",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ramvatika Society",
+          "shortText": "Ramvatika Society",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Zadeshwar",
+          "shortText": "Zadeshwar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392012",
+          "shortText": "392012",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.717687599999998,
+        "longitude": 73.0299682
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.716352119708496,
+          "longitude": 73.0285354697085
+        },
+        "high": {
+          "latitude": 21.7190500802915,
+          "longitude": 73.031233430291508
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=5833025620035799312",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "P29H+3XG, \u003cspan class=\"extended-address\"\u003eRamvatika Society, Zadeshwar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharuch\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1287,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shirdi Sai Baba Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "P29H+3XG, Ramvatika Society, Zadeshwar, Bharuch",
+      "editorialSummary": {
+        "text": "Temple dedicated to a renowned guru & fakir in peaceful lakeside grounds popular for strolls & jogs.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/reviews/ChZDSUhNMG9nS0VJQ0FnSURHeXRLd2NBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Divine place. Do make online booking\nFor Darshan and rooms. We stayed in Sai Bhakta Niwas. The rooms were neat and clean. Also the rooms are available from any time you  choose up-to 11 am and also the cost is very affordable.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Divine place. Do make online booking\nFor Darshan and rooms. We stayed in Sai Bhakta Niwas. The rooms were neat and clean. Also the rooms are available from any time you  choose up-to 11 am and also the cost is very affordable.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Priyanka Dalvi",
+            "uri": "https://www.google.com/maps/contrib/115690424127156656591/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJcPVANzvg8Y8zb_5PiAiKmi6MLuCxAWj5fsaynYrkV2TbMyA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-11-24T04:49:31Z"
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/reviews/ChZDSUhNMG9nS0VJQ0FnSURGdW92ak5BEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A really good and peaceful place for worshipping God. The track around the dried lake is amazing for walking and jogging in the morning and the evening. I go there everyday and thought I could review it. Even if you are not going there to worship but you can walk around the lake. Peace and spiritual and beautiful!!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A really good and peaceful place for worshipping God. The track around the dried lake is amazing for walking and jogging in the morning and the evening. I go there everyday and thought I could review it. Even if you are not going there to worship but you can walk around the lake. Peace and spiritual and beautiful!!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Naitik Saini",
+            "uri": "https://www.google.com/maps/contrib/112828481386362608358/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPRpE-e9o62YZwQ4xFtm0y9xeVpsunnqQWdNi8lJr5vyCgsVF_=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-06T08:38:03Z"
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/reviews/ChdDSUhNMG9nS0VJQ0FnSUROdDRmZzZBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Sitting arrangement made around temple is in very large numbers...  Also have round track nearby to walk, run...\nBut need to improve lighting in walk area..  Location is best to spend time.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Sitting arrangement made around temple is in very large numbers...  Also have round track nearby to walk, run...\nBut need to improve lighting in walk area..  Location is best to spend time.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ganesh Sawairam",
+            "uri": "https://www.google.com/maps/contrib/113210892961515476859/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-1lzaCHxgEYDsJ7vAOBUp0yNxkqndfriZCNDkmMfSk68lojVx=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-27T04:15:34Z"
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/reviews/ChdDSUhNMG9nS0VJQ0FnSURkajdESDFnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "A devine place for sai baba followers. Sradha saburi. A nearby walk round available for morning and evening walk. A very peacefull place for spare your free hours. Benches available for sitting.   In the evening time is best for group meeting and share your thoughts. A near by library available for reading books.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A devine place for sai baba followers. Sradha saburi. A nearby walk round available for morning and evening walk. A very peacefull place for spare your free hours. Benches available for sitting.   In the evening time is best for group meeting and share your thoughts. A near by library available for reading books.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhargav Patel",
+            "uri": "https://www.google.com/maps/contrib/103314170341615420251/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVP1YshjX5UGTGYNyeahn4B2MSWIGDn1MYjPV6_b6XX_khA7ukD=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-28T13:33:19Z"
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvdVp2bDVBRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Hi Guys,\nI love the vibe of temple. This temple is so beautiful and we'll maintained.this place is so peaceful. There is seating arrangement outside side the temple. People do gossips there. One  more thing,There is a running track besides the temple, people usually go for a walk and run there. Only thing that I don't like is there isn't a Prasad's Shop.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Hi Guys,\nI love the vibe of temple. This temple is so beautiful and we'll maintained.this place is so peaceful. There is seating arrangement outside side the temple. People do gossips there. One  more thing,There is a running track besides the temple, people usually go for a walk and run there. Only thing that I don't like is there isn't a Prasad's Shop.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manish Pooja Sharma",
+            "uri": "https://www.google.com/maps/contrib/102901261753718806245/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6bgHoncMYrq_6d8-nm--_kfApa0HhPNbTVEJ37vYn8pmDw117BQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-12-07T05:22:11Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJaY5c_velLUuW7NYSRd_faomNzDGJauarvqmFKXcsrFMDdnvyTU3Xb5DWz6Ubw8rEY2fvVOQyeO3vAKbZqggVas9pqG4abqivZvj9sUx9hhnsXLgHLsFVPflE3TTYSB0e-AKlSc-Ioul8idsFvXNfP3LOa2MG3qIeGZ",
+          "widthPx": 12032,
+          "heightPx": 9024,
+          "authorAttributions": [
+            {
+              "displayName": "Rashmin Jadav",
+              "uri": "//maps.google.com/maps/contrib/115356011438431426740",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUwXqCl3VXh5TRSWKNE9pqIewM_BR5RuxFVfzUKlCsQzT30pIIEwg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJZmXzQ4felAaem1zlnzol34iSGatGXAmIYtTgvShH_9PmtrGmvdU9p2zrsvQs5nEh3D_esOiV05MCKGS827QWRzs0EkChJPsMx6MzWebw0m6JfTdk3rbDwnjPU4r41204S42ha75yki4Y30U_U4MRdR1pV_NYOMzAXC",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "राक्षस (राक्षस)",
+              "uri": "//maps.google.com/maps/contrib/105183296074303087438",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW3EKY2PysbXrdC2Ycfg7RldvrhAztoaesB_ViR_f4NdTXsXVQuPg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJZ8ScOpUWEZHdJt7LwMsXnEaKxFIYjd0IOgfI80RkEvPZ4LCr1BSri7CK5o3rr-OusF0yG4ueRPmvoL2IA4C2BPwWdm0rFz3geFZs97tweaXkb0vOXhng6rj8SsSGjosVPmcX3irC2HmMkEahiSeRhCR7MMfyIKUHSS",
+          "widthPx": 720,
+          "heightPx": 699,
+          "authorAttributions": [
+            {
+              "displayName": "Nik Italiya",
+              "uri": "//maps.google.com/maps/contrib/115632924703336037838",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWuAX60BOw6Nfv6OSzF7DLdcJVWyFwxx9Q05tQe0r60i4WtKHNCkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJYiuviFiQIYnP_kVJMWSf8Y3tfA0Q3dwUGbV5TrfC_WihkM9WhGgpEf9yvhXMAT9wB4Og05gYLhgrcoNmsPNVQXAvOcA_ddaNWGoRqyzIKwVDUUpAs3OLGp7hNMoppgpxPsTM0R7MpMLkfQIA_jnKJ2jjXHpe67Ddly",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Daksh Joshi",
+              "uri": "//maps.google.com/maps/contrib/114152075680005632104",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX0xr_SNqWetArteH43J37XdGxqFUT45wyr3Y5JTIqKgQ_J8Obs=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJYrjTG9HIOFvzeBi8YopB4AOEeeaWoqWbCyCGRZx2nFJnaaQeaMd8QuYYmB_SP2VhYGKL3HQZvZJ0nsCJtj_yLwBZWa7OtBDr9xfTJsDrdpmt1wCa7X-ztK4y7ifG3yi0kSNGfPfu2lSDs-HZ6GHEW8otoiUY2yJyqx",
+          "widthPx": 1808,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Avinash Fulari",
+              "uri": "//maps.google.com/maps/contrib/109419787012196399095",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXg2PBUEPjqMo6-4sqboOnkeQfFUX3ON7jpdO7OkiDd0XMY7xPX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJbMGj6wo1dtnn-Ut8tRzhNQ2xTP0NBmFmkf8iH9Pxs5ov7AKMiWNGzbKMJqx3y39UwjzaUXChlUty8KV9B9ukcXEkSdh0cj_4BNbmnfhi0TS5M97FbHhNofnj4iFj7BIwA_BOsJDEhBVqGdl6Y1xN83LcD9-RZCuBp5",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Vipul Patel",
+              "uri": "//maps.google.com/maps/contrib/117641026486808180644",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBZhdhz4br_TvQg89cmJG_TctDgcsAj29JKnQMkTctdhEcAtg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJbBgTZ79m_mTYsQHmGSA1jLPur-k7DMqvw-2KXVbBC9MOqEzAbmU_GhUDJiMZP6eoDUhjqEcqyvnGOYVQUCxeFdL0BKaW7PT1PVTvI3j3Hh7bxOZYXRTkfPNTvIr2bxP4TUBTZHl4dEmoa0I2wr7g_Vzrx43dWxDHCb",
+          "widthPx": 720,
+          "heightPx": 1108,
+          "authorAttributions": [
+            {
+              "displayName": "Nik Italiya",
+              "uri": "//maps.google.com/maps/contrib/115632924703336037838",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWuAX60BOw6Nfv6OSzF7DLdcJVWyFwxx9Q05tQe0r60i4WtKHNCkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJbK6Kg48miq-NtTROy-JOMe6N58Ufx75K15akQQhu_d57ehyR7NsQEPrJjFh4zn6RXu5zP4gRXwDTi2zlxkcflXNb6FZm1ilZeH0XI7Ita06YOg9-rENplRxOBnvdceQ72KHKImf1bseId0p5vlpRlMgg46nY1NquFb",
+          "widthPx": 5504,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Kamlesh Patel",
+              "uri": "//maps.google.com/maps/contrib/115763190730402593500",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV_NO5zhfcyAYrEf5AlJtj3kVrLz1bM4vw0y2faEbk0q6TP8ikv=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJZMdHFuwttUYIVuKKiyouz_AXhtIiPrKlLT7rit2Z4la9WjC3RQZRuJO-yGzwMuUfWAKraN72yTyMwRCBzfUbylWwmuCo_yfAs9KjfRJ1Ca3tCBeRyilwxCar8Td2fPRYKZBsP0r7tNfSq1PvRO0x0M5jpRbdGXOEC4",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "subba reddy",
+              "uri": "//maps.google.com/maps/contrib/104448391683303876850",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKFT3YsqMXWfopy56mLn2_yj6fXfg-vrgsyDrHuesT8NQUn8-ZmQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp4ZKQ4Ug4DsREIn8j-UR81A/photos/ATplDJbhK9u8xuwgacg8VMGMkHTGILged-vmFhprNAM4eYfl_RTV-twMgFlcfQzRKeCadPi_tpj2wj92Ib-6Re-h261NVlzJ3wAVuziqNGDkdQEFSKkwVCJI0VK33qFoNQEnAfYh5xoc8Oq55m73-Nfyv5xO0_CCMVOCbfed",
+          "widthPx": 720,
+          "heightPx": 1144,
+          "authorAttributions": [
+            {
+              "displayName": "Nik Italiya",
+              "uri": "//maps.google.com/maps/contrib/115632924703336037838",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWuAX60BOw6Nfv6OSzF7DLdcJVWyFwxx9Q05tQe0r60i4WtKHNCkw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A",
+      "id": "ChIJYQLYXjwh4DsRoyqkhDjwE4A",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "P29W+R76, Zadeshwar Rd, Ganesh Shrishti, Vadadla, Bharuch, Gujarat 392011, India",
+      "addressComponents": [
+        {
+          "longText": "P29W+R76",
+          "shortText": "P29W+R76",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Zadeshwar Road",
+          "shortText": "Zadeshwar Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ganesh Shrishti",
+          "shortText": "Ganesh Shrishti",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vadadla",
+          "shortText": "Vadadla",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392011",
+          "shortText": "392011",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.7194903,
+        "longitude": 73.045549999999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.7180907197085,
+          "longitude": 73.044205869708492
+        },
+        "high": {
+          "latitude": 21.720788680291502,
+          "longitude": 73.0469038302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=9228984186946464419",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Tuesday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Wednesday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Thursday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Friday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Saturday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Sunday: 7:00 – 11:00 AM, 4:00 – 7:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "P29W+R76, \u003cspan class=\"street-address\"\u003eZadeshwar Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGanesh Shrishti, Vadadla\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharuch\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 898,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Nilkantheshwar Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Tuesday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Wednesday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Thursday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Friday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Saturday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Sunday: 7:00 – 11:00 AM, 4:00 – 7:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "P29W+R76, Zadeshwar Rd, Ganesh Shrishti, Vadadla, Bharuch",
+      "reviews": [
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5dHJIT2pnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 3,
+          "text": {
+            "text": "A nice calm place. An ancient temple on the banks of river Narmada. Surrounded by lushness, there are 3 temples, the central temple of Nilkanteshwar Mahadev, a Hanuman temple right opposite that. And another Shiva temple a few steps ahead from there. And one can go to the banks of the river.\n\nEvenings are beautiful and scenic with nice views of sunset and the new cable stayed bridge.\n\nA nice place for some quality calm family time.\n\nArti time is must visit. Premises Close at 8:30. Post arti",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A nice calm place. An ancient temple on the banks of river Narmada. Surrounded by lushness, there are 3 temples, the central temple of Nilkanteshwar Mahadev, a Hanuman temple right opposite that. And another Shiva temple a few steps ahead from there. And one can go to the banks of the river.\n\nEvenings are beautiful and scenic with nice views of sunset and the new cable stayed bridge.\n\nA nice place for some quality calm family time.\n\nArti time is must visit. Premises Close at 8:30. Post arti",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hiren Solanki",
+            "uri": "https://www.google.com/maps/contrib/112333469759397330947/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaCZdRU4iMsvf78wntI0J14GzRXUgSqjZKtn2qsGpfZojgllN5=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-17T16:17:34Z"
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5aXV2MGV3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Neelkanth Mahadev Mandir in Bharuch is a revered Hindu temple dedicated to Lord Shiva, attracting devotees and tourists alike with its spiritual ambiance and architectural grandeur. The temple's location on the banks of the Narmada River adds to its scenic beauty, providing a serene and tranquil environment for visitors seeking solace and divine blessings.\n\nThe temple's architecture is a blend of traditional Gujarati and Rajasthani styles, characterized by intricate carvings, colorful motifs, and majestic domes. The sanctum sanctorum houses a magnificent idol of Lord Shiva, attracting devotees who come to offer prayers and seek blessings. The temple complex also includes other shrines dedicated to various deities, contributing to its religious significance.\n\nApart from its religious importance, Neelkanth Mahadev Mandir is also a popular tourist attraction due to its historical and cultural significance. Visitors can explore the temple complex, witness traditional rituals and ceremonies, and soak in the spiritual atmosphere that pervades the surroundings. Overall, Neelkanth Mahadev Mandir in Bharuch is a must-visit destination for those interested in spirituality, history, and architectural marvels.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Neelkanth Mahadev Mandir in Bharuch is a revered Hindu temple dedicated to Lord Shiva, attracting devotees and tourists alike with its spiritual ambiance and architectural grandeur. The temple's location on the banks of the Narmada River adds to its scenic beauty, providing a serene and tranquil environment for visitors seeking solace and divine blessings.\n\nThe temple's architecture is a blend of traditional Gujarati and Rajasthani styles, characterized by intricate carvings, colorful motifs, and majestic domes. The sanctum sanctorum houses a magnificent idol of Lord Shiva, attracting devotees who come to offer prayers and seek blessings. The temple complex also includes other shrines dedicated to various deities, contributing to its religious significance.\n\nApart from its religious importance, Neelkanth Mahadev Mandir is also a popular tourist attraction due to its historical and cultural significance. Visitors can explore the temple complex, witness traditional rituals and ceremonies, and soak in the spiritual atmosphere that pervades the surroundings. Overall, Neelkanth Mahadev Mandir in Bharuch is a must-visit destination for those interested in spirituality, history, and architectural marvels.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hardik Ataliwala",
+            "uri": "https://www.google.com/maps/contrib/111015781711970181542/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFA03now_nqA9wIwP4YFl_X7vDenFwi7oEFbdcH9rGalHXDjp4=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-15T08:42:23Z"
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5LTc2aUpREAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "Neelkantheshwar Mahadev’s temple situated on the banks of river Narmada is center of attraction (devotion ) for people living in Bharuch. All wall of temple is decorated with small shivling which is very nice. Many monkeys in the temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Neelkantheshwar Mahadev’s temple situated on the banks of river Narmada is center of attraction (devotion ) for people living in Bharuch. All wall of temple is decorated with small shivling which is very nice. Many monkeys in the temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vishwa Hiren",
+            "uri": "https://www.google.com/maps/contrib/116782641163022379756/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9TNZ2yU_A0djZuo3e5z0MC6CGDRA27EbsLhcwAjHunxpnMQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-03-21T16:03:00Z"
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWMHYteDF3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very scenic temple at Narmada river bank.\n100 people can sit easily at a nearby temple. The river bank is very near.\nTemple walls have hundreds of shivlingas.\nYou can witness evening Aarti at 6Pm.\nThere are many rooms near the Temple for People doing Narmada Parikrama.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very scenic temple at Narmada river bank.\n100 people can sit easily at a nearby temple. The river bank is very near.\nTemple walls have hundreds of shivlingas.\nYou can witness evening Aarti at 6Pm.\nThere are many rooms near the Temple for People doing Narmada Parikrama.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kedar Dhepe",
+            "uri": "https://www.google.com/maps/contrib/100466359330809583954/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1Ya_J5J0Ov3fkWs1fLBcP2NMlqjlZPLR0KxOvDBPL0NV8InhB=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-12-06T11:28:42Z"
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEbi1hVDRnRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Nilkanth Mahadev temple is the heart of Bharuch city. One of the oldest temples. Narmada river is next to the mandir.\n\nA very calm and clear atmosphere is around. Hanuman temple is also in the mandir area.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nilkanth Mahadev temple is the heart of Bharuch city. One of the oldest temples. Narmada river is next to the mandir.\n\nA very calm and clear atmosphere is around. Hanuman temple is also in the mandir area.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "mayur prajapati",
+            "uri": "https://www.google.com/maps/contrib/118123330453349021646/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQiwnkJgied3fPBHuzuzWnGyFv8jG2Vsnk1r5d_PL7p5ue2j0=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-03T17:45:40Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJaneMIBF7pwaWjDnhT6cwkHw6uqkDNEPxVg-ulalFhjP1sPAe3vGCcZvEhd4r2xH1kt2V_MUtaiW1qQwGASWS07TV2rNNX19JAtCh0vsV3Ajj2AnMmHocQj1AVDEwFOWUIs9nKuei6ygj2xD_grKsX5-7D-TvS8GbKB",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "vipul joshi",
+              "uri": "//maps.google.com/maps/contrib/111506389028927556036",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWxeE8GpVcnMTjsbQ1pkJ3JnH8hA3V6F1PsvPPGtB7gXE-IZmzooQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJZPVStOJRNHxFq7AEVTX0RV9RBC0CBw8j4Q4nEEWllXkcBfIw5mT5_92ZJ4eBTzmBf3ynAhjqT5pyi-e2Vm0q_cmtJirCw_Z4bxwib8mlkkMQA6qeGaHN80TFFQeeek6p4URsPpAgKjw4o-jlQ2-E4zSCJ68e69PEBP",
+          "widthPx": 9280,
+          "heightPx": 6944,
+          "authorAttributions": [
+            {
+              "displayName": "Anand Brahmbhatt",
+              "uri": "//maps.google.com/maps/contrib/108019939133645037018",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWZ0RJWNsMBtmYuwzpTvA5II-2YBlZ8B_-dQnyw6bLZcnjLLFND=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJbW7ZInyHj_HgOZ5E71iOvKKpjFiDPpF0vPpCbI8hqk7GVs0-jjWuoaZ5MOLgFwIbeejFa-3pkIMHl7Yh4yEeQmrmQmhsVMj4BOj99WwBcb4_gKBI3oHGFG90FBh3EyxeAl3KUXDj_erbMbrJpUJ0zcXAaeJ9Ye92qD",
+          "widthPx": 9248,
+          "heightPx": 6944,
+          "authorAttributions": [
+            {
+              "displayName": "Rameshwar Gupta",
+              "uri": "//maps.google.com/maps/contrib/111670151738601988570",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX-k1q9ElXCu-K3qH_Sy1dySYelpYYEEy5sQrYyZYj-rdXOOT6_Sg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJa56qr6Rxkl2W2THYE3M0zjCGP0RXTp-d50B0QfFd7cwC_eLL9TrQqHIAi0pM8DzYA4VQ_A25yl4fk1YDY-rDw_Wamm5OQ1K8GXEln5KLUimVU9u0FjpHWzLg_PcwOFS33gOTe4dsK2SSxd5NvfKb2rmwXbzAoaM2GJ",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Rajesh Bamrotiya",
+              "uri": "//maps.google.com/maps/contrib/116661221522189804671",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVtdigyciiadNzEAf8fWM7K8vqv5DYMx3UAYtwfXe8g7SLSz1LWqA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJb9mhPgTx2ZhziDN0v60keWUJNpwFd9koj2xxSnKVlE2oMksFZ4AVWL2UZrrd2p8kA7FmEvkQU-pq53NDh4UnuPx1RZnQd9pqKdJOGmrFblOgTM1-efOPAfHaaNHGpkpv1HCf3jMXnJNAtMmMTnvohQfezb_7esxGs",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Sandip Vasava",
+              "uri": "//maps.google.com/maps/contrib/112070284508396522842",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBKpl0z5bcXz3iSQCaVMpe-7LArx1qMRT6PQdxL5nhTHYAtA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJainorBGro5O6HPjLjCREMtyyill5DcGdY34Ada1xhg5E3-lSvUgNNmL6hckeXBF81bO_DH-3aD3gDgzJIiI_icVbKtPgkgNHXA6VpgNqae8OLjyw5iSGcX89NrGBnj-tHA1Lel-Ii_lQ455HMSp_351TENRINoUy0",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Sandip Vasava",
+              "uri": "//maps.google.com/maps/contrib/112070284508396522842",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBKpl0z5bcXz3iSQCaVMpe-7LArx1qMRT6PQdxL5nhTHYAtA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJbpITNKollljvJvnO6dWMSI6UjpvIDUyxdYtY14DyslDslvZMqkNXukxQYRvrvjZq4R3Uxa6iGuq2S8DgJX0TxPPYCAIlw1E81hF3Av4BdP-VZpsmpJTE9qKqsE5eidaBrOsa9YchhmhDxfQuMYH4TlTmcnzhk2Cw8",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Sandip Vasava",
+              "uri": "//maps.google.com/maps/contrib/112070284508396522842",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBKpl0z5bcXz3iSQCaVMpe-7LArx1qMRT6PQdxL5nhTHYAtA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJYJkL86F_k4Qjf736FW8ygANRyOc8-FaEu9bY6R4Q8uNXy8l1xCgBef9B4RxQVNKQPVVgJ4_tH2X2n_w0Kqs0CJWr31kSQJlwWWjhzo8XrrYankPkO8T0xV0plSs8b36r1yhDrR9KjmSqVNJZBClGnrkiFijW34AHB2",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Sagar Teke",
+              "uri": "//maps.google.com/maps/contrib/115699908806116214334",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoTo2Pnt6Tt1wUwAVckkE5UlJDIa42ZpPwWjE-aOxGCtbm5glsNA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJb3m5TsfMwS8WU7foeA4cjNzagCV02BNSZf0SSISMVilBAILs1C8Si1j-l1hP9zYsVzKoIrezFq2KfZhtvW4NafyNW9JIcRP9o5Mz5btgzv1LjRThWDJIGgLtrc6h7-z3djwgrx7ss4FXqgmlXl1ZLNfqRovW_PaW5U",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Gopal Rathod official",
+              "uri": "//maps.google.com/maps/contrib/112846581493981262387",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlyxhD9IWvJLBh68xd2qYaoA9NYPWgbuq7VKzMmGcag3Vynzxw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYQLYXjwh4DsRoyqkhDjwE4A/photos/ATplDJajNL0Kpvos6CS_do3HwD37cl3aUbUJpM_3NP4mG7HA9bmih3r698HAw-UQBdH0O5jJQQprStXqugGjhas7LIHSWsS-nlRDZcuOfJK2OPv762e0P3OOrHPQ9z4qePppubpI_OMaWyO3T6f0urxjjT_14BAFEqtxhy0",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Sandip Vasava",
+              "uri": "//maps.google.com/maps/contrib/112070284508396522842",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBKpl0z5bcXz3iSQCaVMpe-7LArx1qMRT6PQdxL5nhTHYAtA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I",
+      "id": "ChIJg0eT7GMg4DsRqPr89HWcA9I",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Narmada River Rd, P27V+QW5, NH 48, Gujarat 392011, India",
+      "addressComponents": [
+        {
+          "longText": "P27V+QW5",
+          "shortText": "P27V+QW5",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "National Highway 48",
+          "shortText": "NH 48",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392011",
+          "shortText": "392011",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.7143817,
+        "longitude": 73.0448727
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.713022019708497,
+          "longitude": 73.043513219708487
+        },
+        "high": {
+          "latitude": 21.7157199802915,
+          "longitude": 73.046211180291508
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=15133111203330325160",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Narmada River Rd, P27V+QW5, \u003cspan class=\"street-address\"\u003eNH 48\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1717,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Narmada bridge",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "shortFormattedAddress": "P27V+QW5, Narmada River Rd, NH 48",
+      "reviews": [
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/reviews/ChZDSUhNMG9nS0VJQ0FnSURkMlppcE13EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice moments during sunrise at Narmada bridge.... Proud feel..... Just cleaning required..... At walking path.... I requested to all citizens that try to avoid throw unwanted material like polythene etc. i suggested that 4 and 5 dustbin drum kept at the walking path area.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice moments during sunrise at Narmada bridge.... Proud feel..... Just cleaning required..... At walking path.... I requested to all citizens that try to avoid throw unwanted material like polythene etc. i suggested that 4 and 5 dustbin drum kept at the walking path area.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mahendra Singh Chouhan",
+            "uri": "https://www.google.com/maps/contrib/114393540516152895417/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWT7SaA9QQzL58sLd-ULHTnQtTeMYXc5HCJo4wZDMcOc9YYxNQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-25T04:00:11Z"
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsanNQZUZnEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "🌉  A Majestic Marvel Connecting Cultures! 🌉\n\nSituated in the heart of Ankleshwar, the Narmada Bridge is a symbol of architectural grandeur and a vital link uniting communities. 🌐\n\n🚗 Ease of Commute:\nThe bridge serves as a crucial transportation route, facilitating smooth connectivity between the regions on either side of the Narmada River. Its strategic location makes it a lifeline for commuters, ensuring efficient travel. 🚗🌁\n\n🌊 River Panorama:\nAs you traverse the bridge, you're treated to a breathtaking panorama of the Narmada River. The flowing waters beneath create a serene and picturesque view, especially during sunrise and sunset. 🌅🌊\n\n🌆 Cityscape Views:\nFrom the vantage point of the bridge, the cityscape unfolds in all its glory. The bustling city of Ankleshwar, with its blend of modernity and tradition, stretches out on both sides, offering a dynamic visual spectacle. 🏙️🌆\n\n🌉 Architectural Charm:\nThe architecture of the Narmada Bridge is both functional and aesthetically pleasing. The sturdy design ensures the seamless flow of vehicular traffic, while the graceful arches and railings add an element of elegance to the structure. 🏗️🌈\n\n🌳 Scenic Surroundings:\nSurrounded by lush greenery on the banks, the bridge provides a refreshing and calming environment. The well-maintained flora enhances the overall ambiance, making it an inviting space for a leisurely stroll or a peaceful moment of reflection. 🍃🌳\n\n🌇 Sunset Spectacle:\nThe Narmada Bridge transforms into a canvas of colors during sunset. The hues of orange, pink, and purple paint the sky, creating a mesmerizing backdrop against the silhouette of the bridge. It's a sight that captivates locals and visitors alike. 🌅🎨\n\n👣 Pedestrian Path:\nFor those seeking a closer experience with the surroundings, the bridge offers a pedestrian path. Walking across allows individuals to absorb the beauty at a leisurely pace, fostering a deeper connection with the scenic expanse. 🚶\u200d♂️🚶\u200d♀️\n\n🌟 Night Illumination:\nAs night falls, the Narmada Bridge is gracefully illuminated, casting a radiant glow. The play of lights not only enhances its visual appeal but also contributes to the city's vibrant nightscape. 💫✨\n\nIn essence, the Narmada Bridge is more than a means of transport; it's a cultural conduit and a visual delight that harmoniously blends functionality with aesthetics. Whether for a daily commute or a leisurely evening stroll, the bridge stands as a testament to Ankleshwar's progress and unity. 🌉🤝🌍\n\n#NarmadaBridge #Ankleshwar #CulturalHeritage #ArchitecturalMarvel #CityscapeView",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "🌉  A Majestic Marvel Connecting Cultures! 🌉\n\nSituated in the heart of Ankleshwar, the Narmada Bridge is a symbol of architectural grandeur and a vital link uniting communities. 🌐\n\n🚗 Ease of Commute:\nThe bridge serves as a crucial transportation route, facilitating smooth connectivity between the regions on either side of the Narmada River. Its strategic location makes it a lifeline for commuters, ensuring efficient travel. 🚗🌁\n\n🌊 River Panorama:\nAs you traverse the bridge, you're treated to a breathtaking panorama of the Narmada River. The flowing waters beneath create a serene and picturesque view, especially during sunrise and sunset. 🌅🌊\n\n🌆 Cityscape Views:\nFrom the vantage point of the bridge, the cityscape unfolds in all its glory. The bustling city of Ankleshwar, with its blend of modernity and tradition, stretches out on both sides, offering a dynamic visual spectacle. 🏙️🌆\n\n🌉 Architectural Charm:\nThe architecture of the Narmada Bridge is both functional and aesthetically pleasing. The sturdy design ensures the seamless flow of vehicular traffic, while the graceful arches and railings add an element of elegance to the structure. 🏗️🌈\n\n🌳 Scenic Surroundings:\nSurrounded by lush greenery on the banks, the bridge provides a refreshing and calming environment. The well-maintained flora enhances the overall ambiance, making it an inviting space for a leisurely stroll or a peaceful moment of reflection. 🍃🌳\n\n🌇 Sunset Spectacle:\nThe Narmada Bridge transforms into a canvas of colors during sunset. The hues of orange, pink, and purple paint the sky, creating a mesmerizing backdrop against the silhouette of the bridge. It's a sight that captivates locals and visitors alike. 🌅🎨\n\n👣 Pedestrian Path:\nFor those seeking a closer experience with the surroundings, the bridge offers a pedestrian path. Walking across allows individuals to absorb the beauty at a leisurely pace, fostering a deeper connection with the scenic expanse. 🚶\u200d♂️🚶\u200d♀️\n\n🌟 Night Illumination:\nAs night falls, the Narmada Bridge is gracefully illuminated, casting a radiant glow. The play of lights not only enhances its visual appeal but also contributes to the city's vibrant nightscape. 💫✨\n\nIn essence, the Narmada Bridge is more than a means of transport; it's a cultural conduit and a visual delight that harmoniously blends functionality with aesthetics. Whether for a daily commute or a leisurely evening stroll, the bridge stands as a testament to Ankleshwar's progress and unity. 🌉🤝🌍\n\n#NarmadaBridge #Ankleshwar #CulturalHeritage #ArchitecturalMarvel #CityscapeView",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chandresh Patel",
+            "uri": "https://www.google.com/maps/contrib/118283359123612186443/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsB5T99RlYh-3NNq_zhkIBQIaTMFFHfuesCPkGJEWyBJecrLsD=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-11-18T13:35:18Z"
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/reviews/ChZDSUhNMG9nS0VJQ0FnSUREeTZqVWRnEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Beutiful view visit at 7:34 pm under the cable bridge and enjoy the sound of Narmada river and capturing pictures",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beutiful view visit at 7:34 pm under the cable bridge and enjoy the sound of Narmada river and capturing pictures",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "parmar varunn",
+            "uri": "https://www.google.com/maps/contrib/115447699470755940725/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrQVaF76zrIAYgXW9b0S9cbqobJqzhCz45lfNBEpDKar6RTb07=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-14T07:18:55Z"
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkNkxTei1RRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "It's a very good view' of bridge on Bank of narmda river",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a very good view' of bridge on Bank of narmda river",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Harshit singh rajput",
+            "uri": "https://www.google.com/maps/contrib/112977093399654259588/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDO7jlu7C-w83Juws_YWavMXSfrt52lLGxRIE97UBVaC4yZjmN=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-02-11T02:22:36Z"
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/reviews/ChdDSUhNMG9nS0VJQ0FnSUQybi1MVDNnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Bridge is newly built up for one way connecting Bharuch Toll Tax to Bharuch city.\nMany years expensed behind its built up.\nBefore there was too much traffic\nAnd it was believed as the highest traffic area on Bombay-Ahmedabad national highway\nDue to this bridge traffic problem has been rectified automatically upto maxmum level.\nAnd therefore one can cross this way easily within less time.\nIts road is very nice because no bumpy at all.\nAt night whole bridge is lightened with colorful lights.\nIt has become the place of attraction and visit for public.\nBridge is too much clean.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Bridge is newly built up for one way connecting Bharuch Toll Tax to Bharuch city.\nMany years expensed behind its built up.\nBefore there was too much traffic\nAnd it was believed as the highest traffic area on Bombay-Ahmedabad national highway\nDue to this bridge traffic problem has been rectified automatically upto maxmum level.\nAnd therefore one can cross this way easily within less time.\nIts road is very nice because no bumpy at all.\nAt night whole bridge is lightened with colorful lights.\nIt has become the place of attraction and visit for public.\nBridge is too much clean.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sagar patel",
+            "uri": "https://www.google.com/maps/contrib/107606760355608396069/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ46hRj3HBWyc7ZECWuUj9Ba3UJdrKdQkzHVFbrUXE65qCr=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-05-29T07:41:30Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJZaueDjukImcVgoByFJF_k-06aRw-zzD5LQ4Cv4pz8g5A-rnMPwcscMEiQqetuJRc-lk4oLu2kDIwY2a62wJBqz_vSZh62TrudUzwe_-hr0bWhgirMoN-CPcDpAIEXfYp7L2_lwb0Cfoa12zahpNNCQHL8bP36ZqdWm",
+          "widthPx": 1600,
+          "heightPx": 900,
+          "authorAttributions": [
+            {
+              "displayName": "Kuntesh Vasoya",
+              "uri": "//maps.google.com/maps/contrib/103925839445372135987",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXiSnMRvGjQk98Hj-X73kQGmYwa0KrXLK3a-GERu9AOyhIvlPo5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJYFTWhx1xAvmUOU-Vihf1zf-SZfy-OYrTzCG3QI9DQjmGcHuS0Vbt-kgBlLSOEIXGu2wLoJnTUNoFj7LoLpmk6GbidG8v5SfUwKMUtKm67YSEqXizx5_DAUixjhyx1lRNJ0w3nr7p1e5RAlKIV6Cuv7fdScI0DWnNjq",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "raj sharma",
+              "uri": "//maps.google.com/maps/contrib/113303346520044912740",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXeaY4agI4tXnhEO3hfVm-hhnZXRolfgD270WMkkkgJhz3eYMoB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJYiOTAHi9bvG-mbO-VpiDQY4Z5m3qi8Bg0BCRjpypWLf__ESrvL7lvcIsIj5yKXmQ4NOUDMvmwvlVlICkSGJa7L2lBaqG_PlWAB-D5fpsjz78SI54swgJeLeyjKv4SG6NApscwlvMjZzryndHPYH5EzlP0xZ2rxC3x2",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "jigar shah",
+              "uri": "//maps.google.com/maps/contrib/109959292628530570596",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVmGbBkN6vxDWrfXDLEOsMWezZ9AbO2PJy--vU5lXKzZaw1mdJNIQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJaukU_8j6EZzSa91KzpekjpYjZHhJCtkoB1FeGyVqFdzwoKqHfX9sqNmOtPlISVDBqm4BykzHZx5cTAm-GP8pOXIxRLyHjPpsEJj4wpscOh-ksRrtxDeYYmD5f1J5rp3VRrTXIp1F3EhZvPMa5GpIgsQtQ46btAztEI",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Chintankumar Chaudhari",
+              "uri": "//maps.google.com/maps/contrib/113711920720834492764",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVVTC6JUlpzBdPLQZ-1rpRO0s_FFTOxuNXZZ39PrC9AnYB4toQ8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJZL2rwlFUp5IwwcfQOhvIFC8m9x3ApKSvaOsL0I_GemSMPluPhjQ3IR7u0aDFgJjrGvHYieaAD-2pH0IOsWDcT9_aTNZImzSxPIU_HtObQQf0Opsjq1MZJ2L8tpkforDpV8JWUd9_aIjsYpMbpXyMRcV1t2mZAl45nY",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Krunal bhatt",
+              "uri": "//maps.google.com/maps/contrib/103581740158753335454",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX0h3GyNBcExfvZMS00Ux7hJJbCRyptG6wuKhhofQS3XwHfy2bP_w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJaO2n3c6notqlULRvKOF9xXWgthgZNzTREBppsEMwEsTKAd2bu_AsBlRPXpeQY9YgFpnwSHEAZK7dEIhHo3wHCi-XuYQVfvr-Jwj9-QrrAcRy4BLLnk9fh6eDR21aQ5PLGJJeLrtnPG561qGCZL-lStFpdqp9Jf9uFV",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Saurav Pateliya",
+              "uri": "//maps.google.com/maps/contrib/101113696589675041188",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXNFVESxR6ou4t6jvmHWS3v3BPh6p-lgTT5b6qrCKfKxF1JwkY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJYsVYVnN3iBE3jq220dufAWdudAa14jmzZIuDPLmdxbSpeEINCR0qo3yjC8-Uu_361OzJiVGlCvK8aR_IcNQNz7Qr0TINLoSN4G4JcIKV8AYcwcKsSHA3mR9Un9W-rExpE6AE5zvvVD4ijXFFT7aOvhqnQn7T5M8IWv",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Dhilon Das",
+              "uri": "//maps.google.com/maps/contrib/110094035880303038700",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKtspUoejkMiczzgmpwVxupiw8tGUqK8uEH0iocLQ58jbYlWQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJYubCKfWKzBbp4CZjiDMT7lKpVFb6LPRUyi7Hgm5YVk0vdRwiZJQxtFnJuseUHOiOpogouVEb8feZcSM3NCcfwgQ_sSRYWksdF1cTznf01WKL1Qh27Xn6Svv18EJqnZDeBzv_ow58mM6XFP7aP2sFalgL3b5Wn7IA86",
+          "widthPx": 3000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Satynaryan Yadav",
+              "uri": "//maps.google.com/maps/contrib/103215146331822745389",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLnH11gCVB3Bh0YVvJ6Hu5W4yGLaJpdV-Ii_Oz756KmIGfmwQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJbkRdrGgZn-__sIo5Y0ZKpDtAtiyWMyNNMMF2uE0vMnp_0Dyebb9uFEQ3r1stHzxDCNvG7J4vh9JbE1oUCcAcaynvAvEjx7Xc2CAD2G-5SSHGMOTaDlNboD874RRieZSiEeQUnMor3EDxjvqTiAjNzbfrZn70MtDJsV",
+          "widthPx": 700,
+          "heightPx": 415,
+          "authorAttributions": [
+            {
+              "displayName": "VIKASH KUMAR",
+              "uri": "//maps.google.com/maps/contrib/113387898112862098032",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWujoLK_Nd00EIj7xBsIksjWE2fkGJSIl2i8OxzgXAkJ66Z0m0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg0eT7GMg4DsRqPr89HWcA9I/photos/ATplDJZqHxTB2v8TRzWWlf_NXW5QGljTyWvJwLFUoSD9dSlPXBQ1KCsOVgRfNUI27TrDReKwZNydeFa24ybjf2E-gE9njgE-e2bwQySf07_HeGBBp4cY4IHtx1Za6GHkz38EnRgaks1aer-3jJFEV1OWBrjsQJ5YyKOPJD2l",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "vishal vikram",
+              "uri": "//maps.google.com/maps/contrib/103927638172050943114",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWZy1d8QI1qLrgFs1poJO7KAPJgBZy8CnTMBZNtj9xprA4tHsOsMg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleRestroom": false
+      }
+    },
+    {
+      "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o",
+      "id": "ChIJiW2PimMg4DsRi_q4uGL0Q_o",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "P29V+QMQ, Sardar Bridge, Ganesh Shrishti, Vadadla, Bharuch, Gujarat 392011, India",
+      "addressComponents": [
+        {
+          "longText": "P29V+QMQ",
+          "shortText": "P29V+QMQ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Sardar Bridge",
+          "shortText": "Sardar Bridge",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ganesh Shrishti",
+          "shortText": "Ganesh Shrishti",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vadadla",
+          "shortText": "Vadadla",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392011",
+          "shortText": "392011",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.7194632,
+        "longitude": 73.04421889999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.718124719708502,
+          "longitude": 73.042910769708485
+        },
+        "high": {
+          "latitude": 21.720822680291505,
+          "longitude": 73.045608730291491
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=18033526037764700811",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 9:00 PM",
+          "Tuesday: 9:00 AM – 9:00 PM",
+          "Wednesday: 9:00 AM – 9:00 PM",
+          "Thursday: 9:00 AM – 9:00 PM",
+          "Friday: 9:00 AM – 9:00 PM",
+          "Saturday: 9:00 AM – 9:00 PM",
+          "Sunday: 9:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "P29V+QMQ, \u003cspan class=\"street-address\"\u003eSardar Bridge\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGanesh Shrishti, Vadadla\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharuch\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1809,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "iconBackgroundColor": "#4DB546",
+      "displayName": {
+        "text": "Narmada Park",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Park",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 9:00 PM",
+          "Tuesday: 9:00 AM – 9:00 PM",
+          "Wednesday: 9:00 AM – 9:00 PM",
+          "Thursday: 9:00 AM – 9:00 PM",
+          "Friday: 9:00 AM – 9:00 PM",
+          "Saturday: 9:00 AM – 9:00 PM",
+          "Sunday: 9:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "park",
+      "shortFormattedAddress": "P29V+QMQ, Sardar Bridge, Ganesh Shrishti, Vadadla, Bharuch",
+      "reviews": [
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4NU5PYVBBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This park is now closed from 1st Feb, 2024.\nDon't know until when.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This park is now closed from 1st Feb, 2024.\nDon't know until when.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dhruvika Patel",
+            "uri": "https://www.google.com/maps/contrib/104878078332330932180/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrIB_wlbML1qnOKjHtqkz80Se0sVru2njEXuq0W-o6gswCwKjyLQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-21T02:46:37Z"
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/reviews/ChZDSUhNMG9nS0VJQ0FnSURKbm9iREZ3EAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Good park for kidz, In monsoon full park cover with greeney looking more osm.\nYou can see the beauty of Narmada River. Park having one small play area for kidz up to 10year. Sliders are their may be taken from some old Water Park.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good park for kidz, In monsoon full park cover with greeney looking more osm.\nYou can see the beauty of Narmada River. Park having one small play area for kidz up to 10year. Sliders are their may be taken from some old Water Park.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhavesh Bhanushali",
+            "uri": "https://www.google.com/maps/contrib/104117967212673779316/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRIMKmLMs4FAtGNQw1xjnsZFtOQiaxJMySeUnBDVjDm4Xivr5pGw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-07-17T15:33:59Z"
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNhdnZua1ZBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nothing special here for now. As the way to river is blocked currently. A lot of couples were there. Sometimes its a little uncomfortable. Other than that it was okay. Good for kids. Playground is also good. Ample parking space. Entry fee is currently 10 per person. Parking is free",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nothing special here for now. As the way to river is blocked currently. A lot of couples were there. Sometimes its a little uncomfortable. Other than that it was okay. Good for kids. Playground is also good. Ample parking space. Entry fee is currently 10 per person. Parking is free",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "devisha parekh",
+            "uri": "https://www.google.com/maps/contrib/107371754948208477847/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0qFq8Kgkm5O6JdeG3ZMGP5fNhpUu9UJj0RcaigTSG_zgJ3xkb=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-08-02T03:45:45Z"
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/reviews/ChZDSUhNMG9nS0VJQ0FnSURhbFAyTU9REAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Good Park to go with children\nFree parking\nEntry fees 10 rs for 7years above all\nTiming until 8 in the evening\nNeeds public awareness for housekeeping and cleanliness\nPlay area is good but many rides needs maintenance\nThere is one small waste water trench going , needs proper safety on that bridge.\nSecurity is keeping an eye on everything.\nPark needs proper maintenance.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good Park to go with children\nFree parking\nEntry fees 10 rs for 7years above all\nTiming until 8 in the evening\nNeeds public awareness for housekeeping and cleanliness\nPlay area is good but many rides needs maintenance\nThere is one small waste water trench going , needs proper safety on that bridge.\nSecurity is keeping an eye on everything.\nPark needs proper maintenance.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Viral Soni",
+            "uri": "https://www.google.com/maps/contrib/106274654903326871002/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrZsHQQPPxiqzupeqHS32_HGKedJh-2s03ILSBXgEXwSV7nJc9=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-01-25T23:51:50Z"
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1Z3NxY0JnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Narmada Park is a good place to visit during early morning or during sunset. Park is situated on the bank of river Narmada. Garden also have small adventure section for kids. You can visit this place with family or friends. You will get to see a mesmerizing view of wire bridge. Besides park there is also Nilkantheshwar Temple. Boating facilities are available on river bank with nominal charges. Only thing I felt bothered was safety at the bank, as it is completely open to river. Overall I had a good experience, hope same for others.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Narmada Park is a good place to visit during early morning or during sunset. Park is situated on the bank of river Narmada. Garden also have small adventure section for kids. You can visit this place with family or friends. You will get to see a mesmerizing view of wire bridge. Besides park there is also Nilkantheshwar Temple. Boating facilities are available on river bank with nominal charges. Only thing I felt bothered was safety at the bank, as it is completely open to river. Overall I had a good experience, hope same for others.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Akshay Khade",
+            "uri": "https://www.google.com/maps/contrib/102118659493472111759/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNnIhUewjHclAycr3Uq1ql47SaqCWjsvu_jvWniUH9JwEZ5Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-08-16T12:36:08Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJa2Ujrso2I9SuXlh89t0nh_p7PnBEFQhpVI-aEY3f5hPv027XTU-P01wohNjsEy4d6_OFixnrhw-Nehl87JnUVLGNE_4YL_qiCXs47A45RnivradT5H-dVa7bLnj1-7sUcBCBwgFgD9TloZZNjobcD7ZYNKeE-X6HJz",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Noaman vadia official",
+              "uri": "//maps.google.com/maps/contrib/116294157722905862251",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWtw-4KN4P6kYlZCmV94v4n8uR16M0YPxNQJWCeMDqtFTUS7ZTQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJbdUze8Aspt8H2rU99jaWBambDnQCI8Sk_B_LJmJ0d6RwylnpavZ1ok9-zx0gSwpZQ0uVxvCA8q7QZhxzIC6MMDJyVVtHRaHDLVoTM8ifASK8wuutNQwBbVSEJVgCg1WeN4dOWLRhk0eNzTZ9C0HXVjjZTRvUhFw9y9",
+          "widthPx": 4128,
+          "heightPx": 2322,
+          "authorAttributions": [
+            {
+              "displayName": "Rohit Dave",
+              "uri": "//maps.google.com/maps/contrib/112905290651755478736",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXeDj84AUYV62bITsPkONXsvqlhxkFFWcwD4u7M1lv5xctNuJIh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJZRiHkjdqKfXiZwMhpFc7OpFbB1YOYfyhvUyhIUqgk7sleN_lL3iIxlYjc8sNzHe3w_1DG99ef3o5rjMonqtAl18sj6zQjuWJrK74BlENXa2pEkge3qtU4h1ir3ZObP7wojIFH74j1JSrHKh9KvidfyjQkG_osf6LI",
+          "widthPx": 4624,
+          "heightPx": 2600,
+          "authorAttributions": [
+            {
+              "displayName": "kalpesh vaghasiya",
+              "uri": "//maps.google.com/maps/contrib/116992383264486222620",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUYp8D_s9lDjnEJw0_hjhnxuubTY8lTJuBokMUNQnz3ijDdkM8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJZG0gamosid2YhGzHCTZ8SMEgJ3dQAM6fQpa-JFC3MceMksDbzWaszysbOEaxRr8IuhfFD85B8RU-7PW-zUljnC1qFNzn2epQpTljg2ThdcVajpXa4klSJPta98GwQ4GTGBZOdjvKQIdKSdrkKk_4OZeQRxD7ztW-VL",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "devisha parekh",
+              "uri": "//maps.google.com/maps/contrib/107371754948208477847",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0qFq8Kgkm5O6JdeG3ZMGP5fNhpUu9UJj0RcaigTSG_zgJ3xkb=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJZ6ikq3A1r91LMXmHAaFCouCnLau8_n3GuH1PvGPfNu-Tck-OTYT6yuVzI2bMjS0FeMQbViGqdBAGvp9yshmty6JpAu-BKzT2y465nIG4dUO5IfSuTewN0ezCW_LquDhxuC8h3HQCCwhtVkBWxGqZ-VqauKyytbmP4",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Faiyaz Shaikh",
+              "uri": "//maps.google.com/maps/contrib/111924270367131142859",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWvEMf__ddxqYLBfIEr3YisX0Nf7nrimxNmCLAd4jrFgAvqo55O=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJaQ20OUwSpkUBliBTITCG2u_o2gdMBlz5IaKq9dEjWU8wTGe-CLHJpzGb9BgXYBFHFoQwVAY1cWYz5K5A4xtyklvIQjjGbGk62ZbNtgr_E-_rOsq5DcNC8drarePBlKlTRJMSN8PshgSVerm329g-rW7CBaKjVgy6En",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "pradeep maurya",
+              "uri": "//maps.google.com/maps/contrib/108669961857683627264",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW0Gnh2JANoqJLTKbwZBPr2bw8Eyimw83YlBXDcuAdvR1BxFF45Tg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJbifrIoqozMWvyuFEl99CW3Ps2pOp1HjF_IyTECS3betXJK8zcA5GtUx9f6F25P93oORCpCDGzpVbo1UF9a0oKqpkTr4g4oYIyf1isSb2n2uQ95T0FFvCxiYPch3uMLq7cxVEXjVBlkI1opY926pJWvuuvkgeTBpXYD",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "devisha parekh",
+              "uri": "//maps.google.com/maps/contrib/107371754948208477847",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0qFq8Kgkm5O6JdeG3ZMGP5fNhpUu9UJj0RcaigTSG_zgJ3xkb=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJb1uM0e49Db2fSFT83TFsExxodsG2lN1zlQrJwhgQL5ZFcjns4sG9QkNmhiAOb6yG5rFBKRdujJFaeYigjKSENfe43OtGizPZ5SSZhqhu_0lUK_dlx7pmvhttLvE4GAAqlBXovzPQdqmUVbipOmR3HZBFxD2vOW_bBU",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "devisha parekh",
+              "uri": "//maps.google.com/maps/contrib/107371754948208477847",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0qFq8Kgkm5O6JdeG3ZMGP5fNhpUu9UJj0RcaigTSG_zgJ3xkb=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJY1eVKhtFVHpfDE2cOiPMFg85DKe9e39YNPEHnf1if8MuxLB3NmfxmLhYe4qJFlB1HDwpbITpjAjjGzVBvo5HxbrXtH0ffspuQGPxk6lJK0Nz_6-awh4y2mbW-21YAIS0Lp1Y-pbxcLr3puJtzl-q8WzLLqcb2jwQnQ",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Dhanjibhai Hirpara",
+              "uri": "//maps.google.com/maps/contrib/104830306252564015745",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOmnjgbu-sGauBa6b8FJooDAuWEx10DYI_GmOr9vY-v2W_fR8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJiW2PimMg4DsRi_q4uGL0Q_o/photos/ATplDJYXaR8VP37jil6iaC6-ooYkekMHmzk8KUHZBsjlXygKABk_fP1LfRZO7FHPZ6Urt_NYoV12Wm5GppPowmXRNPK9MSLvqZN-JIDE0rGjFwBUXYalJLo2FX2ySayEEFOApVajSh2Fgra7j9qOCl6aIx-BokzwIQInZNRL",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "prashant pandya",
+              "uri": "//maps.google.com/maps/contrib/107770669827375062878",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUfGHAtHarfq9tzgqXQacBSZTEMVJBHcr-nMnGkh8-N6J15h8MH=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU",
+      "id": "ChIJEbUUcGch4DsRK1fFwy19auU",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "P2F8+878, Narayan Kunj Vihar Society, Bholav, Bharuch, Gujarat 392012, India",
+      "addressComponents": [
+        {
+          "longText": "P2F8+878",
+          "shortText": "P2F8+878",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Narayan Kunj Vihar Society",
+          "shortText": "Narayan Kunj Vihar Society",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bholav",
+          "shortText": "Bholav",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392012",
+          "shortText": "392012",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.7232797,
+        "longitude": 73.0156894
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.721876719708497,
+          "longitude": 73.01434901970849
+        },
+        "high": {
+          "latitude": 21.7245746802915,
+          "longitude": 73.017046980291511
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=16531163017728317227",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "P2F8+878, \u003cspan class=\"extended-address\"\u003eNarayan Kunj Vihar Society, Bholav\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharuch\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 23,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Somnath Mahadev Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "P2F8+878, Narayan Kunj Vihar Society, Bholav, Bharuch",
+      "reviews": [
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5bmZhVC1nRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome place 🔱💗🤟",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome place 🔱💗🤟",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "aman chauhan",
+            "uri": "https://www.google.com/maps/contrib/106008594789433110948/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocItUmS6sfPXfE_NjM4eIKoOH2B8NMsCQEmhki6Rn3WXOMZ3CQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-08T14:43:40Z"
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/reviews/ChZDSUhNMG9nS0VJQ0FnSUREdHYtWlJ3EAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice 🙂",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice 🙂",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jatin Singh",
+            "uri": "https://www.google.com/maps/contrib/106212356472479503602/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHBY_5_HkeZ-hqr4zB7n09pLeNMFEn08ek1XGccN23-x8m7zE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-09T08:29:45Z"
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscTliVW5nRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sangam Lal",
+            "uri": "https://www.google.com/maps/contrib/115490514387412494544/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEHQ1Cl5mTKVp4TvUeeNgzXvgiXsrT6PiJjXUoW5D10jrnqI_O=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-27T09:11:37Z"
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwckxpeU9nEAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Most special moments of my life",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Most special moments of my life",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "praveen banjara",
+            "uri": "https://www.google.com/maps/contrib/114630157661906122595/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-ffIv26q8THnyHQTRNC0IuEeeqz54UrvZzk8VlV9HvfF41vsR=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-07-30T06:36:41Z"
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/reviews/ChdDSUhNMG9nS0VJQ0FnSURta3Rxa3ZnRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good direction and nice please and shiv ji temple best in bharta",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good direction and nice please and shiv ji temple best in bharta",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jaypalsinh N Chudasam Navalsinh L Chudasam",
+            "uri": "https://www.google.com/maps/contrib/101671304578007858407/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9ALoA5srRG7GEZ7MeayGgnAbDo7a0ZxA6uhkBWZRIVNMgrtZB=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-01-23T17:21:01Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJb7znFN1h8CXOgPM02I_mI-pnr_9FpPL8ZsVKWecGNSRAUDXz4aArlV5rZESC60zlUkxdEuyAGwayRPBkFAaafEJ-38_vuMtbWevmXf_NnlHUsOli8Y1uQQE6dmPcHolTXwOCcI1QW76yNJZXEPwtfHGmRlpFp7IDb0",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Gohil",
+              "uri": "//maps.google.com/maps/contrib/101295576775347519565",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSyM0k6E-4kKOxAric0dnNyucKPoZjBZCHHTLf1s7nhbAaF6uf=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJZCIfGzEZMd1quKplCMtMkG2fQrYYOMg4X5erK_M-mXpoQl97UKJPo4svrJlirtPZKfhjfrDyOaDjQkIQRs24Wx7x50qLov-nfk71DOy5zuLvm2HPGmAShh5zlV4teQu-15nPmhUiJHDESmNyM59c288Aw6GcpFXyIa",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Gohil",
+              "uri": "//maps.google.com/maps/contrib/101295576775347519565",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSyM0k6E-4kKOxAric0dnNyucKPoZjBZCHHTLf1s7nhbAaF6uf=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJZeD-KWIydLJcd_Q1JqeE80pVCP8xrePgQ3EGoo5nnvydHkCjqBEhtyb5O7ZTBFC2CuSk_NxJR9pWld7LfMSogVF18r94uAk9knuGfEZeG3JixchCDrD_kSnvAAx3qBTYbHkfhbn1ranZ1WSi41xg_3s6231w5Fptg9",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "aman chauhan",
+              "uri": "//maps.google.com/maps/contrib/106008594789433110948",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocItUmS6sfPXfE_NjM4eIKoOH2B8NMsCQEmhki6Rn3WXOMZ3CQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJZPlT3AoriKqyC9H_A2njKQuaw-cGWShrDuI5HpyZOkOVSECeSlgIM38mFz-ad15jcbdO1MbNqzrqfMTRiXUtJBW_ER3Axgl43G-76nAaJTu-EIpzJXfLbFw9tnmvUYdrUYm3kFMAdOrAnVjKUNNYV0TbG7q65a5QIe",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Gohil",
+              "uri": "//maps.google.com/maps/contrib/101295576775347519565",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSyM0k6E-4kKOxAric0dnNyucKPoZjBZCHHTLf1s7nhbAaF6uf=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJawvaHO36PfqgyxG0mgcu-LbOets6rwlVilcSaaPLGhbuqKwD8_FdzutvS2n7A6scLIpCoFA9lvvfarzYBFOQ-HzwgXjxb8XadZeSpbejvWkVnkFeTTItCyg_eROGI-PDR1qBCFoU2dwPm2uzxkmYLH57-23Eo7HbAb",
+          "widthPx": 3008,
+          "heightPx": 4016,
+          "authorAttributions": [
+            {
+              "displayName": "nobody none",
+              "uri": "//maps.google.com/maps/contrib/114193269921553433987",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLOoosMAA1J1zXCkRyTUqApVJAiKRAv4YjhvOrVKcFOMMAt0A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJaco4qnm3e_uUM19QIZMy3n4KlVc8oKzeLe51cWuswm_Izg-8Y7yTRucf8_HJnL98NrtkW2QmElfhcsuspL9y6Q5OK1b1f4IpfaewgFk8EWhGuSqYunNMunjw9feefbXss_XRQkvr-nUp4Hkn3Wb6TL5vM7zxW4xtr7",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Gohil",
+              "uri": "//maps.google.com/maps/contrib/101295576775347519565",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSyM0k6E-4kKOxAric0dnNyucKPoZjBZCHHTLf1s7nhbAaF6uf=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJbQVdqzPdr3Hh1iB2t74nsOONnfEtY2LjtTEYRG50gr-wHt3Z_1Oc8UYAZ57kK-egHhLdgXRDWUpIANAPBqkvvVNtWCCdMMLjwhAkpFJQABghIN7rmdypi_GWqWD9Z1miC4tzqH6xICD4o5jpgRUMufshVCnDoOQ6r3",
+          "widthPx": 4608,
+          "heightPx": 2076,
+          "authorAttributions": [
+            {
+              "displayName": "Amarjeet pal Pal",
+              "uri": "//maps.google.com/maps/contrib/100972619965350385095",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI9pMT5H0jSAptd1DrVJWsiUCZwbtJTqLcZGdhuGUgCtkeWMg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJZmDzTQVZF03m60wCp4Gr0eMpfcvUj-isbHgU1JXjlE1BzITG5tVqWSfhe7zZAqZHC6X953LoxcmJWJ35BxG9iMAjJL-4JqEpg1IxT3mU4hQv_Z1fOHHiViWn1ShUoN8SY_Rv49dXt1OH3BEksPSkBjZ8wfSoelkSAC",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "aman chauhan",
+              "uri": "//maps.google.com/maps/contrib/106008594789433110948",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocItUmS6sfPXfE_NjM4eIKoOH2B8NMsCQEmhki6Rn3WXOMZ3CQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEbUUcGch4DsRK1fFwy19auU/photos/ATplDJbnM1eyPBTEKzUUJrzwF-gCQO52PNeCmmPZuJ9hMSdcyC2vuUtqBpNScyQb7awozKXtz4LoVzr67mxHvdxiPzIhtFMJN_Yr89k_5q79g6crXrskKGvN4vkswyl20lr1TftfXXVEpMKTIich93rmKscq9wanOmbAqEw6",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Agrawal Manish",
+              "uri": "//maps.google.com/maps/contrib/106787760861343899276",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXSfQK-JtftXTL8LgsPNNaWumwPHRApsnE1M7QlQaKBzoezqG0w=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY",
+      "id": "ChIJccRz2qQn4DsRS42n_RQWmbY",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Dehgam chowkdi, MXR3+XVM, nr. M. P. S, bhajjuwala society, Bharuch, Gujarat 392012, India",
+      "addressComponents": [
+        {
+          "longText": "MXR3+XVM",
+          "shortText": "MXR3+XVM",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "M. P. S",
+          "shortText": "M. P. S",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "bhajjuwala society",
+          "shortText": "bhajjuwala society",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392012",
+          "shortText": "392012",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.6924512,
+        "longitude": 72.95467
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.691091619708494,
+          "longitude": 72.953311519708478
+        },
+        "high": {
+          "latitude": 21.6937895802915,
+          "longitude": 72.956009480291485
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=13157572065750388043",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Dehgam chowkdi, MXR3+XVM, nr. M. P. S, \u003cspan class=\"extended-address\"\u003ebhajjuwala society\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharuch\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 65,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Dehgam chowkdi",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "MXR3+XVM, Dehgam chowkdi, M. P. S, Bharuch",
+      "reviews": [
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/reviews/ChdDSUhNMG9nS0VJQ0FnSURKOWZxaTdnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It is a stop for more then dahej company's worker and employees to take a bus but there is a need to one standing station for a waiting are vehicle",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is a stop for more then dahej company's worker and employees to take a bus but there is a need to one standing station for a waiting are vehicle",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sagar Parmar",
+            "uri": "https://www.google.com/maps/contrib/101941297519679449442/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUB7WSLmfIJZJLhI0DY9YFMNhQ_byBDNXFqwz_nLSlok-RCS4qeLQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-12T12:44:24Z"
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/reviews/ChdDSUhNMG9nS0VJQ0FnSUREbjdLYXBBRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 4,
+          "text": {
+            "text": "Busy area during morning 7 to 9 am and evening 6 to 7 pm",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Busy area during morning 7 to 9 am and evening 6 to 7 pm",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rayyan Bharucha",
+            "uri": "https://www.google.com/maps/contrib/103744910768412974392/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZM8WV9Oe2QyXIp9yuzb40yCQakU8iYhMsf6K4LpEOZ0s8eBUL=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-16T04:13:40Z"
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5MGFmOXJ3RRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 3,
+          "text": {
+            "text": "Good place to connect Bharuch with other Side of State.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place to connect Bharuch with other Side of State.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Malek M Irshad Y",
+            "uri": "https://www.google.com/maps/contrib/112334304687384150765/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgNp00I87nMdl3tUYYFK8lSShEAAFZZCX4y64fGtqeZXsWTtQD=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-03-17T23:25:31Z"
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/reviews/ChdDSUhNMG9nS0VJQ0FnSURsMGY2N3VRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Road very  poor condition big digs on road",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Road very  poor condition big digs on road",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ketan Jadav",
+            "uri": "https://www.google.com/maps/contrib/117868283817639031701/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxKJtIEERx2L6XPjets2vBbsa0UJdWCfM7ZwT1-PcrQoHkC_12=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-02T11:45:22Z"
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNacl83SkxnEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sunny Vishkarma",
+            "uri": "https://www.google.com/maps/contrib/116970521021251206157/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdsYvKudrhzNXkMixdhg97PLEx6quawKX25nKWcvfAQSkFIPXH=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-09-20T21:10:43Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/photos/ATplDJbRrlVDoe14KkR-HKV-Oyl9vowPYW9abwwhlp1-zkgmcaHQGvNuLpUM6AQ2Qj14uGZHIJR9OrPBMnBHkal1fzhXMo_dR_rLcMNElSq_GIPZN8V0jj8QlqJCXJgEX2iUVD-FnD_Z5T12qaPqEsVgX4BJj8g1w6cXgdyN",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Saiyed Nafiz",
+              "uri": "//maps.google.com/maps/contrib/113259793562450906746",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWCzMoCn81klAf8II1PZgt-_l4PwllkUN4O5hcAnFS0FDoy7iOl7Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/photos/ATplDJb8gEg_NG38MdoXXP2_AhbZF5EtFiFvNL1SeHtQbhm6RcOu0icGNAs_BtLAj2ByAuKq8MyWp13AVZj9oZeQ3gt9tCr7FqMd3BeQ3yzoFi6CASAH7T6Z_q3PPGj3NkgbU5ZT_7cnl3cbkO9nCLTBnEEGBNLFfCGwiBjD",
+          "widthPx": 2340,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Vishnu Prajapati",
+              "uri": "//maps.google.com/maps/contrib/105237391939469924429",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVSeCi2MWuKuCCFGCZ_t_wbeTABJ2-Cv8n5KKL9XbAL_1Cid0xp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/photos/ATplDJZ0gDyi1glCWEe0RKgnOfrZqsbxyikXsGV7uOnkOt8MKFf38aRhF_6g6vwiQWvuku89inhbMU2AdfqcTv5SPXHJ168-4nChdRHkvwp0sBZq79TdVpPbEmIkpvyCau-wa40d4EXTmIHXPoxhCMweZ0pDswue9dn6Fj1X",
+          "widthPx": 1156,
+          "heightPx": 867,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Lalit",
+              "uri": "//maps.google.com/maps/contrib/105999151207336961555",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV8anrKQKizsMWdCLQb4uk6mBA1NG2MwH2Yig7jcUHBiaVBcVpW=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/photos/ATplDJaiQ1RaGDMnAWOKfNqSHsGFLTgOwyBPEEXQ1VLmxXjgyPxl1gbBg1V-LY0ixtZaeU30_kP1-J4oNPDJs1p5vJBaauCSmSet2LAuPzxty8dvPPmSGlBVubbKKp9akwfChnmryWUkfkgipkBPCsYMghcLMn-RocWw_TKN",
+          "widthPx": 1836,
+          "heightPx": 3256,
+          "authorAttributions": [
+            {
+              "displayName": "Saiyed Nafiz",
+              "uri": "//maps.google.com/maps/contrib/113259793562450906746",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWCzMoCn81klAf8II1PZgt-_l4PwllkUN4O5hcAnFS0FDoy7iOl7Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/photos/ATplDJZdsXK3MYIcfaEDyl2ftH8tWaq5DuXxqQP3uLzBt4AbhiXTD1Ijx-alfVbmKtSedMTdPkYCFCmHVELfZBaErVjNfZoHMjzKHOYPcZb5YjgMAobczcNrO7Wiz7quFmz6IIb-3Qm-q4QZ2Q_LZoK_DisMDVYvAKjT3QtF",
+          "widthPx": 1040,
+          "heightPx": 468,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Lalit",
+              "uri": "//maps.google.com/maps/contrib/105999151207336961555",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV8anrKQKizsMWdCLQb4uk6mBA1NG2MwH2Yig7jcUHBiaVBcVpW=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJccRz2qQn4DsRS42n_RQWmbY/photos/ATplDJbN1WU1p55y3cUXKb91X2UxlZh3obX1uKm90LyLjJLQuUlluodqnNGlB2QY2oE4eJoy6i0vwYIOM4vx1NvHlWbu9irKdjDebkAqSLYlAZjvbbkTOH7_oSJWVD0Z9sCSFlVs9hvBWnVwhiPAuhrkKXrMmDqOZstuBBtA",
+          "widthPx": 596,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Lalit",
+              "uri": "//maps.google.com/maps/contrib/105999151207336961555",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV8anrKQKizsMWdCLQb4uk6mBA1NG2MwH2Yig7jcUHBiaVBcVpW=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is",
+      "id": "ChIJkzknHtkm4DsRWeYlxDvx_Is",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MXFG+GWV, Borbhatha, Gujarat 393002, India",
+      "addressComponents": [
+        {
+          "longText": "MXFG+GWV",
+          "shortText": "MXFG+GWV",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Borbhatha",
+          "shortText": "Borbhatha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "393002",
+          "shortText": "393002",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.6738677,
+        "longitude": 72.97730949999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.672380369708495,
+          "longitude": 72.975944369708486
+        },
+        "high": {
+          "latitude": 21.6750783302915,
+          "longitude": 72.978642330291493
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=10087202504399251033",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MXFG+GWV, \u003cspan class=\"locality\"\u003eBorbhatha\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e393002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 144,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Candy Beach bharuch",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "MXFG+GWV, Borbhatha",
+      "reviews": [
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMF9mdThBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Are you nature lover???\nIf yes then must go.....\nIf no go once...you will become nature lover surely.\n\nThe view of maa narmada...amazing🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Are you nature lover???\nIf yes then must go.....\nIf no go once...you will become nature lover surely.\n\nThe view of maa narmada...amazing🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "BANSEE RAKHASHIYA",
+            "uri": "https://www.google.com/maps/contrib/112296539694867042561/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXR4GWfC7xt7-whQ94Jd_tkjCsY6MBF1TxrPkmpN-RnmkD4q1PyzQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-03-27T14:34:33Z"
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJczZpMTVnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Spectacular place for dusk and dawn to enjoy sunrise and sunset.\nGood destination for fitness lovers as from Bharuchi Naka it is approximately 5 km so after long walk you are rewarded with great scenarios.\nMust visit place for peace lovers and nature lovers as there is almost no crowd.\nFor short walk you can park your vehicle at SVEM school and can walk up to beach.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Spectacular place for dusk and dawn to enjoy sunrise and sunset.\nGood destination for fitness lovers as from Bharuchi Naka it is approximately 5 km so after long walk you are rewarded with great scenarios.\nMust visit place for peace lovers and nature lovers as there is almost no crowd.\nFor short walk you can park your vehicle at SVEM school and can walk up to beach.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mihir Modi",
+            "uri": "https://www.google.com/maps/contrib/115742955053653058232/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRat8LtQxJwd82JtUjzqPD4wxPJ2aZe1RYlasDvVmwfgvjU51A0g=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-12-07T02:42:35Z"
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/reviews/ChdDSUhNMG9nS0VJQ0FnSUNTaGJMbm1RRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Best place i have ever been to  👍\nPeaceful place, cleanliness 👍\nIt feels like small marine drive of mumbai",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place i have ever been to  👍\nPeaceful place, cleanliness 👍\nIt feels like small marine drive of mumbai",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Drashti panchal",
+            "uri": "https://www.google.com/maps/contrib/106967704203624591519/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5lsqQA4znd7nuKYMs9h23lxmnSfJt1F330AQdyp9lB_ugNu-zFQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-01-07T10:40:18Z"
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXMDdPVlF3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Did a cycling ride early in the morning, had an wonderful experience",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Did a cycling ride early in the morning, had an wonderful experience",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rushi Chudasama",
+            "uri": "https://www.google.com/maps/contrib/110556081720696217171/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmJzhVIyHmzIaVLdIHkFouwpVf6BLFrMvTDTmnIrVL-T5dE6k-=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-03-07T06:39:44Z"
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsa3VXYWlnRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 1,
+          "text": {
+            "text": "You can say..it is \"Dhokha\" Beach... nothing is there...might be recent flood has washed out every thing... extremely disappointed after driving more than 100+ km.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "You can say..it is \"Dhokha\" Beach... nothing is there...might be recent flood has washed out every thing... extremely disappointed after driving more than 100+ km.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ajay dubey",
+            "uri": "https://www.google.com/maps/contrib/107937847299480825819/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIUpMVv3QO_SCHuCugf0bo8MtTuhhia-jgkrVr2HsVO8A_otQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-15T04:31:10Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJZfWueDE8aHc3SmY5hna_q5eyJ2wR_mBtkEC1OVhpsVyRPUBjA828iUbMqCTkzYWZu1NLCtdzqXzzrIiURSu7HByTyUbOjigxd90Wu1fOfciDi9Cyso0NXNIMhIuSRzAOZwm4LBiC1JuZCigtFLlrKebH6XRM41_GY",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Ajankar",
+              "uri": "//maps.google.com/maps/contrib/100116894157146758855",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUqouVqJPpNaUBFIAvZcPB-WWUK5YU1y2nKD0fexQ8Qad1CU0A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJYmyO6BmAXgcoxH4hqotP35_fFwdtPE4abF7wau6wXoOPZhIymHJxIICbWP_XCWL_btgjjWD4odtdgjH_7S3kHYPDKtGTPlvTmTfxAL7VUzHwjWJ-Q7Rj5_la_i7ppurv_-ShF79EAzk3_5SEUArzce3IeILsZc2AGu",
+          "widthPx": 3264,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "BANSEE RAKHASHIYA",
+              "uri": "//maps.google.com/maps/contrib/112296539694867042561",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXR4GWfC7xt7-whQ94Jd_tkjCsY6MBF1TxrPkmpN-RnmkD4q1PyzQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJabr-Em6N-58TfC9dB6N8dlMx-3Mce8zsyzeP7xl9H8xb441ZGC5O6YMiDa4KahSKkoMHJmjUW8HEsNXr6RZdJjjq0lHFSq2jpLyvVn0OdiHT2nebhvLSHfQyw8ckROV0DBD5E99qKAE3uMaLbGb9Yt20hsZaT86Kt2",
+          "widthPx": 9248,
+          "heightPx": 6936,
+          "authorAttributions": [
+            {
+              "displayName": "Diwakar Mishra",
+              "uri": "//maps.google.com/maps/contrib/104052292989243360128",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIaH4I8udmUmJWos_NB8XDO5DIJkmIKcsVlY5mtp-uv3542Ug=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJYJTkespx54RwradVcYg2rdRM4vZ1j1LyQxQxkJ10XHh5jWz5VNCcJaPgEdDb8NOkUuaDEpGHonFurO56X5Xe20bsoTQS4iuTbMu1RcBNkW2bao2Dj65Y8mJNGi9ZCBFychR9PAWI5ngakNyl917Oc14naE0yJWcMoZ",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Dipak Parmar",
+              "uri": "//maps.google.com/maps/contrib/107579123007791874635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUkaIFjn-jcf02ae2K6vURN-QZgRnyfgUBoQ6KlelpQh4F-uvHE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJbX2Zgcn1_gCbKclVvv4y5Ra9gT4w1EkHJisG0F5NCjpG7EhS9a3T-QjthXnm8a3W2JzGZbKXxdGFA1ztpx8ei2-m8Lgesz8AEo7y2WncmioV6Ii4Cv5_1Ivpt5fc8pjR6h0bNyeAFMLkf6vs-e8JKnvPOoVmAGpf-T",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "pritesh MODI",
+              "uri": "//maps.google.com/maps/contrib/112097823207824983213",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUahNHNAZwGPM0hpAd0k_4TOKnGYZQ1xNfMBePauEmfMO1M3vQC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJas8gV17uYU0K9jNMJvmjuBlw3FqgvZSdhKGxXBVFsxiLU0ACf9cvh5qNoxZYhn1t12noy4vCK6ghIB2gMzCRUnghIrUG-ugbJzt6b_sU1TSL3LXCFm3bS9FjwCTrDFjGdAF1W4V--O5K7GNUS-THOLscinCmfDHRrC",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Bhavik Vashi",
+              "uri": "//maps.google.com/maps/contrib/104135046277849515271",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFLBEMdPnTVgmmH1TCywoFmyR2eUEyvIKrkHYFTg1MZRRTa1MfeQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJZmw4KZJT74cU0HEgY-n5GTmAKEJ54KTFP08MWgg8B-nPEwETTrDAEEf7UcC_44vNQAVCUdJsYf7BKVIRxLaqM5nuPmjEUI-B9iYMm8DKPgttqsAtWf_GqUrZ7RtcnKRizbwifqqPY9HEoD_QY2Y61T9WZOLnerD89I",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Bhavik Vashi",
+              "uri": "//maps.google.com/maps/contrib/104135046277849515271",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFLBEMdPnTVgmmH1TCywoFmyR2eUEyvIKrkHYFTg1MZRRTa1MfeQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJbZXuIu8tV4_n_H6nqNCdBw33LGPT-U0RVI3N4G7TU62eR0FGjxuymmPDTxV-6D8XMjNIbmLsALp94pQyxnWYQ6xOP3RfuRNMxttSsJhbAwoHjdemlrm2pT3aGYlvUr9E-3uKLKZX1w30JQp4rAPv38x15clyl3Xq8C",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Bhavik Vashi",
+              "uri": "//maps.google.com/maps/contrib/104135046277849515271",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVFLBEMdPnTVgmmH1TCywoFmyR2eUEyvIKrkHYFTg1MZRRTa1MfeQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJZh9E1kbUOniltx7iLfTiEcJn3cA_m6ZY566qnucGK_pzLBTwWK04kvrKflmX9t_zlSTho0af59NcwPC2AWYHNQYzyIuEnyg9_cJ0RLk3QhQO5PA8pFvSCJ47tuhLrr6o94KT19A_MFI1J6GxQF1NZharSMB5BECaL0",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Dipak Parmar",
+              "uri": "//maps.google.com/maps/contrib/107579123007791874635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUkaIFjn-jcf02ae2K6vURN-QZgRnyfgUBoQ6KlelpQh4F-uvHE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkzknHtkm4DsRWeYlxDvx_Is/photos/ATplDJZySiCK0QgeijK5OUc0myxuOstq2QLUCqaIyTG7jIeKnpnsEcQZd-0IQQdlOiGF1XFThqw9xzywfPkfn8qb1WEw_fPKCZEUzzvduRIMTt4W0rmlHus60q9tL6tAZSXzFx1Q2LhItIiNIB4DbSq_zoQSQzYhZB-Qn8bg",
+          "widthPx": 2576,
+          "heightPx": 1932,
+          "authorAttributions": [
+            {
+              "displayName": "Dipak Parmar",
+              "uri": "//maps.google.com/maps/contrib/107579123007791874635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUkaIFjn-jcf02ae2K6vURN-QZgRnyfgUBoQ6KlelpQh4F-uvHE=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg",
+      "id": "ChIJ_04x1mYh4DsR66Q8t5I9ebg",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "PX4W+385, Moficer Jin Compound, Bharuch, Gujarat 392001, India",
+      "addressComponents": [
+        {
+          "longText": "PX4W+385",
+          "shortText": "PX4W+385",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Moficer Jin Compound",
+          "shortText": "Moficer Jin Compound",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392001",
+          "shortText": "392001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.7051358,
+        "longitude": 72.9958748
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.703750269708497,
+          "longitude": 72.99451951970849
+        },
+        "high": {
+          "latitude": 21.706448230291503,
+          "longitude": 72.997217480291511
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=13292723475509454059",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "PX4W+385, \u003cspan class=\"extended-address\"\u003eMoficer Jin Compound\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharuch\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 10,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Kabir vad",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "PX4W+385, Moficer Jin Compound, Bharuch",
+      "reviews": [
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEajkzVEJREAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 4,
+          "text": {
+            "text": "Waiting for boat is too much.. otherwise good.. don't go at afternoon.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Waiting for boat is too much.. otherwise good.. don't go at afternoon.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Roshni Vasava",
+            "uri": "https://www.google.com/maps/contrib/109391393553365013976/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYlWviU81btM-TS3bub3qGdLCKnGdF_0QZ2okthRjeh8JESWtgmA=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-04-03T09:24:07Z"
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdzUzNUtBEAE",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Not Good Experience Boat rate Is High",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Not Good Experience Boat rate Is High",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Al FurqaaN",
+            "uri": "https://www.google.com/maps/contrib/108162026338022467789/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbsrit70pzyciJf1qk0K0GJIStrHhKiHG1iMluEvDhFUTTmiNA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-05-02T13:59:35Z"
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEanJDdnpBRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Laljibhai Hirani",
+            "uri": "https://www.google.com/maps/contrib/107654154212474121722/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFjs-Z7ZzVKKXQrgymftDNkzWvLSyQb0lSDQvs-_UQfPVoV8A=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-28T06:53:41Z"
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKdl9QQmx3RRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Yaa.its_ Dipenkhunt",
+            "uri": "https://www.google.com/maps/contrib/105283852191169534995/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQ23__X4rPiIpLksWXwLHIZ1WJToIAFt6qkDtSPtSlziU1vW7ylg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-07-08T08:35:54Z"
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/reviews/ChdDSUhNMG9nS0VJQ0FnSUROLV83WGpBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Naresh Rana",
+            "uri": "https://www.google.com/maps/contrib/104796597099011460665/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLutpi-N9WumMSvPz0ILPJdsXl0P1Fvg7kOjtOt_WgHqy5Jug=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-01-26T13:57:00Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/photos/ATplDJZhRvecy2WAzT2-ijhUTZVRLf7NoFef8rTpzA3tWOtQSBdpaAJ4GCbctd_QxsWSoOn9Bq2Zxg-ak4mm0s3NU8Pk1e96pPqrXLE1SuZnZgJgK2GYBuiQG0Bhx2Ns0wGJgKHOhMjr444LuXp6eIidbXlreUP-nTsOERDW",
+          "widthPx": 4624,
+          "heightPx": 2084,
+          "authorAttributions": [
+            {
+              "displayName": "Satish Patel",
+              "uri": "//maps.google.com/maps/contrib/112726662651205745661",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2YbdU9BkzEdwGi189fvm4ZGI9jNBGBDyKffIRj0r80QxG4SaW=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/photos/ATplDJYlCxS0AmSJyqSnFQtkb63Kj_tD-Zi_9fzwa_P00S7tEs_odaeH6NQf0zkS2QFWzaPkAaNti5kPxpRiAF82qxybEJSecX2Azp1kIhAcUwCy-FIMX6TTukuyIeDYgUMu_rxpU1zvOLwEYw3_sco0fBX0Iprm2VPiLy0Q",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Laljibhai Hirani",
+              "uri": "//maps.google.com/maps/contrib/107654154212474121722",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFjs-Z7ZzVKKXQrgymftDNkzWvLSyQb0lSDQvs-_UQfPVoV8A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/photos/ATplDJZFqm6CPD2wGcFU2bbpcRharJpaFY6JvtoIR1wO0UJdQAlQtY9W0PmqTINz3zYxsOchgDp9fTSBJgaFMa8245h2NvI171rv40BO-f7fPpf5QF1Vc0eRdw9kFkHMVreGHgwapiCMkPMh9sn2ZFnlj_Rxf6KJWEKrmWOF",
+          "widthPx": 2084,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Satish Patel",
+              "uri": "//maps.google.com/maps/contrib/112726662651205745661",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2YbdU9BkzEdwGi189fvm4ZGI9jNBGBDyKffIRj0r80QxG4SaW=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/photos/ATplDJapgM3kzj7q5ICMOAAG2b3bApG5ec6ceCLcOtlPoEB9CvPCguzN4rvn66edeZmCH9BA9fUSEEbGNeKr8lTwrU4qVRsQMK8zsHQHuQA-CRTvk2pCoQHaEsdjEx3qIrvRx14-wuLXuC9alvBVqAIaNBJeeWzFmEHHjpjK",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Laljibhai Hirani",
+              "uri": "//maps.google.com/maps/contrib/107654154212474121722",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFjs-Z7ZzVKKXQrgymftDNkzWvLSyQb0lSDQvs-_UQfPVoV8A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/photos/ATplDJYWHCHjQQw3aua-R7KLxh1tdlzoihhKkGDSt5YNT09WaJAltH-CTsDv2R5BuRsBYYRkpCIRGW1IiXzGmLVwzzEFQQiJtqK9N-X1edukZ8glqhe5UCRbxws-T6tlynAuEFQrEG5_at20WdsSOQxM2Fkk6YU3GM0H-TMC",
+          "widthPx": 4624,
+          "heightPx": 2084,
+          "authorAttributions": [
+            {
+              "displayName": "Satish Patel",
+              "uri": "//maps.google.com/maps/contrib/112726662651205745661",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2YbdU9BkzEdwGi189fvm4ZGI9jNBGBDyKffIRj0r80QxG4SaW=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/photos/ATplDJY_rhLjZcD-PoBtWX0kPHvYHARo2pf7oJyd9QJlMrAj113c7F1EGtHoObUj-4wSqph_e66QMHGlsNz3UH35zpz6oQeM5RHEjMwg8zCFkJN8YWC1xS3HIZDPUlAjFfeGc5ov56XflZ_dRtBzYkexMFeOeDK2KELfpnnJ",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Laljibhai Hirani",
+              "uri": "//maps.google.com/maps/contrib/107654154212474121722",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFjs-Z7ZzVKKXQrgymftDNkzWvLSyQb0lSDQvs-_UQfPVoV8A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/photos/ATplDJajMm2DMcSt1SmQKOxjyPmhlMFSTMPf_fU397_nwqSIiqJXBlzP5XV69iRNofW0b7a9IzbHzqsM-Hj2KHXw1Tzcx5kWfY7_mchqdwxpRpId0nkiU_--OCEls98YvGQiVlmTAIRk0wCQOiEPHLxqCZtu3Tt91SGns5Np",
+          "widthPx": 2084,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Satish Patel",
+              "uri": "//maps.google.com/maps/contrib/112726662651205745661",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2YbdU9BkzEdwGi189fvm4ZGI9jNBGBDyKffIRj0r80QxG4SaW=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_04x1mYh4DsR66Q8t5I9ebg/photos/ATplDJZACngaPAlkBi0OURmsa2G1mE1-_JkoUHdlu6ujuiKQ_Vh1hNHNPqbwlig58sXV-5779m1eGaekoHCsdGOBlXJcVUVT3n_FB6aI_frn-p8K6PXZKLeD2GNrDO2jmqHj7ykAK6lg2tmBbQWIawjJz_-sjLteDcd-079j",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Laljibhai Hirani",
+              "uri": "//maps.google.com/maps/contrib/107654154212474121722",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFjs-Z7ZzVKKXQrgymftDNkzWvLSyQb0lSDQvs-_UQfPVoV8A=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I",
+      "id": "ChIJwa3GBNon4DsRyRHqeG7He_I",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "near mangal teerth society gate, PXCM+GC9, Dahej Bypass Rd, Bharuch, Gujarat 392001, India",
+      "addressComponents": [
+        {
+          "longText": "PXCM+GC9",
+          "shortText": "PXCM+GC9",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Dahej Bypass Road",
+          "shortText": "Dahej Bypass Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bharuch",
+          "shortText": "Bharuch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "392001",
+          "shortText": "392001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.7212836,
+        "longitude": 72.9836187
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.720019719708503,
+          "longitude": 72.9822470197085
+        },
+        "high": {
+          "latitude": 21.722717680291506,
+          "longitude": 72.9849449802915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=17472778456602907081",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "near mangal teerth society gate, PXCM+GC9, \u003cspan class=\"street-address\"\u003eDahej Bypass Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharuch\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e392001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 6,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Malikarjun mahadev Shiv Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "PXCM+GC9, near mangal teerth society gate, Dahej Bypass Rd, Bharuch",
+      "reviews": [
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5bE42Y21RRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "The ambience of the temple is very spiritual. There is a lot of open space available inside the temple wall.\nI would personally recommend to visit this place everyday without fail.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The ambience of the temple is very spiritual. There is a lot of open space available inside the temple wall.\nI would personally recommend to visit this place everyday without fail.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hard Gorakhia",
+            "uri": "https://www.google.com/maps/contrib/106102996086641410928/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxGjnz8nn1uRk0epFSAfSjQNmbNMllBj2W43fUjcB2lteFXlE=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-02T17:21:18Z"
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1Z3VPTklREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Malikarjun mahadev temple\nOn main road\nSiva temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Malikarjun mahadev temple\nOn main road\nSiva temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "narendra2932 parmar",
+            "uri": "https://www.google.com/maps/contrib/109303379901299396258/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBTSfLuuNwd_AzNrJgWRQuDqnLo-hsU7SNhYBRfFp9PKvqDe1-=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2022-07-24T02:17:40Z"
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/reviews/ChdDSUhNMG9nS0VJQ0FnSURVcWZfcWlBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Mallikarjun Mahadev good temple near to road. Har... Har... Mahadev.",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Mallikarjun Mahadev good temple near to road. Har... Har... Mahadev.",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "nobody none",
+            "uri": "https://www.google.com/maps/contrib/114193269921553433987/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLOoosMAA1J1zXCkRyTUqApVJAiKRAv4YjhvOrVKcFOMMAt0A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-08-27T23:24:34Z"
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJNmY3d3dRRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Brajbhan Singh",
+            "uri": "https://www.google.com/maps/contrib/115618793630571796338/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmFQFlBDOG73ZRYxmrGedgsaiuqws3K_aHUJoCjZLn1xrdRzLO=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-11-24T05:34:10Z"
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxOEx5MXRnRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "AASHISHA_RAJ SINGH",
+            "uri": "https://www.google.com/maps/contrib/116124897835318082675/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgWcmRKqYGLHAO2GrmEa-npNOo6ZzX8yEwrwhuZLi1Xy7jBQ-zyA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-21T06:09:06Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/photos/ATplDJYjP0KM3X6DZsU5X7cKKz9iMe6-x2y8x0lRP86OkpTh5G3glS_Wv3gCbwi1QF6vEhlkhjdkNkN3PlDg8L-B2wH9GDuAx4wGL0W7DIwxYyYocxi2dfS25LyGkMUx6WMG74tsXDWxjmdY1YL-fCjdW7zCUc26L6pfn9U7",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "narendra2932 parmar",
+              "uri": "//maps.google.com/maps/contrib/109303379901299396258",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBTSfLuuNwd_AzNrJgWRQuDqnLo-hsU7SNhYBRfFp9PKvqDe1-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/photos/ATplDJasuE3a2ncKWQutTM56fm3pLOAzz8v19Obyna7grMLRcL-GNa8-Su86NFV-8s_P6sfn_OLWW3gcbPBUJVGpVojtrL3GyV0X_-0ZiPRy7l2EJGKB8xgMc8fmFrGxFsJc0h-UajRnPVsBsVo0mOmhquCL3__vhBsO6P6m",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "narendra2932 parmar",
+              "uri": "//maps.google.com/maps/contrib/109303379901299396258",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBTSfLuuNwd_AzNrJgWRQuDqnLo-hsU7SNhYBRfFp9PKvqDe1-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/photos/ATplDJY4KEos_n6iAvv-9AeJW5g3upIfM7uCCBOX-8PcXywRpiumeK03tO5DVa8VpCtxzLjzU9_-8nAmmMfhKNV07wsxgECU-9ovQUMZo0uX1H8yVm6OFDLRuYfpNq-eOtuziNWnhsul7JoWKyiwW4N83qUkoJVkeRWi9prJ",
+          "widthPx": 1216,
+          "heightPx": 2591,
+          "authorAttributions": [
+            {
+              "displayName": "keshav jha",
+              "uri": "//maps.google.com/maps/contrib/105957116795290095092",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8LPjG_ECe2f0hfnNGf2UDRSALMco4H_vEARrFICMUx70SLMi1=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/photos/ATplDJZfx90aFu5xbXvZOx1UzNwsDeCsicKIYgQWvdXyaGLP0eHR9BC1g44n9Xx_Ed-jkjfbxIT5N4WRFVTIuKFv1YCWWG_eIivfLTUEXUQUV7VK-0C2mqJP56GIv9z7N8wu5XPf4rd38NBfYRouweZ3KMR14FKfwycVk9Yq",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "narendra2932 parmar",
+              "uri": "//maps.google.com/maps/contrib/109303379901299396258",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBTSfLuuNwd_AzNrJgWRQuDqnLo-hsU7SNhYBRfFp9PKvqDe1-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/photos/ATplDJatzoVg_l1bmSFPirxLgdndt6fa_n6l5G1qE8gKcuBCHFk6T6I9-E1r6iqcC9qhKPUWJipb4dpL3A2NssZXmGm9iUzxHAYi_7kRMdNafxaYJf4NubtZT3Gv5TZ93O07RDcG0fNj6Wk-6GCvi4ZWbfNfgQ7eb-MePIxN",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "keshav jha",
+              "uri": "//maps.google.com/maps/contrib/105957116795290095092",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8LPjG_ECe2f0hfnNGf2UDRSALMco4H_vEARrFICMUx70SLMi1=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwa3GBNon4DsRyRHqeG7He_I/photos/ATplDJaFtn77ACFtZHn2192TD2L2TeTII_6DB-evlKBu_fdTtYlJ2s1cVu69TNB7yOvSFXbY0bpz5Q0CIf7Q_7eISNFE8vrHini-JrwkZ7tIheF_fBPilfNwRkrCiCSeouxU6ZJ_koDz6ivHgkPj6KEzgF968XeI2_RpwKh5",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Vinod -king -01 PAtel",
+              "uri": "//maps.google.com/maps/contrib/110012030007976718808",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBInfiMxCK3-DCYEejPnUKvI6VN3uS6TnzqFTRUA9FRtn6rLek=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

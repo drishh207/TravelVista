@@ -1,0 +1,1804 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY",
+      "id": "ChIJy0lq61D_uzsREbji7ag2JXY",
+      "types": [
+        "hotel",
+        "lodging",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "089047 99939",
+      "internationalPhoneNumber": "+91 89047 99939",
+      "formattedAddress": "Charish 3 Line - Resto Bar, near Kadambotsav Ground, Banavasi, Karnataka 581318, India",
+      "addressComponents": [
+        {
+          "longText": "Kadambotsav Ground",
+          "shortText": "Kadambotsav Ground",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Banavasi",
+          "shortText": "Banavasi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581318",
+          "shortText": "581318",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J6QG2R9+QQ",
+        "compoundCode": "G2R9+QQ Banavasi, Karnataka, India"
+      },
+      "location": {
+        "latitude": 14.541984399999999,
+        "longitude": 75.019496199999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.540660969708494,
+          "longitude": 75.018043219708488
+        },
+        "high": {
+          "latitude": 14.543358930291499,
+          "longitude": 75.020741180291509
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=8513270769787254801",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Charish 3 Line - Resto Bar, near Kadambotsav Ground, \u003cspan class=\"locality\"\u003eBanavasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581318\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 99,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "charish 3-line Resto Bar",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "delivery": true,
+      "dineIn": true,
+      "curbsidePickup": false,
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 12,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 16,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 12,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 16,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 12,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 16,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 12,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 16,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 12,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 16,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 12,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 16,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 12,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 16,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 12:00 – 4:00 PM",
+            "Tuesday: 12:00 – 4:00 PM",
+            "Wednesday: 12:00 – 4:00 PM",
+            "Thursday: 12:00 – 4:00 PM",
+            "Friday: 12:00 – 4:00 PM",
+            "Saturday: 12:00 – 4:00 PM",
+            "Sunday: 12:00 – 4:00 PM"
+          ],
+          "secondaryHoursType": "LUNCH"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 19,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 19,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 19,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 19,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 19,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 19,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 19,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:00 – 11:00 PM",
+            "Tuesday: 7:00 – 11:00 PM",
+            "Wednesday: 7:00 – 11:00 PM",
+            "Thursday: 7:00 – 11:00 PM",
+            "Friday: 7:00 – 11:00 PM",
+            "Saturday: 7:00 – 11:00 PM",
+            "Sunday: 7:00 – 11:00 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 12,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 16,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 12,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 16,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 12,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 16,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 12,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 16,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 12,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 16,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 12,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 16,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 12,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 16,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 12:00 – 4:00 PM",
+            "Tuesday: 12:00 – 4:00 PM",
+            "Wednesday: 12:00 – 4:00 PM",
+            "Thursday: 12:00 – 4:00 PM",
+            "Friday: 12:00 – 4:00 PM",
+            "Saturday: 12:00 – 4:00 PM",
+            "Sunday: 12:00 – 4:00 PM"
+          ],
+          "secondaryHoursType": "LUNCH"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 19,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 23,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 19,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 23,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 19,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 23,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 19,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 23,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 19,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 23,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 19,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 23,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 19,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 23,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:00 – 11:00 PM",
+            "Tuesday: 7:00 – 11:00 PM",
+            "Wednesday: 7:00 – 11:00 PM",
+            "Thursday: 7:00 – 11:00 PM",
+            "Friday: 7:00 – 11:00 PM",
+            "Saturday: 7:00 – 11:00 PM",
+            "Sunday: 7:00 – 11:00 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Charish 3 Line - Resto Bar, Kadambotsav Ground, Banavasi",
+      "reviews": [
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCaTZEQW9RRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Highly Recommended.\nWe had a very pleasant stay here I would say best cottages around Banavasi. Service is very good rooms are very well maintained and clean. 24 hours hot water available, ample of parking space available. Staffs were very humble and caring, helped us in getting all the facilities we asked.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Highly Recommended.\nWe had a very pleasant stay here I would say best cottages around Banavasi. Service is very good rooms are very well maintained and clean. 24 hours hot water available, ample of parking space available. Staffs were very humble and caring, helped us in getting all the facilities we asked.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "pavan kumar",
+            "uri": "https://www.google.com/maps/contrib/109582927900423407300/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2xERv9ZpGPcysBWXzASFVHpwmdg0QXGH7T0WLpkqGy7Rk6Lep=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-01-04T07:15:30Z"
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCODhmV3lBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "It’s just awesome.👌.\nIf you r planning for perfect leisure time with your family n friends then this is the place.. 🍾\nlocation, ambiance, food,  are v good.. Owner and faculty are v friendly..\nloved it..😍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It’s just awesome.👌.\nIf you r planning for perfect leisure time with your family n friends then this is the place.. 🍾\nlocation, ambiance, food,  are v good.. Owner and faculty are v friendly..\nloved it..😍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Praveen Kumar",
+            "uri": "https://www.google.com/maps/contrib/114075272581404622602/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4YuqL4WzPmBT8mIc-anW3soLuSwkkW3jO5ErAwbIpTkXxXttw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-01-04T07:22:25Z"
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCaThfdDl3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Lovely hotel in an excellent location. Rooms are spotless & cleaned daily, food was tasty Staff are very helpful , it is the best place for leisure and for party",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lovely hotel in an excellent location. Rooms are spotless & cleaned daily, food was tasty Staff are very helpful , it is the best place for leisure and for party",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anusha G R",
+            "uri": "https://www.google.com/maps/contrib/104621764970959951152/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJW8ObFTt08QEXdLg5-0JbQoMfjyRVjbcpkoAe0OL3e7Aofvg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-01-04T11:33:51Z"
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtd05XOG9BRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "The stay was extremely good.the staff is very helpful and the food is just too good I have had best dalkhichdi of my life at this place its a must try.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The stay was extremely good.the staff is very helpful and the food is just too good I have had best dalkhichdi of my life at this place its a must try.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Suraj Tawde",
+            "uri": "https://www.google.com/maps/contrib/111782269968933680224/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWi419cIDqTEsInkAN-2BWv_t-HDshyjDALXy6K9DS6ZuPX3BHILA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-11-18T10:53:04Z"
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/reviews/ChdDSUhNMG9nS0VJQ0FnSURPc1BlVGdBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome place to stay in the area.\nAwesome morning views.\nChill Owner is there to take care of everything.\nRecommended !!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome place to stay in the area.\nAwesome morning views.\nChill Owner is there to take care of everything.\nRecommended !!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pratik Lokhande",
+            "uri": "https://www.google.com/maps/contrib/115608131137265626680/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6MpDwGDhiYDxeEkjLLAXIRol-dfZkM-yD2ojQiSzAeAudZU-R=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-06-28T10:54:17Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJaSYj9o8qOkPO9bJSnpZQ0UupStKHGx148dq9Pk2O8KkpunLgiV0Y9JD_CAl-3GTvbcnHROeEswKJ3coPOcONJj1Nbrqd4Tk82acp5AX3eW23mvPKTotBqJ1kgOIQIjgH715Lw4-_PoJcJy0UuTUd2ZPofK2_FwyVHf",
+          "widthPx": 1504,
+          "heightPx": 1004,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJY7UccEtAkGw_KH21BkDVeJjepkDHeConIVK7oz45_m-AeJ9BkKiW0YdSmqER5NedE1fR995hQiDkj_ikXPkYVRBhMIhdYn-AsXPYkojipw6Z1nBnb_5JJ7IH6qP-GMkUQKK-cqk01q9WXVRLxDEhG9KursBqurZN3S",
+          "widthPx": 1504,
+          "heightPx": 1004,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJa1KZcXk3RIdne8R_vpNJAMr798R53idiWpArSvR2R8JNDuB2vuLHc4-Y-a8bHMTMjQymGudIpeTTa_G05g1vhmoXXDePNlet4H-5mtIWoZkVp7GwA_GCbTAm3alSu6o4JEuHkPjpAcD7K0XlgLNAAWA5uVlLspviOz",
+          "widthPx": 1004,
+          "heightPx": 1504,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJaX_jsPJh4YbtXcugbY3b8L1bb5z6INhgyCMn-EnBKy2gdWfgXXFHab13FxL8_zXGNCNCkEuq7FS0aeN5ksYRS_7MlKJ2wgxDc71Tmr5A5fmUKXcgMvuaRKguArTb-44H0v6w59Aw7LuDmEkwwbto0hrdmFAw44ljsz",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJbdNSnaby707BjRXIbPs5IxVCMOl5EZNc6PuJtq5KTUU3PQ7qMS1BVDE8bGaERvGJl80IIVqDxjtkRdZlIuxOt4HzRd-OzZ7U4jd3S4X50srkUYjw9C8S8qEFZKu8HaX1ZOi_yht7ur-EtkFP_pjPWExNqKfUdEaIoM",
+          "widthPx": 1024,
+          "heightPx": 683,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJbzu95JOVNFW-0TeMsghUyXKfzmGKCL30WUJSQHXaAYBjnl6QX-xH8pZfFnjMbsO-DCDcGZdv4lmGK8NcULvKyNA7xXFoLaqNkdsdEQuHLorTzbcFoOkBuhhEixas8gFOBQiQoGPvw9a5FSHUz-ZAZuff3EUSX6y0hV",
+          "widthPx": 4192,
+          "heightPx": 2795,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJaNBZ-lCMvxW5a8EPhTdwPytVRhHsaSbGd0Y4yWTRsnu-rcmzTQKN5nDSzuGcJbrUSwk_SZU75g7WWmzEhq80gC9lqQ3aI72XYyE8jbQBdBcRpGJhr7hurLSrTDt68U-IJdz-tLjHc-Yq0K5eL7p-rU1ISxAuDwf0OI",
+          "widthPx": 1440,
+          "heightPx": 809,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJbICbks6uLedv7uNXkplXV122CRKVy2lNLyt9uELlmo5mKzO8p5I0Ab4Cm02byp61ducXcZgLslJftdYWb4BZb3EErVIj1NgLy-rTjfqNER3rp-1XI3ug2PJMh0wn807XqICG-9M_zSWkqoJHblkpffsaLOcgu6jLtw",
+          "widthPx": 1024,
+          "heightPx": 684,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJYlu9HSpcOBquqXymRqHgCEheqmYjyZyEnxl09CgJUV8IRt5ahuSuDjQkCP3-jNxeee9w5X_n-TlUDtr7suu5cxape64A0S9HrDvsjQPCnnw-MfrDX6_vVhPhV2mtLuNrdmA5OznZ0pqAH7j4KadX9oUumGApMXwEWx",
+          "widthPx": 1024,
+          "heightPx": 684,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy0lq61D_uzsREbji7ag2JXY/photos/ATplDJaO-AKLh5qiMD3-drcyOHmIEHK2H-FUjWXIM1FxC40tIPVwaV47Gj3KqeaGqcRW07KHbrHdnhCV6MKDAtTkRXpsrv6v86YcYQ7-SH5e8XcXQGkEkeXkxnfcqgW5D1esD-SZNqKwtVEtYB7NOJ_erTsxBs1JKRI8l9bC",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "charish 3-line Resto Bar",
+              "uri": "//maps.google.com/maps/contrib/103470043672560678158",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUBnalAZ313aTvKhmXi1fLu_nEek7x3rlxmEO2ouM_zd4FeZZM=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": false
+      }
+    },
+    {
+      "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A",
+      "id": "ChIJC8p2CNX_uzsR2eljyhbAO5A",
+      "types": [
+        "restaurant",
+        "hotel",
+        "lodging",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "089700 82699",
+      "internationalPhoneNumber": "+91 89700 82699",
+      "formattedAddress": "Kalyan Mantap, Main Rd, Banavasi, Karnataka 581318, India",
+      "addressComponents": [
+        {
+          "longText": "Kalyan Mantap",
+          "shortText": "Kalyan Mantap",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Main Road",
+          "shortText": "Main Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Banavasi",
+          "shortText": "Banavasi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581318",
+          "shortText": "581318",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J6QG2R6+8J",
+        "compoundCode": "G2R6+8J Banavasi, Karnataka, India"
+      },
+      "location": {
+        "latitude": 14.540868199999998,
+        "longitude": 75.0115008
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.539523369708496,
+          "longitude": 75.010102919708487
+        },
+        "high": {
+          "latitude": 14.5422213302915,
+          "longitude": 75.012800880291508
+        }
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=10393111769204910553",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:30 – 9:30 PM",
+          "Tuesday: 12:30 – 9:30 PM",
+          "Wednesday: 12:30 – 9:30 PM",
+          "Thursday: 12:30 – 9:30 PM",
+          "Friday: 12:30 – 9:30 PM",
+          "Saturday: 12:30 – 9:30 PM",
+          "Sunday: 12:30 – 9:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Kalyan Mantap, \u003cspan class=\"street-address\"\u003eMain Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBanavasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581318\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 15,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Shree Channabasaveshwar Khanavali (Roti/Chapati Meals available)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "curbsidePickup": true,
+      "reservable": false,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:30 – 9:30 PM",
+          "Tuesday: 12:30 – 9:30 PM",
+          "Wednesday: 12:30 – 9:30 PM",
+          "Thursday: 12:30 – 9:30 PM",
+          "Friday: 12:30 – 9:30 PM",
+          "Saturday: 12:30 – 9:30 PM",
+          "Sunday: 12:30 – 9:30 PM"
+        ]
+      },
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "Kalyan Mantap, Main Rd, Banavasi",
+      "reviews": [
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxMnZtQUZnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Food was good, felt a bit costly compared to Bangalore. Service was good. Got food on Sunday night too.\nPure North Karnataka food.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Food was good, felt a bit costly compared to Bangalore. Service was good. Got food on Sunday night too.\nPure North Karnataka food.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "vardhaman narasagoudar",
+            "uri": "https://www.google.com/maps/contrib/100502391383598564892/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlbWzzP9Rxio915slRxdZf_Ri8s9wuxDSXxkgf1I-3pLYxW__k=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-28T05:00:30Z"
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3NFoyVHZRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice North Karnataka Food Available, Chats also good in evening.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice North Karnataka Food Available, Chats also good in evening.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Girish Hegde",
+            "uri": "https://www.google.com/maps/contrib/111756730190824688475/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdp_VLy-vr5BjJzU_vEVkRqNYRGF-75h91NvOiCkMC2iXW5VdA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2018-01-11T14:20:38Z"
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3anBuenBRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Excellent food, clean and simple for the kind of  place it is",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent food, clean and simple for the kind of  place it is",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "subodh kadidal",
+            "uri": "https://www.google.com/maps/contrib/105930182793405819862/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIneAQqiBuwvdKKHFr8O_gzK6wwnPXt1KAzStB0QJydd88PgQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-01-26T08:32:33Z"
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnb2ItaTd3RRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Lunch and Dinner available",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lunch and Dinner available",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajshekar Kabbur",
+            "uri": "https://www.google.com/maps/contrib/102275416223572052058/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8GuVdMIfNST7sfEv07J-za4mY3sLHV2K5g6g1pvxaJMCfeZWi=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2017-11-25T15:50:59Z"
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/reviews/ChZDSUhNMG9nS0VJQ0FnSUNveHV2OE5nEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Nearby hotel to me ....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nearby hotel to me ....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nikhil Bongale",
+            "uri": "https://www.google.com/maps/contrib/109389387728244172243/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWT9HKxSb0GUA3JIAJ2LvzgbwSUmJkBeq-i-H-obfu0XwpVmn6Chg=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-02-13T07:59:08Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJY2k5obQEF7lawoBfUY76lt0qMqEZOLpCJrnIN76Ot9u3sPZhuTMmEerkt_8MdMQ1hYSQCUe0-b6OXx9Ab1T2C_m2hD6ngvcONWGRQIiYFT47Zve6HqaXuA9PhWJqPrczdaSrU6rycSDMp-RTS0lMS-gB5t4rhyLJaW",
+          "widthPx": 4624,
+          "heightPx": 2604,
+          "authorAttributions": [
+            {
+              "displayName": "Rajshekar Kabbur",
+              "uri": "//maps.google.com/maps/contrib/102275416223572052058",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8GuVdMIfNST7sfEv07J-za4mY3sLHV2K5g6g1pvxaJMCfeZWi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJb_jjZZeP98e6U_jSBj4Q7AfiRT9qu4wBtPE1o2JTk_0j2vX0bGuYGoWzdoThA_C3Om6Qf0pyRtEis5kdfAtG0kMFICKQvJkZwSI3hT0ZLjbmCv-14Bkw0X-Njz5-3tanXA93p2X-XjDyzuNVd5vQ52aVMIpDrvw0-g",
+          "widthPx": 1504,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Rajshekar Kabbur",
+              "uri": "//maps.google.com/maps/contrib/102275416223572052058",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8GuVdMIfNST7sfEv07J-za4mY3sLHV2K5g6g1pvxaJMCfeZWi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJaemwdzI3aaj44Lmw26SuFI8kMlXsimJWYq1lB9vNUcFzUQE4bpKoLblaItHU0Xwkgs-qL-TJvA3eB-jStTYGF73RUxjUf2BMBouCEXLWmHt0SJHAW2VR9Mo1EsZb-jQSoAK3t4MPgLjqnV1ABPS3bb88U_7yLn827r",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Nasreen kattimani Nasreen",
+              "uri": "//maps.google.com/maps/contrib/106336194775346228861",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVxQmO3fL0xNbrHKeyN5RrKZa2JBoLojYQWEqvdlEhqZ-DXUbQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJYCk2a4Ir2J-4hP0O7n--6qDL9EsLxOYa9ilSPnMi_DpfiujXtZSjsu8JquDidg1DHsjemw2xPBcKLAXrfndU8COPV_JIa7esv4WilLgnHngqGe_qV7VDAcmrUaceTHK0yHgGqliqvA1dban6KZR1uHPO98rveRCAOk",
+          "widthPx": 3264,
+          "heightPx": 1504,
+          "authorAttributions": [
+            {
+              "displayName": "Rajshekar Kabbur",
+              "uri": "//maps.google.com/maps/contrib/102275416223572052058",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8GuVdMIfNST7sfEv07J-za4mY3sLHV2K5g6g1pvxaJMCfeZWi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJaVOERXkwcwN2cnSFWdZe9Pq99TzznOUCc93v7Z3ghoXNK7sfs0FuYZ4XLal2XI9axVlMh9FAgUG-UxyWpfiMnjogdryYHYPqNwmG0c_twYBQCWxUq8tJfmBMjx5bdwndlYWC0N03Usio4OtpGElDdoWfkS4KQeOLgl",
+          "widthPx": 4624,
+          "heightPx": 2604,
+          "authorAttributions": [
+            {
+              "displayName": "Rajshekar Kabbur",
+              "uri": "//maps.google.com/maps/contrib/102275416223572052058",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8GuVdMIfNST7sfEv07J-za4mY3sLHV2K5g6g1pvxaJMCfeZWi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJZz_5MaMC-D_USTORMWKdDSJ-uSj-V7z3uU_1DNm_Dl_f3Ls5iSnGPpZ5de7rtMqKenMJX1_IRNIztUiJw90MmWcRKx3yJhA1S1m3jSa08ah5lfIxQfvkJWZXfmExZZE6sia3CTSU698MBPTdSEKHEV5TmyADBwSY1n",
+          "widthPx": 4624,
+          "heightPx": 2604,
+          "authorAttributions": [
+            {
+              "displayName": "Rajshekar Kabbur",
+              "uri": "//maps.google.com/maps/contrib/102275416223572052058",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8GuVdMIfNST7sfEv07J-za4mY3sLHV2K5g6g1pvxaJMCfeZWi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJbeb4FdA4O85d_o3iWztMpsJn2J_jE-G-xnBx8Wud5ZuhmtGzrVhrAAePphzsr_D0QNrt3f9ErQoMaIPXGaHOGORqYNl0h2nGgwWQaFU1ynorrlRrGoZqbDw72Vmke20Ofja_zG-c1Upm8oyRzWim0y6h91cNgtjFP5",
+          "widthPx": 1600,
+          "heightPx": 1000,
+          "authorAttributions": [
+            {
+              "displayName": "Shree Channabasaveshwar Khanavali (Breakfast and Meals available)",
+              "uri": "//maps.google.com/maps/contrib/113239112544054959639",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJnWnrUD3jheRO9l5FG-rukF3jm60Z1QO0_pa-psw2HEv9VWw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJZ_Rwx0mdxbBZvjUFIBdkyuHnrOWR4smo7Oa1tisFlYnELAGKbPBYri1OQfp7IQN9B4HrEKVnkqTVEbLTNo21Hx-1ig5UbK5S-dBKKA98muiZDUp9KCE9KOikBCXjaGobJp8bh74mBpJyjtC9q91FS7EcTZGeI8FOQk",
+          "widthPx": 1600,
+          "heightPx": 1000,
+          "authorAttributions": [
+            {
+              "displayName": "Shree Channabasaveshwar Khanavali (Breakfast and Meals available)",
+              "uri": "//maps.google.com/maps/contrib/113239112544054959639",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJnWnrUD3jheRO9l5FG-rukF3jm60Z1QO0_pa-psw2HEv9VWw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJC8p2CNX_uzsR2eljyhbAO5A/photos/ATplDJYvm__fCWYh98lW-La2rrImJUt8BXVUA0yNud0uQH41AX_Z3gtNBGhp1yO9vsJeqQazWUXYuFu7vcPjZf_GkfUH1NHI12DmbhRIy9RVYXU1f7BTYmcV8s81RNtYK0iSTb7BPoVmz_bn4UGVEnQKsWqqUu8iW_wwL-xI",
+          "widthPx": 1600,
+          "heightPx": 1000,
+          "authorAttributions": [
+            {
+              "displayName": "Shree Channabasaveshwar Khanavali (Breakfast and Meals available)",
+              "uri": "//maps.google.com/maps/contrib/113239112544054959639",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJnWnrUD3jheRO9l5FG-rukF3jm60Z1QO0_pa-psw2HEv9VWw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "outdoorSeating": false,
+      "liveMusic": true,
+      "menuForChildren": false,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "paymentOptions": {
+        "acceptsCashOnly": true
+      }
+    },
+    {
+      "name": "places/ChIJccUuBH5VuTsRmxy7NogEz1w",
+      "id": "ChIJccUuBH5VuTsRmxy7NogEz1w",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Banavasi, Karnataka 581318, India",
+      "addressComponents": [
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Banavasi",
+          "shortText": "Banavasi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581318",
+          "shortText": "581318",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J6QG2V5+8H",
+        "compoundCode": "G2V5+8H Banavasi, Karnataka, India"
+      },
+      "location": {
+        "latitude": 14.543303799999999,
+        "longitude": 75.00893099999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.541927469708503,
+          "longitude": 75.0075694197085
+        },
+        "high": {
+          "latitude": 14.544625430291505,
+          "longitude": 75.010267380291509
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6687568954748771483",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eBanavasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581318\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "NEW SANGEETA HOTEL",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Banavasi"
+    },
+    {
+      "name": "places/ChIJqVkXs17_uzsRJRZHWqpv2ys",
+      "id": "ChIJqVkXs17_uzsRJRZHWqpv2ys",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "G2R6+W75, Banavasi, Karnataka 581318, India",
+      "addressComponents": [
+        {
+          "longText": "G2R6+W75",
+          "shortText": "G2R6+W75",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Banavasi",
+          "shortText": "Banavasi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581318",
+          "shortText": "581318",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 14.542252000000001,
+        "longitude": 75.0107722
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.540988119708498,
+          "longitude": 75.0094655197085
+        },
+        "high": {
+          "latitude": 14.543686080291502,
+          "longitude": 75.0121634802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3160242340980266533",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "G2R6+W75, \u003cspan class=\"locality\"\u003eBanavasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581318\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Bismillah EGG RICE",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "G2R6+W75, Banavasi",
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJpTUeIH5VuTsR33vypfc2gVw",
+      "id": "ChIJpTUeIH5VuTsR33vypfc2gVw",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Banavasi, Karnataka 581318, India",
+      "addressComponents": [
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Banavasi",
+          "shortText": "Banavasi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581318",
+          "shortText": "581318",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J6QG2V6+52",
+        "compoundCode": "G2V6+52 Banavasi, Karnataka, India"
+      },
+      "location": {
+        "latitude": 14.5429487,
+        "longitude": 75.0100058
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.541554369708498,
+          "longitude": 75.008632219708488
+        },
+        "high": {
+          "latitude": 14.544252330291503,
+          "longitude": 75.011330180291509
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6665669360753998815",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"locality\"\u003eBanavasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581318\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "YASHWANTH BIRIYANI HOTEL",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Banavasi",
+      "goodForChildren": true
+    }
+  ]
+}
+

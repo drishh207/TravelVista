@@ -1,0 +1,3892 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4",
+      "id": "ChIJ6_Z9BeIIrTsR5l31Uy1KZE4",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "04174 243 989",
+      "internationalPhoneNumber": "+91 4174 243 989",
+      "formattedAddress": "QPR9+HFJ, A Kaspa Road, Rahman Nagar, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "QPR9+HFJ",
+          "shortText": "QPR9+HFJ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "A Kaspa Road",
+          "shortText": "A Kaspa Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rahman Nagar",
+          "shortText": "Rahman Nagar",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 12.791469000000001,
+        "longitude": 78.718643399999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.790113119708497,
+          "longitude": 78.717208919708483
+        },
+        "high": {
+          "latitude": 12.792811080291502,
+          "longitude": 78.719906880291489
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=5648721391172017638",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Tuesday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Wednesday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Thursday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Friday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Saturday: 6:30 AM – 1:00 PM, 4:30 – 8:00 PM",
+          "Sunday: 6:30 – 11:00 AM, 4:30 – 8:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "QPR9+HFJ, \u003cspan class=\"street-address\"\u003eA Kaspa Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRahman Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 529,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Periya Anjaneyar Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Tuesday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Wednesday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Thursday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Friday: 6:30 – 11:00 AM, 4:30 – 8:00 PM",
+          "Saturday: 6:30 AM – 1:00 PM, 4:30 – 8:00 PM",
+          "Sunday: 6:30 – 11:00 AM, 4:30 – 8:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "QPR9+HFJ, A Kaspa Road, Rahman Nagar, Ambur",
+      "reviews": [
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxZ3U3eDhnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "If we are born with a boon then we will definitely visit this Temple for seeking Lord Hanuman blessing and especially during the difficult phase of life when Saturn's influence becomes predominant & during that period if we come here to light the akal lamp 🪔 the sufferings of that devotee gets drastically reduced and all their challenges & obstacles comes down especially for those who undergo the Shaniswar Bhagavan Dasha.\n\n🙏 Jai Sri Ram 🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If we are born with a boon then we will definitely visit this Temple for seeking Lord Hanuman blessing and especially during the difficult phase of life when Saturn's influence becomes predominant & during that period if we come here to light the akal lamp 🪔 the sufferings of that devotee gets drastically reduced and all their challenges & obstacles comes down especially for those who undergo the Shaniswar Bhagavan Dasha.\n\n🙏 Jai Sri Ram 🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sankaranarayanan M",
+            "uri": "https://www.google.com/maps/contrib/109582279296956051459/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbv3fj1nWJlMoThmx7ZZmok1cTkVls1vExzj7Xnc0sYNOpfvnD=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-06T03:10:26Z"
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/reviews/ChZDSUhNMG9nS0VJQ0FnSURWeHNhMmZ3EAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai Sri Ram Jai Hanuman ki Jai 🌹🌹🌹🙏🙏🙏 No words to say... I believed in Sri Periya Anjaeyar 🌹🌹🌹🙏🙏🙏 This is second temple I have seen in India one in Gujarat,  Surat Dist and In Tamilnadu Tirupattur Dist Ambur in same style Anjaneya Swamy",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jai Sri Ram Jai Hanuman ki Jai 🌹🌹🌹🙏🙏🙏 No words to say... I believed in Sri Periya Anjaeyar 🌹🌹🌹🙏🙏🙏 This is second temple I have seen in India one in Gujarat,  Surat Dist and In Tamilnadu Tirupattur Dist Ambur in same style Anjaneya Swamy",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "J Dina karan Karan",
+            "uri": "https://www.google.com/maps/contrib/114787239342226008926/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrE5qOnNIGSXDdbtU_vCQkpTRQt9fLXBfYwDudyMT6-R3SCNbV=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-12T16:21:39Z"
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5aDdYZmNBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "The temple is situated amidst the bustle of a small industrial town. The 11-foot idol of Hanuman carved out of hard black stone here is in the posture of crushing Sani Bhagwan under his foot. Since this is a Ugra stance, nearby is another idol of Hanuman so that people can worship him. There are two vigrahas or Statues of the Lord and the Main Anjaneya is on left side inside the Garbhagriha and cannot be viewed or seen directly from the Main entrance and another Anjaneya statue is in the main entrance and this is a Rare type and said that all Shani Dosha parihara will be solved by Visiting this temple. Interestingly, the main deity Hanuman is placed in one corner of the sanctum sanctorum facing south. This is considered a rarity in India. It is believed that, because devotees lit oil lamps at this temple, it got rid of the harmful effects of Saneeswara, in one stroke. The temple has been drawing thousands of devotees steadily. The Temple has a huge Deepasthamba found in front of the temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The temple is situated amidst the bustle of a small industrial town. The 11-foot idol of Hanuman carved out of hard black stone here is in the posture of crushing Sani Bhagwan under his foot. Since this is a Ugra stance, nearby is another idol of Hanuman so that people can worship him. There are two vigrahas or Statues of the Lord and the Main Anjaneya is on left side inside the Garbhagriha and cannot be viewed or seen directly from the Main entrance and another Anjaneya statue is in the main entrance and this is a Rare type and said that all Shani Dosha parihara will be solved by Visiting this temple. Interestingly, the main deity Hanuman is placed in one corner of the sanctum sanctorum facing south. This is considered a rarity in India. It is believed that, because devotees lit oil lamps at this temple, it got rid of the harmful effects of Saneeswara, in one stroke. The temple has been drawing thousands of devotees steadily. The Temple has a huge Deepasthamba found in front of the temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Surya Pawan",
+            "uri": "https://www.google.com/maps/contrib/114735633381374331312/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaz3tgmXOndlhJSoeOpWqALYBPgkxNN5ZrQVcKsSm97BLd3jpV=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-03-10T13:39:25Z"
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxMEtxX2NnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "✓Nice place\n✓Peacefully mind to be arranged\n✓Good structure\n✓Following covid 19 rules\n✓Great infrastructure to remove stress full mind\n✓Separate yoga place\n✓Government provid food for 50 person (below poverty line people use)\n✓Restroom is available for temple vistor (OUR TEMPLE OUR CLEANING MUST)",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "✓Nice place\n✓Peacefully mind to be arranged\n✓Good structure\n✓Following covid 19 rules\n✓Great infrastructure to remove stress full mind\n✓Separate yoga place\n✓Government provid food for 50 person (below poverty line people use)\n✓Restroom is available for temple vistor (OUR TEMPLE OUR CLEANING MUST)",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "YuvAraj",
+            "uri": "https://www.google.com/maps/contrib/105184790181477237636/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7dBgmedO_PX3WZG1SeXSB6emMMgaKOP_bUCkp-VbswQWsSZQqvw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-07-01T02:37:27Z"
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxaHBtbHd3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "It is located in the center of a residential area and the neighborhood is nice and good.\n\nThe visitors can buy flowers and Tulasi Maalai at the temple entrance and interestingly there’s a water pipe in front of the entrance so that the devotees could wash their feet and enter the premises.\n\nThis temple has a divine charm there yet the manner how it is been governed and maintained may need some better supervision and coordination so that it could be better for aged people.\n\nJai jai Bajrangbali..\n\nJai Hanuman 🙏🙏🙏🙏🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is located in the center of a residential area and the neighborhood is nice and good.\n\nThe visitors can buy flowers and Tulasi Maalai at the temple entrance and interestingly there’s a water pipe in front of the entrance so that the devotees could wash their feet and enter the premises.\n\nThis temple has a divine charm there yet the manner how it is been governed and maintained may need some better supervision and coordination so that it could be better for aged people.\n\nJai jai Bajrangbali..\n\nJai Hanuman 🙏🙏🙏🙏🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Elavijay Mcse",
+            "uri": "https://www.google.com/maps/contrib/102740558565545820574/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlpxUvqTKBbA7JDTuFSJuwqJQcGQ_gZQltJX4vzvB_6ASVVQSJ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-28T15:24:21Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJbXInbfNMBmKYtLR2SQzBSScUMMqkFHadkJv-QTMgqpVKI9UO5Ws7viZvl3Nxf036gwcjvxT_KaZbv5hnQm4l3_nvGP2yYEupxRbtFSv2KA5aXHfEpM_By8djDR0lEfcq2MKgpbWRt3f3ZGWn6pHw3cuSZgyUhqGpYO",
+          "widthPx": 2572,
+          "heightPx": 3902,
+          "authorAttributions": [
+            {
+              "displayName": "YuvAraj",
+              "uri": "//maps.google.com/maps/contrib/105184790181477237636",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7dBgmedO_PX3WZG1SeXSB6emMMgaKOP_bUCkp-VbswQWsSZQqvw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJbXUa9hyX7OVzjqHD-GutqjA_H4XK0SNfFwrIuVKuDGwpEg4Zw6zs1GsNe9BRCULTxLoFcM_FkpIZIgVOJnXsoDQ6mRJGB4EfRc7hIbJYLvZ8nRLJobe_blUGPodI1YDlbbP9xfc9cPx-jz38cP4Oqd4Q6NRQ1FDM0q",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Dr.Roshni D",
+              "uri": "//maps.google.com/maps/contrib/115942297850645515595",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWY6r_rjBE_X5NksVFw08hsA5AZHhAWCbfY6svFWV-5oOK2gJKrmg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJZp7hOjVYxpR6f1J763ezd9n58pcygCozWUVQASXR_6GcYT4syTfko_XwCC1XTiwakeTLv-XclT3uRBnKXryBzjLDZ2wP-BsJAfCubnJe7Mt2NUmHzy9iFO_KRLnr_QB8c9dDHyk1FewGFmr4wp04armFPf0CwJLAv2",
+          "widthPx": 2130,
+          "heightPx": 3246,
+          "authorAttributions": [
+            {
+              "displayName": "Ramesh Appunu",
+              "uri": "//maps.google.com/maps/contrib/113922017344592775334",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXh2PuSoknswKL9MbNIre5pBkwQTSMJn8h2b7kyc2mAP0zCRcI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJZNwSVP3hW00CS_A_oWEJyCBe2EF9J9Yx9_RLgQ-H8Ftxvpf_KChTP7lmuQ8FP_hUc4RE6iVJ2b_eAU780POE-i40gR94dklo5YKS7AU30039qfatZaP020WSjnY26a9WwjUUHi0_4xjZNvFRZZkyhBaDJoGWUbfSn-",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Vinoth Kathiravan",
+              "uri": "//maps.google.com/maps/contrib/112788159080579666579",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLsLfB1cwFA4jZeiIk8ulPTtQHHNFkXxJ9orE0QGqu5gxMoPBHw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJa0g-SxGIuzXR-uXZGaIz0iMrpAqBrirs2hmLuepjPgb2U_1yt2N-A_tf255V9o3xz7u7GwnuQcdQf-VhXuZNDpQiU-Vh-eEdJYBP-VczO7bpUkvNCVfJu4PFRG7db3-ZLVjguEUm8ogWm-AbxOj_DlCLWJXP0eNql9",
+          "widthPx": 6936,
+          "heightPx": 9248,
+          "authorAttributions": [
+            {
+              "displayName": "NAVEEN NIVA",
+              "uri": "//maps.google.com/maps/contrib/116584180248765557208",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVtvHhhG7dgvIF_s0Y6FU8TykCQdYOHS5SejJw18MrpVwPTyWMQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJbvH8vmfwCUeSLnA5qs7Hx9kVofI_47-8T5hEWVN7LXS9m-3pIHlGnFFfw3EFI6K6lejSA6Qc6fyOXcc-NGxV9rogBhLAH7zvJZAUOO6ZGGtu_CAGqCzG8sZl6s3vA1FKMOvbWGdpOjvgfQja7NREsb1wGjxG0tb4UJ",
+          "widthPx": 2592,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "sakthivel gajendiran",
+              "uri": "//maps.google.com/maps/contrib/100756060350903071103",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW380qePsM-0cQG8tWSldbPYG4WIvYasCPwBzq4P_YBpfaInUWX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJalqulbFf0fl4VtsgqVwD_Jf-O3RX9RPWFRMpDG_WPLrFBbJ67lopWaeSkQKzxtm-pNs1aZIWzGL1-vmzjoCiTTgGAkTZXJqCnTg4R42slzpaWIBAMy3LmIMRdCzP2rWC7QhyNzue7DZjB4cLwhAMMqZnD_a8tCArLt",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Muniraj Subramani",
+              "uri": "//maps.google.com/maps/contrib/100235638421662751608",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLwodfPMutImUbHJqfqKCm4MNV7pO5Sx5EeU3VR7Vb2xfFTDw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJZiUqoz-nTii3YMNvZg8onr8ebHH25HwT4TvfjwaMZp3mMqtQtyG6ZNf1NpdaQjTiUPHHmHtQQPWuv6eyqWWLeL-l7m3I3N1vzNpu86plMoPoK11Et_nPBI55k0CCfZ6b3qKVwZX1k3nUi8Cr4RjRY-pXhHH9XEv83D",
+          "widthPx": 6944,
+          "heightPx": 9280,
+          "authorAttributions": [
+            {
+              "displayName": "Ponnarasan Bhaskar Nadar",
+              "uri": "//maps.google.com/maps/contrib/108266557046919152650",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXMzXhfQDxv0Hr8RDxdsX6B0gOMqQftsAxFmIC9jtmEjNlF8oA0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJYUisL6RRh4bfeIaf67p9yUpk6uNCYRy6w1Tki5EaeIIo1VVAvw1tGd7rmtrhhrPaEJ6cdZBv5YF0QDNWbh5RWCfrDG1GJe0EMs98lM8q6T4odMzDwb077i8KxUrFCabuL87siAsho1kYwWC3eXu9svvOLtdZ3Px7T_",
+          "widthPx": 4000,
+          "heightPx": 2992,
+          "authorAttributions": [
+            {
+              "displayName": "ARUL KUMAR",
+              "uri": "//maps.google.com/maps/contrib/112649384900832837598",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUzSdYNiavqrOESUW2R5ASn3f0S22IE6GgffQDYn51REwu3DCCW=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6_Z9BeIIrTsR5l31Uy1KZE4/photos/ATplDJYZu7KVmzrpvB3KuyX_GY1ZegmhktUAa4nmWNlBY-ebfKCCFg9zRTisPUGthsGdw_fB64j0vb9trqoA_eSnFZCh-uqb4ufZcffuctSs19LEIZMIlX7HhawRLlImybSzuuVANwsMSKC0YqPv0c3Bea-6dqeq5KoOi6I7",
+          "widthPx": 1920,
+          "heightPx": 2560,
+          "authorAttributions": [
+            {
+              "displayName": "Bala Krishna",
+              "uri": "//maps.google.com/maps/contrib/106620601765133788713",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKGrsEY02FK6Yc5FI_NLlb7zA2Ef12I4eluCy2SPwo4o6fhLw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk",
+      "id": "ChIJt2Jwxx0JrTsResurJcuEwuk",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Masjid-e, Hashim Road, Vaatimanai, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "Masjid-e",
+          "shortText": "Masjid-e",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hashim Road",
+          "shortText": "Hashim Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vaatimanai",
+          "shortText": "Vaatimanai",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J4WQPV8+8Q",
+        "compoundCode": "QPV8+8Q Ambur, Tamil Nadu, India"
+      },
+      "location": {
+        "latitude": 12.7933314,
+        "longitude": 78.7169672
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.791914819708497,
+          "longitude": 78.715605719708492
+        },
+        "high": {
+          "latitude": 12.794612780291502,
+          "longitude": 78.7183036802915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=16844171564364319610",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Masjid-e, \u003cspan class=\"street-address\"\u003eHashim Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eVaatimanai\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 230,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "MASJID-E-HASHIM مسجد ہاشم",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "Masjid-e, Hashim Road, Vaatimanai, Ambur",
+      "reviews": [
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/reviews/ChZDSUhNMG9nS0VJQ0FnSURrX2Jta0pBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "masjid  E hashim is located in main area of vathimanae in ambur   its a every nice masjid to recite namaz  its look very beautifull from  inside\nmost probly its has huge place in the back side   its almost look like mosque  in international country",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "masjid  E hashim is located in main area of vathimanae in ambur   its a every nice masjid to recite namaz  its look very beautifull from  inside\nmost probly its has huge place in the back side   its almost look like mosque  in international country",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MOHAMMED SALIK P",
+            "uri": "https://www.google.com/maps/contrib/117325886534799895935/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWp8TQqthphabbJq2I0c2WcjdLBBZ2L7ncXzronvtMQKBCS04BiFA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-07-05T16:25:26Z"
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxcXFhbjRnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "All masjids in this world are Best.....No comparisons ...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "All masjids in this world are Best.....No comparisons ...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammed Zaid",
+            "uri": "https://www.google.com/maps/contrib/115664616991524579664/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXce_Cc7T5YELMI5weq64hV-gMR03emp-IgFP_lwTgrC-AtbXpm=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-27T15:29:34Z"
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/reviews/ChZDSUhNMG9nS0VJQ0FnSURSME5IVFdREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Extra ordinary look of masjid\nKind people, But street lanes are bit narrow what they are suppose to be. Big SUV 's cannot enter into these streets. Only small size cars can manage such as Martui 800, Alto, i10, 120,Scross etc.....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Extra ordinary look of masjid\nKind people, But street lanes are bit narrow what they are suppose to be. Big SUV 's cannot enter into these streets. Only small size cars can manage such as Martui 800, Alto, i10, 120,Scross etc.....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "mohammed tasleem",
+            "uri": "https://www.google.com/maps/contrib/108379510086479296389/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwDySnKeBWWuRtX45XW2_Sfk_dqyQLMX29fN58yF9iU6xPnUTX=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-04-15T19:16:35Z"
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjcGFpbjVBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place.. I was taken pic from my home",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place.. I was taken pic from my home",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AFSAR AHMED",
+            "uri": "https://www.google.com/maps/contrib/102213565634069775065/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJnTJ91a3rBKtKpppaMIQah_v53BFegYEXcGxsei7cDaremiy-=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-03-17T09:15:22Z"
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0Z1lEUFhnEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful mosque",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful mosque",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aadil Aadil",
+            "uri": "https://www.google.com/maps/contrib/113167194681272928470/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4PMMKQYFbP8jOSbhoqkhXzw-mLU5bWE1rewC8S0SZ6HKfNSnS=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-30T14:03:47Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJYWjO-Ya2wM0HF051PW5u3zE-xjjkKbL3Gc2IHH39VgpSeiKjp5IjkylCMlYpDnKesd2--erFQzLtqElUecHLlHj8-b4m6rluQwghPrNyzBeh4Ie6deTy36_HmPBszqxNEvcuAe1Lf-sC8DseqHcHom4ci1sYjS-_NH",
+          "widthPx": 961,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Yamin Ugharatdar",
+              "uri": "//maps.google.com/maps/contrib/114480264141087039565",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9iSXcQsBF85VyZU1hw-qOBlovENCKuRfN1i3TZErD2aQ8aZZE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJYW4UmUTOCCHXLRjRinPuqPw-zs8-sfmCAT808xTRmDpGfuqBQe5H99aS5tKhf6aFS_99uf9ioijjEFNQJQed6hPGvhwfo6cYBGkhyz3-QyZyowTMYVAw1XxBr5jScVfNr7x--vKVg9xd6NdYJYy-0joo8Ro58xXeeX",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "MOHAMMED ALHAN",
+              "uri": "//maps.google.com/maps/contrib/112055705201018031768",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL6lW1zPL9wwvO2VbGlaDHp3RpMJeEFZSN6mkepbeevnAuZTg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJZgf-3eNDxUaF3tHeQ2sBIsxKvIyDbsSVdmd9bQNCJKTHpBZ1x1UA6_HeEKQfVI2Jw_NQFfRoeDGNmBKIUcJXTQVjgtLe2wUB3GHma7BFDoWcDnJa2r2ZJZbqTG9TP6j0Va-jU4kYw8_qrVD5PeD-2XskTC0Zu7m7v9",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Md Muzammil",
+              "uri": "//maps.google.com/maps/contrib/105926843050421023123",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3FwLFjON2y66h-Hpo5aTxSyc4lnDZd8nq0bNqugCtvybcR4V2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJYKAvDnXLAYtBAIPmwQmUmuiB5xivgw96CONEVgHJaqaFZJxCmbLtGRSY6uj9bccP2RLPZy7zLsGcovqYmu4dmsZNvQDk6zD72h_EO2Iq5r1P2Raf48eULTRXZVwPio7X4uCNqpqpSATP8AbACtb506YFxrUTaSXOqv",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "G Mohamed Ibrahim",
+              "uri": "//maps.google.com/maps/contrib/112369640099141257212",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVGGu0W5VVVyTwcsofQqVeN_o37ZifB8Mi6fsvXYBBVey7JQu8t=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJYKyWan0BWQ4lxUsqwAdazNQwo1bHyQFYyeU1Jy7mMrdRL8mZmjNeGMhtl8NvUZdRpBPsJWwkMPQeHYAOD-A9tBaPiQnjTWQ2ZzHUXShOFzZ0zi3w-A0GTAagLyPCSSmZ7rFwm8uvzjE7ZgbYVNVN2DcXNAkU3VwZIh",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "G Mohamed Ibrahim",
+              "uri": "//maps.google.com/maps/contrib/112369640099141257212",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVGGu0W5VVVyTwcsofQqVeN_o37ZifB8Mi6fsvXYBBVey7JQu8t=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJbMBLkbEIMNvWQtBeVAL1YYAzygGp4CBciu4BVS1KeaCPBMhl5BniX1fpcwSkobcB02UNuA9YM_d3M-lNwKQdn_foTOSeCCXPKXucuXxDn6eO68m16FbgkF65NX_uxwnDbPc_0872D7kNqJZOJNFtlrfp8j7EZmIiOK",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "MOHAMMED ALHAN",
+              "uri": "//maps.google.com/maps/contrib/112055705201018031768",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL6lW1zPL9wwvO2VbGlaDHp3RpMJeEFZSN6mkepbeevnAuZTg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJY17Tyyrb0z7rrq_A5WKsIoaoW_omTKtFjJGra7kJ4H0gJjqRBancGS2_5B9DzhIJGZNkMwqNIJUY5KReYczRPfNzJmWePIrg8u_Ec1LWAEFiHTJTCZ_TeYiNObjtkLaP9MttTEngQ5GaFax53OPUNKotJx6DkqqV1E",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Zaid",
+              "uri": "//maps.google.com/maps/contrib/115664616991524579664",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXce_Cc7T5YELMI5weq64hV-gMR03emp-IgFP_lwTgrC-AtbXpm=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJZMW0mwjE7AS5TJ5jkKNufX0O-zRtW9eCR4I_mY2N-Lz2yZMssrt_4O6jA-UjtRJP94z7PVdcWg1p5zXFKJlxgY78zcRf9nwAXkbC6dcEBoMZlQ8DUi-97gq9L1A1gyCWc_skW4n2jEPfr1D4BQD_ZopZI45gotNrD9",
+          "widthPx": 2976,
+          "heightPx": 3968,
+          "authorAttributions": [
+            {
+              "displayName": "Muneer Basha",
+              "uri": "//maps.google.com/maps/contrib/115265733352560640585",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ4guhqkzcZFtbGQyjSpv3ipFHuftb8yMOgdIsyYJFu5q2exhMB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJaLyLf5G3mjBmXY-DYVopfj0pFZWtP7q5qqh5FeqL6KUplIpZ8NOImghMoWhSjwOlxXcSBHHfIDIW3XYVrYYpaXXUHrzvdyluf1ZiORUNn18KqQHQ7SfoI-x9WB-VIVKjOuy-MNDtxU3wHVbx9h91PAGKdcc4PoWlX-",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "MOHAMMED ALHAN",
+              "uri": "//maps.google.com/maps/contrib/112055705201018031768",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL6lW1zPL9wwvO2VbGlaDHp3RpMJeEFZSN6mkepbeevnAuZTg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJt2Jwxx0JrTsResurJcuEwuk/photos/ATplDJZcU1a_EnvvX2kC-ORg9R_fVSe_jaRXg9bCtbmrCVldLlX7eeMrhswEpwLLuwTayH2hgnp4j1ZlUBkVtDydxjseFLCTacI2hck0iujUScBtSAtpvZOLrvMqQ-5lsjJhIgvWJ-l8gCifluH1SUhztFRI5ekB7Uo6UMro",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "AFSAR AHMED",
+              "uri": "//maps.google.com/maps/contrib/102213565634069775065",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJnTJ91a3rBKtKpppaMIQah_v53BFegYEXcGxsei7cDaremiy-=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8",
+      "id": "ChIJQRPGWv0IrTsRzMAhMfITfT8",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "097898 94562",
+      "internationalPhoneNumber": "+91 97898 94562",
+      "formattedAddress": "146, Mottu Kollai W St, Ambur - Vaniyambadi Rd, Jalal Pet, Mootukollai, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "Ambur - Vaniyambadi Road",
+          "shortText": "Ambur - Vaniyambadi Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalal Pet",
+          "shortText": "Jalal Pet",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mootukollai",
+          "shortText": "Mootukollai",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J4WQPR6+HV",
+        "compoundCode": "QPR6+HV Mootukollai, Ambur, Tamil Nadu, India"
+      },
+      "location": {
+        "latitude": 12.7913807,
+        "longitude": 78.7122425
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.7902218197085,
+          "longitude": 78.7109360197085
+        },
+        "high": {
+          "latitude": 12.792919780291504,
+          "longitude": 78.7136339802915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=4574834727405600972",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "146, Mottu Kollai W St, \u003cspan class=\"street-address\"\u003eAmbur - Vaniyambadi Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJalal Pet, Mootukollai\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 337,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Jamia Masjid - Big mosque(بڑی مسجد)VANIYAMBADI",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "146, Mottu Kollai W St, Ambur - Vaniyambadi Rd, Jalal Pet, Mootukollai",
+      "reviews": [
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1c2VHQkJREAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Yes, Jamiah Masjid is a large and beautiful mosque located in Ambur. It is known for its grandeur and spiritual atmosphere.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Yes, Jamiah Masjid is a large and beautiful mosque located in Ambur. It is known for its grandeur and spiritual atmosphere.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammad Thouseef",
+            "uri": "https://www.google.com/maps/contrib/107706229327453355594/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpl74VrXbbldtl_oZtGupf1BgrIYoJD3ZvkEmgV0jwPc4FdoZj=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-10-15T05:13:58Z"
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1d01UOTZnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "An Excellent peaceful Muslims prayer performing traditional old Mosque situated corner of the Ambur, spacious, clean and hygienic worship place. Maintained very excellent attached with a Modern Arabic school situated inside the Mosque.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "An Excellent peaceful Muslims prayer performing traditional old Mosque situated corner of the Ambur, spacious, clean and hygienic worship place. Maintained very excellent attached with a Modern Arabic school situated inside the Mosque.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ROOMY HABEEB",
+            "uri": "https://www.google.com/maps/contrib/108341054229099183226/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRxbUT-Ch2vdYMSCAUSvJjJHHhBKEt6TUfDiyM40oZcJs-VqNH=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-07-18T13:03:17Z"
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2NDl2ZTBRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Though all the masjids offer peace and tranquility, this one is unique. There can not be an Amburian who has not performed his prayer (namaz) here. No worries regarding parking. Burial ground is probably the biggest in Ambur. Living in and  around this area is considered a mark of status.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Though all the masjids offer peace and tranquility, this one is unique. There can not be an Amburian who has not performed his prayer (namaz) here. No worries regarding parking. Burial ground is probably the biggest in Ambur. Living in and  around this area is considered a mark of status.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ansar Basha",
+            "uri": "https://www.google.com/maps/contrib/109975763824954069772/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpR0NyoLVftd9NJ6h57znivtkPLt590NwA0wzAXTXURFl6GPW_=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-10-10T04:05:47Z"
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4c0xQdGZBEAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This masjid is the head quarter of ambur. It's clean and green. I'm really satisfied by visiting this masjid.💜",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This masjid is the head quarter of ambur. It's clean and green. I'm really satisfied by visiting this masjid.💜",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mudassir Khaan",
+            "uri": "https://www.google.com/maps/contrib/100614282441775185286/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvCD0-07xGWPuYXr60iktjX4XI9iNvYKamNcFQggxI7_rse3o=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-05-31T05:48:29Z"
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/reviews/ChZDSUhNMG9nS0VJQ0FnSURScnE2R09REAE",
+          "relativePublishTimeDescription": "12 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It is very big masjid in ambur,,everyone's favourite,well mainted,,and very peaceful,,,",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is very big masjid in ambur,,everyone's favourite,well mainted,,and very peaceful,,,",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "junaid mohamed",
+            "uri": "https://www.google.com/maps/contrib/109838368092883144690/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxyUV5VGrtlVbfpUrIo-OVY3BTROvw68mcnAGKZ13qlgkFug=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-04-25T15:31:54Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJakESgG8ktsnMhoaJ8hvDgR6EPn_1Q2lKN3lxIVjAwNrRLOldVeGhrbNUHCpi2rXy88Jt421r1PIsMboJnZCFMyoAgWA4JAsv3WI2R7osKLWI7cjlKm6J3sISF6R-_cQoIWmZp1qFTz34HTvQQsecue2BEm3_7cK9Ah",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "imran _pbt",
+              "uri": "//maps.google.com/maps/contrib/100009581140060839711",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWN-EyCDWkkbsvK28Oc32QRzkHI3hymDi8Hmv5Nf4BEnqBRtPh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJZ3HqsHMzygLGd0tNN0UGHjttXiHbOqm_hx0veo9EEBQ5pM7szGirSAW4gW_BlEX6CdppjKVfuob5my8ec8TSBsHSKeWqyl6jG-34FSPpdCFSEv7YgE1kbNxSkt7Vj66zDE6rctiBha8VaRSPDbt483a-A5HUd1LQc7",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Niyaz N",
+              "uri": "//maps.google.com/maps/contrib/107412661576922985922",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLoE925b4cHcJuFIY6VhVQ-oAiKzHpt5xeOnKiTMXXZqSRlkg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJahAkaUGic7u1zMrAMSpGRKVTNkSMpdEFsUZ1VVPEgAnyeDIngw1YBbSqt_yh3jJePFKKeJRVmbAXViCZFyCb60KavMsbxbST5loxA7ZCTLnWqK-kNs0AxiejiuUkMqlnVr-P0rGXmWC-FbmWohEsTzliwKUwFnciN3",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "G Mohamed Ibrahim",
+              "uri": "//maps.google.com/maps/contrib/112369640099141257212",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVGGu0W5VVVyTwcsofQqVeN_o37ZifB8Mi6fsvXYBBVey7JQu8t=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJbFCtdisIFSRcmKV7jYHrbkVaO3YCxfUeJgqKUDU4U6urpfwC7uXUHVqqWj5hT2nAqqtShmUDwPk2-kvXy3O31vkxgUzk5lE4GwQLRZRvs738inM2rRfFGM__fz1M07NJS8VOUE18QEjLxJ8bPrYOsPY4P7g9jRmM_L",
+          "widthPx": 3264,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "SYED SHOEB",
+              "uri": "//maps.google.com/maps/contrib/107497140837071680815",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJrwNSMOjGL7cXC3_M21xqhbT02i4PjnBqazyV1Qe1vmv1Nyz4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJZVxWA8KFKLdlBHje0tLb9GBPPYKE5ndwaMvkkE4Zd-L24Q69wC0ugi9EKWuYgPPaC3dKuLKlsc5zQTGhH2KsHhvgcZYNeoVERBkaV6z128QZhON4CtzxffDQDarlgbllHziqjPr1kR2p1cIrEmUAkdTOUWqXC8M1fx",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Musaib Ahmed",
+              "uri": "//maps.google.com/maps/contrib/112511875130416483696",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJFbgJ2BFdYW7ajxPE-5c5_63J6i9zFxk4od_uW2LBncy6feA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJYpPP9A068eWgftt3pFQhkCwnD0iweY-p51SFnhhj6pi557_iBJqagdUyJH-UnYkx1SQ3TUviDfjdkDrn7thmLGZ4kzVYyxPcC20nGflLZrQgA_ULEQHR9ecupOmlyrDJQtEzAVmDz_b0GDV5wP6jlsVJf6NEtNODej",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "MAKTAB E NOOR (SHAHIDUR RAHMAN T)",
+              "uri": "//maps.google.com/maps/contrib/111205505517092357323",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2Wn7TB_Q6Csindvrr_DL3UJpZmC9xaGznGZ0ggvM42voXShSK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJZlzEU4gFk4kmoJjjPhgG3Z98GVmNMJSHkVgYzUWK7_zvEfzYRvpolYWu_jGpfO1esVUJX6wgY3sWmDZUQ2kbhcpjAGU6tVn0lJTzwjDtVH5k74mV9ZVNHw0MyKnP-1aDR1NIJ-H_B6WBxcANJDyO_Qf0PjIv0KkDZT",
+          "widthPx": 4480,
+          "heightPx": 2016,
+          "authorAttributions": [
+            {
+              "displayName": "imran _pbt",
+              "uri": "//maps.google.com/maps/contrib/100009581140060839711",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWN-EyCDWkkbsvK28Oc32QRzkHI3hymDi8Hmv5Nf4BEnqBRtPh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJbF2I_VPeykV731j3TnEox0wrjHe9tKXEI_IoiLeTinzrIm0srg9UVzswDgWrvTPs_vyFcJXb-D1Dm-OdSebLAyt24sJkPC2w0RdakuYlWpjY5v4qBmryAS5yFHFKeA0GR1Xft-lHc7dJbY03IpPaFWISwSxfm08AmI",
+          "widthPx": 2246,
+          "heightPx": 2911,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Hassan",
+              "uri": "//maps.google.com/maps/contrib/111320358776570894690",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4SAMqo00ZYZ-vBrj4FNuxpUzh4OCmgAl_SOzXX7sbOn7KeCNU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJZzoiHROPoXqeMdcc-MWOtmgoKiqlPA7mPaGigpnFUig54doRZ-xj4LylAr1p5b-O_imr9gACvu3jiNg5sfzkNrTgBADKKa8H_Y6Ew8dU5a_lAMdGA4fGK_fOXcqTohILhGcTK836gC7Gemz14q7IJmOfYkSEfcKnIR",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Musaib Ahmed",
+              "uri": "//maps.google.com/maps/contrib/112511875130416483696",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJFbgJ2BFdYW7ajxPE-5c5_63J6i9zFxk4od_uW2LBncy6feA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRPGWv0IrTsRzMAhMfITfT8/photos/ATplDJZ0eI70F8g7O5dds4rY54q7jHPeIwdQ5OnHFD2E87RN3BdU78PP7Z9TNq6wn07pPNx5TNYn1kGDzMOhcJzL-RgH4lrD-fCHSnHCeDHu124mtIuT0Dp-Sm1y7THGwx_qltnhVL3lSi_wnXEcv1l2q5ecacap2O3sD-LA",
+          "widthPx": 720,
+          "heightPx": 486,
+          "authorAttributions": [
+            {
+              "displayName": "Saz A'",
+              "uri": "//maps.google.com/maps/contrib/111317035093099097642",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWY89hYtbPeQfVXK5dVKf-tEDGVreZsX4UQv8aoEZDDJeQTBxA3ZA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc",
+      "id": "ChIJxc0tROEIrTsRcJkiAMSIoBc",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "neeli fild mosque, VA Kareem Rd, Flower bazar, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "neeli fild mosque",
+          "shortText": "neeli fild mosque",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "VA Kareem Road",
+          "shortText": "VA Kareem Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Flower bazar",
+          "shortText": "Flower bazar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J4WQPP9+XX",
+        "compoundCode": "QPP9+XX Ambur, Tamil Nadu, India"
+      },
+      "location": {
+        "latitude": 12.7873985,
+        "longitude": 78.719984099999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.786096069708499,
+          "longitude": 78.718632119708488
+        },
+        "high": {
+          "latitude": 12.788794030291504,
+          "longitude": 78.7213300802915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=1702511034543282544",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "neeli fild mosque, \u003cspan class=\"street-address\"\u003eVA Kareem Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eFlower bazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 176,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Neelifield Masjid (مسجد نیلی کھیت)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "neeli fild mosque, VA Kareem Rd, Flower bazar, Ambur",
+      "reviews": [
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/reviews/ChdDSUhNMG9nS0VJQ0FnSUREcDgyMmtRRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Religious place where we pray 5 times a day and connected to Memories with mixed Emotions",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Religious place where we pray 5 times a day and connected to Memories with mixed Emotions",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jameel Ahmed M",
+            "uri": "https://www.google.com/maps/contrib/108305382331710852912/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPFZ4gZPrFmBGUrTuY-iPaP3XIqixD5lICET3Al4xLbU84JX0=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-15T06:04:51Z"
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/reviews/ChdDSUhNMG9nS0VJQ0FnSURVNjlDLXdRRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Alhamdulillah. Is near my house the sound of Azan is heard well and the place of peace.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Alhamdulillah. Is near my house the sound of Azan is heard well and the place of peace.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Parvez Aalam",
+            "uri": "https://www.google.com/maps/contrib/106747710765958013229/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWs_hLpo0nQIO_iiTu-C6pBIZ1wrwnyO5dexaVARvM_1vo01Jho=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2020-08-19T04:27:29Z"
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/reviews/ChZDSUhNMG9nS0VJQ0FnSURteVo2OWNnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the well known masjids in Ambur. It covers the most populated locality of the city. My younger brother is laid to rest here only. Ample space for the devotees, amenities, a madarasa and the Imam of this masjid etc. make this famous.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the well known masjids in Ambur. It covers the most populated locality of the city. My younger brother is laid to rest here only. Ample space for the devotees, amenities, a madarasa and the Imam of this masjid etc. make this famous.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ansar Basha",
+            "uri": "https://www.google.com/maps/contrib/109975763824954069772/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpR0NyoLVftd9NJ6h57znivtkPLt590NwA0wzAXTXURFl6GPW_=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-02-01T15:36:11Z"
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZNHBXRUtREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent place of peaceful prayer of Muslims with a spacious burial place located in the heart of the city with all infra structural facilities, maintained in an excellent way by the Jamath Head Mr.Nattamkkar Abdul Wahab since 40 years.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent place of peaceful prayer of Muslims with a spacious burial place located in the heart of the city with all infra structural facilities, maintained in an excellent way by the Jamath Head Mr.Nattamkkar Abdul Wahab since 40 years.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ROOMY HABEEB",
+            "uri": "https://www.google.com/maps/contrib/108341054229099183226/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRxbUT-Ch2vdYMSCAUSvJjJHHhBKEt6TUfDiyM40oZcJs-VqNH=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-04-08T17:11:41Z"
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxOWNiT0RREAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "absolutely Best mosque",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "absolutely Best mosque",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Adnan Mandli",
+            "uri": "https://www.google.com/maps/contrib/110312312327091438139/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhiSbeRCCovCW9gukndCiOXr--R13HE18nIHKLiSsv_5GMhCOsxw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-09T03:51:05Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJaEO9HLszvbMTf3GDVyJzEzBHy1b40ZcgqQDOTYxMBktN4sTjV_WhTWoftGVt1YbjjP_Rd_2x9CGUlz-XKrB7TBOXUpHROpuro4u7w46hg1_d8TdClOtipJG3x29ifqKlfHf7BnOVP62xUHeDGRB8WjAPg0bhlCsxfk",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Muhammed Uvaiz",
+              "uri": "//maps.google.com/maps/contrib/114630141182801907182",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWjYfpE3dGlxGsoLKW_KoZj2Z5Y1KhJCb3KGDOL4hfF23FeuNU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJaQfQhfUzjRO27092yuQfanG9A-7ZctY-V-LCwz86NW0X1ikqIwyAU1xDXyURaeYUJq9JIvFPmI6k4IPvRtvc9Bd7_QKpD6-MWOt280HopKUSEioTRVgC6qAfuJcM0j-BUpHVFq8tCn7rN1RaYcdYbAbzhjMJnAK0oK",
+          "widthPx": 640,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Sharique",
+              "uri": "//maps.google.com/maps/contrib/112122643579467819362",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2y-PhRWP9-_IOiI9mCPbPYEJlyO74s0LdQGXlSVx6yJhZZPg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJbRkI9ypfBzUvx5qZwxJA4LhIBEcSdYuPoEgc8Xl4QBirh_ezSA4EOiN-qtGE4bbE2UvronbaIUcPrl4b0Onkdj7y-3sD6zgrf7erdmrCG2ALdq8iKnsmR-iLxIv8faAe7PAcJKLQb1-0QM0iVult9N2Q9vYGFo6Cs",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Uvaiz",
+              "uri": "//maps.google.com/maps/contrib/113507588382804148874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRD46vGiJIu6BurPKPJ44cpQnu-EQ0qF1zDswCqX91lm3QgQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJYfyLCvEEIiQRrpc2widvmMIWXttAwMNXWyU5Tma8ZSbRTOG7izCgr4GIjSsaP-HBnGKjjp0Yw4QvdpsMT6Fw6Z-t0QcMyDAjTkoT4jRfSEbJsXPWdKIhj4PF2Bl4pR7EBSKGbmqNpKwwURICClO-PMvA1Otic2bQvG",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Muhammed Uvaiz",
+              "uri": "//maps.google.com/maps/contrib/114630141182801907182",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWjYfpE3dGlxGsoLKW_KoZj2Z5Y1KhJCb3KGDOL4hfF23FeuNU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJbtlM6AU-CnVoBa5eqTimGuqJ_OiUoV8uGaNKVBKg438ynbqb0BCtzzKQCGCYhIJtuiAyWhKX8RZkkDu1duxxvGJsyYyaBZ3YtDfCO0h9lBhUc5w4IhxVnvmSY9kZkDt7Qiyt_2_vQX811zMuATDh90nGdBbpeHdQM",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Uvaiz",
+              "uri": "//maps.google.com/maps/contrib/113507588382804148874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRD46vGiJIu6BurPKPJ44cpQnu-EQ0qF1zDswCqX91lm3QgQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJaUYh1vQRkmngX-VtXC6LZQ3QJ9leS05uty7eCS1mFkiKGeY_kmydsG66mZ2889imkyMn9d4PUIUOdm9S6E78oPJ_tIvanhGUIkuZKIJ-4WEVmRHxy3BOu506-Oh6BA8qDyije_M0LFYF4kEdbabocqYfPBpSc5gW3X",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Uvaiz",
+              "uri": "//maps.google.com/maps/contrib/105493328046357210831",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXO1sbtm9e396Ell7ZqHbinCw5TU2Xc0Mlnnxy35CsNKYTH2Iw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJaJVA532KYUJDQZL-S2XEvIYrKkD1MThbGX8hmaO65J2aRCSfSamsOweM7lajBx5jI8Q-DPTihUXJNGmwULaE8fyfELtSLgCCaY8FNaqUQUFRcC5Nrotblby5Vbcdm35GFneOHzHVJYRitphHEy9ywgV9kV2kGRzjYF",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Fuzail Casffar",
+              "uri": "//maps.google.com/maps/contrib/108495593541388362637",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjULD4GpESrM--ie-GObYLOx49jvweTUQveyr9CFScisSl4KrpFr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJZXepAVWbp5z4fqlHt7jod1U7jxmRnL4ueF58rlQOVCcnka4UTdrBPvHIFS4lcTClzRnsaePdCdV3OxQErYM0foskSU5SNDDBsaAu6Uu2hn81KVludmKKwTJs1jrmdUQKbgtV8ohB8t4NC20dSIeW2GK_8litskk68",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Uvaiz",
+              "uri": "//maps.google.com/maps/contrib/113507588382804148874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRD46vGiJIu6BurPKPJ44cpQnu-EQ0qF1zDswCqX91lm3QgQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJbS0tcd_ohjGVZZID4vYpbeYRa63iqwmsmL7EdgwD_ojBEUiEyXcwurTGPITmxKOqHRG1MQ3xBu2xIJB7CgDuwZaZ5N2Jyjee209of2mkZFZAjJdN6y_3wZs70luNZF7yAid_mU8_RwGwPD8sI2NItYnSd0dLT-qhI",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Uvaiz",
+              "uri": "//maps.google.com/maps/contrib/113507588382804148874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRD46vGiJIu6BurPKPJ44cpQnu-EQ0qF1zDswCqX91lm3QgQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxc0tROEIrTsRcJkiAMSIoBc/photos/ATplDJYWD101uh2cQea4SPpFUy1792I_59XEIR4rMn5KRaGPa3XcCLpx_GUqppu6c5FGQRoguPTBTJDjv-yLtGNXmPf9PDMSscYBe0wQw6skZmkFzdQ6OSjNytifzGckXCRvEfo7inAhMU_3eVoOdkruq6-ui-ez3rATe9w",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Uvaiz",
+              "uri": "//maps.google.com/maps/contrib/113507588382804148874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRD46vGiJIu6BurPKPJ44cpQnu-EQ0qF1zDswCqX91lm3QgQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ33HYrqcJrTsR21LITbxBUG4",
+      "id": "ChIJ33HYrqcJrTsR21LITbxBUG4",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Quba Mosque, Main road, Vaatimanai, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "Quba Mosque",
+          "shortText": "Quba Mosque",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Main road",
+          "shortText": "Main road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vaatimanai",
+          "shortText": "Vaatimanai",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J4WQPW8+5M",
+        "compoundCode": "QPW8+5M Ambur, Tamil Nadu, India"
+      },
+      "location": {
+        "latitude": 12.795405299999999,
+        "longitude": 78.7166712
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.794092419708496,
+          "longitude": 78.71532856970849
+        },
+        "high": {
+          "latitude": 12.796790380291501,
+          "longitude": 78.7180265302915
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=7948925619323556571",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Quba Mosque, \u003cspan class=\"street-address\"\u003eMain road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eVaatimanai\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 7,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Quba Mosque",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "Quba Mosque, Main road, Vaatimanai, Ambur",
+      "reviews": [
+        {
+          "name": "places/ChIJ33HYrqcJrTsR21LITbxBUG4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0Z2NETkNREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful mosque",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful mosque",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aadil Aadil",
+            "uri": "https://www.google.com/maps/contrib/113167194681272928470/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4PMMKQYFbP8jOSbhoqkhXzw-mLU5bWE1rewC8S0SZ6HKfNSnS=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-30T14:03:57Z"
+        },
+        {
+          "name": "places/ChIJ33HYrqcJrTsR21LITbxBUG4/reviews/ChZDSUhNMG9nS0VJQ0FnSUREX3FheWFBEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 4,
+          "text": {
+            "text": "Best place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Asif Hamzaan",
+            "uri": "https://www.google.com/maps/contrib/103434714466639718561/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUxDMtqvJSI-cSzW6Tc0_kobGoCRjJMN8xBwCE1phhPx4APLcN=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-10T06:52:32Z"
+        },
+        {
+          "name": "places/ChIJ33HYrqcJrTsR21LITbxBUG4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWd2JEbHhRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "mohad shoaib",
+            "uri": "https://www.google.com/maps/contrib/101162914003731859024/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqwtocgtORrMaqO898fW2o6WV5Ld5_aj_YRTCwibjIo5Bt3_g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-07T13:50:18Z"
+        },
+        {
+          "name": "places/ChIJ33HYrqcJrTsR21LITbxBUG4/reviews/ChZDSUhNMG9nS0VJQ0FnSUROeDdqYkd3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "God willing",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Mashaallah",
+            "languageCode": "ms"
+          },
+          "authorAttribution": {
+            "displayName": "ARIF MANDALI",
+            "uri": "https://www.google.com/maps/contrib/101755492107043033210/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnKyD3zCQqRLNBdLHNiK1rKJIy1-MPfRxVJsBvfIe4UAlcCcMZ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-26T16:45:23Z"
+        },
+        {
+          "name": "places/ChIJ33HYrqcJrTsR21LITbxBUG4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbG9IbmdBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Mohammed Kamil",
+            "uri": "https://www.google.com/maps/contrib/103033707573703357277/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRWfFfR86JZSjPq1Xt6EAP3WazvI1Zhk7q1q-0kQDJxZa9NNHRBQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-29T07:06:19Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE",
+      "id": "ChIJVVUFNOIIrTsR3mgv5Gu4ybE",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "QPQ9+V73, khaderpet, Mosque, Street, Noorullahpet, Naganadi, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "Street",
+          "shortText": "Street",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Noorullahpet",
+          "shortText": "Noorullahpet",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Naganadi",
+          "shortText": "Naganadi",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J4WQPQ9+V7",
+        "compoundCode": "QPQ9+V7 Ambur, Tamil Nadu, India"
+      },
+      "location": {
+        "latitude": 12.7896463,
+        "longitude": 78.7181703
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.7882849697085,
+          "longitude": 78.7167546197085
+        },
+        "high": {
+          "latitude": 12.790982930291502,
+          "longitude": 78.719452580291517
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12810973388561410270",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 9:00 PM",
+          "Tuesday: 5:00 AM – 9:00 PM",
+          "Wednesday: 5:00 AM – 9:00 PM",
+          "Thursday: 5:00 AM – 9:00 PM",
+          "Friday: 5:00 AM – 9:00 PM",
+          "Saturday: 5:00 AM – 9:00 PM",
+          "Sunday: 5:00 AM – 9:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "QPQ9+V73, khaderpet, \u003cspan class=\"street-address\"\u003eMosque, Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNoorullahpet, Naganadi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Masjid E Khaderpet",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 9:00 PM",
+          "Tuesday: 5:00 AM – 9:00 PM",
+          "Wednesday: 5:00 AM – 9:00 PM",
+          "Thursday: 5:00 AM – 9:00 PM",
+          "Friday: 5:00 AM – 9:00 PM",
+          "Saturday: 5:00 AM – 9:00 PM",
+          "Sunday: 5:00 AM – 9:30 PM"
+        ]
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "QPQ9+V73, khaderpet, Mosque, Street, Naganadi, Ambur",
+      "reviews": [
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxOEs2c1FnEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful mosque for prayers",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful mosque for prayers",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abrar Ahmed",
+            "uri": "https://www.google.com/maps/contrib/114219298542046083578/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUY6xN3VDR4H5UtQ6uOmFV0pKMhh_gETlIFWpJ31xcYqBxRHOuG=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-21T07:04:22Z"
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/reviews/ChZDSUhNMG9nS0VJQ0FnSUREenBPbVZREAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent and neat",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent and neat",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Showkath Ali. K",
+            "uri": "https://www.google.com/maps/contrib/101993176172485106124/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUE04-wlm8d9k_Nez4Ibdvl0Z2lBY5Anfekb9V1Emx9s7X2dc8F=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-04-09T14:39:49Z"
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkNk83eXFnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Great",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MOHAMED JUNAID",
+            "uri": "https://www.google.com/maps/contrib/104887576647235136825/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIdFB47zeEVo_IBPCL4QRWZ0OXqSxxsnYF1BI-KrtuA0b2me3J=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-11T03:52:07Z"
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxM01iTlFREAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ALLAH IS OUR CREATER",
+            "uri": "https://www.google.com/maps/contrib/101405589053177339012/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKMT6EkaDU-EQKNT_DTHu5q55qmnSPSmcQF0KHkv1gRx5CTSTD=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-25T07:10:40Z"
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/reviews/ChZDSUhNMG9nS0VJQ0FnSURaN05PMVBBEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "AMBUR KHADERPET FIRST STREET MSJAID",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "AMBUR KHADERPET FIRST STREET MSJAID",
+            "languageCode": "da"
+          },
+          "authorAttribution": {
+            "displayName": "Shuib A",
+            "uri": "https://www.google.com/maps/contrib/103308263181295915114/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLOz2onvtlA-v0kJkdJErdCX_8RmwcRWT9mPm9NYA2gn5c7EA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-09-26T10:14:00Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/photos/ATplDJZoM5Fsd9bofWMGI0mRdUzfdTWulMYX6q9mm4R1eeF894PbdmQKfc_c2_-eCtSxD1u4Q2lfx5Srp9t57x_WI85nbX2TeGrW91SWzobTl_16hpA8thEBY34NWQJOXC3rw2ahzKGSoeo8--hQn6eFzIV-DapYKJElafi_",
+          "widthPx": 4160,
+          "heightPx": 1871,
+          "authorAttributions": [
+            {
+              "displayName": "Masjid E Khaderpet",
+              "uri": "//maps.google.com/maps/contrib/106408596903026399682",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLYYv-5n6nxbH055nBz4_Z9mU00Tge1s7ncD-NWGreeGnTbVA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/photos/ATplDJZhZe-C1OAFekpZZtzvboRtVGNSmpKxoMAO934dyexf694FfDK96yw_-rU-f60v0H3cSrSzA9sPZgJXTf9Lv-GUcMgMIvOYQJ1QXrQfDZcRSMP-JnEmQmcDpu0jpcdgqjlrY4hVq4J1x9_KrtmjdgGjBIn8gY9jO2E7",
+          "widthPx": 4160,
+          "heightPx": 1871,
+          "authorAttributions": [
+            {
+              "displayName": "SHAMEER ULLAH",
+              "uri": "//maps.google.com/maps/contrib/107895539535654101650",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU1ocdk-WvQ_Bqt0zB9ffeMoahU0pA3KC1VwlgZWkd_F2jlaTIx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/photos/ATplDJZ3J1M_Vz8fkVzZvw930UpuI3NlMOJxlnLGq7idZhgz4HMHyNw_MBl-huhcXNBEN_GDjAnIs9L2UW9UGLyKFUwvUGMAqxu3TpImRlZVaoJHiWOjZrOwhyS4GKjc3CPBP2GgNHSvqJaYgs0S6D765eWSj64QNT2lfrIE",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Shuib A",
+              "uri": "//maps.google.com/maps/contrib/103308263181295915114",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLOz2onvtlA-v0kJkdJErdCX_8RmwcRWT9mPm9NYA2gn5c7EA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/photos/ATplDJbDSt7_ilyN3wGJEzwl4rWAyPw1WIIACbsP6qCUwuh6oOMB1A2U_oP0kFrXE4N2yvEUY-enhnhbVE44NxSADBcocd2fx1YAQvBZBaWVu4NHrcTBgFN-7w-cquHti-LMUkZi4qf4Mo-YtSAOOABiKl7QfYjLr2euPNUp",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Shuib A",
+              "uri": "//maps.google.com/maps/contrib/103308263181295915114",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLOz2onvtlA-v0kJkdJErdCX_8RmwcRWT9mPm9NYA2gn5c7EA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/photos/ATplDJaNCAynu2-Ud4xFSVCZQPPHvQqVheaEoB0x6-PSY_82QLD_TejtpiECFXYNE7m8D7hwSz136rHt3Mo9rnyHaBXRkvza0O74VP4NXAe8SZKCZ0tyiX1OAj3CbqnOf3Bf6KqWaI0ksR5lmd9Hyic_iefhhTTvgFCW3yDc",
+          "widthPx": 1871,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "SHAMEER ULLAH",
+              "uri": "//maps.google.com/maps/contrib/107895539535654101650",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU1ocdk-WvQ_Bqt0zB9ffeMoahU0pA3KC1VwlgZWkd_F2jlaTIx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/photos/ATplDJacQgO3yYOk5DYXMMMnMFEF7un52FP7zDWEc_yOsB5yCqTK6jW-SV4qqiH7j-eeyxmFqE1qc8rFJrLmnYiOCFHaVag7lpDaxSHTxyeVL8AuClkOLKp3nJJ-su1I9uU6hct6NOu1_9mTmayqq8wXl6wv4fl88tmHIraQ",
+          "widthPx": 4160,
+          "heightPx": 1871,
+          "authorAttributions": [
+            {
+              "displayName": "SHAMEER ULLAH",
+              "uri": "//maps.google.com/maps/contrib/107895539535654101650",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU1ocdk-WvQ_Bqt0zB9ffeMoahU0pA3KC1VwlgZWkd_F2jlaTIx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/photos/ATplDJZb1x6sVvjewvm8Dxee_s7B3Uzn9Vh0UbugqS1nXcGdYc6WjyTBacqDBM162Y9yHPd6LSbQCCMH4kuGmTmQWPOYEcMDAj8Li--O3__MN8ds7-jJVnmRhn5t_XDl1q5Gm_zrHLKLdVIgjhA1IOqxMY1m_kbWf676Gna2",
+          "widthPx": 1871,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "SHAMEER ULLAH",
+              "uri": "//maps.google.com/maps/contrib/107895539535654101650",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU1ocdk-WvQ_Bqt0zB9ffeMoahU0pA3KC1VwlgZWkd_F2jlaTIx=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVVUFNOIIrTsR3mgv5Gu4ybE/photos/ATplDJbVFazXbzxsRkr4FXGc90ipbQ8pAnCK5Hj2CciZLp9QZSren6zXDxeUGl7xV0YgrjECRtXfwdcHlY6Gr6HlTCIV42CyI49BUzuGaRyrF3J5DPEPs5Q-n6gRVMctpre_3RNFdt1X89_BbNxqNIWcCOIB_cTmwQJ2rCz7",
+          "widthPx": 1836,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Md Arfayeen",
+              "uri": "//maps.google.com/maps/contrib/115193435368660601555",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWU2NLGZ4inYN72erGUel1gcZyzfxgrYIQXXoFOCWBhNyPzoWUf=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJSXNmnkYJrTsRKEF3m5J2WcI",
+      "id": "ChIJSXNmnkYJrTsRKEF3m5J2WcI",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "QPHG+5GC, Gandhi Nagar, Ambur Plantation R F, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "QPHG+5GC",
+          "shortText": "QPHG+5GC",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Gandhi Nagar",
+          "shortText": "Gandhi Nagar",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur Plantation R F",
+          "shortText": "Ambur Plantation R F",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 12.778091,
+        "longitude": 78.726071699999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.776760269708499,
+          "longitude": 78.7247313197085
+        },
+        "high": {
+          "latitude": 12.779458230291503,
+          "longitude": 78.7274292802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14004354888330854696",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "QPHG+5GC, \u003cspan class=\"extended-address\"\u003eGandhi Nagar, Ambur Plantation R F\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Anjaneyar Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "QPHG+5GC, Gandhi Nagar, Ambur Plantation R F, Ambur"
+    },
+    {
+      "name": "places/ChIJH4p6PP0IrTsR7FMjWMarY3Q",
+      "id": "ChIJH4p6PP0IrTsR7FMjWMarY3Q",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "QPR7+222, Eidgah Rd, Mootukollai, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "QPR7+222",
+          "shortText": "QPR7+222",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Eidgah Road",
+          "shortText": "Eidgah Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mootukollai",
+          "shortText": "Mootukollai",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 12.790017400000002,
+        "longitude": 78.7125114
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.788668319708497,
+          "longitude": 78.7111900197085
+        },
+        "high": {
+          "latitude": 12.791366280291502,
+          "longitude": 78.7138879802915
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=8386735799464580076",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "QPR7+222, \u003cspan class=\"street-address\"\u003eEidgah Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMootukollai\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 44,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Choti Masjid",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "QPR7+222 Small Mosque, Eidgah Rd, Mootukollai, Ambur",
+      "reviews": [
+        {
+          "name": "places/ChIJH4p6PP0IrTsR7FMjWMarY3Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxak1qX0p3EAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It's an old mosque which has been recently renovated with an excellent finish. Peace and serenity.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's an old mosque which has been recently renovated with an excellent finish. Peace and serenity.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "tanzeel ahmed (CTA)",
+            "uri": "https://www.google.com/maps/contrib/107317991620580486437/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhPWqfCwCsx5ZLZ8JFTD82WJUDyOZ6IjnduPzQPtjfgCvjjA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-12-24T04:34:45Z"
+        },
+        {
+          "name": "places/ChIJH4p6PP0IrTsR7FMjWMarY3Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWd2NqZ0hnEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Masha Allah very good looking",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Masha Allah very good looking",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "mohad shoaib",
+            "uri": "https://www.google.com/maps/contrib/101162914003731859024/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqwtocgtORrMaqO898fW2o6WV5Ld5_aj_YRTCwibjIo5Bt3_g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-07T13:51:35Z"
+        },
+        {
+          "name": "places/ChIJH4p6PP0IrTsR7FMjWMarY3Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxOWZmUktnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good Calm and ambient atmosphere...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good Calm and ambient atmosphere...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AQHEEL AHMED",
+            "uri": "https://www.google.com/maps/contrib/114030495388652993743/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKz8F99f-oScC2PRXWZMC6-PriDhyopX23FtONc_UUZpc2ibA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-09T04:47:30Z"
+        },
+        {
+          "name": "places/ChIJH4p6PP0IrTsR7FMjWMarY3Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4MXEzeHh3RRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good masjid good atmosphere, good people, nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good masjid good atmosphere, good people, nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ALTU",
+            "uri": "https://www.google.com/maps/contrib/116354217673218532495/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL8Mn8axcGhCeZE8ejgMDmrACG-X1SDsPIrsPAigC2Z0f3Ftw=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-06-07T17:03:06Z"
+        },
+        {
+          "name": "places/ChIJH4p6PP0IrTsR7FMjWMarY3Q/reviews/ChRDSUhNMG9nS0VJQ0FnSURpb09ZURAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Went to attend a funeral. The mosque is great but the roads to reach the mosque were horrible.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Went to attend a funeral. The mosque is great but the roads to reach the mosque were horrible.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "mushtaq Ahmed",
+            "uri": "https://www.google.com/maps/contrib/117304042193601440937/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQXqocXWdfwkX-XEZc2zqRTsqmYyKsJuFHWnzWDKXH-fgHaQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2020-11-21T07:23:21Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJH4p6PP0IrTsR7FMjWMarY3Q/photos/ATplDJZxnJgvw5xsqAxHeNQWck2ilDidt9M9BKQw-bbkNOWuyMYckHCNyNHWCOjqHtuASze10JxEOOpMmZRbmiyActR-t_wFvysH3Zxfc3Z67kQCo4OE9_sxP1yyt4T4XIYliLiIMHFiOw_ZQrbMitNSYXDN5UWwonZTDf5O",
+          "widthPx": 4080,
+          "heightPx": 1840,
+          "authorAttributions": [
+            {
+              "displayName": "Laa Writers",
+              "uri": "//maps.google.com/maps/contrib/116165019762388438597",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKDGQq_mSjm3yiBeABU0tm0i_VqlzP9IR7ctaBUsZ7Pehei0Qy=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA",
+      "id": "ChIJD69UKygGrTsR3Q5A21mTEwA",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "PPW6+H96, Tamil Nadu 635814, India",
+      "addressComponents": [
+        {
+          "longText": "PPW6+H96",
+          "shortText": "PPW6+H96",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635814",
+          "shortText": "635814",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 12.7464146,
+        "longitude": 78.7108823
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.745119919708499,
+          "longitude": 78.7096061197085
+        },
+        "high": {
+          "latitude": 12.747817880291503,
+          "longitude": 78.7123040802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=5510038697283293",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "PPW6+H96, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635814\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 73,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Suyambu Samundeeswari Amman Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "PPW6+H96",
+      "reviews": [
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbUwzbEdBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "text": {
+            "text": "One of the famous Temples in the area of Ambur and deity of lot of families. Located on the scenic bank of Periyankuppam Lake.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the famous Temples in the area of Ambur and deity of lot of families. Located on the scenic bank of Periyankuppam Lake.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gopi Selvaraj",
+            "uri": "https://www.google.com/maps/contrib/108666499471890288250/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrFDxcvlnFHs3WsJuQtVDwPLfjUhlf2qIHgPz9w7WmZqEJl45Zbg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2022-03-14T15:00:21Z"
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzb1pDelp3EAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "It's simple silent and divine temple,near in Lake is awesome..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's simple silent and divine temple,near in Lake is awesome..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "jaiganesh D.",
+            "uri": "https://www.google.com/maps/contrib/105052634440346957085/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHLRHZLOYPTIvkjjVMzkw5hvijfmboGMOkk0xCCfhDrRpv8fcD=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2020-02-04T10:08:04Z"
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5bF9tLXpnRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's oldest powerful temple..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's oldest powerful temple..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aswanth ganesh",
+            "uri": "https://www.google.com/maps/contrib/110232127478378649722/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3vnyOXMGiZzkQI_MankUOQXJYYFtQ1hH4N0wfsLLiw3JtTWUw6w=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-02-16T12:36:06Z"
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1X3VUVFRREAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I am favourite to peryankuppam temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I am favourite to peryankuppam temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Santhosh Santhosh",
+            "uri": "https://www.google.com/maps/contrib/112464815039637568476/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURJ9y0GbuTrSOY5fGm0KyPx2aAWzQko-Llrzo-Uhx5l-Df5Q4=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-25T03:05:56Z"
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/reviews/ChZDSUhNMG9nS0VJQ0FnSURvM3E3OEpnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "One of most famous temple located in Periyangkuppam village nearby Ambur.periyankuppam is a village located in the national highway from Ambur to vaniyambadi.....temple is quite outer the village nearby a lake.......goddess samundeshwari was formed as a suyambu so the temple is named as suyambu samundeshwari Amman kovil....people say one of the most powerful goddess. every day the temple is open during the month of feb every year thiruvila will be taking place most famous festival over the surroundings . most of the marriages ,ear piercing function takes place over here.....we can find a small marriage hall nearby temple.....from Ambur bustand we can get many share autos to the temple...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of most famous temple located in Periyangkuppam village nearby Ambur.periyankuppam is a village located in the national highway from Ambur to vaniyambadi.....temple is quite outer the village nearby a lake.......goddess samundeshwari was formed as a suyambu so the temple is named as suyambu samundeshwari Amman kovil....people say one of the most powerful goddess. every day the temple is open during the month of feb every year thiruvila will be taking place most famous festival over the surroundings . most of the marriages ,ear piercing function takes place over here.....we can find a small marriage hall nearby temple.....from Ambur bustand we can get many share autos to the temple...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "subash mohan",
+            "uri": "https://www.google.com/maps/contrib/112019546038594711924/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXqTm4js20uUSgN1oP4bw_pIt_YhqYgK9KFndoF2AsKj1MBw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-03-17T12:27:58Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJYBIXVkanjKWD0JBC22aKrXV9WYGMbLWFGEHXN5X0ZVGcqM8TgzDWTCX5NtpjqjUhfAorSCkuhSGfSujkcCySbgrGZrlDSVEenXrrelSay4NQZMQC5LKXcmv7FCHlCYBwdlQ1wFfBfNEbynOy1wrQMhTBFKPHW9Kall",
+          "widthPx": 4242,
+          "heightPx": 2828,
+          "authorAttributions": [
+            {
+              "displayName": "Jothish K",
+              "uri": "//maps.google.com/maps/contrib/104796397346958941857",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv_vZrOC48bXTbtzq8UNPbVmXmwxs8xNkUaqcPWw07a2sl7ile=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJZCj1uXIuUP0CDAuwTnuU2JAQEeJtkwJA1EmIGWlo4kSLc_iD5wJRSxo4vuOexXDdBg7O9jy6TPc-MiwBkrTSFFRAYcoJLHhT41DNk_kWMfVi6SQC7897vgxkAZmggq9onpPryYB8VCa8nTZPlZwsfG9lH6ccBl5nkt",
+          "widthPx": 2000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Aswanth ganesh",
+              "uri": "//maps.google.com/maps/contrib/110232127478378649722",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU3vnyOXMGiZzkQI_MankUOQXJYYFtQ1hH4N0wfsLLiw3JtTWUw6w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJYcqacahWKPRyxQuHSrKdbAtBt1OT8bvvIOcGBb4WrVAJUrZQ3ZNOsdw5HoWkmdkMqLa0hIgTYXcEZQwevQVrkGWwdo33WVZZkclCD2a4__onfjt7rL_F1U4Y6NMD5xUvmCfCHJaXUqRwqgFLMFH8tmMrwCglM-IfTJ",
+          "widthPx": 2828,
+          "heightPx": 4242,
+          "authorAttributions": [
+            {
+              "displayName": "Jothish K",
+              "uri": "//maps.google.com/maps/contrib/104796397346958941857",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv_vZrOC48bXTbtzq8UNPbVmXmwxs8xNkUaqcPWw07a2sl7ile=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJbmBBaVSGAjsTa-EWUkqF8rOE9f_VXK5-ymI6Tqroq40uMYYYKWSOVvQ2lrwtGcfcfwjRGJ0__EQmf1UN8OGEh-WfyMcEqjE4_WkgXPcYvJNH8djunBFmbii_27uebdX7bdzh00CbZstb96e7eFGVETl4dTxaeFrKDE",
+          "widthPx": 4000,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "Aswanth ganesh",
+              "uri": "//maps.google.com/maps/contrib/110232127478378649722",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU3vnyOXMGiZzkQI_MankUOQXJYYFtQ1hH4N0wfsLLiw3JtTWUw6w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJY6jGbwGNcd4vOqW1JgOzDCuYmAdXaCNZbrQh9U1DZNinQVpM6gJwXpIAsQ4acKrrz0GontBJ2niaBm2dmnD-CgE9xOaFEtYiPYxXsOGuAjD96oLfRE3eNanGXIBGBM1rWTTNxIEYGbIrbTZkpVn5wLA2ILPudCap0m",
+          "widthPx": 2000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Aswanth ganesh",
+              "uri": "//maps.google.com/maps/contrib/110232127478378649722",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU3vnyOXMGiZzkQI_MankUOQXJYYFtQ1hH4N0wfsLLiw3JtTWUw6w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJYo0zTDGr3c5emDOeAFV6LoELnRlpJuqBCKnaZqi9hoMZv4vgcasmiqh_7IjDEIWA3d-KPJWFIa0AEaGFcp4T3vM6Xfjqo42GiQDwFcQaiiyaGUE-qJ189dmoNLOhByvvE5SeK24rKiGaXgqsYSuT4fokhtfgoApyYH",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "VIMAL JAYAVEL",
+              "uri": "//maps.google.com/maps/contrib/107875486473490054001",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWU7BUr8dKK9VEvEkOwJE0XuAVIKM1WIq-R7RJ-nT8FXnHAwTdv1w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJZg6X8jE7RPUiH4zEHZFERSE-JM0yE1jeS2GTM4DOE_8_h70FREfMOpo1K_nJYg9sziW2uCpS4Mq6dSvRhXbfsZy6sOgffi39f01hO98AVMIT-uzg2bknHV5L8YvGBgCgcXefBQ-q1WnmVFl2I8tzjtIdOGgPK-8ZkA",
+          "widthPx": 640,
+          "heightPx": 1210,
+          "authorAttributions": [
+            {
+              "displayName": "Vasanthakumar Dp",
+              "uri": "//maps.google.com/maps/contrib/110229038299971575588",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWDEyKRt5g9qd371ZSMZH4ckC6WftemKOXWIIDaJcjIB_I8AKAGlg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJbEdcGKMbT8S4UlXNoleJxI0bCFXgmsdVlo-9v3agrOFh5SkCqfERy2XfbCR6gyBeqj7nf9jMJ16Z12U3XK4sl0L0I79VJSX_KdC7fGO9TEoXlylaORhcfTLCENnq4IOvAcpS6CMmgNRlWxHDJTbxMWTh0Nsu_jeNRE",
+          "widthPx": 1920,
+          "heightPx": 2560,
+          "authorAttributions": [
+            {
+              "displayName": "Vnnaveen naveen",
+              "uri": "//maps.google.com/maps/contrib/109403262884590432207",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLi8O_rw_kls2yZ1F3fYJ-slw2ueeaNTZhFTcNBtMtuA7SDxg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJZRbyWkrtSINqMiXhi5AD4i_aiyVanfn-n0LsRL7gLC21RdIVdQB_8ARCUYOo7ifj15OGOHCkkHNSEgcKw2LglgrjB0eB4IonBKxqSiOtI4rxPhj-C5Tvq_YFWxPcRrGL-j0x-kdrlUIJstxOeT0DcLfJRtBYyRmtl_",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Senthil Anbalagan",
+              "uri": "//maps.google.com/maps/contrib/101448906785022165022",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX-jsm4eZBwAis5CDoLTMjLcdCKwXBTFBiwMfz7qnMMQ3T9yBW0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD69UKygGrTsR3Q5A21mTEwA/photos/ATplDJaWOlUEJj69dBMr29uFw0NgfnicDuY4B8EO6LUAigJv4y3R79RmMYb1mRMp47FbirThFSVDQxHOmVN_MBKjjYKLPxyhrWk9tobBJcTczO3kZPTWhpbk9YwoMKtGwYGz8_dI1sJY03SeaPBLcd--DGVrwvT3hjVc5Cmw",
+          "widthPx": 4032,
+          "heightPx": 1960,
+          "authorAttributions": [
+            {
+              "displayName": "Gopi Selvaraj",
+              "uri": "//maps.google.com/maps/contrib/108666499471890288250",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWrFDxcvlnFHs3WsJuQtVDwPLfjUhlf2qIHgPz9w7WmZqEJl45Zbg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo",
+      "id": "ChIJLWaSNx0JrTsRt8SLdHNAOEo",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "QPV7+CP2, 2nd St, Jalal Pet, Vaatimanai, Ambur, Tamil Nadu 635802, India",
+      "addressComponents": [
+        {
+          "longText": "QPV7+CP2",
+          "shortText": "QPV7+CP2",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "2nd Street",
+          "shortText": "2nd St",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalal Pet",
+          "shortText": "Jalal Pet",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vaatimanai",
+          "shortText": "Vaatimanai",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambur",
+          "shortText": "Ambur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tirupathur",
+          "shortText": "Tirupathur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tamil Nadu",
+          "shortText": "TN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "635802",
+          "shortText": "635802",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 12.793516200000001,
+        "longitude": 78.7142676
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.792244319708498,
+          "longitude": 78.7129235197085
+        },
+        "high": {
+          "latitude": 12.794942280291503,
+          "longitude": 78.7156214802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=5348095422123197623",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "QPV7+CP2, \u003cspan class=\"street-address\"\u003e2nd St\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJalal Pet, Vaatimanai\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbur\u003c/span\u003e, \u003cspan class=\"region\"\u003eTamil Nadu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e635802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 46,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Fathima Masjid",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "QPV7+CP2, 2nd St, Jalal Pet, Vaatimanai, Ambur",
+      "reviews": [
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBNnVEcjlBRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful Mosque, a peaceful place for prayer, This mosque is situated towards Babullah makkan to Mottukkollai,  in Vathimanai between T A W Matriculation Higher Secondary School and Farida Classic shoe factory back side, next to Fathima Marriage Hall.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful Mosque, a peaceful place for prayer, This mosque is situated towards Babullah makkan to Mottukkollai,  in Vathimanai between T A W Matriculation Higher Secondary School and Farida Classic shoe factory back side, next to Fathima Marriage Hall.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JAWA COMPUTER",
+            "uri": "https://www.google.com/maps/contrib/104938052069354921577/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOXHDilPlWN6ltA961-XZ1CIqIJjnwA4Vmc4rx0tyt_ZHB7qvp=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-04-05T03:49:47Z"
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJM0tYVXBnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Very nice masjid for T. A. W.  School Boyz & shoe factory workers & surrounding area for Prayer👌👌👌",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice masjid for T. A. W.  School Boyz & shoe factory workers & surrounding area for Prayer👌👌👌",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "usman pasha",
+            "uri": "https://www.google.com/maps/contrib/104634077836522918062/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLV949TOuylzfzaLCwY-NI-D18b5tGNHU2_AqqzMKIjJZbTGA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-11-01T12:31:16Z"
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/reviews/ChdDSUhNMG9nS0VJQ0FnSUR3eHEzLTNnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice mosque. But wazu khana is not comfortable to sit..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice mosque. But wazu khana is not comfortable to sit..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Husamuddin Badusha",
+            "uri": "https://www.google.com/maps/contrib/100588755968076232265/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIRB47VEqAUeMk5FWSTMUHszbNh62SFJp5IJ4lN1iY9U15f2Sk=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-10-14T19:52:37Z"
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRc0ppbHlRRRAB",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice mosque and peaceful. Useful us to surrounding peoples...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice mosque and peaceful. Useful us to surrounding peoples...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SyedSha Official",
+            "uri": "https://www.google.com/maps/contrib/105288322147741262698/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3OCql8C5MEmGicFecJaqRN3gl3Ta8RfVUCtaPrZRPDg2YMO6G=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2017-04-23T14:24:17Z"
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/reviews/ChZDSUhNMG9nS0VJQ0FnSURJbHBQYkNnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Good place to pray... Masha Allah peaceful place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place to pray... Masha Allah peaceful place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Suhail Ahmed",
+            "uri": "https://www.google.com/maps/contrib/115131392588514587419/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKj9fQMLBmzFkELIXsWrS5_myTLAQJDi3UJJkXH9S_7Blx_d-_vg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2019-01-03T17:11:12Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJZFhPvKHmyxY4AOZZyrHsOkEJn6pQkiR4ixuJTQ7etMRe7pvq4dfxo2SyNXiOsnExBqZ210wahBSEQ402hs6JlQjtq0HIdo8M1IU5-vAdlfR5XXOYRd5Im_03iE1BF8Qm_iWvLOYD9HvLNina6whM1D7vu8FoUfkKKS",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Imran Khan",
+              "uri": "//maps.google.com/maps/contrib/108334866409804129374",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbJAauACJ7mLveYFBZGftQ29KRUfijXqA8Y--0VfYKVZlQlU57=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJY8_XZsko8CdRzfTng5b0L0vlEH-lrM2mezqdyhjM7zBAR63MEBcHJ5xz4ZtEF3sKbQ1ZrkV-ZwLXGuWiKKuxohGhIe925Wu5IxV-xNo-4l-9NANSucclBVnZtKIYK5xvad2HMBHbtx98XFS9q064qEcH0TS4MT1D6X",
+          "widthPx": 4000,
+          "heightPx": 1792,
+          "authorAttributions": [
+            {
+              "displayName": "Thameem Basha",
+              "uri": "//maps.google.com/maps/contrib/101741987795404343313",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUV6tD_BaOWkf6Lz-Ah-xg_oPxbT2HcT2r1Bo23YvfCOgvq9aby=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJZHFRTaxPITL4MxPFpt_clYDXIr_ZIyauUEn9joaPZoE8BrX9Mh2WMEk7cCPINJJs9nFwpYgCu8EV0qfxZHztFZYUpHZyJEei73QkQSrwhSITsJsi_0Q8l4Dr8POlugYbHP0xhAmCtaaOuJcBd0RC44L_uvQuWPIjIg",
+          "widthPx": 4000,
+          "heightPx": 1792,
+          "authorAttributions": [
+            {
+              "displayName": "Thameem Basha",
+              "uri": "//maps.google.com/maps/contrib/101741987795404343313",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUV6tD_BaOWkf6Lz-Ah-xg_oPxbT2HcT2r1Bo23YvfCOgvq9aby=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJaP_uy1BDCS-IJjB-wi3vHKuh9H_Mig9RX2Q-BX9PTPUZJp-9gAy8okLsZZVE8m8SXrdwLJ3DuQXcf_XNUdcH2lOh0ZzCh_2yx7A4GOhdUof_ubxUts8bWF6_YN8xdMXrxTqE48_N_ctORVp30XeULjyiA9AuK98VEL",
+          "widthPx": 4000,
+          "heightPx": 1792,
+          "authorAttributions": [
+            {
+              "displayName": "Thameem Basha",
+              "uri": "//maps.google.com/maps/contrib/101741987795404343313",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUV6tD_BaOWkf6Lz-Ah-xg_oPxbT2HcT2r1Bo23YvfCOgvq9aby=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJYRkysezEGJrZRHFuY8jdz5Rwsi3IWA7EYjDLGFUoJASunYHp0ILP4Zq78kRLIOPViAVBoGEWCVJJG-0PomJ6e6sIjTqA_hBwclOQbHuMh2H-j-MqwGImoWHl4xnNvpWMRYiy-RuqgqMobKctrqid1_doEEyUZ3N2YF",
+          "widthPx": 780,
+          "heightPx": 1040,
+          "authorAttributions": [
+            {
+              "displayName": "Arshiyafaiyaz Arshiyafaiyaz",
+              "uri": "//maps.google.com/maps/contrib/112534005355897377681",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK5p8AgSAmIh6sHuimwbbWEUfaRlKwU8JX17Cgabd6zAkcxKQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJYslYdPlRvMuOnv4sQsaJzA9ZTzlgz0MzkjEYzPnq__aiA1yw2C7CxiGa8EP2Y5xa7u9wL6pc8m2H98ac3jJR1-HrgNhF0dxaA9-qV6YBBtkCDmeazYmnyNsMwFwPbaHRf7969-7IIxuJivMAJNGEXmnj7iehaxqD3E",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "K BILAL K.bilal basha",
+              "uri": "//maps.google.com/maps/contrib/113919747040760688801",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJalhKiL9H_zchBJmSbinFGhtlNqKOtwssf62VJ5rvMea_RkQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJZY6CqJB1mT8EPwujOxi9sUQSbGaw-Yoj-11Zbnw50mF9Q_m7OtIWkHPGyEAL7ACjOpOD6PsSCl6uQHIxp6V-jUfCD2h66FKjV0Air_gQiebyuZiDbx74k9DIKejj-AYfiHUylDtq1aEugq1egDEU-7IytqRsT9xU0u",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Imran Khan",
+              "uri": "//maps.google.com/maps/contrib/108334866409804129374",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbJAauACJ7mLveYFBZGftQ29KRUfijXqA8Y--0VfYKVZlQlU57=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJZVjukrXpbdmYLOLKjFM7ORmT1NPQki1v1BsIQnrlqMpWdXNh3MWL8r9hHFz9loqEtpPQ6UcGGb_RlfuwOR03T7fOQJxYa2TNcbSxGVTi1xokRlojiEqP7odC7wZ6WibzrORQrCY5x3Yrinul_-fRRAW_2pmh07o-W3",
+          "widthPx": 4000,
+          "heightPx": 1792,
+          "authorAttributions": [
+            {
+              "displayName": "Thameem Basha",
+              "uri": "//maps.google.com/maps/contrib/101741987795404343313",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUV6tD_BaOWkf6Lz-Ah-xg_oPxbT2HcT2r1Bo23YvfCOgvq9aby=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJYS5KLy5j2ADR7Ezs1ibFVVYzF9ddq5DgNZQVtx9RSLohn_S6-oYpU3z4_8plCLNRE9F8asD-3r2nRr-QfVy1xFtQbQg-qgHCPRA-sxTgT32lRU7hUIacjEqKRFAWp-h5LhuFIchSCEBIGtQ1mLyqp4_-l0b2FaP0P5",
+          "widthPx": 1792,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Thameem Basha",
+              "uri": "//maps.google.com/maps/contrib/101741987795404343313",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUV6tD_BaOWkf6Lz-Ah-xg_oPxbT2HcT2r1Bo23YvfCOgvq9aby=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJLWaSNx0JrTsRt8SLdHNAOEo/photos/ATplDJZnrhApCjVfhNDRvBkl8nd0aKo_pNGNGVQHkKqSCtVnKO0T43jSU2ctc_mln10vqHTUB_w3ZECgWV0aZ_lmc7enYTdLblSTyIlSCDTjaBhPvrAXQeaXmk1kMMgHWF6uP2hUOR68Db2fzR9OYoycbC2V4tUZmGF2q3gc",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "K BILAL K.bilal basha",
+              "uri": "//maps.google.com/maps/contrib/113919747040760688801",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJalhKiL9H_zchBJmSbinFGhtlNqKOtwssf62VJ5rvMea_RkQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

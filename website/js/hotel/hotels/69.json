@@ -1,0 +1,3991 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U",
+      "id": "ChIJf1whHODt6TsRnV7CMZUPr5U",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "070455 44548",
+      "internationalPhoneNumber": "+91 70455 44548",
+      "formattedAddress": "Hindustan resort, At post, near modi green house, Guhagar, Are, Maharashtra 415703, India",
+      "addressComponents": [
+        {
+          "longText": "modi green house",
+          "shortText": "modi green house",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Guhagar",
+          "shortText": "Guhagar",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415703",
+          "shortText": "415703",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9MG5HM+F9",
+        "compoundCode": "G5HM+F9 Guhagar, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.5286653,
+        "longitude": 73.183447
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.527018869708495,
+          "longitude": 73.1812866197085
+        },
+        "high": {
+          "latitude": 17.5297168302915,
+          "longitude": 73.183984580291508
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=10785856766034992797",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Hindustan resort, At post, near modi green house, \u003cspan class=\"locality\"\u003eGuhagar, Are\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415703\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 113,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hindustan Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 1,
+                "hour": 0,
+                "minute": 0,
+                "truncated": true,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 23,
+                "minute": 59,
+                "truncated": true,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 11,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 13,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 11,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 13,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 11,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 13,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 11,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 13,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 11,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 13,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 11,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 13,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 11,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 13,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 11:30 AM – 1:30 PM",
+            "Tuesday: 11:30 AM – 1:30 PM",
+            "Wednesday: 11:30 AM – 1:30 PM",
+            "Thursday: 11:30 AM – 1:30 PM",
+            "Friday: 11:30 AM – 1:30 PM",
+            "Saturday: 11:30 AM – 1:30 PM",
+            "Sunday: 11:30 AM – 1:30 PM"
+          ],
+          "secondaryHoursType": "LUNCH"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 19,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 19,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 19,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 19,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 19,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 19,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 19,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 23,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:30 – 10:00 PM",
+            "Tuesday: 7:30 – 10:00 PM",
+            "Wednesday: 7:30 – 10:00 PM",
+            "Thursday: 7:00 – 10:00 PM",
+            "Friday: 7:30 – 10:00 PM",
+            "Saturday: 7:30 – 11:00 PM",
+            "Sunday: 7:30 – 11:00 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 11,
+                "minute": 30
+              },
+              "close": {
+                "day": 0,
+                "hour": 13,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 11,
+                "minute": 30
+              },
+              "close": {
+                "day": 1,
+                "hour": 13,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 11,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 13,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 11,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 13,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 11,
+                "minute": 30
+              },
+              "close": {
+                "day": 4,
+                "hour": 13,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 11,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 13,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 11,
+                "minute": 30
+              },
+              "close": {
+                "day": 6,
+                "hour": 13,
+                "minute": 30
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 11:30 AM – 1:30 PM",
+            "Tuesday: 11:30 AM – 1:30 PM",
+            "Wednesday: 11:30 AM – 1:30 PM",
+            "Thursday: 11:30 AM – 1:30 PM",
+            "Friday: 11:30 AM – 1:30 PM",
+            "Saturday: 11:30 AM – 1:30 PM",
+            "Sunday: 11:30 AM – 1:30 PM"
+          ],
+          "secondaryHoursType": "LUNCH"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 19,
+                "minute": 30
+              },
+              "close": {
+                "day": 0,
+                "hour": 23,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 19,
+                "minute": 30
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 19,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 19,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 19,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 19,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 19,
+                "minute": 30
+              },
+              "close": {
+                "day": 6,
+                "hour": 23,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:30 – 10:00 PM",
+            "Tuesday: 7:30 – 10:00 PM",
+            "Wednesday: 7:30 – 10:00 PM",
+            "Thursday: 7:00 – 10:00 PM",
+            "Friday: 7:30 – 10:00 PM",
+            "Saturday: 7:30 – 11:00 PM",
+            "Sunday: 7:30 – 11:00 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Hindustan resort, At post, modi green house, Guhagar",
+      "reviews": [
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5dDhQa3BnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Decent stay, stayed here for 2 nights.\nReasonably prices,\nRoom and washroom were clean,\nFood was tasty and Reasonably priced.\nThe plantation in the resort is very nice, very nice for morning and evening walks.\nOverall Nice place for couple and family,\nHighly Recommended.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Decent stay, stayed here for 2 nights.\nReasonably prices,\nRoom and washroom were clean,\nFood was tasty and Reasonably priced.\nThe plantation in the resort is very nice, very nice for morning and evening walks.\nOverall Nice place for couple and family,\nHighly Recommended.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Neha Nayak",
+            "uri": "https://www.google.com/maps/contrib/103550497598191646508/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtu59ls2jDKsGt6NpbR70J806SHzDV76mUXqEsJjgv0Oyv8GCH4Q=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-14T02:53:33Z"
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/reviews/ChdDSUhNMG9nS0VJQ0FnSUREb0o3R3ZBRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Too good for the price, just 5 cottages ample space, awesome food and customized order. Rohit the host just 21 yr old kid but what a experience we had.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Too good for the price, just 5 cottages ample space, awesome food and customized order. Rohit the host just 21 yr old kid but what a experience we had.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vaibhav Gawali",
+            "uri": "https://www.google.com/maps/contrib/116362234509253624743/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAq1waV8pr4XBsOIGQhvPVVQjAkfT9hC4py4PQR1DXarWJmJae=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-04T08:58:36Z"
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsN1BLdEJBEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "The location is 15 mins away from Guhagar beach.\n\nThe most affordable and calm place to live around. The service is top notch & food is really good.\n\nQuite spacious rooms to relax and spend time with your loved ones.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The location is 15 mins away from Guhagar beach.\n\nThe most affordable and calm place to live around. The service is top notch & food is really good.\n\nQuite spacious rooms to relax and spend time with your loved ones.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amrut Labhe",
+            "uri": "https://www.google.com/maps/contrib/101614155109707729519/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvXtE2XdZ-N3ILKoJhcFvdkL7QKQ5vLq0CFyhhygnp4d7O0UFI=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-11-14T15:57:14Z"
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/reviews/ChdDSUhNMG9nS0VJQ0FnSURsck1xemtRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Well maintain Resort, clean and neat rooms.location is awesome. If you want peace then this is perfect destination for you. Staff is very much helpful. Owner Rohit is so humbled. Food quality is superb and rate also reasonable. No network issue. Wifi is available. Blindly go for it.\n\nRooms 5/5\nFood 5/5\nLocation 5/5\nHospitality 5/5\n\nThanks Rohit and Abhijit sir for making our stay memorable.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Well maintain Resort, clean and neat rooms.location is awesome. If you want peace then this is perfect destination for you. Staff is very much helpful. Owner Rohit is so humbled. Food quality is superb and rate also reasonable. No network issue. Wifi is available. Blindly go for it.\n\nRooms 5/5\nFood 5/5\nLocation 5/5\nHospitality 5/5\n\nThanks Rohit and Abhijit sir for making our stay memorable.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sameer Pawar",
+            "uri": "https://www.google.com/maps/contrib/105246976757791992265/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3Z0iisCenSSD2XkgC4jnLyOFVG-0DbrxcjHPgnSpl5uEZr8DC=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-11-30T17:05:25Z"
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/reviews/ChZDSUhNMG9nS0VJQ0FnSURWal9EdklBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I would highly highly recommend this place as everything from service to private room stay with a private porch and greenary and service provided by Rohit was perfectly A class. We enjoyed the homemade food for dinner and breakfast and the staff are very cordial and friendly and the added feature of animals around makes the place more homely and beautiful.\nSpecial thanks to Rohit for being so hospitable.\nThe stay was amazing.\nHighly recommend",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I would highly highly recommend this place as everything from service to private room stay with a private porch and greenary and service provided by Rohit was perfectly A class. We enjoyed the homemade food for dinner and breakfast and the staff are very cordial and friendly and the added feature of animals around makes the place more homely and beautiful.\nSpecial thanks to Rohit for being so hospitable.\nThe stay was amazing.\nHighly recommend",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vaishali Ratnam",
+            "uri": "https://www.google.com/maps/contrib/107840142446927159355/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJf2TNidlZW4SVaNQmJt48FCxozm8vm9JDlMXukQ6XGdm09Zg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-18T15:07:40Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJaTxEWIWiJhsNYoMa7R6b08kjWKqwulruLWBXdPvyzTHpf_scKi6ThKNKpXp5FrHb2KiDTjUh5gCfuoRoz1u-oV-GIciTvOmdcWmFQ1-daQ-7OeE65cvRyIluKHWjlEo0QX21MU8J6KQyMw9WJC2MBdrQNbvAc-t3mM",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJZB0GUY49YlVpN_MxfNwolUe9sILbvI9PUylvQD0coRu79k6FU1hosRWQt7iWbfdh_zWs0S5RzHbsd-C9UOZ4nqkEtY84tK2NLg8PX8rTxQl3saTI2GpDLi-EryEsLx4_SuyreLP2TYmdidD8Or_QACr7sabvi9PBDw",
+          "widthPx": 1600,
+          "heightPx": 1198,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJYPz0S_HDMO8FHFAzhVOq-SwlIZlDcoC8asmanddk5Exduyqe2ZzyoWCFPJr1f4t38MQeSGyH6D_g5DEZO1K1Y9NFI2RkBVLyhE1-4bKR3APJY0_RQgVlqYOYT2woXF9p-KoxZLaTV5_RtJjhbTndMNu5CAZ1Ukacu9",
+          "widthPx": 1079,
+          "heightPx": 802,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJYrDBsuxf62WYaNcem98PvRTvuVkYeSm3bUVllZIkb4N-TcjryzZLxmKSrpz8g018drMLHXOF6TEAMj0JZYPUYufZ2JnRGPXe_dwS1U9D0SRQuaN6GNFVg4GeXKapoNhZpCzkii2rtGl-yZ1aW4OpxUFC5ziTswWS8_",
+          "widthPx": 1032,
+          "heightPx": 581,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJZUQNQGMqoE_05vhE-EF6je8rZIemf_ixtNvCqj_l6EfSxrgdEfDhF2NTXORtSiaq6C5fafEE3kirUrCAilfHycjwyWFphlx6VLodgsKe9svXQEFe3RdNdTwRcwlBz_hwfH7KFC-U9YOKn2yl11BnalaHnVMw7PDJ3j",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJYiZvUkxzNfp_G-l3EEqTb7PdwlU1QheMpane8qR38ZgSJZRITpGD-78Wnq_FPXdqHhEjgn3J5gi0nCYeVeCEw2FOpvqUcSAPEGbKLGZVAKD-LsiSeGhShZhau7p2G6vWtYweJ9-TkOm6KoNyXIcGCPaUHqQ17ZtuLg",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJaLaVzZzewpVDEhO0pqjH9Jsy1nbEhAbfwEKl2eOvthyl9KUUDY7kCp0KFGJ-yk_ZUN8wU00Ed8IUoDi2MvAsz_ShM4g8VlHXuYqHYgaBXHCH7vwHjlZ61GsCFIhJsQ_FPbz9ocEl9lhbNPf41OMMilpF16z-5eHaf8",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJbNVAp3V3RJ3-wmUUtahokoK4Fhl-M2d8qgsOux6lx9p3TN1h-Y9cygUGgB6lzEImtCWV_q1Hveso-brvTZSNSEsihQJ202PxVE8nvI2niIJjwjCl7urTlu_1xdA5M2HXoJWIHnEvGtUYEkKZBvKOiloNceYUcFB2ZS",
+          "widthPx": 3436,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJb8I9Gvq9Is-afaB92PSXv-E1AxE-mvaUAoGBnj8RNJuZKVvbY-ra33MAWHO-oUoNIpWbJ7c8rqzGUyZnQQRNS1_qeLoKXwIdBhlzFct-sKeeBa_rgkD17WYdVrcqXU5svwRgmlrL2itJtorDcuCAcZeIUluebDnom-",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJf1whHODt6TsRnV7CMZUPr5U/photos/ATplDJZCTZu8Br5RWgNfPdmUBb0hffaPDZRdeQ7b54vYESrfXd9J6jlS3AlH-L_vRs3uzA29RckB1RU2uDdM5xh51MAHCrVWpoaCofF1vG2jXm2fxqPAMoNzyC6nWogpEPB2gdYaI_imTQX7if9-DhRGeEnqHaq-VqeiDmD4",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Hindustan Resort",
+              "uri": "//maps.google.com/maps/contrib/103121551037243923232",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7zXfzRPEWvAKZLoXYKTbGQNZvRMvDBv1Y0wo2JI1Ah7dJVg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM",
+      "id": "ChIJhyYCc83t6TsR1AwQxcxyHKM",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "090498 38334",
+      "internationalPhoneNumber": "+91 90498 38334",
+      "formattedAddress": "At post, taluka, guhagar, Anjanwel, Maharashtra 415634, India",
+      "addressComponents": [
+        {
+          "longText": "At post",
+          "shortText": "At post",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "taluka",
+          "shortText": "taluka",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "guhagar",
+          "shortText": "guhagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Anjanwel",
+          "shortText": "Anjanwel",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415634",
+          "shortText": "415634",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9MH5C7+36",
+        "compoundCode": "H5C7+36 Anjanwel, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.5701626,
+        "longitude": 73.163050900000016
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.568805319708503,
+          "longitude": 73.1617207197085
+        },
+        "high": {
+          "latitude": 17.571503280291509,
+          "longitude": 73.1644186802915
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=11753395351335210196",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "At post, \u003cspan class=\"street-address\"\u003etaluka\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eguhagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnjanwel\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415634\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 45,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Sea bliss resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 10:00 PM",
+            "Tuesday: 9:00 AM – 10:00 PM",
+            "Wednesday: 9:00 AM – 10:00 PM",
+            "Thursday: 9:00 AM – 10:00 PM",
+            "Friday: 9:00 AM – 10:00 PM",
+            "Saturday: 9:00 AM – 10:00 PM",
+            "Sunday: 9:00 AM – 10:00 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 22,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 10:00 PM",
+            "Tuesday: 9:00 AM – 10:00 PM",
+            "Wednesday: 9:00 AM – 10:00 PM",
+            "Thursday: 9:00 AM – 10:00 PM",
+            "Friday: 9:00 AM – 10:00 PM",
+            "Saturday: 9:00 AM – 10:00 PM",
+            "Sunday: 9:00 AM – 10:00 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "At post, taluka, guhagar, Anjanwel, Peth Anjanwel",
+      "reviews": [
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUROb0t5RlNREAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very close to sea water that you can hear voice of waves . Authentic food served by owner was delicious.  Rooms were so clean and fresh feeling inside.  You can get to see some points very close to Hitel . Must visit atheist once with. Friends for chill- out.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very close to sea water that you can hear voice of waves . Authentic food served by owner was delicious.  Rooms were so clean and fresh feeling inside.  You can get to see some points very close to Hitel . Must visit atheist once with. Friends for chill- out.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "mandar salvi",
+            "uri": "https://www.google.com/maps/contrib/108130348642200710776/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRVqPyXI05cFrPNze1CQaR0YnVFy_Oip-ANkodDRT-ACa0iw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-19T18:46:13Z"
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/reviews/ChdDSUhNMG9nS0VJQ0FnSURkb3VyZTR3RRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 5,
+          "text": {
+            "text": "Perfect stay to enjoy sea view and authentic Konkani food . Many places to visit like Light house, Fort etc are also very close by.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Perfect stay to enjoy sea view and authentic Konkani food . Many places to visit like Light house, Fort etc are also very close by.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manish Mule",
+            "uri": "https://www.google.com/maps/contrib/108596088990731157402/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJTII7ILusykAqNsML5vGHUXg_unXkWm7PUgkkFGWhD2yY0ag=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-17T08:20:59Z"
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxN3Y3SmhnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A charming and cosy family-run hotel situated in a scenic coastal village right by the sea. All rooms have a sea view and it’s an idyllic place to relax. The food is just too good! The family cooks proper authentic Konkani meals that will leave you wanting for more. I stayed for a long weekend and couldn’t have been more relaxed and well-fed than here.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A charming and cosy family-run hotel situated in a scenic coastal village right by the sea. All rooms have a sea view and it’s an idyllic place to relax. The food is just too good! The family cooks proper authentic Konkani meals that will leave you wanting for more. I stayed for a long weekend and couldn’t have been more relaxed and well-fed than here.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Saurabh Thackeray",
+            "uri": "https://www.google.com/maps/contrib/108241789205385351390/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyXljZYsIJV84hHhCaENtexOPnVlO7MryygrTVvrBOs8D2c8BTug=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-01-07T07:43:00Z"
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/reviews/ChZDSUhNMG9nS0VJQ0FnSURWcHZqWk1nEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice place, beutiful and clean rooms,the quality of food is too good and very fast service,you should visit once.....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice place, beutiful and clean rooms,the quality of food is too good and very fast service,you should visit once.....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nivedi Parab",
+            "uri": "https://www.google.com/maps/contrib/107986424646292527928/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsgDihgAb1r8_R-XLX5lDYrC2k8vURJGxWXsQTEb_9dya4YQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-12T17:05:07Z"
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxbmQzYkl3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "A nice hotel run by a family, situated very close to sea in picturesque village atmosphere. The hotel is maintained well and still being improved. Homely meals is something we truly enjoyed. The hotel is also situated fairly close to Dhopave Ferry crossing from where one can easily go towards Dapoli, Murud, Shree Harihareshwar, Mumbai etc on one side and of course Chiplun and Ratnagiri exits are very close from the other side. We enjoyed our stay and recommend the same for families.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A nice hotel run by a family, situated very close to sea in picturesque village atmosphere. The hotel is maintained well and still being improved. Homely meals is something we truly enjoyed. The hotel is also situated fairly close to Dhopave Ferry crossing from where one can easily go towards Dapoli, Murud, Shree Harihareshwar, Mumbai etc on one side and of course Chiplun and Ratnagiri exits are very close from the other side. We enjoyed our stay and recommend the same for families.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Parag Pandit",
+            "uri": "https://www.google.com/maps/contrib/101954046157311936218/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHI3zLqCCZ0MibgWVWlGo7y5sTq4OkBLOD89ScuIxDVYJ20sev=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-02T14:53:15Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJb2yik6SfGkNAh-W2DsvzHmCeJgBcoA4BkzVzJgyuU3bX2pzqizK91m55MpBbBT64Vm0F-v5F7i5Mq8k-NzXaCP8G_9OcWHauDwF2X_NEJhqrwBHuZaGJZBYlm2zexWCyIZp5bJZmgnJk_PF_AsHgzfb05TPLJtyoJM",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJa7HVWsdV3ztriBowfs8YQCCTy0f2xqJJl3myKfwC4-MPrfJ4B9EcvRjigYi8xJ5dZpUNNdEDnb0tYxqknw1pSLFJuupTJALgDyFqew5400ZftokXOjEiU3a7p4oFv1FHltnOAXY7qXVYQ42fimwJK6Pa1eEupbhI6x",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJbsI_huhJMdlY-qZZ6f7UvfJUlUlDirlwMRTs15nrqlJa3oOa3IaVvuHzEkzx8UKRFyVzH8xxW_tkCTeRETCtx5MeVhIcgfSPiG0yYhQnYjXTy_kjOYQlvVq8ok3kZBSIq_S5jR_tNT6ZYLu8BdQzhuwyK8KrrMmC-L",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJbgmwfcOaepKApZKsm211kFc9e4FGSUHc3OPvTejNJ-6Rs2HNhmN2bl1Mi4f_7ROSeV1fhMKT_dgy70JatT4dAiwPCpGJb-LywVlwPFY6-kHcOs35j1M2dLrVPmGVDXppHFyCtau3vfqYVYTnm5hWeohcmwc6W2Wj5m",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJaMxyCK23D7u432-m8yIplEZ4cTULcVgwcZqO0ks0vBnRTwAT7yzZ75pIZbSc4DXQoVJVu4B3Gjh_j2rFzxU6RzAKuaqVrdvlCfHN_CGam99GsT0G1TR24CnyoXN8YtqmrUNL3unGTIOiUsrJqYloYGfrlR0UspDvGV",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJaE9Nd33EIW1ZokIylOzX_rukRmtGLQ5Msd3FyA80vIG0mTE_XGl9j9gL3RPueD-PWsKrmAlEwwXWNIjhyi4sWB_rhuXH1LPandhrt_8fMRYU26NdgsIShH_i3zmS64TljctwL-uR5ugXyxBgiCGBsHiXd6AmDAYVJM",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJb2IAzeeGE8zhoNyCjveP2PsKZW5opagzdUScFucmqUUu9fpFjcHjFFF9I9Qe0EUV5gxD1Kuqz2Jwt5BlbosrzsiMvLIwUtQeiyJ4vGwEVHdUlxaamHZWHgSc5objOENYMFILrGE4uQvMXQpi75FP9OPuFl0ffAXhuE",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJYiKFvqidVIx4QNby1XD-mz7SU6kfxthwfqAUeh9KEk30MGFLzF7b5QalEabG5go_VFTiBS6PSmS9G29HYO_G6HpxtVPxZ8QNWPcKiEU7XBcy6YmOAKYNWeSK5quZgCPuPDBBuABKyQnlwdZFXHxU99m8bFaewgApA9",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJZKNX4Rm7OC6T_Tfo103VVog9bKzTci6xQd4MKM9L5m6JyZxfVGEMsvc0bzaTEg2R3ztwfm1tQUCjaRVx6nrwNkWwh9tXgkax5767bF4FZyikc76ciNd21Uc4mtM86ZRwOI32IZ91ImCAewW9XIneJjS0JXAxZa4NI0",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJhyYCc83t6TsR1AwQxcxyHKM/photos/ATplDJbHfjIDFPRx6hNkWkhdOw2Vt6QRKUzNaIKCfWRvTCmcTO2BmRbrvXZMIAJfCpcUMaf38DhDDjKpf149JBES5Mb4h2EB6cXSAYzbDaSaRvH4J6KieS0pWYwIlN2ZJoCgxrXKnGa4yyD8NSljGGNTLU20kxuv26YpAFrd",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Sea bliss resort",
+              "uri": "//maps.google.com/maps/contrib/101796590280994041160",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVPJaKkfH9EaFF-O29aYtOAkH6TFuOtnch6ZkVhmiWwinPGnZk=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak",
+      "id": "ChIJQRjuivjv6TsRoQhP7qbtWak",
+      "types": [
+        "hotel",
+        "private_guest_room",
+        "farmstay",
+        "extended_stay_hotel",
+        "vegetarian_restaurant",
+        "resort_hotel",
+        "storage",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "085519 97050",
+      "internationalPhoneNumber": "+91 85519 97050",
+      "formattedAddress": "Are Village, Guhagar-Veldur Road, Taluka, near Dhardevi Temple, Guhagar, Mouje Anjanvel, Maharashtra 415703, India",
+      "addressComponents": [
+        {
+          "longText": "Dhardevi Temple",
+          "shortText": "Dhardevi Temple",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Taluka",
+          "shortText": "Taluka",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Guhagar",
+          "shortText": "Guhagar",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415703",
+          "shortText": "415703",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9MG5FJ+5W",
+        "compoundCode": "G5FJ+5W Guhagar, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.5228981,
+        "longitude": 73.1822746
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.5215685197085,
+          "longitude": 73.180915119708487
+        },
+        "high": {
+          "latitude": 17.5242664802915,
+          "longitude": 73.183613080291508
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=12203045966555580577",
+      "websiteUri": "http://www.whitesandretreat.in/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Are Village, Guhagar-Veldur Road, \u003cspan class=\"street-address\"\u003eTaluka\u003c/span\u003e, near Dhardevi Temple, \u003cspan class=\"locality\"\u003eGuhagar, Mouje Anjanvel\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415703\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 97,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "White Sand Retreat",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Are Village, Guhagar-Veldur Road, Taluka, Dhardevi Temple, Guhagar",
+      "reviews": [
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/reviews/ChZDSUhNMG9nS0VJQ0FnSURkbTZqdlVBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "The rooms and services are very good, only the location is far away from main area, beach or village. The transport not available here, You must be book private vehicles, taxis or auto's to go there.They are expensive.\nThe sunset or sunrise are shown from room.The jio network is available here but internet work slowly. The food is also good in taste. They serve Thali having variety of vegatebles, sweet, roti, dal rice, salad and papad.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The rooms and services are very good, only the location is far away from main area, beach or village. The transport not available here, You must be book private vehicles, taxis or auto's to go there.They are expensive.\nThe sunset or sunrise are shown from room.The jio network is available here but internet work slowly. The food is also good in taste. They serve Thali having variety of vegatebles, sweet, roti, dal rice, salad and papad.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravi Pardeshi",
+            "uri": "https://www.google.com/maps/contrib/111970956232070882611/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrStNvLL5zNFIDNjWUyntVxUi87aCJEEvE9F9j5N98Fanpgg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-27T12:36:10Z"
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0cnBQdzZRRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Great host Mr. Chaitanya, great on property staff - Mr. Jadhav. Nice clean cozy rooms.\nSituated on a small hillock away from the hustle and bustle of Guhagar town.\nOnly issue could be beach is at 20 - 25 mins walking distance and Vyadeshwar temple is 15 mins ride.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great host Mr. Chaitanya, great on property staff - Mr. Jadhav. Nice clean cozy rooms.\nSituated on a small hillock away from the hustle and bustle of Guhagar town.\nOnly issue could be beach is at 20 - 25 mins walking distance and Vyadeshwar temple is 15 mins ride.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sagar Gogate",
+            "uri": "https://www.google.com/maps/contrib/116381666850675725335/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhk-3PceBipMwphJOZszDj0vF9rRORfRLXTvqoN7T_UDxG2cG2=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-30T10:36:02Z"
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxZ3BpNWt3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best rooms and room service\nGood food and ambiance\nThank you Santosh kaka for good food as well....\nWill definitely coming back",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best rooms and room service\nGood food and ambiance\nThank you Santosh kaka for good food as well....\nWill definitely coming back",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pranali Girme",
+            "uri": "https://www.google.com/maps/contrib/114968608828157431860/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTunOUevii6jRN_wsbp-MlRQffNzZLHaOxHsiF3_7DZieRBJQC=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-25T19:16:08Z"
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/reviews/ChZDSUhNMG9nS0VJQ0FnSURaNllINkN3EAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "White Sand Retreat is a perfect home away from home. Right from the booking stage till we vacate, there is a touch of professionalism.\nThe resort is located just off the SH4 and has multiple row houses.  There is adequate Parking space infront of the row house. As soon as you reach, the host Santosh Jadhav is ready to receive you and ensure guests are comfortably checked into the row house.\nThe interior design of the row house is exquisite, fabulous. Within an area of 250sq.ft, the row house has everything you need or look for. It can comfortably accommodate a family of 4. Each  row house has 2 rooms one on the ground floor and another on 1st floor with internal staircase to reach. Both rooms have independent Washroom ( hot water geyser), Split AC, fans, TV, balcony for sit out etc. First floor room has Master Bed ( with ward robe) while ground floor room has sofa cum extendable double bed.\nRooms are sparkling clean, with cleaner linen, towels etc. They do provide soaps and dental kit.  Each row house has a small lawn at the front for sitting out and each row house has fencing for privacy. Salute to the person who has designed and organised the row houses, perfect for family of 4. And all above is pocket friendly too.\nThe resort has inbuilt Kitchen Serving variety of veg & non veg food. Taste is superb. There is a foldable dining table with 4 chairs inside the room for comfortable and relaxed dining experience. Santosh and his team are avaible at the premises 24x7 to cater to every need of the guests. Service is outstanding.\nAll in all, it is truly an exhilarating experience to spend a brief vacation with family at White Sand Resort. Would love to go back once more.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "White Sand Retreat is a perfect home away from home. Right from the booking stage till we vacate, there is a touch of professionalism.\nThe resort is located just off the SH4 and has multiple row houses.  There is adequate Parking space infront of the row house. As soon as you reach, the host Santosh Jadhav is ready to receive you and ensure guests are comfortably checked into the row house.\nThe interior design of the row house is exquisite, fabulous. Within an area of 250sq.ft, the row house has everything you need or look for. It can comfortably accommodate a family of 4. Each  row house has 2 rooms one on the ground floor and another on 1st floor with internal staircase to reach. Both rooms have independent Washroom ( hot water geyser), Split AC, fans, TV, balcony for sit out etc. First floor room has Master Bed ( with ward robe) while ground floor room has sofa cum extendable double bed.\nRooms are sparkling clean, with cleaner linen, towels etc. They do provide soaps and dental kit.  Each row house has a small lawn at the front for sitting out and each row house has fencing for privacy. Salute to the person who has designed and organised the row houses, perfect for family of 4. And all above is pocket friendly too.\nThe resort has inbuilt Kitchen Serving variety of veg & non veg food. Taste is superb. There is a foldable dining table with 4 chairs inside the room for comfortable and relaxed dining experience. Santosh and his team are avaible at the premises 24x7 to cater to every need of the guests. Service is outstanding.\nAll in all, it is truly an exhilarating experience to spend a brief vacation with family at White Sand Resort. Would love to go back once more.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sateesh Dixit",
+            "uri": "https://www.google.com/maps/contrib/100859520932272150245/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJP5M9V4yr5kp97QAKzXmB-STwYfJl2I4VbNwoYgWpmfKzFhA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-10T00:59:09Z"
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/reviews/ChdDSUhNMG9nS0VJQ0FnSURSanRqVXZBRRAB",
+          "relativePublishTimeDescription": "12 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Each and every aspect of the resort be it the ambience, the staff and location is just amazing. Especially, the food you get to eat is so delicious. Totally worth spending the time and money here. Our team had a good time here and would love to come again.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Each and every aspect of the resort be it the ambience, the staff and location is just amazing. Especially, the food you get to eat is so delicious. Totally worth spending the time and money here. Our team had a good time here and would love to come again.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Divyanshu Madaan",
+            "uri": "https://www.google.com/maps/contrib/105015367315891547970/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLyGaBtu69UbYAa3b1w75QvDrZA1BreSzcf7V4SiSEeFevQPA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-04-25T07:42:43Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJZYlQDJC1FMFBmGYlgmb0r35fIgyiQahFliILm8vbPAlrIbs_-_maBKDksPQLc5x9zrQNDp5Ek_QH_Sjt76VGHv4EP-HQa-28cs-3gA4VVQi9w_z-cnwNcop2mOOVj4LgMqnCkI9LsUVB2vV6n4HchKhxYL-oeSD38z",
+          "widthPx": 3999,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJYt1c5hwpU4sKCMjMFDDs9Qn_qMC5w1712XWlsGQcZnnUn7v1snJqv1EAn5qTgt0K7hH3Dn5x2q5II2uTPeHcRFcPBpiyj5VXBTesuOC0sJRMayhYLOhaxVMR2bttW4u102ulKphVo6Uw9N3CNWo9oKrLuk07PO7NV4",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Mighty Magpie India",
+              "uri": "//maps.google.com/maps/contrib/105361288921527436970",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVYqrpD4nytYIiHQW23CEFRJMJRDMV6q9fKqhmo1Y-6UUP0E4c_SA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJaoNaU2WksxxRhzoRjbflR2VLXWu1kHHYquYqQlzkEMCESsHVDNGcuXprfIgGkFVKL0BmT0Gp87q_kyk1W2uI7bdd5i1owetB3pll-Pq92Wl5ZqaR8QKGXUJmQeOGK1YE5m23hBRb2EFV6Q-H1XrmwgrPpCFFqeQbiA",
+          "widthPx": 1887,
+          "heightPx": 4192,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJb3NFO5sn2iNRawsyiWq3d065L4qs31Wz-3ipGhAD8AK4SaTcbt49El4GkHWJB3wY8AyuQYNZkvh0XszoHpkpu4soAoxuyEIMFIy8XaxTzmnBRbPcXZ03DuZ5MZIAPs1hgeuwZRHmQQpWbk4sbAcGC1OO89CntskjaT",
+          "widthPx": 1152,
+          "heightPx": 864,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJa4EqgkvQOJMd49ct0ehhFl48M32fLYAx8zza3OAnVKR9R_nX7d466CKpwaSf0Agl0jGSB8L8LI8x1sKwvzv5EClonJNupX87pP1FCYV8egLY0WTaYlvg0CjVSH5LaCmivFTPvezz7xM0dqpNDHZk_8u-mhMbDZUbgB",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJatfR4K8xXpzomPP356TxyEXyEdXTtM6t3EExh_7H8e_46hlHFGLqYnMZswrxZijdbuGugC1EtmJDI2ZMWj9lBUhB-EvGLREwySxKFYq6qWXvpFpvQQvnLrMb5Ha28N9tCCcKuW80FoOawLhAkie44XBtilcAdH17ND",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJYZ3cQLIKgaxzwPshmQycRAoPJ0HeziWc6bcr_BlXZ8X9y0Tieb4kQoxoVpVoIh_tSALIm-jMbRmak3aYCtAkYmOMO7IkWj_lk7UoQqgRx03Dx-ttBdC3zpVey4v6KZiBVHE2kUFCA9CBbwICrhSBOoa9R9ZZ0X9cA7",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJbPXPAj1-A-VMrLmUoowb15lIdz9p8tZmrBNHId-ddli0O2xTvqT5pxnTsk85c_DKXdHJXx0H1JDNIlzPxmKF32GvbrmasIxzytgVOunPrIIt3CfWhV0RfFAneMAban98xWyE81ewRU7RDx4TBWvK4_SDC0KYbqXyBJ",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJb1nF6r_YBhxc9Md3SxJRjGpor3eEVerMKMSiDSaxa647CU0EXeOD1s5NK9hL-HUS8Jc8FVrr0NZkRPrbJxbXMX1qpx12gEUa5zGPiC7EQ2Y2QE4zTQ-_mua5QDeilQQy_qKO77yFs8xhpS9iuKbyCwA9uJE-6sb8n8",
+          "widthPx": 3999,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJQRjuivjv6TsRoQhP7qbtWak/photos/ATplDJa_UJnP_ZYSy-zbixmf2MV369z4frpFWrxsQYFqnX5cYATjr6kCd26shmYYTdJ1lbvz-2uNCDKuJPHvFYGIBeigADzzZEEbz0LDy0AW7uIpzV7NIWrBp3oggqnMT8csYG6PlFEUXsalyn5yNvJU3UXZZWyerdpEJFaw",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "White Sand Retreat",
+              "uri": "//maps.google.com/maps/contrib/102238585479831765094",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWObOJgjFrU24JDdL-AmqvJ-YAUOi_lsgzhTdZMa4atRC3U7ZG5=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE",
+      "id": "ChIJmX5_rxHu6TsR2sCrS9Un0oE",
+      "types": [
+        "hotel",
+        "resort_hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "093070 95096",
+      "internationalPhoneNumber": "+91 93070 95096",
+      "formattedAddress": "Baji road, Bramhanwadi, Arey, Guhagar, G5CW+XHW, Are, Maharashtra 415719, India",
+      "addressComponents": [
+        {
+          "longText": "G5CW+XHW",
+          "shortText": "G5CW+XHW",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Are",
+          "shortText": "Are",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415719",
+          "shortText": "415719",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.5224978,
+        "longitude": 73.19644989999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.521025419708497,
+          "longitude": 73.195069219708486
+        },
+        "high": {
+          "latitude": 17.523723380291504,
+          "longitude": 73.197767180291493
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=9354583173053006042",
+      "websiteUri": "http://www.aaditaal.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Baji road, Bramhanwadi, Arey, Guhagar, G5CW+XHW, \u003cspan class=\"locality\"\u003eAre\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415719\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 30,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Aaditaal",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "G5CW+XHW, Baji road, Bramhanwadi, Arey, Guhagar, Are",
+      "reviews": [
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJNGZLN2V3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "The best place to relax amidst lush green trees combined with very humble host couple Mr n Mrs Dixit. YOU WILL NOT FEEL LIKE GOING BACK.\n\nGuhaghar beach is close",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The best place to relax amidst lush green trees combined with very humble host couple Mr n Mrs Dixit. YOU WILL NOT FEEL LIKE GOING BACK.\n\nGuhaghar beach is close",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abhay Dhoke",
+            "uri": "https://www.google.com/maps/contrib/101184417945067142690/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9mlD-QwN__NpMVhcVAqLAGYPJyWHl-BZ23GVSgaXX6-yHDex0ig=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-11-20T05:30:50Z"
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/reviews/ChdDSUhNMG9nS0VJQ0FnSURDay0zSHJBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very awesome place. I would love to stay here.\nPeaceful. In the lap of nature. Must visit request to every nature lover. No TV, No internet. Njoy your stay",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very awesome place. I would love to stay here.\nPeaceful. In the lap of nature. Must visit request to every nature lover. No TV, No internet. Njoy your stay",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Niwant Gadgil",
+            "uri": "https://www.google.com/maps/contrib/101635104076259689413/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-QtXITT3vSFef5aBdLi8oRiQdeB1fQhGz2kYVWIvSNhOeBGytiA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-10-12T10:22:26Z"
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/reviews/ChdDSUhNMG9nS0VJQ0FnSURJNjZhSC1nRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place amidst lush green nature. Place is near guhagar beach. Awesome host and nice food. It was peaceful and serene. Surely stay again !!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place amidst lush green nature. Place is near guhagar beach. Awesome host and nice food. It was peaceful and serene. Surely stay again !!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Satyam Rituraj",
+            "uri": "https://www.google.com/maps/contrib/109757192394547135996/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXR47elAnKkILExBAUUWnJ34wvMMCXqFNPKY8J3ooKAdnwE_bypqQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-01-22T11:55:33Z"
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeU4zLTVnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Good stay, spacious rooms.., Authentic Traditional food served at breakfast and dinner..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good stay, spacious rooms.., Authentic Traditional food served at breakfast and dinner..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ganesh Murthy",
+            "uri": "https://www.google.com/maps/contrib/107379883983975498203/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIw6TBlAsvc3Cz_pAex5GlCOM27-GTxALug0It70Rgo9dPeJw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-02-28T07:43:57Z"
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/reviews/ChZDSUhNMG9nS0VJQ0FnSURRMC1qdkxREAE",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice, cosy place away from hustle and bustle of the city. Good to relax with family and eat home made food. Fish served on request.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice, cosy place away from hustle and bustle of the city. Good to relax with family and eat home made food. Fish served on request.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tejas Nair",
+            "uri": "https://www.google.com/maps/contrib/114590017918004691059/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdpcwV1Atbk0ayhTZxqGdTFjkhglRou6rjTxdv4-1QZxdvUdy9=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2016-05-07T10:54:38Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJb7iFgHICt2xR9S6xsyhN2V2RqvZGkJ5ORGBwzb7jNr2C42IoSnIjhbvpsdI5FAv5bNjPM_OaV465GknNZpl1jLZxrK5IVkXGi1Vyw4QeqsYJ_mLgwE_QIAzUJhd0qg2jrHvkRnYycEeuxVbSy4wKs6hbSl4NYUOcG6",
+          "widthPx": 2592,
+          "heightPx": 1944,
+          "authorAttributions": [
+            {
+              "displayName": "Shruti Kunte",
+              "uri": "//maps.google.com/maps/contrib/111258849693727339194",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWRwPs0bkAQOcs0kQhvK8AWnXNdZ0_QSjqBkFi49jD8oRVhf-pZ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJZdf6s3C0yTd8Z95MSVIPxJ8fqrcnifcECS8GaKxpkTxqmqgt5YhWqvkSmVcDxF6Gr7Nt2jD2AnH5ByuhHVlp4L6LWTmWxsQoX97gA-ZEZnZUG-p-SSLqSquO3BlEjGNPtdNP4bjKIWEdsuO4eA45D10eFLcppj0KGh",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Shruti Kunte",
+              "uri": "//maps.google.com/maps/contrib/111258849693727339194",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWRwPs0bkAQOcs0kQhvK8AWnXNdZ0_QSjqBkFi49jD8oRVhf-pZ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJboUID11WqzsG1SdyZd5vucqsNTPKieQEwggSEkX7lG3KooPD4uKBzNf7R67jKcTXkc7tiHQjRI9iG6lFLGMMrfohjQwWc1HFNRZ75B40fJexEnLKwThBAadhCQ2-lKhKjCFL5-NHwRgrnAD4R5GJnG7N_lUap_kv3R",
+          "widthPx": 4048,
+          "heightPx": 3036,
+          "authorAttributions": [
+            {
+              "displayName": "Sameer Atre",
+              "uri": "//maps.google.com/maps/contrib/106985217696267884972",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUMamHH5crxKRY27_hwCkjSmLOxfVm9PK_wKVaeMaaUoxBaxww=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJaAhaLot98oGTiuxM-Q-CgThGuE3dEZH9IFK3ifccxmyXzjeNTcucr7R8cHO0_kAgZEdahgx_P-plroVooPstplK1ieir9ZrCDUvwouAN7tUAfbYrPqMkssdQHAKXFld4FTLZzGshMcvMxgMNq2N22i_Ci07FTRmMnh",
+          "widthPx": 960,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Niwant Gadgil",
+              "uri": "//maps.google.com/maps/contrib/101635104076259689413",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-QtXITT3vSFef5aBdLi8oRiQdeB1fQhGz2kYVWIvSNhOeBGytiA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJbzhfyl8MKEjH-8a8ZakYuVxCcXgDvFvvkG-SBukFKDJJoQps-Fzt_o7ce8DDfCIjUnNhCC_Q66yy43QpOf-9jHQWs8a0MIEJ0T-_8ZTjSAdB5v0qkZvMmJym0KoQ6pO1yDq5Ey46fm3TiKgaxusCLB350xihe_TF6f",
+          "widthPx": 1280,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Niwant Gadgil",
+              "uri": "//maps.google.com/maps/contrib/101635104076259689413",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-QtXITT3vSFef5aBdLi8oRiQdeB1fQhGz2kYVWIvSNhOeBGytiA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJb0OQy05xgz2sbKD5ihEfvgG3BkyzkRlEJ8aNlIJtIzwq4F2-9KOIGu6U4SWHhFjtKFdz_0Tes0iQL9ZTC3rekaTmz_nTNelj2VC-Qb3AzhAkfwnpq2_6AtkDEq6xeQhLrXSD4wFDB0d1_YztxmJVc6m7KJZe04dyk",
+          "widthPx": 2610,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "WISDOM LAKE",
+              "uri": "//maps.google.com/maps/contrib/118041376370188684234",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVd77Y4Kt8rMCLGxGbyMyhXanBKK4CcbsJJYXs0vi_wgwwdrlM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJZWBpFoTXjE-gbtu8mNbSgBwP9bXxj8ePojCHb4C5lypXXIxAlEOOEiE2bbUjhOzBCDDVITxtPV7OnEdpH2HbC7IP9mc8UrHIHM5uy3q8NAcTqFXf-KFHQatPrJ1IgNzIr4aAUMISDRlTvjgFuI1hk7WBqb-JLg6OvB",
+          "widthPx": 1280,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Niwant Gadgil",
+              "uri": "//maps.google.com/maps/contrib/101635104076259689413",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-QtXITT3vSFef5aBdLi8oRiQdeB1fQhGz2kYVWIvSNhOeBGytiA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJZ9oOBD2qkIfaJrqz95atL9bl08rLGKdniA_KZDXJOtr312xDpnBzqIhcCQPfbomvHSSC2n-kdD0Do2ZdnEH7ihyehOoOATddzI3YtlfOE5EFxjmEIBfBzN42EBGJM358ZlcGI6IwfVs_RmVv9p7R4CxT3LoxZXujU",
+          "widthPx": 4640,
+          "heightPx": 2610,
+          "authorAttributions": [
+            {
+              "displayName": "WISDOM LAKE",
+              "uri": "//maps.google.com/maps/contrib/118041376370188684234",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVd77Y4Kt8rMCLGxGbyMyhXanBKK4CcbsJJYXs0vi_wgwwdrlM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJYQSDbS5oi-nFUguMyvN-PNpfhq9sj3_5w3R159Qiavnss3ORABiAOD5BkD9A8rPFTXT5I3nSNNClGFbPKdz_aC2rofBDZcliTf34cK-3iB1BXPjoZ40QWmOnKZAM5nrCOAJOCxzQ5YaV5QRioKs-CLgd_wVfpO61t-",
+          "widthPx": 1280,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Niwant Gadgil",
+              "uri": "//maps.google.com/maps/contrib/101635104076259689413",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-QtXITT3vSFef5aBdLi8oRiQdeB1fQhGz2kYVWIvSNhOeBGytiA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmX5_rxHu6TsR2sCrS9Un0oE/photos/ATplDJZf8D0RDoZ-5h_5vdr962EPnplPSDD9l8RMHaP6LWuDe5lvaf0GxPGcrcDtalxgIUheYJXGFNCrZk0QrnshC6ITKC_-GipiPpWztUYUj11KLFbunQiRuQEc6wXj6PyRp8XY8Xkx0LtmSC_aO1Ixcz6HUE8O1_DfTVU1",
+          "widthPx": 2534,
+          "heightPx": 1227,
+          "authorAttributions": [
+            {
+              "displayName": "Vilas Dixit",
+              "uri": "//maps.google.com/maps/contrib/118198372201277719463",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU6gtlb39xv7-xtqmP4Vz2IXurylt-vTGULKZfCd4YxU4NxQxKX=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE",
+      "id": "ChIJX9yMY-Tt6TsRbUh32ByE0LE",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "098206 65036",
+      "internationalPhoneNumber": "+91 98206 65036",
+      "formattedAddress": "At Post Dabhol, Taluka Dapoli, Dabhol, Maharashtra 415706, India",
+      "addressComponents": [
+        {
+          "longText": "Dabhol",
+          "shortText": "Dabhol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415706",
+          "shortText": "415706",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9MH5QF+6R",
+        "compoundCode": "H5QF+6R Dabhol, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.5880302,
+        "longitude": 73.1745634
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.586735869708498,
+          "longitude": 73.1732317197085
+        },
+        "high": {
+          "latitude": 17.589433830291505,
+          "longitude": 73.175929680291517
+        }
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=12812886199294707821",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "At Post Dabhol, Taluka Dapoli, \u003cspan class=\"locality\"\u003eDabhol\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415706\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 7,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Suyash Beach Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 8,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 10,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 8,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 10,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 8,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 10,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 8,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 10,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 8,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 10,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 8,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 10,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 8,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 10,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 8:00 – 10:00 AM",
+            "Tuesday: 8:00 – 10:00 AM",
+            "Wednesday: 8:00 – 10:00 AM",
+            "Thursday: 8:00 – 10:00 AM",
+            "Friday: 8:00 – 10:00 AM",
+            "Saturday: 8:00 – 10:00 AM",
+            "Sunday: 8:00 – 10:00 AM"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 10,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 10,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 10,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 10,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 10,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 10,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 8,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 10,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 8:00 – 10:00 AM",
+            "Tuesday: 8:00 – 10:00 AM",
+            "Wednesday: 8:00 – 10:00 AM",
+            "Thursday: 8:00 – 10:00 AM",
+            "Friday: 8:00 – 10:00 AM",
+            "Saturday: 8:00 – 10:00 AM",
+            "Sunday: 8:00 – 10:00 AM"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        }
+      ],
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "At Post Dabhol, Taluka Dapoli, Dabhol",
+      "reviews": [
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyNHZ1VEhREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 2,
+          "text": {
+            "text": "Location is good but place needs renovation.\nOnly good about my stay was AC in working condition.\nImprovements needed on - Room cleanliness, Windows, Bathroom (WC) leakage, bathroom window glasses, Curtains.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Location is good but place needs renovation.\nOnly good about my stay was AC in working condition.\nImprovements needed on - Room cleanliness, Windows, Bathroom (WC) leakage, bathroom window glasses, Curtains.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pranav Malvade",
+            "uri": "https://www.google.com/maps/contrib/101517305723500065055/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtQhNhJq16zXdzqJQSsBoXPB9PApkc6Zm1XZ7mbT_KBsAR1w=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-05-10T12:24:33Z"
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/reviews/ChZDSUhNMG9nS0VJQ0FnSUMybjhYeUFREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Place is very beautiful, it's 5 minutes walkable from dabhol jetty port and manger is kind and humble, maintenance and service was awesome, nice place to stay and roam.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Place is very beautiful, it's 5 minutes walkable from dabhol jetty port and manger is kind and humble, maintenance and service was awesome, nice place to stay and roam.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "d2ve rocker",
+            "uri": "https://www.google.com/maps/contrib/114650095095248523912/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgqiAhlLBDnY_Y8nCHS6zujwTSNFtVmlmHgXHz47Tj0twPUHI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-05-02T06:40:36Z"
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNjZEOVVREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Best resort I have visited today.The receptionist were really helpful & friendly.very Good place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best resort I have visited today.The receptionist were really helpful & friendly.very Good place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vaishnavi Wadkar",
+            "uri": "https://www.google.com/maps/contrib/105422882229197528201/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUicADin0VZy7b_lOoseRbsdlxmd7MDvJAIDDsqzO5Dvwt7UW9h=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-06-20T07:45:20Z"
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyZ2REdU5nEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "It was a nice experience to stay in Suyash Resort. Excellent service...👌👌👌",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It was a nice experience to stay in Suyash Resort. Excellent service...👌👌👌",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Siddhesh Navajekar",
+            "uri": "https://www.google.com/maps/contrib/113560493141894316250/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9tDCvdxmfat_RMX7Ykl2kyLwr9QMM1wzNEWLLLIy0g9ceNzlC=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-05-16T12:29:41Z"
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdHBUMVVBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place to visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place to visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "rahul thorat",
+            "uri": "https://www.google.com/maps/contrib/109597185172452529643/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI5-C9HpYzNbwwThPHX-xh_4z6QxYXrwuItd7DPlUQXR_hFoys=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-12-28T04:11:53Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJaABs6Mu4lzx5qZFRa5i_3QqaNaOAU3YIHGHkNsiDWbiKd7kUej3KkTkBoOw1Z8x-BVp-I85-ftcgoEqWcYxhKWKpgNRlZAlEsWfIedz3MzuAQihq4l69uJ0RJ0b88_a6jowlRRzsGx3YlwJfkjVW3p9de_TKd-Bu43",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJa-ANY33Bj7BgAJ3kCW8jsjOns_pIgdfU0ZfEr9ge6eItnVMxRlt-YWavClIHqAENokW_iusATPpdZmU8xHbjwygo3S7rLxlDc68suHaVX0J_G2s8UR-KI4j_KzCVLku3w8SE_tvMCAkghMkw2ak3U_oDo5MyC13XQv",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJZ5_rkHyzlWFMxGCnNrXhPJVPduv9xH2NPulAvfgNjaVXlLRT-Dtd2X8_9Aavt0uu-VhLYpBDREgjK4U0aZksbMsxD8qfcoVDDhwZmyYpFzR4hRHH1sF-inUr-a0hsj1hozmnJ8ZeNXe8hipZz5SzACg7ee3cXVGKD3",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJYQbI1ttWI1iORYXXT0K5ekWaGv4xjDCdE3_G35clHj7NJf8pPSEBuG54PW0ndytgUARRy5RBV5Sb5Ao1FMu0yknkgcp7GOOgjx-FuLhAXJbGsV4PdtuTzH6Jz9uvIGugk3vkxuswl1xAR6OJUyjlZA_dzLxtkqm_a4",
+          "widthPx": 3822,
+          "heightPx": 1720,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJbDqCpv9srDziFxVu6jS_xVopKttabqhAFZrTwSIqHDLnbXTDMkHX1OrQ_z7ku5dU97XC5lgkfNEwA1czteN9axIZo2mDOthmxvMpkg5-KPaLfZZyhMvsRbz8VC-7HX5xkyLFfLSh9Nn18-NyQ06CFdJKtEl64FQ33g",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJaOY_wRze0nuAJm7UUIuhIZBZOA_P6eR53XkoyV-jbNTYNFzAQbNghVaTTxQR4BrYGj15p552_PcLG4LEamaAHEHkO2d_i3dhXhZvfVby948JxRK8nX3g6MRdmhWNT6H6PwZj-luk7_BtVGcDdUtyA27E0Dg8Dnu6Ap",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJai1Ahc1Zh8sy1jqt5YEslphgBRLSRj65EYC03MpQZggtiFvCtiA0cJg4H-zoe4DsHi_Leudfem6RYJeH1VU-nDGXge2PKB2zQJTMLasUXM7WG8X96Gnx6NpggZHvw6AbpOtLT-dtj9Lq8ocN6N_HXWis2S9iysa2pn",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJYY3IVW1LQGECExzzUiGLJMlX0f1nbYt6NDrVdFuENsQV8FBV-zSJQVISaJcRpIrRqnKEBKrDbZd440fuFPPBZV8S_K9j_lxxgChkvulox7ITjtU4I1E0FQnlJ-awuHRetOR4Aur6U05aqcUfm_lo5K1Zq_iZYbcRRJ",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJahyGCSYrBUsbIOQkrfpLG2jcQa3s34B5lXnvDpjVV68J_PASAv2KjyARm_zeb3dhvocBngkuWefXJJXZh1kS2YSOrWcXaZBYSpo3RVeYQkMduM6l2Hdp1g9R0e57IyG0PT7_YJsA6g-tS4ASyw4M39SKaq2OnlPq40",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJX9yMY-Tt6TsRbUh32ByE0LE/photos/ATplDJbGEn3KkDxgGa8J2ZRtdGducJCPaZ32E00EfQqLEKSCLMU7q_ZkfbjEN0HVAwkNLPcDnL8pDx7GIYiEsM_ex95AAHkUF_VnhJu_zizo-bwIfrdRRg7qXvKpmxEzUQGPTLq7viqit754DZ8ItMeTss-YAKe0_kYNsTiA",
+          "widthPx": 4000,
+          "heightPx": 1800,
+          "authorAttributions": [
+            {
+              "displayName": "Suyash Beach Resort",
+              "uri": "//maps.google.com/maps/contrib/112324431307110481529",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBwEY9PM-Cei9W_AJVl-E2uuGvktAMZLyHhbQ3UFM0I0FOqw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJk36etbnt6TsR7DGCprGU368",
+      "id": "ChIJk36etbnt6TsR7DGCprGU368",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "H5F8+RXP, Peth Anjanwel, Maharashtra 415634, India",
+      "addressComponents": [
+        {
+          "longText": "H5F8+RXP",
+          "shortText": "H5F8+RXP",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Peth Anjanwel",
+          "shortText": "Peth Anjanwel",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415634",
+          "shortText": "415634",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.574578499999998,
+        "longitude": 73.167446
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.573164469708495,
+          "longitude": 73.166043669708486
+        },
+        "high": {
+          "latitude": 17.575862430291497,
+          "longitude": 73.1687416302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=12673011367167537644",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "H5F8+RXP, \u003cspan class=\"locality\"\u003ePeth Anjanwel\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415634\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 14,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Janki Farm Veldur",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "H5F8+RXP, Peth Anjanwel",
+      "reviews": [
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDai1TbnV3RRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I've never been here; however, Veldur is a beauty! Along with its nearby neighbour Anjanvel which is home to Gopalgad Fort. Veldur has scemic views and boat rides. Highly recommended. 😇 😇",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I've never been here; however, Veldur is a beauty! Along with its nearby neighbour Anjanvel which is home to Gopalgad Fort. Veldur has scemic views and boat rides. Highly recommended. 😇 😇",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aizaz Arkate",
+            "uri": "https://www.google.com/maps/contrib/112690741427001634909/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLp4gw2ZINyCgFHVQGMFbSrs9xQm6NyX8WGQwUkuHlSQUg9Gw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2020-09-08T03:23:43Z"
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpMzR6bmtBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place to hangout with family and friends....very spacious rooms and halls, network is easily accessible,one down point is its very far and no nearby houses or market",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place to hangout with family and friends....very spacious rooms and halls, network is easily accessible,one down point is its very far and no nearby houses or market",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vaibhav Kine",
+            "uri": "https://www.google.com/maps/contrib/116248084573031550589/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwYekNQKHnmWSkvKvkMVdGeBzKUHmx6J0WM6vwlXPIkh4BVIPL=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-11-20T05:01:15Z"
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3cXYzUGpBRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nature loving place...\nSea viewing......\nAt top of mountain having very nice view to all sides",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nature loving place...\nSea viewing......\nAt top of mountain having very nice view to all sides",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SAHIL Dabholkar",
+            "uri": "https://www.google.com/maps/contrib/111278614086209392209/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUozYt4la5Zf8jcu1sKMPmRaGMmmhBrzHE72LOfXFa3_tCjAAcedg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-05-17T09:50:36Z"
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPeHBYQzhnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Best nature and near to sea...Very nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best nature and near to sea...Very nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Uday Bhoir",
+            "uri": "https://www.google.com/maps/contrib/103111642545067056734/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUP-K0X2QpI1RWrDM9opGCwhyOlwYWpox8u_CicYC8_vxTmZ5o=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2022-06-08T14:35:16Z"
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/reviews/ChdDSUhNMG9nS0VJQ0FnSURHM0xiVV9BRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Best place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kumar Chabhare",
+            "uri": "https://www.google.com/maps/contrib/114024620496737386561/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3bYo7AnksiHIcouQI_BzLC7C2yhivDiS-n10Q6y57snI1-LG9=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-11-21T11:55:20Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJZA0Ippda0jvjY-cXsI_sFi5q2Z_Mf9g2CLXi0TCwuCjtAL8ZGGrOMetZguj2g_KkkVJ0qZ2zNWcrz_MS27XzgT6e78uqQZvLmKs3wrFO6pKXAst5OoI2rM2HzrKq3UDR0Icib0pJ5xx025YlNz4pJgx77-T2PMO_Za",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Uday Bhoir",
+              "uri": "//maps.google.com/maps/contrib/103111642545067056734",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUP-K0X2QpI1RWrDM9opGCwhyOlwYWpox8u_CicYC8_vxTmZ5o=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJZJBLY8ld756Dn0QHhyewH-mWM0j9k-POqFyBsxc9U8qCeOG_ls-VB-bExy45sOnGY7FDasyZYlZm8yQI0degGX8RB_A0hHecPnt_v0zetFxieR5UxRi7d-1fhmRQP5H4gdAhjtas3IMeUXp2KW7_OsE0mYLsCFAbnm",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Uday Bhoir",
+              "uri": "//maps.google.com/maps/contrib/103111642545067056734",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUP-K0X2QpI1RWrDM9opGCwhyOlwYWpox8u_CicYC8_vxTmZ5o=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJYnWY0aNLsh1vtmxabTsRUppN1n3c8BZh32VJek1aoY0M_4uAYqbRnZ6PJ3wi7tuEPgo-7NifQZmHawMREnOmd6Y1E1ScUrKwb6UEpt2odN6ObMgTPiU6jwvLWGocg5JYjlzbdbEmPUXhqgU3AahKcqXFOpzOXTFvOq",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Mandar Salvi2100",
+              "uri": "//maps.google.com/maps/contrib/112309938667060267357",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEifKnBoSnDCxi7acEhHf_47glfloAlV6C1tc36QRORJ_HKNY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJawYi4siHgXMP0_r0d3Pu0Ne9CePnGJ83TI_dsqalPekAof_8ygm8XLZBNj_Bmmxp16vc6yV5TUPNNpY1CwT8O9JCDbZnO_ssp2uiHkyAcbBDvsbtdda3MgDOinpeQsy4bWMZFgEiEJfWkq_a9Sg9bdeGXr4ywpb6En",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Rahul Mohite",
+              "uri": "//maps.google.com/maps/contrib/101796774037338418279",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK9ooCORcA2uzRg6aYKqNHYynunx1S_PBaJxHul6MxfuvvTtA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJZNG_kb-zCan9P-cmb05ax8-2zObgAVfgm1aFTmFyEaE7Eg7JDrICQtPrL_uNgKaFbghp6NYNX2jr_yLpO8mQE-cwIxYpHJzQ7M1VouvquRerGBqIKrka65ETl4S7Yq9OxJCYYTrCv8qBSsx0M-nIeMb96RgB4kjNyK",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Rahul Mohite",
+              "uri": "//maps.google.com/maps/contrib/101796774037338418279",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK9ooCORcA2uzRg6aYKqNHYynunx1S_PBaJxHul6MxfuvvTtA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJYRndfHf7fXsUzuWdF-Ndgs8MIQ62xO7eBT1IEHSAKKEV1aXWw3XlOHVUvFZ9V-IH7v4tFAeRqF0zj9ZB78I90osdxc8s7tB45eLOqy4a_OwOtj2F8g44zkdQzrhV4F8pKk7vcpHoNq5GPfNGLXQJTpi_OOYPUarlLb",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Uday Bhoir",
+              "uri": "//maps.google.com/maps/contrib/103111642545067056734",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUP-K0X2QpI1RWrDM9opGCwhyOlwYWpox8u_CicYC8_vxTmZ5o=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJZfIhAewhgXMMMesuBKh8WlYr2FlODQEigphmogR50QDaaLu0g8i_L5u6DQL5uQhPebXbbar6WXR8fNmA7RwXCFipIdRP4IY68W-QX8LwcwjYRb6Gm7E_Cx7XPA_WadAiJCCI97jVRddj9gVN-BLH5i70gKyr9wNtqi",
+          "widthPx": 3264,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "Chandrakant Patil",
+              "uri": "//maps.google.com/maps/contrib/105259584764025685798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJgmRKlrkCO3S8QihL4g76mbhcSfKqYhA6uM_xNaZ-loyoL7Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJZtEVzNebFEbI8jK5WmjMezax57aGeZytwz4sMUWYYifIey479eii6AGlPWY6q2Qx7snoKJiIBPt2JLddX6zp9NWTHPEsMlrthvw1G6OECvA4GS_K6KXQ58KmpsunsFDm_8Ew-AQvMbB3qNynP1_uaBkfvFcbXQGGg4",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Rahul Mohite",
+              "uri": "//maps.google.com/maps/contrib/101796774037338418279",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK9ooCORcA2uzRg6aYKqNHYynunx1S_PBaJxHul6MxfuvvTtA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJY2JNW9MEBYsm4mtQmSzSy_kbH6oTcetjwkWsx0L00PCd9GFaTfGM7JvT24gousB3OQa9dDanQ5h_ilt19kqqhhdPwEUjknwQ20uHRtO6mbfq02SphlE7Z561nkr2aZtZ6VguLhf37VOL0y45SW7KxLvzkTXVBzzopH",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Dinesh Yadav",
+              "uri": "//maps.google.com/maps/contrib/100806030973908944830",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKi9MeBrlKIgOKk-bqhtDakvIT5o5dq8GDCYiIBiqzRYadTKQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJk36etbnt6TsR7DGCprGU368/photos/ATplDJaq7hTp436yTKCcutg4TWePD7IeL5ZBLW3va5S0bfhXXbsXiGw5vZzDIQVojVKd_8GCitlxvrIlSReKpeSXfud8Yn0R-v0UxoaaJBkhmjfnyG8Uc-1s6JVnGu2mkGCMUvOj9LoH5kdUx42mhxEfaWzN6ULm35Ft91S3",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Dinesh Yadav",
+              "uri": "//maps.google.com/maps/contrib/100806030973908944830",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKi9MeBrlKIgOKk-bqhtDakvIT5o5dq8GDCYiIBiqzRYadTKQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJGU46rKLt6TsRSwHRGA7SVH0",
+      "id": "ChIJGU46rKLt6TsRSwHRGA7SVH0",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "fata, Enron LNG Area, Anjanwel, Guhagar, Maharashtra 415703, India",
+      "addressComponents": [
+        {
+          "longText": "fata",
+          "shortText": "fata",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Enron LNG Area",
+          "shortText": "Enron LNG Area",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Anjanwel",
+          "shortText": "Anjanwel",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Guhagar",
+          "shortText": "Guhagar",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415703",
+          "shortText": "415703",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9MG5X9+VV",
+        "compoundCode": "G5X9+VV Guhagar, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.5496379,
+        "longitude": 73.1696971
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.5483219697085,
+          "longitude": 73.1683858197085
+        },
+        "high": {
+          "latitude": 17.551019930291503,
+          "longitude": 73.171083780291511
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9031074110772412747",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003efata\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eEnron LNG Area\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnjanwel, Guhagar\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415703\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Shree krushna",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "fata, Enron LNG Area, Anjanwel, Guhagar",
+      "photos": [
+        {
+          "name": "places/ChIJGU46rKLt6TsRSwHRGA7SVH0/photos/ATplDJbbFVj5wDkLWVn5Vnxoub5gmcPyzIGlZJHiZq-Cyrkltb0UWSPPVa7jFlkV7AqjM_ZVcUGHS1qyl89Em7P9GD_cE6XIwGl_DLMS19Nmzb41-BcbwuCPVGlGVoeyJy-8KoVQhJ_A_6REg_dj7yTjDoYibXtkTOOkr-xH",
+          "widthPx": 3104,
+          "heightPx": 3104,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Shree krushna",
+              "uri": "//maps.google.com/maps/contrib/117372450484895370451",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKHOKFX-vyHQqSu9cSCLRL8uh1_PpBGxY9E3bRz4g1FY2Sa6g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGU46rKLt6TsRSwHRGA7SVH0/photos/ATplDJZD9bcHd1UFlkrnZsdHCb3W6MIzwvnH4HjVUxHuzprgQaAINqsMQ56gjKWme6Kq6jLK1t3IrnEcgs8JZyD-b8LbiMXkunfsq2xEXnaBt3HaHGJDUC7bZhhR4ucF8gRFLjPkNLkknxlNy8XqQGYMRy7wEULCSkR2Xt7Q",
+          "widthPx": 3104,
+          "heightPx": 3104,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Shree krushna",
+              "uri": "//maps.google.com/maps/contrib/117372450484895370451",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKHOKFX-vyHQqSu9cSCLRL8uh1_PpBGxY9E3bRz4g1FY2Sa6g=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA",
+      "id": "ChIJzf_1KJ7t6TsRbHlP9sA5HyA",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "near sidheshwar temple, Navanagar, Peth Anjanwel, Anjanwel, Maharashtra 415703, India",
+      "addressComponents": [
+        {
+          "longText": "sidheshwar temple",
+          "shortText": "sidheshwar temple",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Navanagar",
+          "shortText": "Navanagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Peth Anjanwel",
+          "shortText": "Peth Anjanwel",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415703",
+          "shortText": "415703",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J9MH538+FX",
+        "compoundCode": "H538+FX Peth Anjanwel, Maharashtra, India"
+      },
+      "location": {
+        "latitude": 17.5537009,
+        "longitude": 73.1674128
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.552397669708494,
+          "longitude": 73.1660355697085
+        },
+        "high": {
+          "latitude": 17.5550956302915,
+          "longitude": 73.1687335302915
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=2314632234420631916",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "near sidheshwar temple, \u003cspan class=\"extended-address\"\u003eNavanagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePeth Anjanwel, Anjanwel\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415703\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "userRatingCount": 4,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Anniviola jungle resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "sidheshwar temple, Navanagar, Peth Anjanwel, Anjanwel",
+      "reviews": [
+        {
+          "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3ZzdiOGtRRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Best Weekend.. gateway in Konkan.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best Weekend.. gateway in Konkan.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "R O H A N",
+            "uri": "https://www.google.com/maps/contrib/102632059896453954986/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgVRQH3C83_brDH_LHqWEFYvfY_vfmXbymBkGe-7uYcLHGvj-8rA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-08-04T01:35:32Z"
+        },
+        {
+          "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA/reviews/ChdDSUhNMG9nS0VJQ0FnSURrdmVqdTVBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Raju nath yogi",
+            "uri": "https://www.google.com/maps/contrib/101716136518203042108/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvAF20YtYfEXOYS-M_P18ojG-REi_b1zuXWr5WckkgTof7Yg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-07-05T08:09:46Z"
+        },
+        {
+          "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA/reviews/ChZDSUhNMG9nS0VJQ0FnSURnejVYSGNnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Amol Joshi",
+            "uri": "https://www.google.com/maps/contrib/108335586403935092410/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeGa-3vfeDPKY3p6AHcURIZsXY-bnQexpaYVUeDAo3vC3dADAX=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-07-18T15:53:20Z"
+        },
+        {
+          "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA/reviews/ChZDSUhNMG9nS0VJQ0FnSURRNzZEMFNBEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Aarya Joshi",
+            "uri": "https://www.google.com/maps/contrib/106538466980740394649/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsMi1UUhZFLmtvhvTINbjZ-LImQ6Y8TlgvIogDuSMKr4_odg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-07-18T15:50:37Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA/photos/ATplDJZTtYnSjfjD4IBd9P2WPt04IW_8V1kFxDN31Y74hSkfic5tV4L7lq-JDzToFfXjYnNvggVwq9lLhvFyoavylbpDPveHm9l0k9Nq8heX0VD9VTyh9uOVQdMBbFNoD4K4KKb1jS9Cbe-uuDQ99oiRz1swv_2pZqexL0D7",
+          "widthPx": 1024,
+          "heightPx": 576,
+          "authorAttributions": [
+            {
+              "displayName": "Anniviola jungle resort",
+              "uri": "//maps.google.com/maps/contrib/100907427863562038488",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJxY81PMIOxedOZ_pUl6Bm3Mw4rkLiO2Zs_aq8ypZROn28d8Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA/photos/ATplDJaQbCX-hxNvlrzZImYDavb3M9XQnFb61LcjPxPiUVEvk__Y-6B3Y6TnT9fLDva37QQejtj7-TXr7Z5Zs7OyX6KoNTCupgj-o1STZTyfTT9e2_VK1TVV7F36vWWB8iWzIkg3KdQmwga-MIi498WQ6_hdYWC_UJLVuPS4",
+          "widthPx": 2610,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "R O H A N",
+              "uri": "//maps.google.com/maps/contrib/102632059896453954986",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgVRQH3C83_brDH_LHqWEFYvfY_vfmXbymBkGe-7uYcLHGvj-8rA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA/photos/ATplDJbpSZjVsX9rAHgKhB01v2mqtkie88Th17hkjhD-xS1n2-jJKNnQ_e7RNzqXjyVAiATrCtJ3Dxuts1Ed3C3XRh5o8kJAQ_n2dX0nDgXmuSFBSKyoGuNd2YJqFCtgGUy3AZGOdR4PLCTq4u_qK2h7I9UDdd5ep0O57XdK",
+          "widthPx": 2610,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "R O H A N",
+              "uri": "//maps.google.com/maps/contrib/102632059896453954986",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgVRQH3C83_brDH_LHqWEFYvfY_vfmXbymBkGe-7uYcLHGvj-8rA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzf_1KJ7t6TsRbHlP9sA5HyA/photos/ATplDJYyXTy9v-CFqB4cF9Cc3ei5qw2SzZ6fD7a9eEPwGlKtgZn_MM0WqCwbRQrPVRllqv0drp32dACuvxReeoK8-guT-WsqqmLKKBJ8s3VDy12oP03mblrESdQ3-GQ7lbuVswkMHMJpQfcDM7qw3l3eHTfvsPpTGMQIQFCY",
+          "widthPx": 2610,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "R O H A N",
+              "uri": "//maps.google.com/maps/contrib/102632059896453954986",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgVRQH3C83_brDH_LHqWEFYvfY_vfmXbymBkGe-7uYcLHGvj-8rA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJCaiXbgPs6TsRqUQ6xR9VDrA",
+      "id": "ChIJCaiXbgPs6TsRqUQ6xR9VDrA",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "099758 12208",
+      "internationalPhoneNumber": "+91 99758 12208",
+      "formattedAddress": "H5QG+6W4, Dabhol, Maharashtra 415706, India",
+      "addressComponents": [
+        {
+          "longText": "H5QG+6W4",
+          "shortText": "H5QG+6W4",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Dabhol",
+          "shortText": "Dabhol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415706",
+          "shortText": "415706",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.5880059,
+        "longitude": 73.177343499999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.586634819708493,
+          "longitude": 73.1759493197085
+        },
+        "high": {
+          "latitude": 17.5893327802915,
+          "longitude": 73.1786472802915
+        }
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=12686170795290543273",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "H5QG+6W4, \u003cspan class=\"locality\"\u003eDabhol\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415706\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "userRatingCount": 7,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Ashwamedh Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "H5QG+6W4, Dabhol",
+      "reviews": [
+        {
+          "name": "places/ChIJCaiXbgPs6TsRqUQ6xR9VDrA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJbWZqZGxnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 1,
+          "text": {
+            "text": "Poor quality",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Poor quality",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "prathamesh vaidya",
+            "uri": "https://www.google.com/maps/contrib/117635306395425407922/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-gnxPamUNvS3l0pmgEpRYT2mNEnIoiUy6NNxkj8Pnv_vnGuE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-11-24T12:47:25Z"
+        },
+        {
+          "name": "places/ChIJCaiXbgPs6TsRqUQ6xR9VDrA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRX291b0J3EAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Uuuii oi9iii iiiiiiiooi ioiioiiioio9o9ooooo9ooooooooool9olo oooooooooooooooooooooooooooooooooooooooo",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Uuuii oi9iii iiiiiiooioi ioiioiiioio9o9ooooo9ooooooooool9olo ooooooooooooooooooooooooooooooooooooooooo",
+            "languageCode": "haw"
+          },
+          "authorAttribution": {
+            "displayName": "Prathmesh Todankar",
+            "uri": "https://www.google.com/maps/contrib/114863036486165702158/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsKJP6FWREE6Jba5vUx-5b_EGZpRXRWAgomP5cosBBpW6fY4woaw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2017-12-31T06:12:11Z"
+        },
+        {
+          "name": "places/ChIJCaiXbgPs6TsRqUQ6xR9VDrA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBeWVfZy1nRRAB",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "Sanket Palkar",
+            "uri": "https://www.google.com/maps/contrib/108735436027134578898/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxciEQzExu8gKn1r4Vz9ZVtNeU79O56TQxW2WiEzwyG95V7m7zCw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2017-03-17T16:28:18Z"
+        },
+        {
+          "name": "places/ChIJCaiXbgPs6TsRqUQ6xR9VDrA/reviews/ChdDSUhNMG9nS0VJQ0FnSURzenJpdTdRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Swapnil Salve",
+            "uri": "https://www.google.com/maps/contrib/107237341979556057151/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoSNl2YXkvRNDiGeyaI67TMgC1WhYNFP2bfxm2I-ZrzDqc-3Pt=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-03-04T07:08:23Z"
+        },
+        {
+          "name": "places/ChIJCaiXbgPs6TsRqUQ6xR9VDrA/reviews/ChdDSUhNMG9nS0VJQ0FnSURReUszZDJRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Lucky Raika",
+            "uri": "https://www.google.com/maps/contrib/112787416630539474791/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsQ7WKKUfZZe2z3tCasR_SHKpRHzCWr-WNglTwIcXETPbEDQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2017-04-26T06:19:59Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJpzr2yZDt6TsRaigUUSoVICQ",
+      "id": "ChIJpzr2yZDt6TsRaigUUSoVICQ",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "G5VC+F4M, MH SH4, Enron LNG Area, Peth Anjanwel, Anjanwel, Maharashtra 415634, India",
+      "addressComponents": [
+        {
+          "longText": "G5VC+F4M",
+          "shortText": "G5VC+F4M",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Maharashtra State Highway 4",
+          "shortText": "MH SH4",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Enron LNG Area",
+          "shortText": "Enron LNG Area",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Peth Anjanwel",
+          "shortText": "Peth Anjanwel",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ratnagiri",
+          "shortText": "Ratnagiri",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Konkan Division",
+          "shortText": "Konkan Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Maharashtra",
+          "shortText": "MH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "415634",
+          "shortText": "415634",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.5437031,
+        "longitude": 73.170307600000015
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.542333169708503,
+          "longitude": 73.1689319197085
+        },
+        "high": {
+          "latitude": 17.545031130291505,
+          "longitude": 73.171629880291519
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2603103856113231978",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "G5VC+F4M, \u003cspan class=\"street-address\"\u003eMH SH4\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eEnron LNG Area\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePeth Anjanwel, Anjanwel\u003c/span\u003e, \u003cspan class=\"region\"\u003eMaharashtra\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e415634\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Dabhol Caterers And Allied Services",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "G5VC+F4M, MH SH4, Enron LNG Area, Peth Anjanwel, Anjanwel",
+      "photos": [
+        {
+          "name": "places/ChIJpzr2yZDt6TsRaigUUSoVICQ/photos/ATplDJZ3DteC5XC6sV2nS07UuoR66fiimKbSpDWGfh6dHO1upP6-lqomz6QzEpQj-AgEevqDc0kT0NdA9HlOXwnpEfip7XEt-GPNZrYhvtfunheAL-wm3U3CzL2PxG9nXdTXdp23icxF6JFrIKyvEloPltTlggaAryxdIGKJ",
+          "widthPx": 1668,
+          "heightPx": 450,
+          "authorAttributions": [
+            {
+              "displayName": "Sneha More",
+              "uri": "//maps.google.com/maps/contrib/108243914043708496491",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLife9WwUgI-4JE5lxes5IWU9rqhDDhODhARwX2NfVhO7SOmPP=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

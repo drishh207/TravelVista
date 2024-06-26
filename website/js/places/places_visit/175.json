@@ -1,0 +1,4186 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw",
+      "id": "ChIJ8y9sXMmoNjoRBuLufDhupsw",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MV8M+P25, Bhadrachalam, Telangana 507111, India",
+      "addressComponents": [
+        {
+          "longText": "MV8M+P25",
+          "shortText": "MV8M+P25",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bhadrachalam",
+          "shortText": "Bhadrachalam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Godavari",
+          "shortText": "East Godavari",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507111",
+          "shortText": "507111",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.6667523,
+        "longitude": 80.882609399999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.6653751697085,
+          "longitude": 80.8808653697085
+        },
+        "high": {
+          "latitude": 17.668073130291504,
+          "longitude": 80.883563330291508
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=14746595218764521990",
+      "websiteUri": "http://bhadrachalarama.org/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Tuesday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Wednesday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Thursday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Friday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Saturday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Sunday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MV8M+P25, \u003cspan class=\"locality\"\u003eBhadrachalam\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507111\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 13074,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Sree Seetha Ramachandraswamy Vari Devasthanam - Bhadrachalam",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Tuesday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Wednesday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Thursday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Friday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Saturday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Sunday: 4:30 AM – 1:00 PM, 3:00 – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "MV8M+P25, Bhadrachalam",
+      "editorialSummary": {
+        "text": "A dress code is enforced at this celebrated Hindu temple on the river dedicated to Lord Rama.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEcmVhbThnRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 4,
+          "text": {
+            "text": "Being a non religious person..\nif phone are not allowed.. nothing much I can say..\nTemple closes between 1-3 pm.. but, my friend (resident)said it's open after 6pm..\nVery accessible..not too much crowded..\nTwo entry points..1st entry has lift option.. second one have don't..\nI visit on good Friday (3 day weekend)..\nNot too many steps..lift available..\nphone must deposit..but most of employees use mobile phone..\n25per laddu..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Being a non religious person..\nif phone are not allowed.. nothing much I can say..\nTemple closes between 1-3 pm.. but, my friend (resident)said it's open after 6pm..\nVery accessible..not too much crowded..\nTwo entry points..1st entry has lift option.. second one have don't..\nI visit on good Friday (3 day weekend)..\nNot too many steps..lift available..\nphone must deposit..but most of employees use mobile phone..\n25per laddu..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JERRY DWAYANE",
+            "uri": "https://www.google.com/maps/contrib/113876200012807880986/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnaDQTclC7D7haTDjMxq-as8T6DNGG-JMkYl-8-1n0X4WMPBrKOg=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2024-03-31T09:32:34Z"
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/reviews/ChZDSUhNMG9nS0VJQ0FnSUREOF9DZVlnEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 4,
+          "text": {
+            "text": "Sri Rama temple, where lord Sri Ram was pleased by badri and granted his wish to stay on his head along with Sita, but he forgot to wear the shank and sudarsan in the correct hands.\n\nYou can keep your mobile/electronic devices and luggage safely in lockers near the temple. If it's not during kalyana mahotsavams near Sri Rama Navami, you can avail free darshan within 10 mins, else you can buy a ₹100/- tkt as well.\n\nThe temple has a museum where all historical things related to the temple, ramadasa and many other things are safely stored .\n\nYou can visit the place where badri's wish was granted by lord Rama after you darshan lord Rama from garbha gudi.\n\nYou can visit the coast of the Godavari river, you kalyana katta, lord Anjaneya temple and people also avail pinda karmas near the coast.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Sri Rama temple, where lord Sri Ram was pleased by badri and granted his wish to stay on his head along with Sita, but he forgot to wear the shank and sudarsan in the correct hands.\n\nYou can keep your mobile/electronic devices and luggage safely in lockers near the temple. If it's not during kalyana mahotsavams near Sri Rama Navami, you can avail free darshan within 10 mins, else you can buy a ₹100/- tkt as well.\n\nThe temple has a museum where all historical things related to the temple, ramadasa and many other things are safely stored .\n\nYou can visit the place where badri's wish was granted by lord Rama after you darshan lord Rama from garbha gudi.\n\nYou can visit the coast of the Godavari river, you kalyana katta, lord Anjaneya temple and people also avail pinda karmas near the coast.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chetan Balaji",
+            "uri": "https://www.google.com/maps/contrib/104698428559536161772/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVc1-3jOi2gzQL-Nc7yjh1pHL-3aj5lU2YwZZ7dON9A9GS34K8B=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-14T03:58:46Z"
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/reviews/ChdDSUhNMG9nS0VJQ0FnSUREbFlTZTN3RRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Lord Sree Sita Ramachandra Swamy Temple in Bhadrachalam is a Hindu temple of Lord Rama located in Telangana, India. The area is called as Bhadrachalam and is the venue of grand celebrations on Rama Navami day, when the wedding anniversary of Lord Rama and his consort Sita takes place with much fanfare, huge rush on Sunday",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lord Sree Sita Ramachandra Swamy Temple in Bhadrachalam is a Hindu temple of Lord Rama located in Telangana, India. The area is called as Bhadrachalam and is the venue of grand celebrations on Rama Navami day, when the wedding anniversary of Lord Rama and his consort Sita takes place with much fanfare, huge rush on Sunday",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "dinesh kumar",
+            "uri": "https://www.google.com/maps/contrib/116671270408954716937/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBua8ZTtr6gwnLCqq987Y9n0GZdBFw1j9lo5oz-W3el--Ur7xNhA=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-04-12T09:37:55Z"
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqLXJEVHVnRRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 4,
+          "text": {
+            "text": "For piligirms little bit care is less for refresh after reach via hardels of journey through bus from bhadrachalm cross road railway station and prasadam also not prepare as per the estimated visitors over all little care should be increase about temple as well as pilgrims minimum facilities",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "For piligirms little bit care is less for refresh after reach via hardels of journey through bus from bhadrachalm cross road railway station and prasadam also not prepare as per the estimated visitors over all little care should be increase about temple as well as pilgrims minimum facilities",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lokesh Konatala",
+            "uri": "https://www.google.com/maps/contrib/114699886503103398202/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuH289lw2TCEByqvpA-JlLabw77FWSZD1__nkQIfSiGYhOLlnt=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-20T15:21:01Z"
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsX2Z5NGl3RRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Temple dedicated to Lord Rama, Seetha, and Lakshmana on the banks of River Godavari. Bhadrachalam is approximately 112 km from Khammam and 188 km from Rajmendry (AP). Bhakt Ramdas has constructed the temple and composed many Kirtanas, which are known even today. The temple is located on a small hillock, and one has to climb 20 or 30 steps. Well maintained and clean temple. There are several small shrines and separate shrines for Goddess Mahalakshmi, Bhadradri, and Lord Hanuman. Temple also has a shrine for Ramdaa. The tradition followed at the temple is Vaishna Agama, similar to that of Sri Rangam. Sri Rams Navami, Mookoti Ekadasi and annual Bramotsavam are celebrated. One must visit this beautifulvt",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Temple dedicated to Lord Rama, Seetha, and Lakshmana on the banks of River Godavari. Bhadrachalam is approximately 112 km from Khammam and 188 km from Rajmendry (AP). Bhakt Ramdas has constructed the temple and composed many Kirtanas, which are known even today. The temple is located on a small hillock, and one has to climb 20 or 30 steps. Well maintained and clean temple. There are several small shrines and separate shrines for Goddess Mahalakshmi, Bhadradri, and Lord Hanuman. Temple also has a shrine for Ramdaa. The tradition followed at the temple is Vaishna Agama, similar to that of Sri Rangam. Sri Rams Navami, Mookoti Ekadasi and annual Bramotsavam are celebrated. One must visit this beautifulvt",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sathyanarayana Garimalla",
+            "uri": "https://www.google.com/maps/contrib/112465666211653177603/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLCwwlY_vbg5RsactnbqhkKxjbuqb-1Ga1dITOt-oQXDx5NvhY=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-11-25T09:30:12Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJa3BkV2s3yMpyX9OH266tCz7_xdvF-ZLoNidKpZWrDY6zj27WnfpQR8kCHekbM4VMpkKS0PqLA7keICyfp_NpNtRd88Ar2rTVCTQBjA6ePExiVlvHwE236SOMZvVrnSVzojQSzu-bWPqwTuFRrZW-OteisSwlt6xzg",
+          "widthPx": 576,
+          "heightPx": 425,
+          "authorAttributions": [
+            {
+              "displayName": "Jannapureddy Raghuveerreddy1",
+              "uri": "//maps.google.com/maps/contrib/110372048991367073015",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjURiYDQE_lI4IBtU9alOHsMkL8Txyb424HyGrNNtmlvshJBEX0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJZSNOOcTwHYf5uucRrtkBkSD7nck4MXzAenio8YK-9RPqjWykfVy-BgVjOgL6aIODglzkthqLkswL-yHM97RXjsSf9hOyoJaB1QMucfInOxnWEiHMdv6hcG3bz68nQF8Udxq6kk8ImUsNTla7P6q48-hPZ8f5jmWj4",
+          "widthPx": 620,
+          "heightPx": 384,
+          "authorAttributions": [
+            {
+              "displayName": "Manish Sharma",
+              "uri": "//maps.google.com/maps/contrib/114885487034263057803",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQuC48xveAgn6chPADCTWjWV-_rnrb390oPl4mo30VnT0J5DI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJain17tyNp51GruYXbfr-Z9FuECaiYHy52mS3OnzBN6iXLf0IDG8kQzdh7FYKxWy6Llg3q32Lw3cN5NZb0DminNz6cvloUSxvdcz0eZx065GTuIMSrx6ef_9R6RqjgZFBqCDCmEnH7Q8TEsSPaBxvMC0PcafI1L69XG",
+          "widthPx": 800,
+          "heightPx": 600,
+          "authorAttributions": [
+            {
+              "displayName": "Srikanth Choudary",
+              "uri": "//maps.google.com/maps/contrib/112122073912020314293",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV6Np4MX323HDrkFzENnmV-3tuYkFNPNsK9rRS6GxAVkQ28-dlE_w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJYHw4Oa8clfiSduLHNhFKtbJBRzGOJkTU0-X5Akx8mfxQl7ajw37voFvPFE1R55A59L091QRf0nEm89Mk_Og2p9WIsLppgbIyd0kvGHuL_JhTQC6FHuhbqT7S32rTJmKEgbpswZMDcQZq9FQah897yHGdXb_LO96BE1",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mathyas Kodirekka",
+              "uri": "//maps.google.com/maps/contrib/106926173001006527561",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU38Z7_FSDgStupxONt0SWXnMn2UukH1ZoxwCLj_KrazoOsMSel8g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJZt3RWscolBJIx9RGaLx9fXzuVe59lofQ8LYPPwatui21Zc0rsgRBOGpi7VHWizTyCliT2SqfoNWYN6vNBARJ2mwC7DpFekiYouuRNgot3dH9nAJTvYWaapieA1ACh1CMp3-rIw2jFHDfEHMOEV3idozu7WvnTu3QYa",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Somunadham Kinthada",
+              "uri": "//maps.google.com/maps/contrib/113031048938481719779",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXc3JtS63zNaSdec9SFAkyyY5R0TPmOcn4zhO9yOtjsKp3gJgfI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJaLxQWzav41Sf2zXvYLJURbHaIM4Gqgret2v2KiDT0SBKTHTDWEKSfW6nWDC3zIjUvpJm633unol9Bbw98GDKTCamj2hCMktGWt7K4Zdz3mwjk04YHxHjekh9cOpZDqlRLv203w6dXj2Dxg7YM4CJ83y1fCWq9kfiXH",
+          "widthPx": 720,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Srivatsav Koppula",
+              "uri": "//maps.google.com/maps/contrib/101114462127573258331",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU9tLrVaglYzmDXQ4bHI8ldd88XvmwvFeXnEqTNQaIfpUuOx8l1iw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJY_avGzYhfd7EDR8i0PZRMUF3WcXumdd9lXY6X_f9_lBmRRR-iEJkUSVG0vGAdm1tKwzd7w_HgfInnINeLOPk_qfF5-e44hZh7dWDiFz6Bm3BnGY4U5hvPfUShIuiJ6SWzPtMmKb2koXqg82JLxQVGvBS7wWFaffyeI",
+          "widthPx": 1600,
+          "heightPx": 1164,
+          "authorAttributions": [
+            {
+              "displayName": "Srikanth Choudary",
+              "uri": "//maps.google.com/maps/contrib/112122073912020314293",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV6Np4MX323HDrkFzENnmV-3tuYkFNPNsK9rRS6GxAVkQ28-dlE_w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJY1AOp92cFNetTO4q8MCjgb-yRr3vScULrVF0GB1ge6WIKmVab_cXVRCBV91OGt09Jv6hp_KGPNICCGyj-Yzfle3KS2co4eQzEN_yBYJed7rJeZOM5pHKniv4dcwFCWz9PMUUl5nZZVrWi1jsS3jcx8Ci-LkN2nMx_q",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Bhaskervarma Bachu",
+              "uri": "//maps.google.com/maps/contrib/117996001419056739859",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJYY5QXuUuqNmO9DmuEbq9Ok-3XZUuvSC1iLKLg6Gknc-tWgg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJYwWpkwUHFi_qy1fQUVfO8NGywuIUVMRNRsZgz69kqapLOmXXKBQ6tAY1SJxal2N2HLCfQrBkNThVQHE5lYp4qjz3g5g-qU1kCYgGd8r_jIoRjoxzlaEjemQ8RzlKUIl-vqy7d8L5wI2EkiinmDxbjaaoOhVx1pl3F_",
+          "widthPx": 4000,
+          "heightPx": 2252,
+          "authorAttributions": [
+            {
+              "displayName": "Vidya sagar",
+              "uri": "//maps.google.com/maps/contrib/118407962310438304721",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXh0M8Bq1TW8wV77NC1YfNfawuFt_ixf6EVqaPpLloK7YBamRlX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8y9sXMmoNjoRBuLufDhupsw/photos/ATplDJaqRVPbZF2HouCAwmYdHf3kDTTt7UtVVPSQ8mXaIb0YyyoxP8G5UmdGVdfnw1pPKDX96ZNoLNBBPuaoxz9Rlvv-Hei1YCKg01nLjAtUOjnTV8KzFlLKumtcLgoG6T_PCKoQYUvISVfAsI95kQDTD0GeQ_mS6pI-1z9i",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "rishivansh",
+              "uri": "//maps.google.com/maps/contrib/113832332725717129638",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ43MdXE6-IZAxnVV5WG_HDr1HKFriraJlpoAiCE5Zkv3w6mw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE",
+      "id": "ChIJ19dIaVuvNjoRQmwbt0izolE",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094400 82627",
+      "internationalPhoneNumber": "+91 94400 82627",
+      "formattedAddress": "Seetharamachandra Swamy Temple, Bhadrachalam, Andhra Pradesh 507111, India",
+      "addressComponents": [
+        {
+          "longText": "Seetharamachandra Swamy Temple",
+          "shortText": "Seetharamachandra Swamy Temple",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhadrachalam",
+          "shortText": "Bhadrachalam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Godavari",
+          "shortText": "East Godavari",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Andhra Pradesh",
+          "shortText": "AP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507111",
+          "shortText": "507111",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7M92MV8M+P2",
+        "compoundCode": "MV8M+P2 Bhadrachalam, Andhra Pradesh, India"
+      },
+      "location": {
+        "latitude": 17.6667523,
+        "longitude": 80.882609399999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.6652677697085,
+          "longitude": 80.8812559697085
+        },
+        "high": {
+          "latitude": 17.667965730291503,
+          "longitude": 80.883953930291511
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=5882461188190334018",
+      "websiteUri": "https://www.sitaramaswamy.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Seetharamachandra Swamy Temple, \u003cspan class=\"locality\"\u003eBhadrachalam\u003c/span\u003e, \u003cspan class=\"region\"\u003eAndhra Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507111\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 78,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Sita Rama Temple.",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Seetharamachandra Swamy Temple, Bhadrachalam",
+      "reviews": [
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsaXVPTTR3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The Sita Ramachandraswamy Temple at Bhadrachalam exudes spiritual serenity, with its intricate architecture and tranquil surroundings creating a perfect ambiance for devotion. The divine aura and the melodious hymns during prayer services contribute to a truly uplifting experience, making it a must-visit destination for seekers of spiritual solace.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The Sita Ramachandraswamy Temple at Bhadrachalam exudes spiritual serenity, with its intricate architecture and tranquil surroundings creating a perfect ambiance for devotion. The divine aura and the melodious hymns during prayer services contribute to a truly uplifting experience, making it a must-visit destination for seekers of spiritual solace.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Balaji Nimmagadda",
+            "uri": "https://www.google.com/maps/contrib/102585430481247986585/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjsFT72x64-WmSKYlzohC33-rXrcub8zT7qKJIxeGa2wUpZwdCnA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-02-21T12:48:10Z"
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkdjhpMUV3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "🚩",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "🚩",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sai Pitla",
+            "uri": "https://www.google.com/maps/contrib/102479642323572456617/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFbwU_OnX5V6gX0zYqaqMmey4ZoOKZwd7Mx0_L5bCiM-c1QVzp=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-19T19:53:06Z"
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0aDdTekRREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A nice place to visit near the river is awesome",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A nice place to visit near the river is awesome",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "veera babu (veeru)",
+            "uri": "https://www.google.com/maps/contrib/111440992646525484558/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXm1otV0Eo-wXO7BEGYFf0Oia_rGSEjaPVnqY2LYKL46_yS8wn1=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-07T12:17:07Z"
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/reviews/ChdDSUhNMG9nS0VJQ0FnSURoalpxTTJRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Very peaceful inside the temple. You can take steps to reach up somewhere around 70 steps need to climb.. for old people there is a lift as well. Temple is situated on the bank of the River Godavari. We can take general Darshan in ordinary days. Or they have special Darshan of 100, 500 I preferred taking general Darshan since it was normal day without rush.  Phones not allowed inside temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very peaceful inside the temple. You can take steps to reach up somewhere around 70 steps need to climb.. for old people there is a lift as well. Temple is situated on the bank of the River Godavari. We can take general Darshan in ordinary days. Or they have special Darshan of 100, 500 I preferred taking general Darshan since it was normal day without rush.  Phones not allowed inside temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Soujanya Markala",
+            "uri": "https://www.google.com/maps/contrib/101924662720580693221/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7QcURZw9HPTUxyd_-W6naq-kKGJH14VRZ_pb4dHHZFkfCmA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-03-14T15:53:58Z"
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/reviews/ChZDSUhNMG9nS0VJQ0FnSUMteWNlS05nEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "We are Rama Bhaktas. Yes... It's our home town. We grown up watching Rama, listening Rama and praying 🙏🙇🙌 The Lord Rama. Bhadrachalam Rama temple 🕌is a well known after the movie Sri Ramadasu came into picture. It's same as shown built by Kancharla Gopanna the famously called Ramadasu. Temple is situated on the banks of the River Godhavari. Temple has several associated temples like Maa Godhavari mandir, Sri Hanuman ji Mandir. The Garbha Griha is so peaceful. One should visit and have archana here which is possible only in normal days, as it will be crowded on special days like Hindu Festivals, Rama Navami, and others.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We are Rama Bhaktas. Yes... It's our home town. We grown up watching Rama, listening Rama and praying 🙏🙇🙌 The Lord Rama. Bhadrachalam Rama temple 🕌is a well known after the movie Sri Ramadasu came into picture. It's same as shown built by Kancharla Gopanna the famously called Ramadasu. Temple is situated on the banks of the River Godhavari. Temple has several associated temples like Maa Godhavari mandir, Sri Hanuman ji Mandir. The Garbha Griha is so peaceful. One should visit and have archana here which is possible only in normal days, as it will be crowded on special days like Hindu Festivals, Rama Navami, and others.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lucky svn",
+            "uri": "https://www.google.com/maps/contrib/102457704331740531602/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSEQQHiTPC-VjsQ13ui0w00TEFY_BXHpPyouVH93L138fyVGnx=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-11-07T11:13:04Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJYkLlnpgAnAF9aVdIwZBusEin_a_Q4CYRy8S3-JuVYs8U7hVTDOqEewmqohAnQWsyjyK1cKRLW6AIU3xrU1t4W4HYljX6uAF29NsSMrZomeARky99MRwk0S4tikR6nodDf0DeM5iEtfvDAiISJq6Nh2eA9AoBD-fdOf",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Srinivas Vs",
+              "uri": "//maps.google.com/maps/contrib/115927402370236664370",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWUfOksdzkIw9Gt0ZQouxkKCU4g47fyOjyms6ZbcOB--6JOZNENCg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJZfC6KjiTExcM_YmWdJnuaBOJOFn-gGQZvSRMzMRIMEiUOT5IssrhDYEvETJL8WndFI33AOFvbOtfoyA_479458bLXrS81xR47g7NeumfqoVKR_MqFJ-XhW4dtJAhbTrj1v01sKtiDoLLX-0g2JANXTb_fqaqKJOims",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Vijay vam see",
+              "uri": "//maps.google.com/maps/contrib/112752858959005958030",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVxwPfQdEa4ULnRXhlkuCCeW-GA8mSeXANUtFBBltaXXIGCVb0b=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJZ7cfv6UOARPtGp7u6KJ-Sv1XKDAkR4sN4rAZ04colGwtu2RRgp0lNoUdVQK80T0L203JENUGt-Me1vnVIvzMvV0Am0jGE-432eFkPJ3wZHLMb2P6tzgZJowq1RAin-q0JE_RQkBPofREUfGnDXhfSgf3IZtq3jmutK",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "SaiDeepak Thadishetti",
+              "uri": "//maps.google.com/maps/contrib/107822839742561403795",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWJXT4WzAwlUnijQf-Noez2NXtnDuk1Q21EHAJrmvx9VP6bs-7Z=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJadfSpbGAIuySXMrD-7elgX2Yr-ct938Tcp8UzQB9zLXrEjqK47w48iXaWkY9EqXrrcoN_QIup8IXsjY0E4vFLowoNR2HcJ_7g35lTz4H_J2-PQOU16xtm0XiNKOIX5vmiw_4kFQpEeGgUM18jKGAfki_h8fNaJ0fTQ",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Vijay vam see",
+              "uri": "//maps.google.com/maps/contrib/112752858959005958030",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVxwPfQdEa4ULnRXhlkuCCeW-GA8mSeXANUtFBBltaXXIGCVb0b=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJbfb15ytPq87qXcx2H11Lmoh6Sf2ac2lJKvZH3zu20fvt7errKjZhWSPpr-RO1LI6hiRBfTCrqOK3GuXHn3OYm9CDnMyvCa6cPTq6IqB8rrwMWbyfju0JusMElXRnaTgPMrfnGzRobATcUXjQq-PhR1e0L3hGnz3NYE",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "SaiDeepak Thadishetti",
+              "uri": "//maps.google.com/maps/contrib/107822839742561403795",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWJXT4WzAwlUnijQf-Noez2NXtnDuk1Q21EHAJrmvx9VP6bs-7Z=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJYhm7ZuDhexq_mD4Om9bPj9REYAXd9G9pJQoLCV0VGDB5B_pC3uLfliXDw880ET3HJkXDEwAru5mKDBTJxxNvFpsa2i6_8rCymS7yocIUxzT71CaJKvLvts2JpL8Ohe0kqRq37I20lTUn1_Mbap3c1j-z9TBXfeB6tJ",
+          "widthPx": 945,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "Linga Linga",
+              "uri": "//maps.google.com/maps/contrib/118207220218205684425",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKl-omqhnJheYucfO3Im3LgG9YSI36zZXR3aEOwqEOnApypb0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJariG7B0OJ1BHvNbwrZ2ly5Wb0Ha11mNje6q-DBQ4eqD6jEE6Cmbe8J4YbXLCk9Q7T1IDlfUThDUqjIlzNrLbEb1SITcRku7gDxNNi5Vma7JUSGryF30ntG0WbW6rfKKAKSzfdMbMkKMtfTbBsUl_BuglVdzAbhUIFO",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Balaji Nimmagadda",
+              "uri": "//maps.google.com/maps/contrib/102585430481247986585",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVjsFT72x64-WmSKYlzohC33-rXrcub8zT7qKJIxeGa2wUpZwdCnA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJYcl815FLeAOyUNG3njPYKUA4nA_KVl803-Ttb0ZbzPx-uN242cUkrGzdB9Np4XpDACqCSKLtPrNrVFPDDxki0mdNWpgC-q7dibp5UZNO1LuaUkUPtwyrD1A2XnRRyVP81N-ZSxEGSh3R4zVHZHZCaIfT5MZtKFA8ap",
+          "widthPx": 720,
+          "heightPx": 636,
+          "authorAttributions": [
+            {
+              "displayName": "Bharath",
+              "uri": "//maps.google.com/maps/contrib/117104954285679834377",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUmZIhsM7f_-sdURCrhAa4_2VSF3VXzkDp3zAqmw9R6yhpW9OFeXw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJZNAtJ9-TCK7_5UCfdWLVIBY83ha98D19gGZXszWe86h3pvXqCZaM5s8_vzsE0_RcKDZfKXZVyyf3_qc_R2QO0FGe6h7vU0pDt0N7o6yrWOjSg2My3WXPgGUvLzBc0cN4wCBsSAHNX154SiQlLcfqMrmqQQXYLSyj_m",
+          "widthPx": 1080,
+          "heightPx": 1620,
+          "authorAttributions": [
+            {
+              "displayName": "UDAYA KUMAR MANI",
+              "uri": "//maps.google.com/maps/contrib/105432984906519592006",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX14GT2OvJcQUeYMfcr0T0uz8rdfdixRoa8FSPV7f1QYTttehsERw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ19dIaVuvNjoRQmwbt0izolE/photos/ATplDJY2Wl2K_6gMNwQ48Ur1_fzXg2bzriYuHGuJDE5r5diiobElWpPd9xByu7E38TkzAHFp6t4YAFsO21l2Twi-eLMJ2KLSYjeTePST0ElI4ZdIqizDcJ1dTGa2W5_tVtmMlLAGJ4RhRkvQIiD76smMogzS4o9NmOFaQx94",
+          "widthPx": 600,
+          "heightPx": 382,
+          "authorAttributions": [
+            {
+              "displayName": "UDAYA KUMAR MANI",
+              "uri": "//maps.google.com/maps/contrib/105432984906519592006",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX14GT2OvJcQUeYMfcr0T0uz8rdfdixRoa8FSPV7f1QYTttehsERw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE",
+      "id": "ChIJmwZp3ailNjoR6tvkHM95sJE",
+      "types": [
+        "tourist_attraction",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Sridhara, WESTGODAVARI, ANDHRAPRADESH, JW77+MF8, Sridhara, Telangana 507114, India",
+      "addressComponents": [
+        {
+          "longText": "JW77+MF8",
+          "shortText": "JW77+MF8",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Sridhara",
+          "shortText": "Sridhara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhadradri Kothagudem",
+          "shortText": "Bhadradri Kothagudem",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507114",
+          "shortText": "507114",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.614153299999998,
+        "longitude": 80.9136968
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.6128046197085,
+          "longitude": 80.912347169708511
+        },
+        "high": {
+          "latitude": 17.615502580291505,
+          "longitude": 80.915045130291517
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=10498024661850577898",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Sridhara, WESTGODAVARI, ANDHRAPRADESH, JW77+MF8, \u003cspan class=\"locality\"\u003eSridhara\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507114\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "userRatingCount": 204,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Pamuleru Picnic Point",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "JW77+MF8, Sridhara, WESTGODAVARI, ANDHRAPRADESH",
+      "reviews": [
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/reviews/ChZDSUhNMG9nS0VJQ0FnSURObTgtblFBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Best place to enjoy with kids....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place to enjoy with kids....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aarif Shaik",
+            "uri": "https://www.google.com/maps/contrib/115648661817278212561/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBJ3lHr6_8QNGt2DPS0EFQZM2WP-Ts2eOJhh5gpLUiMQ5_tFbfhg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-26T09:19:01Z"
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/reviews/ChZDSUhNMG9nS0VJQ0FnSUROci16N0lBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Nice place to visit for family and friends best picknik point for kids 1 feet water here",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place to visit for family and friends best picknik point for kids 1 feet water here",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raheem Pasha Shaik",
+            "uri": "https://www.google.com/maps/contrib/110088297539080963451/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJoExlEit0yWw4FfHT38sXkTgxw-1GAlfUNQB0u18eBW5e0G0kDw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-27T10:11:07Z"
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxdUt1SGdnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Enjoyed a lot 🤩",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Enjoyed a lot 🤩",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Karthik Chelpuri",
+            "uri": "https://www.google.com/maps/contrib/101664005505439429333/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI2KImEAu28Drv65Zk0RyVOYH1O0bL82uNVeMLObS54pWImnEW=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-01-05T06:54:59Z"
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlcGVIaWx3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Good place playing with kids in weekends.... Just like beach best time to visit winter and summer",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place playing with kids in weekends.... Just like beach best time to visit winter and summer",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prem Kumar",
+            "uri": "https://www.google.com/maps/contrib/110383085340233949723/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAnVGhnuEU1WFLN9LmvxhHnq20kj6yCuWg-SwXdzgBi6V9Xtsp=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-09-19T09:48:31Z"
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsemYyYnJRRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Best place to visit in week days but weekends  little more crowd is there",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place to visit in week days but weekends  little more crowd is there",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sai Krishna",
+            "uri": "https://www.google.com/maps/contrib/112253900254395429316/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJHcYMWXFKlCZEHp3iFJu96wvTlB1NJyKqvN2l4yUy3VhGIhA=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-11-24T09:10:18Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJYXVB1doPX3Udb-cn99UjvB3JL9wsdDoAipRgYNEZI8wvzLSOi9AWcutm-QOoMCa2vvQaVxLcwOWYg2vjVP98CzHQWz0I5K-ZhzuSZND84iAyA4e_R7O5hW3NDts2S3hiEK4RRC0mU2c_AKM5fy5YYzLJIPg9Z8dESM",
+          "widthPx": 2048,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Vijay Yanamala",
+              "uri": "//maps.google.com/maps/contrib/100870152184122774208",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUeq57ETdui8j5R_etxdsN5N-C16Ufxg1OSo2iA4qS_JkRcUVBGsA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJYR28p-UFLzGHEJyA6xPssk1bK7rU2Y1kcQCYotn7UiJ1OiBz2tt3L8v5iG2BYg3UBRPaEcckQzIHe3bZQ1_1JxCN62GxxFUF8Xee0u8k56bvNXnb6A5IcZ-JALTiSuGWQXUTqUZv9ZCMm4C6hmego_BCDhtF7b4RGJ",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "John",
+              "uri": "//maps.google.com/maps/contrib/114623246411566632774",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXuYWmBNCbDs6P9uCzuMaU2iyTKEefsbUaWEklateDXuugzumMN=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJYMYlitPsN4w9jbARvHK1AS38ryZoAz4vmRtnEIfS4PWGjRaqTfR0KDm5AiBaCmEafiVwvOLDGWMpxN7wca1KDtaeFgCVFHu1XztFLUwYoLBtkFucCk6G8xTZWwFth8uPrruxmgf8lC55oMTXg3a3JeWhpZf0cU8Go0",
+          "widthPx": 960,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "RAW么SANJU",
+              "uri": "//maps.google.com/maps/contrib/116957058820946127931",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVQSetf1EKMRKeGzHzXePXtDUM6Jn7XX5SuUC-Uy-DxGFnaF216=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJYDUT9qOzQ-tduiFETR4oj7y6YB08lzXx0nuNHwflDxEBpbRlpjby6oPqtgab_S4MoxVZ6QZUX8x0DBerdpZh02Sd6KawBL9-AwHQ7cr_hHsuLngamAAIIxVdSXG47pCqHecPlCSUpSnLQeq19rQCY-F8ceoh5nRIJN",
+          "widthPx": 4080,
+          "heightPx": 1840,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Vilasagar",
+              "uri": "//maps.google.com/maps/contrib/117327308119383563264",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiJyWBFofg45wYz7rfSxmjAtV1pOrTA45Q2anFCUBuKU2f8GyQ2w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJakRO-SjpqoMyiiDGlvD1-ISDQKjt3xBM8k90hTPnbeLjxGtfo2l_JLjtT8KIRmYtHQwe4P_Vj2pXZgg5vlYeTTqI7GBf5Pq2Ii0PXQeId6IeyGfevsh6OoD1yb982fBTN3QTjz7bNTKw7XnKCfw__XHZYY6V-InTtJ",
+          "widthPx": 1156,
+          "heightPx": 508,
+          "authorAttributions": [
+            {
+              "displayName": "Kumpati Thirupathirao",
+              "uri": "//maps.google.com/maps/contrib/114216204579518732471",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUxt0n03OOLGjR2ZMIQbBgMorL4b290R2DmaBG6uqYjHfazvOlq=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJbZDfIWw32YWuPVVPHkfU8JIFZ1d-4SGki0ZlPKPQNEyGiIV2b97yw8telVjNeNwB-UWhTx4SuSbEOVsB4vw8to3X2Q86Q6q5sHDXaWJWY6RaKnRXlCbD2hGTYlusqj9hQU7PdT2b4sC7GWnxGmsf23Q4nrdzGaunWQ",
+          "widthPx": 1000,
+          "heightPx": 563,
+          "authorAttributions": [
+            {
+              "displayName": "BALARAM JARAPLA",
+              "uri": "//maps.google.com/maps/contrib/110766549598779423652",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWY1I7IRr-BQivc8-1GVZv6HsySys55cYyv_K8NpP-lunaXqWG2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJaTXrCDegE3pk0tuehx4B5q-pbWlOYMdWKepq3oExn-W3O2jcUuQIBTTPD1k9jaC3qvUIgNJ6jU06PMchn5C47uwD9tpo29bcjMFN7LAsM7moepjckj-RCKicCdgp-8oBtlij1jkk5V8Vb4Z99ymaP6X1xW97q-b1Gq",
+          "widthPx": 2016,
+          "heightPx": 4480,
+          "authorAttributions": [
+            {
+              "displayName": "Kranthi G",
+              "uri": "//maps.google.com/maps/contrib/101108797275575771466",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV78P2WNqlEZVjewOBXduFFniSZ1jJY0Xu3-7VZFHMwnO_-2828Tg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJbwVUKcIGpp7gua94naF14t9x7lUnI5TWGHzbdD2BhBRjAGH2ShvSwHKu_1p0HP35SHjJpmg--IH4xSP451v0wb8sl6GEYasjvpJb7qcFl5LihUM6LprOKxFTriS7ICa2TmLb6ZtDah_hElDdmiPKwgRz9iFbQ4RO4v",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "veeraiah ganesh",
+              "uri": "//maps.google.com/maps/contrib/117581083216148189866",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXxzfUOGg_aV_NGTDS5gUS4YzbC2tn4v4fbqZ4JI0PlidOdJ__F=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJZyPi1tM9LCepObjEWfIWjqcPubKDtk5xKjyl85A6Y5uOrSSbgmobarVE-FkXNRhuIk4exL0GC2Y0jskZKSinBNZ3tuNGLdN7EpiPyo9RdhTuUnG1y2Fp7KBdL2MeHM-2n6HXbIbEPkxw-HWzRSJWSoXBy6QZFb4wYW",
+          "widthPx": 4608,
+          "heightPx": 2128,
+          "authorAttributions": [
+            {
+              "displayName": "#gamerz way",
+              "uri": "//maps.google.com/maps/contrib/109530531645121154938",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIAVR8PRsoof7I1qlkZw65v5R5fNbqIMCuYmQvVItXvZhUSkQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmwZp3ailNjoR6tvkHM95sJE/photos/ATplDJakiVsCOYJNHtUvTLkKlMmbiuBDu4Eq_WJRZaFTFC5WflptrHPKx5G7iw4ZlLqJNHx0OPdW6enNv7Ymj8_mmyPl_u-2gQ7PdiBACQgpQg1k6wAJRO_ku9V26AO5racVl3kHxomzLQeSUjhpsfkXJBA4Z-xUjzGzRLIL",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Sai katari",
+              "uri": "//maps.google.com/maps/contrib/111842171884044535923",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU0X026FSVW-xa8TJJ4ifYgh5i3xobFENLIKC16P9Wun9f908o3Sg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68",
+      "id": "ChIJTaA84ruoNjoRtCkRftGNZ68",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MV7M+P74, Ambasatram, Bhadrachalam, Andhra Pradesh 507111, India",
+      "addressComponents": [
+        {
+          "longText": "MV7M+P74",
+          "shortText": "MV7M+P74",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ambasatram",
+          "shortText": "Ambasatram",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhadrachalam",
+          "shortText": "Bhadrachalam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Godavari",
+          "shortText": "East Godavari",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Andhra Pradesh",
+          "shortText": "AP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507111",
+          "shortText": "507111",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.6642625,
+        "longitude": 80.8832031
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.662814119708496,
+          "longitude": 80.8818113697085
+        },
+        "high": {
+          "latitude": 17.6655120802915,
+          "longitude": 80.884509330291507
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=12639226810141321652",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MV7M+P74, \u003cspan class=\"locality\"\u003eAmbasatram, Bhadrachalam\u003c/span\u003e, \u003cspan class=\"region\"\u003eAndhra Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507111\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 266,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Amba Satram Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "MV7M+P74, Ambasatram, Bhadrachalam",
+      "editorialSummary": {
+        "text": "Landmark, Hindu temple featuring a range of ancient artifacts & sights in a spiritual atmosphere.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/reviews/ChZDSUhNMG9nS0VJQ0FnSURNMV82OVdREAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This satram is at walkable distance from Bhadrachala Ramayya Temple.\nThis satram is well maintained by Sringeri Sharada Peetham. It also includes Veda Patasala.\nOne can experience peace of mind here.\nThey provide Annadanam every afternoon.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This satram is at walkable distance from Bhadrachala Ramayya Temple.\nThis satram is well maintained by Sringeri Sharada Peetham. It also includes Veda Patasala.\nOne can experience peace of mind here.\nThey provide Annadanam every afternoon.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sai Shyam Singh (साई श्याम सिंह)",
+            "uri": "https://www.google.com/maps/contrib/116156757355432206144/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-mIOksDjnwQ9nxVhWAjXgIaQL-MM3WLpRwmT32Ja92o8y9W2U=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-05-06T04:11:53Z"
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCcllEUlh3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Here, you will see the 2 vessels which was usedby Rama & Lakshmana  to prepare the food.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Here, you will see the 2 vessels which was usedby Rama & Lakshmana  to prepare the food.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ramanjaneyulu Ram",
+            "uri": "https://www.google.com/maps/contrib/116121557346772436527/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSyu8BvkgxFLD7wBI7tWFCkDUI1WPphKhTDY3nvb-7E1_UV4G3=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-01-01T14:09:10Z"
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4dGVLb1pREAE",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "text": {
+            "text": "We went here at mid day, due to the burning sun we were thirsty and hungry, after reaching here we had cool water and fortunately some family had done pooja here, so we got prasadham from them. The location is peaceful with beautiful flowers and nature, we had seen the Rama and laxmana pots(gundigalu) which have some stories on them. Enjoyed this temple visit.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We went here at mid day, due to the burning sun we were thirsty and hungry, after reaching here we had cool water and fortunately some family had done pooja here, so we got prasadham from them. The location is peaceful with beautiful flowers and nature, we had seen the Rama and laxmana pots(gundigalu) which have some stories on them. Enjoyed this temple visit.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "PRANAY REDDY ANNAM",
+            "uri": "https://www.google.com/maps/contrib/106417817467489251137/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYv4cSYPsozJmegkh48y1XuGxD5AKeZR29aRjUOTP6Lm2r_KJ8=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-05-22T18:51:23Z"
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkLWZEdUJ3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good holy place with helping hands",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good holy place with helping hands",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vittal Kanuparthy (K P R VITTAL)",
+            "uri": "https://www.google.com/maps/contrib/116892569264055666174/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKZKNmnxWGAGTJL2ivZfpOkxqn6ulg6CwzdALDce4X0D1LRTfB=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-16T15:19:16Z"
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1Z2VuRTJnRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "🙏🏻🙏🏻🙏🏻🙏🏻 divine exp at the feet of Sitarama.. With the blessings of Shri Bharathi theertha swami",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "🙏🏻🙏🏻🙏🏻🙏🏻 divine exp at the feet of Sitarama.. With the blessings of Shri Bharathi theertha swami",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "VaVe Technologies",
+            "uri": "https://www.google.com/maps/contrib/117332558529534756904/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAAvpthX5X-YK-nmLgZTyS1xc52fUHBMRXYIQwW8mEckNqhQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-14T05:24:47Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJZGfH3-heb-9wG68nnIB_Vd1BWjkD1Z3KAa4iKHA_3z_avSfWCFvf4RAUOaPDyO-66_sWyqw6ofOsG4pIVk2OYHy7bi7sLf-fJLj0FAGEAMcp219-LqYg6TJvEqWfz39qUdwrhNtG3iRXl94ItTrkmp2xbmUQPSERTe",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Srikanth Dutta",
+              "uri": "//maps.google.com/maps/contrib/106317357233621545150",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCLtk8WPxFr0yxgZBOxARygwZICNYPWL6J3dzhw20yi0uM2pDD=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJaajM5-PXtEMQrGocJMyt5x4tiScd-9Q8MFSt4rvHxs14IcFlgT_Bxz5gvtWEazhJkbwddZWktGsXPhYqLbaosSRMQxNkHp77I_OvyPMAb_6-FqsCUQNOUYb4H-45b97TIy7Z3Z0rFW-IkXNHZGohI0BJI1Gbo1NUJM",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Rama Krishna K",
+              "uri": "//maps.google.com/maps/contrib/112699473054862483662",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWF960WsedZ_HR_cCu6l7C61wKNs8CyWK4hwexG9o55vGwEuXEqVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJbB47lBrX9SWOvJIqckggYMgfQiESLUlTl8VdL6LOjMcQu-YPHbOvv9EDMeFQ2XT_Swa6rB71d_BLMvkpmGsvaCg8t7jgJqVK-pryNMX0ha5npCHRofJRhIEUUjmZLeVIWJb3wXf99xoFs26V6WmzxFaKv6fwP4azFv",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "V N S KRISHNA",
+              "uri": "//maps.google.com/maps/contrib/112866455227638091502",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIFOxULyPSog_zjSSGvjppM7LX52NR0AFCH_s6XPmq6O9NC1Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJbcV5ZewSrxDUhEHGfaYNM9SBB8NG9y4T4pQi76Fozes3sRfLr6djqf_7Xqu9k02b36WHqM7bGGKLcIHIw6ZztCGC-bB8pLQ3Jfi4tO4nPixqSsCHd_Yj2YFX2uuATUr2fScruTLWWlDSab-KZDRBLmnpMdzO3Q4Gku",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "allam srinivasarao",
+              "uri": "//maps.google.com/maps/contrib/106588766674664175698",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIna5RgCpk6hbAqSpQRARB4IJTFU5GGPPHo2bSJW1pj7l5ERg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJZE3pqECaVzNbsJ8Z7iVlkaT7Px7gRbrXr_ftclgxUZaM3uIJcdRImVn2cu9qc75XXkYPVEVAou0fLCSu3DSOJyKdQNi3m1OtVBUBUDKUxqpVWDCMo7MI_XRhb_HqSd306Etja5xHcRIFDtTSojnfHF6YJeFxLp4zud",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Surendra",
+              "uri": "//maps.google.com/maps/contrib/102457709836995408908",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbN9W2rQKlQRiYll94eru2-Y9BLvg-oIEUYf-7eR8f8LBmXsxI5A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJYq_PFlmnc1BOYgaJgUgJKKxKvu4tWPqXw8zWxlGq2auwODfME-GAdEDdPx7mTXu91BX4tResoXkQDQrqvk_WytgNWZCT8aR8hsVP5RbFNmLKsDTSg1EW4q_NrmVgdOgcV0F23-9cHVJhYHtpvOvH_kqHm4W_4IioTL",
+          "widthPx": 899,
+          "heightPx": 1599,
+          "authorAttributions": [
+            {
+              "displayName": "Ramanjaneyulu Ram",
+              "uri": "//maps.google.com/maps/contrib/116121557346772436527",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVSyu8BvkgxFLD7wBI7tWFCkDUI1WPphKhTDY3nvb-7E1_UV4G3=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJaZ_qaefjLVXgJ01GzrjEDT8NySz-7gT4AqysJLaHdkCzd1pSDg1F_cqDpyqscKYQ1kGGLc2KEqzA4pafJrprRkS0TUblg9Eju6ijxEwV-bUH2GwW88nJVaW8syu3Z1TVNkA5YxTOCaDhs6h75sfVyU_hjYuRPoxRhg",
+          "widthPx": 380,
+          "heightPx": 567,
+          "authorAttributions": [
+            {
+              "displayName": "Avadhanula Srinivasasastri",
+              "uri": "//maps.google.com/maps/contrib/113559675740681404834",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVVjTBvyApDQDmcPLMjei1mZS5OQLV1BpAWcZlrT8MKZK2Dnq7LsA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJaW6lFtr_YdRmbSAShcPcuExuTUh3sGG6giL2QkcfWphreravzz4Pnf18JU7AZFy6qJWk3CJbbskNmFEpH6bh38upDTKcqX_IS0icZz2R0bvRQWWdHk1-nLlMcTIvy5XVNZIGrhfP9X-Tha0NXJ2PTqFOwOXzfEj6Qw",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Meghamala Maringanti",
+              "uri": "//maps.google.com/maps/contrib/110253103580317475650",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX50Jv3N09CTNYPiQGprW2OR-TarKd5yxElYE1wrwCGwkEpOeZO5w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJYb-rBH5vcaXP0RlNMXC6CIDnurjc0g7bqQOVGDWilEexe7037daOkQl6oX2K4zasMqytCuWo8Sob93zsmzkdg_-XLvnIVPuHMutWxSudJ4ttqDCABUXdbW8XLxFbAj_B8tSL51lVAGPGEoYAuUG2kDRae7hoIg31nr",
+          "widthPx": 536,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Udaybhaskar V S",
+              "uri": "//maps.google.com/maps/contrib/112515674724457994565",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJIRPoGQp8FfSbTUjqNfzhClV-_g1Aa9xDW60n4vV5XeKt_NQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJTaA84ruoNjoRtCkRftGNZ68/photos/ATplDJZXrORlQXkL_LN0Ii_7_5ksd3bur7oNGrRvND7TA8qkaM2Cj6dQmpUEmvwfwTKRcNSY8_xHiL6igBD6NBK5DmFH1H6JWchrP0iZ0VeGnEMhTEPeA-eTt17i9kQx2CeJhhb8sW6mAOrutwa5A4Be3EpkWCJ7pz7n-w8W",
+          "widthPx": 2560,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Pradeep Reddy",
+              "uri": "//maps.google.com/maps/contrib/117102891678316373602",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUXPXeZmd8KD1Up5oCfVpFNcBm3uREXaTY-Q2kFNVk5iyVyjjU=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0",
+      "id": "ChIJm10hhrioNjoReYpqb1f6qe0",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MV8M+P3R, Bhadrachalam, Telangana 507111, India",
+      "addressComponents": [
+        {
+          "longText": "MV8M+P3R",
+          "shortText": "MV8M+P3R",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bhadrachalam",
+          "shortText": "Bhadrachalam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Godavari",
+          "shortText": "East Godavari",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507111",
+          "shortText": "507111",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.6668625,
+        "longitude": 80.8826406
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.665357919708494,
+          "longitude": 80.8811586197085
+        },
+        "high": {
+          "latitude": 17.6680558802915,
+          "longitude": 80.883856580291521
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=17125494311491373689",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 15
+            },
+            "close": {
+              "day": 1,
+              "hour": 7,
+              "minute": 40
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 15
+            },
+            "close": {
+              "day": 4,
+              "hour": 7,
+              "minute": 40
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 15
+            },
+            "close": {
+              "day": 5,
+              "hour": 7,
+              "minute": 40
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 15
+            },
+            "close": {
+              "day": 6,
+              "hour": 7,
+              "minute": 40
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:15 – 7:40 AM, 8:30 AM – 11:30 PM",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: 6:15 – 7:40 AM, 8:30 AM – 11:30 PM",
+          "Friday: 6:15 – 7:40 AM, 8:30 AM – 11:30 PM",
+          "Saturday: 6:15 – 7:40 AM, 8:30 AM – 11:30 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MV8M+P3R, \u003cspan class=\"locality\"\u003eBhadrachalam\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507111\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 82,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Kodanda Ramalayam",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 7,
+              "minute": 40,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 7,
+              "minute": 40,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 7,
+              "minute": 40,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 7,
+              "minute": 40,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:15 – 7:40 AM, 8:30 AM – 11:30 PM",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: 6:15 – 7:40 AM, 8:30 AM – 11:30 PM",
+          "Friday: 6:15 – 7:40 AM, 8:30 AM – 11:30 PM",
+          "Saturday: 6:15 – 7:40 AM, 8:30 AM – 11:30 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "MV8M+P3R, Bhadrachalam",
+      "reviews": [
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSNi0tN2J3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 3,
+          "text": {
+            "text": "Maintanence is very bad. There is a one  line for both free and paid for few metres and bad experience at prasadam counter literally counter guys stealing our money by giving less prasadam tickets to our money. Please be careful. Rest everything is good. Jai Sri Ram",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Maintanence is very bad. There is a one  line for both free and paid for few metres and bad experience at prasadam counter literally counter guys stealing our money by giving less prasadam tickets to our money. Please be careful. Rest everything is good. Jai Sri Ram",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "nskd prasanna",
+            "uri": "https://www.google.com/maps/contrib/105386579323919568261/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGBBIUAhw8eejWpy0w8teKM3kpZYus1n_NbWvqA69dCpzj24LE=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-04-11T07:59:00Z"
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/reviews/ChZDSUhNMG9nS0VJQ0FnSUREek5IUE53EAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "great holy place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "great holy place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "VINODH B",
+            "uri": "https://www.google.com/maps/contrib/113191682467552839527/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5CC9Ejs9kYrkOvc2V-lOCVin7eP08aCKZf6aT2HlmWgyn2A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-06T12:45:57Z"
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/reviews/ChdDSUhNMG9nS0VJQ0FnSURxeWVqTzNRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Ramalayam is famous worship place,  a very peaceful atmosphere is present at ramalayam. There is uchitha darshanam(free darshanam) but queue is long it is based upon day . Sometimes it takes only 5 minutes but some times it takes 2-3 hours also. On regular days darshanam can be made fastly on special occasions it is a bit harder. Prasadam is made with fully hygiene environment. And it is available in the temple it self (at backside entrence). Best place to find peace in you.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ramalayam is famous worship place,  a very peaceful atmosphere is present at ramalayam. There is uchitha darshanam(free darshanam) but queue is long it is based upon day . Sometimes it takes only 5 minutes but some times it takes 2-3 hours also. On regular days darshanam can be made fastly on special occasions it is a bit harder. Prasadam is made with fully hygiene environment. And it is available in the temple it self (at backside entrence). Best place to find peace in you.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pranavi Addanki",
+            "uri": "https://www.google.com/maps/contrib/113423496322017532634/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJyPkOfHiygaEYsbCyHWPfMpRrZxoHp1np9tBUE3W95LRDiwg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-07-12T14:05:57Z"
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxX05hQzRRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Giri Reddy B",
+            "uri": "https://www.google.com/maps/contrib/116926872404021942148/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocInDiBXvCq37r2yhVfd8CRQManWDG1LrUekSBlUxelX7Ve7uA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-25T15:43:46Z"
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/reviews/ChdDSUhNMG9nS0VJQ0FnSURRLUtHd25BRRAB",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "we visted  this temple during telangana agitation. only very few people.it took 5 minutes for .we took darshan several time, we attent ekantha seva at 9.30pm ,melukolupu in 5am in morning. very nice experience.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "we visted  this temple during telangana agitation. only very few people.it took 5 minutes for .we took darshan several time, we attent ekantha seva at 9.30pm ,melukolupu in 5am in morning. very nice experience.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "saidu gopi krishna",
+            "uri": "https://www.google.com/maps/contrib/104212509628889458223/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKIo74JVfi1SUbnzFoYZZCgRbmt7DkQAXxXAOOWw7CtBm1lZ-M=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2016-07-31T07:27:14Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJY-JOekAklDSi4EnT0OcN9YBPRcOY92np1KZeTF5-XPvhW_8Xc04JYqHRcvU_pEd2a4wHW7UTq4ahd2GYMUT0ubAp3dNT_0BB5bnVlr3l3zeUfpbBeU1EdDgbxdJDL1ssA6SjwehEUP62aqIyZt5br60kddREwNWg6l",
+          "widthPx": 4320,
+          "heightPx": 3240,
+          "authorAttributions": [
+            {
+              "displayName": "Yaswanth Datta",
+              "uri": "//maps.google.com/maps/contrib/116049407462888986113",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWhdYdPZhMsMyZ6CTonwiB07312O4COh0woigMXgPFVjV-oxj31IQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJZsuxID7x-tlhhEOPagKnirwXARJalFsMesz23yqhQutDAlshIUnIvqepvi9cH3biBcqEXGbUu57Gitu4DBv_YapTmojL-PcuB5P9rXzB30QMOktCZIioOgvxwFT3p_03M91DwAKkumaKv2nHt4kTPZ6SkGfc9zRLuA",
+          "widthPx": 620,
+          "heightPx": 384,
+          "authorAttributions": [
+            {
+              "displayName": "M Si A D",
+              "uri": "//maps.google.com/maps/contrib/107596612018892943023",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUz5j9MVQfBWQCrdwJ4Q4XVCd0gUl4QjKzYpY5pBb2kJAWgxBB6=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJZDEN4oPH5S5pPpNJHdmLo5l29GEYk8yyChCChqHErVtBdJ7k4fqSwKkwvQk6aoHZyHyycT0nAA7HHvSfeoU7f82-BqD6o7rwMvJSo09ZwJbP_I__U7bbURoXTnj3vLQ7GjbyY39q-0rxfVtaJ7u_9GPoTt7N28Kq4z",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Katarapu Rajesh",
+              "uri": "//maps.google.com/maps/contrib/106168011801524002442",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJd04C7dMAfps7AnUgqdGKhdY1pDsU86pmRqAQJw6fORyRzkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJaDQ1McBVDTBjB85rRZOj1xK-56oC6yYCR496LoECPjm_GEcj2rW5x54yHCKwj614CRKAuYpGy2rSmg9JSXBdx33NQ_LTgUkXN34QiT71rPoApqzq5zFwAIawNn8on6oyXx9gB0ROohEU89xsY2yg_MsUO44V-KyTTu",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Katarapu Rajesh",
+              "uri": "//maps.google.com/maps/contrib/106168011801524002442",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJd04C7dMAfps7AnUgqdGKhdY1pDsU86pmRqAQJw6fORyRzkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJaPteQ0FlwzTJSFGrRznTWWcJe0c1g9vfmJp5tGtbcsCklIuFH-YAfWf3Ta-j6Y2mHvsPaf0xcJe2NQgqpMGE6lPZpNv-IgOpT-y2XOM3IbPD08F2GEz36wczD1EwCEPY8gL5KrDaLoYnRaWIq-9W75-c01qKkL8EBM",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "abhi b",
+              "uri": "//maps.google.com/maps/contrib/107567145597990950890",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW11a5xDFsA2hbWLebflU5ZNmn1xfbweP4MHAhAODu_8QSfenCQfg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJbidwnEQ8Jz3lImdTEsBbGm1x7PwhCn42SpoNL1ZCZF35JbXlwXv-YVfoS3sd78_tbo2JPFuBTn92gcojWyembZtwZNChDGWUvRwDMYwvENXunUXqDV1bRl1Y-F3rGyE7scm21Y2pFhTJ8GQNQlfaQopY6Tvuvjqdc",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "M B G",
+              "uri": "//maps.google.com/maps/contrib/101300826462728244570",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVk1w_ZTMcnuzUhQJmAVKQrjDRA9IAoNzBbr9npIwd1cum6vh2V=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJZEBQwGaKsqjRt2rRvVxukxaQgga3Kj8dUe47J1PqKh3nr0_AVhzIG-JfZfNtaOHa9GOEkyzp8YM0uPYfjKHoElroBnRKN_nbT8CboD04V0iBBRwwUDnfLe9yhuORI68YJAjUWbPjhK7w4ipy5w2NuYTJj3ddZue74G",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "santhu chinthala",
+              "uri": "//maps.google.com/maps/contrib/105034795405888451259",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV6TFNDdAzM9_leqwz0VQ52QI674Iwcmuu1je89bDe4Q524umyUkQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJbcDacsRxqPHQZHQCaiwxpMljZrJiKSAIIWF-2s7w4rwASqArMTe3ZBSPaAeDHMKmnkZTcfNisHmsYDn409eW7-POLXQTXOLWLF9nyU1t2uKxtjjKKvTiWFs9y68Hmnp45B3EpyGamPgQJnBEtbMeW4CB1FOtKMBpdQ",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Katarapu Rajesh",
+              "uri": "//maps.google.com/maps/contrib/106168011801524002442",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJd04C7dMAfps7AnUgqdGKhdY1pDsU86pmRqAQJw6fORyRzkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJZAk-H7LwRAkE8I0H4qj7D6Veib1LRwWlTLSN2jeW6WPBcQM6yZgZdzI4AXQsDvsAlhzcps_8OJvtW0eM-Bgy-TvlHa4disVCfiAhrSinOeQjSE6qZHf4Uw-Jvr7hwMONg-FSp05mpXVTYRbCdjcbNmDzbaGlMX72-Y",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Katarapu Rajesh",
+              "uri": "//maps.google.com/maps/contrib/106168011801524002442",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJd04C7dMAfps7AnUgqdGKhdY1pDsU86pmRqAQJw6fORyRzkw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJm10hhrioNjoReYpqb1f6qe0/photos/ATplDJabez38vS1i-6MlyN4lejAf-M_9d-1bB_0Au6ZUdIRZPyrJOVUuU_CsxMu5q3ar3HVEea_Wjvtnzq8SG_yW3efVDFE7M5kbezm1HCnDW9V31eUscgkaHnmX_Wt9J-bkgrDBw7FY7zxnivEJL2YFGjOmkiglx-qcGorf",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Katarapu Rajesh",
+              "uri": "//maps.google.com/maps/contrib/106168011801524002442",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJd04C7dMAfps7AnUgqdGKhdY1pDsU86pmRqAQJw6fORyRzkw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I",
+      "id": "ChIJjQ8JzMeoNjoREYkNEtM0y_I",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MVFP+6JH, Bhadrachalam, Andhra Pradesh 507111, India",
+      "addressComponents": [
+        {
+          "longText": "MVFP+6JH",
+          "shortText": "MVFP+6JH",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bhadrachalam",
+          "shortText": "Bhadrachalam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Godavari",
+          "shortText": "East Godavari",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Andhra Pradesh",
+          "shortText": "AP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507111",
+          "shortText": "507111",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.6730749,
+        "longitude": 80.886619299999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.671835819708495,
+          "longitude": 80.8852081197085
+        },
+        "high": {
+          "latitude": 17.6745337802915,
+          "longitude": 80.887906080291515
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=17495135258596444433",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MVFP+6JH, \u003cspan class=\"locality\"\u003eBhadrachalam\u003c/span\u003e, \u003cspan class=\"region\"\u003eAndhra Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507111\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 170,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Abhayanjaneya Swamy Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "MVFP+6JH, Bhadrachalam",
+      "reviews": [
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/reviews/ChdDSUhNMG9nS0VJQ0FnSURkaWY3cmtnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Blessed to have visited this temple and participated in Aditya Hryudayam Homam ..\n\nThe main priest  (Shri  Ravikiran Sharma Garu) of the temple and the other participants of the homam were very welcoming....\n\nJai shree Ram...Jai Hanuman ...look forward to visit again with the divine blessings of Lord Hanuman",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Blessed to have visited this temple and participated in Aditya Hryudayam Homam ..\n\nThe main priest  (Shri  Ravikiran Sharma Garu) of the temple and the other participants of the homam were very welcoming....\n\nJai shree Ram...Jai Hanuman ...look forward to visit again with the divine blessings of Lord Hanuman",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajendra Nimmagadda",
+            "uri": "https://www.google.com/maps/contrib/110675549525335779058/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJSKaY-Ka2M5MSfEusMK2k8QR1HZi0bvZXV3EsUCaXmUCgzTm0=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-02-24T18:46:20Z"
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3aW95ZS1BRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 4,
+          "text": {
+            "text": "This is very famous Hanuman Temple in Bhadrachalam. There is a small park just opposite to the temple with big statue of Hanuman, On the other side of the road there is Venkateswara Swamy and Ayyappa Swamy Temple. Just 2 mins walk from the temple you can see river Godavari.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is very famous Hanuman Temple in Bhadrachalam. There is a small park just opposite to the temple with big statue of Hanuman, On the other side of the road there is Venkateswara Swamy and Ayyappa Swamy Temple. Just 2 mins walk from the temple you can see river Godavari.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravindra Vangipuram",
+            "uri": "https://www.google.com/maps/contrib/101253769791688630516/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKEVyawmdAiuPmUDCSFsZPA-9fmsQ-2-SpqNfyBTR26pkEzyQJfQ=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-03-19T04:25:38Z"
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/reviews/ChdDSUhNMG9nS0VJQ0FnSURJX2ZPYWp3RRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It is one of famous temple BCM, it is beside main road, behind the temple, public garden is there, which is very greenery and having the kids playing items, can spend evening over here",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is one of famous temple BCM, it is beside main road, behind the temple, public garden is there, which is very greenery and having the kids playing items, can spend evening over here",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aravindu Sreerangam",
+            "uri": "https://www.google.com/maps/contrib/107858755082563314628/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrV_y7DOejEbiYpO_Tl9IeZunItGidgxq8nBRGeDOBeyPzBcOJ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-01-18T09:13:37Z"
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/reviews/ChZDSUhNMG9nS0VJQ0FnSURJNTlTQVF3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "It was very nice temple. But there is no proper pavement here to walk into it. You have walk on stones and sand...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It was very nice temple. But there is no proper pavement here to walk into it. You have walk on stones and sand...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MANIKANTA G",
+            "uri": "https://www.google.com/maps/contrib/112491251642412602671/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgrRmjpy1STqax23vRfT3pNk1xoxKG0UfgkGJQZR7nrucHhynB=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-01-25T08:17:08Z"
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/reviews/ChZDSUhNMG9nS0VJQ0FnSURXNWVqb2FnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Make arrangements for senior citizens and disabled.  Very difficult to climb the steps.  No railing for support.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Make arrangements for senior citizens and disabled.  Very difficult to climb the steps.  No railing for support.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prakash Rao",
+            "uri": "https://www.google.com/maps/contrib/115473048808988703276/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZCiHJTjGHY_gp5WbwRxFegnHh21yMmY5uXDXMg0AafDildxrV5A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-03-30T04:47:34Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJZk79AOqW42VdUcJrznrXQ8wlo19i2gl8I45SMGm36t_EdNCLVsDkqsOuyVC4JJ0yvzktZglVqgnvsd1wFFmzT8p-PlccEH5LSuZ1XR3pnm5I55aXqESH0fxxmwGkeLp10g92vO7MOKsMRtIiOL2NdEiMA3HjHHQA-c",
+          "widthPx": 1536,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "Chandra S Goli",
+              "uri": "//maps.google.com/maps/contrib/111031217044642632406",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU195gnge2gsFn0lvAzrz83pM422F15X_adxYQrnP1C0J9ap-f9cQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJYPgDMayYl5jZI7HBtqOTl2X9QSgOfEz8vE094wyANBuaKE-T5Iku27YPIr_rUgOJezGTm3i3r9lNNb2mPrs3CR8VZ0b748XfdlhPd_KdS5LDkcTFjYQiU-nqkIK1FdY4NvJS-gQkTg1Lsn-M35LMMrJuxmO5PT0Nk",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "raja ramesh",
+              "uri": "//maps.google.com/maps/contrib/113121512362573458590",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7cYZDpTY2gAt04EQ30-clq6N_O2dgyPteEA8vWvJt8C3Te_E=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJZGFJuxGlBH9iBWuasw8m5p1pzYXQ_nEsUGYsQGlt0iV3E1ELWoLzhfzpAw3emQHyj2yrO_SUEg5SNywXnpRy_yGdGNZ3nfzTMhB_ileVhv6YEtDTCm7q577mK_-a1GmpjmxFq3aX0OaLCxQ1cozmxKPOwOcfepBQNM",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "sharath chandra",
+              "uri": "//maps.google.com/maps/contrib/116380732086793629617",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU8u_U1s60zg41sLpbBrt06FQjR7T03CJmZBxOLklFK1SjTUkv-iA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJbYbnbLQBpSOAfkMDY8zHsr2F5gg-E4UmIUARYH0HqAMwFQOPoDSXpdrNrZts2vlO0hJYBuYgHFkBV5Wn-52JQQIXdFX7to9hDA9_-m-drgkqs4qdxDuP2nwQbJgXYtv7Nu3TV3XjYSW_OcKGhQpsAOGEX2Jcq6xJM",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "amazing video",
+              "uri": "//maps.google.com/maps/contrib/117201179494807253600",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXikGBhk1M87oHo05nM2LFiHVDOpSdCBLn-Fp9ewN67MeZrM_AU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJYyMJYYBMwg0Xgg1FW916qBJoCR0MNOfiziXgxIqnsI4PBEStNiQQ-BWGloQRjcCHpnIJggPdgIPTHkLXeg7SSXgKv-chUim5Ie0q3s3ecUB8cyRC5WNgUwBuvohjybiaTiyrxNMyrr-eAuYsPxlxSW841i8_z0gZua",
+          "widthPx": 2048,
+          "heightPx": 1152,
+          "authorAttributions": [
+            {
+              "displayName": "sathwik shiramshetty",
+              "uri": "//maps.google.com/maps/contrib/117718218048595627864",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWNFogT0f3gHI5HpToQ_zl6yZSEAlQoaDYzvPAQAiN6zb95SCA6QA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJaoOI8zF-oPHdpXp0HlalpWafz8GzxrchyC9CtNxxB3r6rJ0mw5KBLuVKj320ID9IsWWifHRfCXvIbXku7-vlXoUGeEyAiLTxaqxV8qhhHL0lkIUwg95-p_xDtzX2_Kh5dfxW0jPkHxrfDiS9_kHsohG2YkJ-4KLHs2",
+          "widthPx": 1200,
+          "heightPx": 1599,
+          "authorAttributions": [
+            {
+              "displayName": "sharath chandra",
+              "uri": "//maps.google.com/maps/contrib/116380732086793629617",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU8u_U1s60zg41sLpbBrt06FQjR7T03CJmZBxOLklFK1SjTUkv-iA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJYyLuX2z8LBTulHkFHxLdFc_kLryTfr9qjTYW6XkNLldonYVUwTiJKUUOL3n3_6wDR67yUa-tY62gFDN8OPNgnUPObNJxIrV9f4yvzeef-k4Rdx_j3HQ6gndYTBD1Ex5GW1d51yJxOYGuMeFClh3cZz2y5cQyKDwpnK",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "BHOBY NIKHIL REDDY USHA GADE",
+              "uri": "//maps.google.com/maps/contrib/101868256826177636605",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUI6OsTSrmqnYEv7BBmmxWOpedYupkKKXzebLTPbqqLuYD9A52jQw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJbJ11FH0ZT309c_HoT6l3lgM4xOwwKddDMZcaM_mOvfMfrTIuIRb9j9-xPpex0AeYdngaSowokGyScRFKSD67NipYxd0xyS8CS70tlVsQEaw_1ioKzbE1J5NED_ST9IFM1fnyMrjlYSMZLwPIZ_OooYyoyj6UAUlSi-",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "sharath chandra",
+              "uri": "//maps.google.com/maps/contrib/116380732086793629617",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU8u_U1s60zg41sLpbBrt06FQjR7T03CJmZBxOLklFK1SjTUkv-iA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJbf_ZWlAiNiCa_ReBd4zuw-zjMuA3l8X_MhVFPw41KoCZFF86uI86IETO7CSxkYCZzbk4a7ncdgp53v3aDzttB4XpiBJYR4LMD5yEHvhK-dj4aTk1J2gyi2jikKLT-S6BuE4uz90nx3HJLm54f2fN9xfrz7LAygos5T",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Puvvada Sridevi",
+              "uri": "//maps.google.com/maps/contrib/110878562387503408813",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUvL2sDp9O7yZ9Dq5EOzeEZBZFksQchn5AxaPiVbvLckuwR1Pn9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjQ8JzMeoNjoREYkNEtM0y_I/photos/ATplDJZ0jLTaCTMUCx-xTHX6ZsCxe0hCxGndG1IVjgrTJFpsVh9c5PLcKmald2QZ8N5BRBrZy4tJ5UvlLqfw4cNw0Wbixpn3IIMglOnBkPwPnwJ1S-Tb4LVxrRW2uMfcwTF7cahsVp2h8QXIHgihjEUA_TIkI4Q6IBLgyYM",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "amazing video",
+              "uri": "//maps.google.com/maps/contrib/117201179494807253600",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXikGBhk1M87oHo05nM2LFiHVDOpSdCBLn-Fp9ewN67MeZrM_AU=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0",
+      "id": "ChIJ9eRaxb6oNjoRNHMBkDvagc0",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Ahobila Matam, Ahobila Matam Road, near Ramalayam, Bhadrachalam, Andhra Pradesh 507111, India",
+      "addressComponents": [
+        {
+          "longText": "Ahobila Matam",
+          "shortText": "Ahobila Matam",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ramalayam",
+          "shortText": "Ramalayam",
+          "types": [
+            "point_of_interest",
+            "establishment",
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ahobila Matam Road",
+          "shortText": "Ahobila Matam Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhadrachalam",
+          "shortText": "Bhadrachalam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Godavari",
+          "shortText": "East Godavari",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Andhra Pradesh",
+          "shortText": "AP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507111",
+          "shortText": "507111",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7M92MV7J+MP",
+        "compoundCode": "MV7J+MP Bhadrachalam, Andhra Pradesh, India"
+      },
+      "location": {
+        "latitude": 17.664224000000004,
+        "longitude": 80.8818478
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.6629406197085,
+          "longitude": 80.8804933697085
+        },
+        "high": {
+          "latitude": 17.665638580291503,
+          "longitude": 80.88319133029151
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=14808356999124841268",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Ahobila Matam, \u003cspan class=\"street-address\"\u003eAhobila Matam Road\u003c/span\u003e, near Ramalayam, \u003cspan class=\"locality\"\u003eBhadrachalam\u003c/span\u003e, \u003cspan class=\"region\"\u003eAndhra Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507111\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 36,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Sri Lakshmi Narasimha Swamy Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Ahobila Matam, Ahobila Matam Road, Ramalayam, Bhadrachalam",
+      "reviews": [
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4NTlpR1RnEAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Blessed to visit this place, most of pilgrims are not aware about this",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Blessed to visit this place, most of pilgrims are not aware about this",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "satishtellakula",
+            "uri": "https://www.google.com/maps/contrib/106352469551088435320/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4ze8r3_oVaXT0WFN_6MvLDU-mkkmd2X4yfW5YwbaaxAV58JgfeQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-06-16T11:13:53Z"
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/reviews/ChdDSUhNMG9nS0VJQ0FnSURTZ28zMzFRRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Sri Yogananda Lakshmi Narasimha Swamy Temple in Bhadrachalam is a sacred place for Hindus to worship Sri Lakshmi Narasimha Swamy. The place has peaceful environment.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Sri Yogananda Lakshmi Narasimha Swamy Temple in Bhadrachalam is a sacred place for Hindus to worship Sri Lakshmi Narasimha Swamy. The place has peaceful environment.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anantha Murali Mohan Rao Soganur Karanam",
+            "uri": "https://www.google.com/maps/contrib/106873002275427861253/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7Nm0bTRpscXXc7jhsCyDzNobUFaQwN_GBOsZwWrVjgTTPxYc=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2020-12-18T14:18:12Z"
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJM2RqNjZRRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "One who visit the bhadrachalam should visit this place for sure just a walkable distance from temple, di don't forget when viewing bhadrachalam",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One who visit the bhadrachalam should visit this place for sure just a walkable distance from temple, di don't forget when viewing bhadrachalam",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Koyilada Harsha",
+            "uri": "https://www.google.com/maps/contrib/117054836394213179575/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHmOGtzQ1WJjblTAl1U4e3KPsPYkGGWd1CQEk39nQyt52fFeehCQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2018-12-02T04:57:47Z"
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/reviews/ChZDSUhNMG9nS0VJQ0FnSURabVpMX1dnEAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aepuri Srinivas",
+            "uri": "https://www.google.com/maps/contrib/108140665141636060108/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgj-jjYuOFOB3P8YjnX5g17nST7713P-gZgvUmBTPXj_UOOO7P=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-10-04T05:27:44Z"
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/reviews/ChdDSUhNMG9nS0VJQ0FnSURRMDhPQW13RRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Great devotional place ... Clean environment",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great devotional place ... Clean environment",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Krishna Kanth Nelluri",
+            "uri": "https://www.google.com/maps/contrib/111780520852528780959/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXq-OUN9elpQBvgRDaFwIa-7A8R-9YGB0h3ylztuJlgdaTGV1CP=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2018-01-15T08:23:36Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJYLDbjRHMoYPPIor_CkYqsrC6HVen2GidPQDLM1aTMRjr-ZI4puk64rzuMrVdLCvj574UjPJmdBI6bybem19gtjaH0EVfId1OfkFfQjO5yAmfQmOiiQthmiPLrViz4ycgXpuELRoZPw5oBgQTZR8-Lw7x576-l6b97x",
+          "widthPx": 1200,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Srivatsav Koppula",
+              "uri": "//maps.google.com/maps/contrib/101114462127573258331",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU9tLrVaglYzmDXQ4bHI8ldd88XvmwvFeXnEqTNQaIfpUuOx8l1iw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJa5IaVFbF2IBrgaw2aOI3Qf4ry6xf9kIx02iiZyVpONVHGi0vNGvYfDPcWFKHPE9OpZg8s6FpwZCjbKsjGUP5RzMc-yfoZwZCbhstSl0lxO6sRvYZ2BiYmpjNHN2Pz_2CPTVLqjwYLJzbBmdOZVZiVFyafZneS6VZeS",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "Srivatsav Koppula",
+              "uri": "//maps.google.com/maps/contrib/101114462127573258331",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU9tLrVaglYzmDXQ4bHI8ldd88XvmwvFeXnEqTNQaIfpUuOx8l1iw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJYe7Y22MLIW100B_hpASoKgpuVyBVnnpHy1KYnfarP1Mo_bb1UUDAoHYjGwGltyuHn-iYJ9Vb2tOWXDYb-jYY3Jd5SWwcTWMaUXIRhMNZcyEm8HeMFLGOg3NbKtSsFQggWrDG4cc2QvbtmktNfkuC9YrhTOqprUG00w",
+          "widthPx": 2250,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "karthik g",
+              "uri": "//maps.google.com/maps/contrib/112845043621551503125",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXSu2ci012zWiU4inq13IO-7Sg_ib4ZAl9WhbMURis3XD1ywebXsQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJYELYtQeIiS9LbpaoyTHpSzTCUnvt7pippccNXvg3rMakwhbaYyDBSMW1WDicukk5zKj8IPYHv-ua3f0b2Y0tepG7Q6stxG7pEkJyIkPSiFaoUt203ca3vVSOtcKdvytd1_QyFUPgLKUuVQI8_t3A_-wMB23yGRGGUQ",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Anantha Murali Mohan Rao Soganur Karanam",
+              "uri": "//maps.google.com/maps/contrib/106873002275427861253",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7Nm0bTRpscXXc7jhsCyDzNobUFaQwN_GBOsZwWrVjgTTPxYc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJb5QoEzl51DeU1JizFKeBSVMzaHmQ60DlSLDDJagUq4VQzfNibpewRLjAGWOlmAvoN4MEWZ2J10Rj8Ol9CyaS5_hMDxpjK2Zb4iN3i90co07EsFQXYYXQSNj2dsOoxON0xLRPx4zoQFpxv4eZTQsfKCzM2cZDqOnCCR",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vamsi Krrishna",
+              "uri": "//maps.google.com/maps/contrib/116432306447512553818",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIpocRavr1F13lozcpFdeIRGUmmpdYkXUUqWs7gJJbUcv7ZGA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJZd0xLbvHF4nnPo5GjqtqJQgE4uOmrMlJVV-SUekBwXbaiWXhJifvcs2g1B__BrcheWz2MRdrRs8XGdVT5y9Fnc1-WOrZFRP8CLHQObq_NsYrIo4Tkp5XeMKnnBpKv5hR_mk5e19-1Xe2jzD0tPip2mkvJEq8uLPjrR",
+          "widthPx": 1600,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Srivatsav Koppula",
+              "uri": "//maps.google.com/maps/contrib/101114462127573258331",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU9tLrVaglYzmDXQ4bHI8ldd88XvmwvFeXnEqTNQaIfpUuOx8l1iw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJbbQTLPI7Vie1fHwk30g7DTlS88Sc5dqRHppyLBJq7r68YXFDLkIMLyCKhQL8cZiGHvTJLF7Qx0v0zILBQldovubuoC1nSlKa2pN25GqhKXoesPQjdBTBIJQJlU_sL_e_XfAhJ7R0zWZQqDbo1KxfUeosW1T6cwFGtZ",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Srivatsav Koppula",
+              "uri": "//maps.google.com/maps/contrib/101114462127573258331",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU9tLrVaglYzmDXQ4bHI8ldd88XvmwvFeXnEqTNQaIfpUuOx8l1iw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJa5u-l5aZNYDRawkh2QXDZlb95Gm_Be9Lug80Sih0Um0iDRroYYOSQDsQcV2LDrJly2fPvq_sCmC87xyGghjUoJPo0qmz-aaqB6jKwwmovCLJjL4vs-U7iDY8EentIxOp5kX-DT477HLLpuushoVWyOdQd3w-I_VA7e",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Anantha Murali Mohan Rao Soganur Karanam",
+              "uri": "//maps.google.com/maps/contrib/106873002275427861253",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7Nm0bTRpscXXc7jhsCyDzNobUFaQwN_GBOsZwWrVjgTTPxYc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJa8_gy6nxvBaVKZGwO1J6m48UW3nCV3zy1yByJGi-INsucAmDwHjxMJLO4RnYmyo44FVM_CTGxhYTNE19z-0aBkwuc0TkXladgF5UKMVB7tU9TJHo0YNnqpxb4IehkKc5BTGpOuAXfhDdTjC8pRH_td_f-eM-Nbl8xv",
+          "widthPx": 2250,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "karthik g",
+              "uri": "//maps.google.com/maps/contrib/112845043621551503125",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXSu2ci012zWiU4inq13IO-7Sg_ib4ZAl9WhbMURis3XD1ywebXsQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ9eRaxb6oNjoRNHMBkDvagc0/photos/ATplDJYb41lPRvy4VkxzTPW0mPjGY9pePGk2Cs29WRGKjFQnCExIaTmSXFIRDFHSCgmk5jdsfQxzRUCM1jydMAgnr7iazbvMaaihSSFA9ZOKGVJomMgtvlLdAQXvMIglTrQLF9xorOVXEP_uR5mmc3t_aJgd5lNjh7D1smkP",
+          "widthPx": 2160,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "karthik g",
+              "uri": "//maps.google.com/maps/contrib/112845043621551503125",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXSu2ci012zWiU4inq13IO-7Sg_ib4ZAl9WhbMURis3XD1ywebXsQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJp6ay27WoNjoRvN8Fvloqg9E",
+      "id": "ChIJp6ay27WoNjoRvN8Fvloqg9E",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "MV9V+GC8, Bhupathi Rao Colony, Khammam, Bhadrachalam, Andhra Pradesh 507111, India",
+      "addressComponents": [
+        {
+          "longText": "MV9V+GC8",
+          "shortText": "MV9V+GC8",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bhupathi Rao Colony",
+          "shortText": "Bhupathi Rao Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khammam",
+          "shortText": "Khammam",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Godavari",
+          "shortText": "East Godavari",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Andhra Pradesh",
+          "shortText": "AP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507111",
+          "shortText": "507111",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.668791199999998,
+        "longitude": 80.8935925
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.667768469708495,
+          "longitude": 80.8921569697085
+        },
+        "high": {
+          "latitude": 17.6704664302915,
+          "longitude": 80.894854930291515
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=15096956945099513788",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "MV9V+GC8, \u003cspan class=\"extended-address\"\u003eBhupathi Rao Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKhammam, Bhadrachalam\u003c/span\u003e, \u003cspan class=\"region\"\u003eAndhra Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507111\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Ram Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Museum",
+        "languageCode": "en-US"
+      },
+      "primaryType": "museum",
+      "shortFormattedAddress": "MV9V+GC8, Bhupathi Rao Colony, Khammam, Bhadrachalam",
+      "reviews": [
+        {
+          "name": "places/ChIJp6ay27WoNjoRvN8Fvloqg9E/reviews/ChdDSUhNMG9nS0VJQ0FnSUMycFB1MXZRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "New hotel.  Nattukolla.biryani.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "New hotel.  Nattukolla.biryani.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "vasanth. gaming tech",
+            "uri": "https://www.google.com/maps/contrib/101135689093570127368/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTCgPFXzEvtF-L40sIonFJ9sTB-7k_5s9I6B53Z-DdR_vlpzGr=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-04-13T03:09:46Z"
+        },
+        {
+          "name": "places/ChIJp6ay27WoNjoRvN8Fvloqg9E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsbm9HTjNBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Harish Reddy",
+            "uri": "https://www.google.com/maps/contrib/110344932335791244955/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEsohj-iEZu2MOgpeMkx-1i7ZD0QoMl1XwAuYJcWQtXHNwGS7x=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-19T06:08:33Z"
+        },
+        {
+          "name": "places/ChIJp6ay27WoNjoRvN8Fvloqg9E/reviews/ChdDSUhNMG9nS0VJQ0FnSUROMHR1SHRBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "UNSTOPPER",
+            "uri": "https://www.google.com/maps/contrib/117718794514423188676/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU34zH0Oo3MArOeafThWUa3uxExFTSq5Y9TVzBTyLPxgqTBiUsY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-21T08:01:31Z"
+        },
+        {
+          "name": "places/ChIJp6ay27WoNjoRvN8Fvloqg9E/reviews/ChdDSUhNMG9nS0VJQ0FnSURVaHJqcHJ3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "maninder singh",
+            "uri": "https://www.google.com/maps/contrib/100252768868581605172/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWw7EC7tVwJiw2_dwRNxtZ1NR2KyBq8U1IFnjatSXwawsCIz0=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-08-21T11:42:23Z"
+        },
+        {
+          "name": "places/ChIJp6ay27WoNjoRvN8Fvloqg9E/reviews/ChdDSUhNMG9nS0VJQ0FnSURwX05MUXJBRRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 1,
+          "authorAttribution": {
+            "displayName": "Sodi Vinod Kumar",
+            "uri": "https://www.google.com/maps/contrib/102029156190017265865/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXufXsNwdj39NoeKAhwCxDS04aV9GuLvkryNFJKzwCRwj48_4Ob=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-08-18T08:58:55Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJp6ay27WoNjoRvN8Fvloqg9E/photos/ATplDJajoCH3sw46mXd_KohZVv_fH_bJJxlCy_MiH2n0xpzqz7h09E7CiI7JirAkG0q_x1HV7nl_e_KC-s9eq7fFHINo0IZ9OrO898HEhv7gDEUtnoHkVsbspq4GLJJjj1q0wMfFSmbpx8ZeuBU3bloX7WQhdoKcRCKuaw8x",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sodi Vinod Kumar",
+              "uri": "//maps.google.com/maps/contrib/102029156190017265865",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXufXsNwdj39NoeKAhwCxDS04aV9GuLvkryNFJKzwCRwj48_4Ob=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJp6ay27WoNjoRvN8Fvloqg9E/photos/ATplDJZLBwqcCLjYPcvC4Bm-oThnXC-kkQbTJ8nqkJOn_J9RaRUMp4di9h50BU6tJNseS3Thpbq5W1mEzJxSQYt0uDOxo29ILbjrSzASAF5mvSyMRwMO3u52DxcR9WEH9xMXi7nsm7ko3ublHY36fBf7T4FP8DqxnyDeYO0B",
+          "widthPx": 1472,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Saidulu Mosam",
+              "uri": "//maps.google.com/maps/contrib/105542201953420501568",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIITqfpdeT0jTSiDwd4pJIiAQqq2wyteCt30D91whRSqOvGVQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0",
+      "id": "ChIJD4dKY4qvNjoRDWXXkpsCMf0",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "JWX5+JPR, Rajahmundry - Bhadrachalam Hwy, Gundala, Andhra Pradesh 507111, India",
+      "addressComponents": [
+        {
+          "longText": "JWX5+JPR",
+          "shortText": "JWX5+JPR",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Rajahmundry - Bhadrachalam Highway",
+          "shortText": "Rajahmundry - Bhadrachalam Hwy",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gundala",
+          "shortText": "Gundala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Godavari",
+          "shortText": "East Godavari",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Andhra Pradesh",
+          "shortText": "AP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507111",
+          "shortText": "507111",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.6491206,
+        "longitude": 80.9092584
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.647803619708498,
+          "longitude": 80.9079171197085
+        },
+        "high": {
+          "latitude": 17.6505015802915,
+          "longitude": 80.9106150802915
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=18244366432661366029",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "JWX5+JPR, \u003cspan class=\"street-address\"\u003eRajahmundry - Bhadrachalam Hwy\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGundala\u003c/span\u003e, \u003cspan class=\"region\"\u003eAndhra Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507111\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Andhra Pradesh - Telangana Border (Bhadrachalam)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "JWX5+JPR, Rajahmundry - Bhadrachalam Hwy, Gundala",
+      "reviews": [
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/reviews/ChdDSUhNMG9nS0VJQ0FnSURoX0pMc3hRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "krishna prasad",
+            "uri": "https://www.google.com/maps/contrib/107580687065456402356/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEuBNBffygqAR9DS4wxIJ3FFXQJRQZcXHcZkDsjG0-ejtohor3mQ=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2023-03-04T08:54:40Z"
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwLTdTLWJREAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "ramesh grandi",
+            "uri": "https://www.google.com/maps/contrib/105540831072152393726/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMdxYUxtI4nlUGEBWSPP8pej-00UPJqsMaH2mdmzrv3b4l8HvK=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-08-11T09:54:20Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJbAzW8LetNzolzsvvnPy9txgAOsSwuzWxYwfc650Or1oJKX5E9388X5LDVHjv5bqw7vtNNpskM4ITZMcJ5zNRpLvCgrqp6arvbJw33JYJWLdg__wYGSakG08RDvwpBCpYzrG4_MzbEpRZIBG_T7oN8wMb1IHX7DZX-p",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Gane Sh",
+              "uri": "//maps.google.com/maps/contrib/100604310685775083008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbPS8IZ7TLAWHbjqmW83d2JNu1Khs0HvWoTkyC-Q9-1acDrMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJYC_dYxArNu0zpm4DzkC4loOhQTtsy-rbjT7NlLtY4nCs128m4KdSzZDvlnYqj3rK8YUoxuo2WZqAhfaf2MhwgZGR9pZGVIdsLoOrfGdf9xtkyhud6pqaJXRLfF8CVzFf4xhG8Mlowq4JIBMslf8pDancyFAXCS3jrK",
+          "widthPx": 1200,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Gane Sh",
+              "uri": "//maps.google.com/maps/contrib/100604310685775083008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbPS8IZ7TLAWHbjqmW83d2JNu1Khs0HvWoTkyC-Q9-1acDrMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJbYazjZZd8wxLadDBgZgnhAB5OUiEW6sfJMdJzCbfAVUpMxQ9_QJvOPZzAcsoo10Oom1xlRmT9MIPTyZvzV1AhzOTTorfMTfCn89LVwNs-6Zfad7r3lraHz3p9XnVxBWzG7kt_7SOukSA18pGLayJRsv7LWB3g0GprB",
+          "widthPx": 1200,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Gane Sh",
+              "uri": "//maps.google.com/maps/contrib/100604310685775083008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbPS8IZ7TLAWHbjqmW83d2JNu1Khs0HvWoTkyC-Q9-1acDrMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJbc80CxuMtvBDF1gad79BgGh3HuOOQULqUYOYA9s09PFzUrtXdX1mMfmlnyl4dK8Lz788R8CvLE6xpDCxJwaSbN3Z1rLRlgr5gagjTdEVzsiHAxSho6lYehvTBEeOmWQZc9eZfKg2YuLBLTXpr6qYoev2xe8zte2K0R",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Gane Sh",
+              "uri": "//maps.google.com/maps/contrib/100604310685775083008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbPS8IZ7TLAWHbjqmW83d2JNu1Khs0HvWoTkyC-Q9-1acDrMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJbj5B3ryjijbsTHlLfuJ2yH2Zp8jjYiGXdoWfuq4I1M5FcvqDFeWk5pp4z4ROFb54H6UNnY4TA3lNJSWP4qIAzhx0Rf1YCO2i2RijBel_XXw0r9kgMlN16EoRA50hKmi4Yrdmfd9nonatXtNSOFKxOONuvFqvnyUifU",
+          "widthPx": 1205,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "krishna prasad",
+              "uri": "//maps.google.com/maps/contrib/107580687065456402356",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVEuBNBffygqAR9DS4wxIJ3FFXQJRQZcXHcZkDsjG0-ejtohor3mQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJbaMFNEo6AxbJf1tK0QjLAWv61wmHDqG5Vd3JSspqjs9AWwg2ALkspnkPGe8tZzu8qOSSH9nAoA77NQozQha6i6h47P6EZsTp7XHD8vI-b27EAdrf_OAW8ZELlVq0yd4OJ998exes-k2vm2DzGB_xTIa0MpEQkhhhBN",
+          "widthPx": 480,
+          "heightPx": 948,
+          "authorAttributions": [
+            {
+              "displayName": "Gane Sh",
+              "uri": "//maps.google.com/maps/contrib/100604310685775083008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbPS8IZ7TLAWHbjqmW83d2JNu1Khs0HvWoTkyC-Q9-1acDrMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJb7zjRPcWRPyOK4KZKReXT1a1Gkcj2chaSpZO2ysiJJ-B5YSttUleFUO-Sj7aeeP90mt_27nKUYp0trybHiLnumGZwW-vmcbRpkhS5h7Ma5q57Lbz-7Iii8pXJ27lu7Y1kXXhAz_ZeiIEf7FEwZWNX09A33YYQ30JAz",
+          "widthPx": 1200,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Gane Sh",
+              "uri": "//maps.google.com/maps/contrib/100604310685775083008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbPS8IZ7TLAWHbjqmW83d2JNu1Khs0HvWoTkyC-Q9-1acDrMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJZAZa8_kKEh5gRh9U74nKaA-lYDA3lnKZqjb5fYxxfoXAOcLuIYDwujYykcaSVALxeQqi1LZK2a_E1sCcK2vRlyEF5QcP3efZmTImIcxP16cJEGc2iIRHOPEDCQQIX0YP2k5qHSz9SyF05bEQQ20XfIPr6JauUU6iMw",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Gane Sh",
+              "uri": "//maps.google.com/maps/contrib/100604310685775083008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbPS8IZ7TLAWHbjqmW83d2JNu1Khs0HvWoTkyC-Q9-1acDrMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJYqChZ8oVRp_y-OzqO9DwjeywdpltOnWEXA4-YqClFc274nsccGFEEx2NpkM2Z7s4xnXIaXlkJ-GCqPxEV9I5ODHpixIkY8lG0OaJx7aQXgNXviaCNOlZ5bg6zGr4okCX_l0GhNkv6AtcsCNd9VIa_o_R7ef_gBOOCZ",
+          "widthPx": 1078,
+          "heightPx": 1251,
+          "authorAttributions": [
+            {
+              "displayName": "A R A K",
+              "uri": "//maps.google.com/maps/contrib/114431251396149115720",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgc9ROrXN3yC4Pv6jglAbP73XYdCNWPlIQH9avuQ98h5MPMvF8tw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJD4dKY4qvNjoRDWXXkpsCMf0/photos/ATplDJYrOZ2jVKwRDy2IlpbPRzkXh-7YgY6TPAXMHbaerUqm8Ji9N1qp5M5A3K0RQONlEffK8Jkd_Znv84Rx1mu4J7dlh-vFXUJzsAC2mr9iaqL0Jr2zI_xRhZ1IZpexH4gLr-evYOEatMNYZKzGPiomP3cMHdoW9NfSEt-7",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Gane Sh",
+              "uri": "//maps.google.com/maps/contrib/100604310685775083008",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbPS8IZ7TLAWHbjqmW83d2JNu1Khs0HvWoTkyC-Q9-1acDrMA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw",
+      "id": "ChIJFUO43N-lNjoRz2ZH5zTqhmw",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Sridhara, WESTGODAVARI, ANDHRAPRADESH, JWF2+C47, Sridhara, Telangana 507114, India",
+      "addressComponents": [
+        {
+          "longText": "JWF2+C47",
+          "shortText": "JWF2+C47",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Sridhara",
+          "shortText": "Sridhara",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhadradri Kothagudem",
+          "shortText": "Bhadradri Kothagudem",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Telangana",
+          "shortText": "TS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "507114",
+          "shortText": "507114",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 17.6235301,
+        "longitude": 80.900298800000016
+      },
+      "viewport": {
+        "low": {
+          "latitude": 17.622353069708502,
+          "longitude": 80.8991090197085
+        },
+        "high": {
+          "latitude": 17.625051030291505,
+          "longitude": 80.901806980291511
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=7820195315914860239",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Sridhara, WESTGODAVARI, ANDHRAPRADESH, JWF2+C47, \u003cspan class=\"locality\"\u003eSridhara\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e507114\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 18,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Veleru Sree Lakshmi Narasimha Swamy Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "JWF2+C47, Sridhara, WESTGODAVARI, ANDHRAPRADESH",
+      "reviews": [
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJeVlHQUNREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It is A Famous Temple and Having Grate History and It Is existing From Kakateeya Dynasty",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is A Famous Temple and Having Grate History and It Is existing From Kakateeya Dynasty",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Naresh Naidu",
+            "uri": "https://www.google.com/maps/contrib/107806755969274830937/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFBfqAgj-L7CxADGS5SRgZQreOo3inj0yxfIXDDoHE92k6eYg3iA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-11-23T05:10:48Z"
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/reviews/ChdDSUhNMG9nS0VJQ0FnSUM0c2ZqMXVRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Yes it's my native place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Yes it's my native place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aepuri Srinivas",
+            "uri": "https://www.google.com/maps/contrib/108140665141636060108/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgj-jjYuOFOB3P8YjnX5g17nST7713P-gZgvUmBTPXj_UOOO7P=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-06-08T04:00:43Z"
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/reviews/ChdDSUhNMG9nS0VJQ0FnSURJby1tMnlnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "God bless you",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "God bless you",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nagendra babu KK",
+            "uri": "https://www.google.com/maps/contrib/118153941910818727850/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1h8M1dxekhZqx2yw1sBa5Jxiw20mjK5geRgc9luJauzhkHigb=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-01-19T09:52:45Z"
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzanZET2VnEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "God is great",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "God is great",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "PRASAD M",
+            "uri": "https://www.google.com/maps/contrib/115139672675633366609/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKf7Ftmr_0QB_jGi44urckipFfcdbJNg0hGMx_mJM2grPT3rvI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-02-01T17:45:02Z"
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZN1kzWmF3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pandu kondru",
+            "uri": "https://www.google.com/maps/contrib/107150423598685149034/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbh5Rzg5Z7P7PXBgUzH-MmnecwNPKZPkAMKbjP6P4wZc2rAXab=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-04-17T12:31:22Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJYfMQp0d81g52Ha8BES9WyBTG6FRUdGAobvbiTb3ZjfiTj-v2h2mcPzVDgBpbrJMuoAmHx7XjX7CCHlZ80t96SLeDJAKwY6-_B_XXcK8wv8EaHwaqqpzn1xnzxHRV0lIMW-n5z1taeYxtdYfBbZ4eatsVFF2mdK0khj",
+          "widthPx": 3968,
+          "heightPx": 2976,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Naidu",
+              "uri": "//maps.google.com/maps/contrib/107806755969274830937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFBfqAgj-L7CxADGS5SRgZQreOo3inj0yxfIXDDoHE92k6eYg3iA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJY4hVtnEGIHnG3HLgqszATF1mWsc-VybtWrA4M91rVZxqyhiEsXIQC5kcfzR5e_358_ggk7fV5JWujrWLCshocLwgZ9MjChpV4hnCe_cXEocyyLctWRKGmTnnoC-mQv3fuqCW2ZJJK1LKYw6_92iu5dLO-wucJc9RcG",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Modugu",
+              "uri": "//maps.google.com/maps/contrib/101089485084603017783",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVSmlhvyTtRJh8hpL0ZoyiCkhxW7hFAHQn4ZMHdBtLtGwrxikw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJYpuFUQmdExRHzOHTgwbFbj-oJ-R-aQH4EQwaljfCn0OogMrNcgTuNa4HYT59RMDN0mhIP1gv3UGTOdelup7vXjjYh3fn03MDg9UPQou_BkzELayFJ60cbz3zoNyQt7XnmzA63tTA9HNrF8u7q9IQW_pl-ekXwfTRSl",
+          "widthPx": 3968,
+          "heightPx": 2976,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Naidu",
+              "uri": "//maps.google.com/maps/contrib/107806755969274830937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFBfqAgj-L7CxADGS5SRgZQreOo3inj0yxfIXDDoHE92k6eYg3iA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJZlfk1A_hY4JYVRppp7trsqAbneR4HBBwQVRgpAPiyQc2wqcXxToQEhzMTP3Fe1T46ljp4zi4QQGRXZQPtLssSaVj6ZDnpZbnZWTOnIut0j14qx6E1XJrQ6uthIwBmbx7sXhsR8FGVGkO5Pxy3sDXBO9lxSu3yAj7iL",
+          "widthPx": 725,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "manu yt",
+              "uri": "//maps.google.com/maps/contrib/114096181732511126554",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVNhFSYghUTzTVFWhXqBDAe6fUpUlrDN2TlVU7jBVV3i3RxxGc6=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJbROvPFT6MfudXw_0nVJzy8IVelSTClXTW2xbpubUaiV1iZYLcdo_X3Xy6ZrXrXqQrOIEUZtw4c5Q_CKZ5oEaM3iMODt6D9rZdGHFvPVvQJb5L3c7hz89YBE6CkD_YlOVCzciXJ4kuLSOY-EmGrBwAJF3ieoX_wt98V",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Modugu",
+              "uri": "//maps.google.com/maps/contrib/101089485084603017783",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVSmlhvyTtRJh8hpL0ZoyiCkhxW7hFAHQn4ZMHdBtLtGwrxikw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJY0QmBCZFrrDCircMSB1W7_6LAKFKdIYzLS-M26BZFe9nT69Fj8mvG6ShVcIvJhu3iTxncmVpgiavQ22MSqrdwHVSboA6S9NtFneRgyGSWOU_ER-b2uuJH5bHKj3sDPar-lSKAvy-otQIar4WYn2WcvCFaLCxUAv8E6",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Vasudha Sridhar",
+              "uri": "//maps.google.com/maps/contrib/103754236899564986013",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJKdW1uYQnBPrxbdWkZXM2QTRxFbSFVmITUwitak3Io1TuKKQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJYPpVZiRZKSJQuboiaOO9wHP1dkREEhhq93H9eEmAxjdBaS1a_2MUe5AaT2IXXjlF4w28x0zxlZa9xAGP47k4YS8bYMC2vPzqM-BcoDbw3oou633kmJ-kybZ_5KuDIp69iA2tOip2w4bHDOgxhuHRH-kCxiqJR7yO-s",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Vasudha Sridhar",
+              "uri": "//maps.google.com/maps/contrib/103754236899564986013",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJKdW1uYQnBPrxbdWkZXM2QTRxFbSFVmITUwitak3Io1TuKKQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJbVqb3ecOBALb8Qq4CV_POrvqhjrW06yjyi0gBOG1RDAfFURU3QVvH5Lqgd8Ez5CEL7sz34CL1gC0CI-iMyhkbJqJNSbf1BJJEuR1Bcpna3JehT0y4aw2KtQ89uNOT9txM6lsYa61wHRk_d-qK4d32ix7eSXw3n18Fx",
+          "widthPx": 2976,
+          "heightPx": 3968,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Naidu",
+              "uri": "//maps.google.com/maps/contrib/107806755969274830937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFBfqAgj-L7CxADGS5SRgZQreOo3inj0yxfIXDDoHE92k6eYg3iA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJbZtMGRndh_DUT-G87AMvOtKopcsizo7vBT_RpfnrGt1o0zn5xXVwOQK_eKRhviupY1CABTmVl-xQbEM1PXKScQnLAYdJCrPxJImAiIbk3YoR6hFYrXxSCruu34Kk_K5UzfGMCRSvNMySpNYYFRVv0UmhQ5TivS5GIx",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Vasudha Sridhar",
+              "uri": "//maps.google.com/maps/contrib/103754236899564986013",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJKdW1uYQnBPrxbdWkZXM2QTRxFbSFVmITUwitak3Io1TuKKQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJFUO43N-lNjoRz2ZH5zTqhmw/photos/ATplDJa3cssJf-_y4FifDw7fyns0khjs1-Gjee3IMmt_lRth7ZUltJYR-wXc-dEQ0aFBfoc24imvIgEbzN9RgPe5yhIMhjiXo5RMFdcO8q4DyHicO-CrJZITOfnD1eL_9UA1SYN9TW1smDe1_oGo3SyE8ioJDaJ3TP-Zmcv7",
+          "widthPx": 3968,
+          "heightPx": 2976,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Naidu",
+              "uri": "//maps.google.com/maps/contrib/107806755969274830937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFBfqAgj-L7CxADGS5SRgZQreOo3inj0yxfIXDDoHE92k6eYg3iA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    }
+  ]
+}
+

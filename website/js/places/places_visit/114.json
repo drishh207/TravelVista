@@ -1,0 +1,4481 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o",
+      "id": "ChIJXQ9pTf6SBDkRzLEYSAoTm2o",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0177 262 5924",
+      "internationalPhoneNumber": "+91 177 262 5924",
+      "formattedAddress": "VPO, 2JXV+HHJ &, Teh, Baijnath, Himachal Pradesh 176125, India",
+      "addressComponents": [
+        {
+          "longText": "&",
+          "shortText": "&",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "2JXV+HHJ",
+          "shortText": "2JXV+HHJ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Teh",
+          "shortText": "Teh",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baijnath",
+          "shortText": "Baijnath",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176125",
+          "shortText": "176125",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 32.0507632,
+        "longitude": 76.6458538
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.049299319708496,
+          "longitude": 76.644785169708484
+        },
+        "high": {
+          "latitude": 32.051997280291495,
+          "longitude": 76.6474831302915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=7681754524290691532",
+      "websiteUri": "https://bababaijnath.in/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 8:00 PM",
+          "Tuesday: 6:00 AM – 8:00 PM",
+          "Wednesday: 6:00 AM – 8:00 PM",
+          "Thursday: 6:00 AM – 8:00 PM",
+          "Friday: 6:00 AM – 8:00 PM",
+          "Saturday: 6:00 AM – 8:00 PM",
+          "Sunday: 6:00 AM – 8:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "VPO, 2JXV+HHJ &amp;, \u003cspan class=\"street-address\"\u003eTeh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaijnath\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176125\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2168,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Baijnath Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 8:00 PM",
+          "Tuesday: 6:00 AM – 8:00 PM",
+          "Wednesday: 6:00 AM – 8:00 PM",
+          "Thursday: 6:00 AM – 8:00 PM",
+          "Friday: 6:00 AM – 8:00 PM",
+          "Saturday: 6:00 AM – 8:00 PM",
+          "Sunday: 6:00 AM – 8:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "2JXV+HHJ &, VPO, Teh, Baijnath",
+      "reviews": [
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5M1phWkNBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "The Baijnath Temple, dedicated to Lord Shiva, is located in the town of Baijnath in Himachal Pradesh, India.\nIt is one of the oldest temples in the region, believed to have been constructed in the 13th century.\nThe temple complex is renowned for its exquisite architecture, featuring intricate stone carvings and sculptures.\nDevotees flock to the temple throughout the year, especially during the Mahashivratri festival, to seek the blessings of Lord Shiva.\nLegend has it that the temple was built by Ravana, the demon king of Lanka, as an offering to Lord Shiva.\nThe main deity worshipped here is Lord Vaidyanath, known as the \"Lord of Physicians,\" believed to possess the power to heal ailments.\nThe temple surroundings offer a serene ambiance amidst the picturesque landscape of the Himalayas.\nVisitors can also explore nearby attractions like the hot springs believed to have medicinal properties.\n\nNestled at the foothills of the Dhauladhar Ranges along the left bank of the river Binwa, lies Baijnath, formerly known as Kiragrama, which served as a frontier post from the early 13th century. The village's name suggests its origin from a settlement of the Kiras, a war-like tribe from Kashmir.\n\nLegend has it that during the Treta Yug, Ravana sought to appease Lord Shiva by performing penance at Kailash. When his prayers went unanswered, he proceeded to Kurah (believed to be Manimahesh in Chamba Distt.) and began sacrificing his ten heads. To prevent Ravana from attaining invincibility, the Devas beseeched Lord Shiva's intervention. Upon their request, Shiva not only halted Ravana but also restored his ten heads, earning the title of Shri Vaidyanath. As per Shiva's boon, Ravana requested unparalleled power and consent to carry and consecrate him in Lanka. Shiva agreed on the condition of an uninterrupted journey. To facilitate this, Shiva transformed into a Linga in two parts. Carrying the Linga basket, Ravana proceeded south until he reached the Gokarn area (Baijnath), where he felt the urge to relieve himself. He entrusted the basket to a cowherd with strict instructions not to place it on the ground. However, when Ravana delayed his return, the cowherd, finding the basket heavy, inadvertently placed it on the ground, thus establishing the Linga at Baijnath, with one half as Vaidyanath and the other as Chandrabhal.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The Baijnath Temple, dedicated to Lord Shiva, is located in the town of Baijnath in Himachal Pradesh, India.\nIt is one of the oldest temples in the region, believed to have been constructed in the 13th century.\nThe temple complex is renowned for its exquisite architecture, featuring intricate stone carvings and sculptures.\nDevotees flock to the temple throughout the year, especially during the Mahashivratri festival, to seek the blessings of Lord Shiva.\nLegend has it that the temple was built by Ravana, the demon king of Lanka, as an offering to Lord Shiva.\nThe main deity worshipped here is Lord Vaidyanath, known as the \"Lord of Physicians,\" believed to possess the power to heal ailments.\nThe temple surroundings offer a serene ambiance amidst the picturesque landscape of the Himalayas.\nVisitors can also explore nearby attractions like the hot springs believed to have medicinal properties.\n\nNestled at the foothills of the Dhauladhar Ranges along the left bank of the river Binwa, lies Baijnath, formerly known as Kiragrama, which served as a frontier post from the early 13th century. The village's name suggests its origin from a settlement of the Kiras, a war-like tribe from Kashmir.\n\nLegend has it that during the Treta Yug, Ravana sought to appease Lord Shiva by performing penance at Kailash. When his prayers went unanswered, he proceeded to Kurah (believed to be Manimahesh in Chamba Distt.) and began sacrificing his ten heads. To prevent Ravana from attaining invincibility, the Devas beseeched Lord Shiva's intervention. Upon their request, Shiva not only halted Ravana but also restored his ten heads, earning the title of Shri Vaidyanath. As per Shiva's boon, Ravana requested unparalleled power and consent to carry and consecrate him in Lanka. Shiva agreed on the condition of an uninterrupted journey. To facilitate this, Shiva transformed into a Linga in two parts. Carrying the Linga basket, Ravana proceeded south until he reached the Gokarn area (Baijnath), where he felt the urge to relieve himself. He entrusted the basket to a cowherd with strict instructions not to place it on the ground. However, when Ravana delayed his return, the cowherd, finding the basket heavy, inadvertently placed it on the ground, thus establishing the Linga at Baijnath, with one half as Vaidyanath and the other as Chandrabhal.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rakesh Kumar",
+            "uri": "https://www.google.com/maps/contrib/107642700686686930665/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKvt5Cj0lJFEA1Ehbbp_PN4_E8kmU3Y6J8KSkZk_drnAew2mDC=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-03-08T17:04:47Z"
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxMHZTOE53EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Situated on the foothills of the Dhauladhar Ranges on the left bank of the river Binwa lies Baijnath. Originally known as Kiragrama, Baijnath was a frontier post, as far back as the beginning of the 13th century. The name suggests that the village owes its origin to a settlement of Kiras, a war-like tribe from Kashmir.\n\nIt is believed that during the Treta Yug, Ravana tried to propitiate Lord Shiva by performing penance at Kailash. When his prayers went unanswered he went to Kurah (believed to be Manimahesh in Chamba Distt.) and started sacrificing his ten heads. Lest he attained Rudra status and became immortal and invincible, the Devas prayed to Lord Shiva to stop Ravana, . At the behest of the Devas, Shiva not only stopped Ravana but also restored his ten heads and hence came to be known as Shri Vaidyanath. On being granted a boon by Shiva, Ravana asked for incomparable power and permission to carry him and consecrate him in Lanka. Shiva agreed but on the condition that they should not stop on the way. On Ravana’s request, Shiva assumed the form of a Ling in two parts. Putting the parts in a carry basket Ravana started walking south. As he reached the Gokarn area (Baijnath) he felt an urgent need to relieve himself. Seeing a cowherd he handed over the basket with the request that it should not be placed on the ground. As Ravana delayed in returning and finding the basket to be heavy, the cowherd placed it on the ground and thus the Linga got established at Baijnath, one half as Vaidyanath and the other as Chandrabhal.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Situated on the foothills of the Dhauladhar Ranges on the left bank of the river Binwa lies Baijnath. Originally known as Kiragrama, Baijnath was a frontier post, as far back as the beginning of the 13th century. The name suggests that the village owes its origin to a settlement of Kiras, a war-like tribe from Kashmir.\n\nIt is believed that during the Treta Yug, Ravana tried to propitiate Lord Shiva by performing penance at Kailash. When his prayers went unanswered he went to Kurah (believed to be Manimahesh in Chamba Distt.) and started sacrificing his ten heads. Lest he attained Rudra status and became immortal and invincible, the Devas prayed to Lord Shiva to stop Ravana, . At the behest of the Devas, Shiva not only stopped Ravana but also restored his ten heads and hence came to be known as Shri Vaidyanath. On being granted a boon by Shiva, Ravana asked for incomparable power and permission to carry him and consecrate him in Lanka. Shiva agreed but on the condition that they should not stop on the way. On Ravana’s request, Shiva assumed the form of a Ling in two parts. Putting the parts in a carry basket Ravana started walking south. As he reached the Gokarn area (Baijnath) he felt an urgent need to relieve himself. Seeing a cowherd he handed over the basket with the request that it should not be placed on the ground. As Ravana delayed in returning and finding the basket to be heavy, the cowherd placed it on the ground and thus the Linga got established at Baijnath, one half as Vaidyanath and the other as Chandrabhal.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "om tiwari",
+            "uri": "https://www.google.com/maps/contrib/110455892099053217937/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7VnSLIZ6P2K5ZJSt9BptWaSoLLHRXL6peRAVrV6z_FDGisgur=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-06T07:48:08Z"
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0bm9UTGRBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Old temples have that overwhelming aura. You will feel god’s presence.\nMust visit. 🕉️🕉️Har Har Mahadev !!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Old temples have that overwhelming aura. You will feel god’s presence.\nMust visit. 🕉️🕉️Har Har Mahadev !!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Neha Atwal",
+            "uri": "https://www.google.com/maps/contrib/112462967618661660763/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNvli8-71za3_QcxdEn9hAIlkL1yfMFD3qsrWZkWGko6YZItCr=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-30T11:29:54Z"
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5dmFMazF3RRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "There is everything. But according to me management needs to be improved on their quay system. Which must be an improvement for everyone,especially for tourists. Because they are coming from away",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "There is everything. But according to me management needs to be improved on their quay system. Which must be an improvement for everyone,especially for tourists. Because they are coming from away",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhupinder Singh Puar",
+            "uri": "https://www.google.com/maps/contrib/104904334148247456473/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLTv20kVME4tddMQDHkacnp3NuEsrp5XEoMYbMqmkbg3P1eHg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-08T18:25:01Z"
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEeElxQkdnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Its very old Shiva Temple. Its located just beside baijnath bus adda. Infact the city is beside and runs because of this mandir.\n\nLots of worshippers throughout the day. The architecture and beauty with surrounding gives you a distant feeling of Kedarnath.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Its very old Shiva Temple. Its located just beside baijnath bus adda. Infact the city is beside and runs because of this mandir.\n\nLots of worshippers throughout the day. The architecture and beauty with surrounding gives you a distant feeling of Kedarnath.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abhijit gope",
+            "uri": "https://www.google.com/maps/contrib/105101379541781938489/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLZGUYVggYV8kLzeu3dnVH3-1jdSLEsV6cTA0_n4Dq3v2wWzOE=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-24T13:33:01Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJbUmrjIJKzy4fCS_6IIg-Y99KlL1Ov_gm-PxWtww0K7gTv7PPyvhXlOcisroVzoOEDSzwrlJyj4sX2CNNT-G2u4PpJyjSJRmT3Epz7upGB0QK_VBcp5B6IgVZj6BaRRrGNoiKK-2pky4w4cyRFpgQGtHA9Qi9UBo02s",
+          "widthPx": 697,
+          "heightPx": 440,
+          "authorAttributions": [
+            {
+              "displayName": "SUNIL CHOUDHARY",
+              "uri": "//maps.google.com/maps/contrib/101376679026292860976",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU1ZV3jGDoASMHnV78-IDBDaXX7n3TMsiEM_v7OmPfiSZrIbyUd=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJbqf7l5YI6T6McKwLOfr8pR6eXhJCKOXvmGJo0LsXDdRbuu6xafx8LOZfF2jvAHK-BXiwkg3kcNH579GnaOAGc7o2hyEblZNn7gVAvh1vi7dI18G3SUO-jcP58Ox2BSFnVDeNC_uwH19CRM7V9KzKT5NtO2EYfg3G2H",
+          "widthPx": 3472,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Sameeksha Koundal",
+              "uri": "//maps.google.com/maps/contrib/103847232824878553168",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-YZXqo8huQSy6GjoINJm_HQfE88TT5o152qeQG1CNS9cbT_t1UA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJY-VvvL30gQWeD_8wRdTzoi4zQkOqYJcLDToT0SmZbsHhO1Rnag6JlUj2MCZLv6iXo_3QAY02QTHmVk_vXTl6XyZygFt63DtG_dlJjy71YToTxDXAGhQolVEKhRko7JH9Es7MRuoiTyrGeGv75myPh0x4Zy0ypSj_IW",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Chakravarthi NR",
+              "uri": "//maps.google.com/maps/contrib/100846183848886114034",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKjJQRaUdDMmjA2Nvqd3A-MPJLVKoAZcLx8iVhH-hmfk_nsbQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJY7UkhoqJIRyWnReVlq9PhahBT0DhI1QBPX6JxqgHjO2uZciNP90Dkms38kmdB7zioB1Q8EU5AG-xL2gxJDvd_SKYG3tIV6OIXVyREZUokco0omx9euCImTZ7Ex1LjoJEJ5BEr2on8YKtdCM10bvCOXe2BKdwG7ewzD",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "om tiwari",
+              "uri": "//maps.google.com/maps/contrib/110455892099053217937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX7VnSLIZ6P2K5ZJSt9BptWaSoLLHRXL6peRAVrV6z_FDGisgur=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJbt9OeTVex9xM1co8pnn8_FxLz7IUDoV3KwOyiQ1g7C8cFlYUtC1ekdXfAyvdZjF5ENpiSP3JkZALulbRZNlDmV10zQZi5eBbBSNnnw_lFWAQFlW_sg8c_1r7sfSJoIpqAHtOD1KYF-qM8JiZQmJRQP5ZGrdijLG9OD",
+          "widthPx": 1080,
+          "heightPx": 651,
+          "authorAttributions": [
+            {
+              "displayName": "Keshav Mahajan",
+              "uri": "//maps.google.com/maps/contrib/108224782728466665048",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUKCn_DBqXILQvDHxqe_z_gIgPPodd3aKM2AchY9h8zTabcjtUC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJb0gd-T8H-WD6FP5w5I3tC7eRauTQMU1TMu4aShbuPyx57eKKgPIWM1crd_ybi9D6N3mLZD9loS9d6a4aZ1Wn_y1EbrR3W0IbzAzPPYCt3MnYWt0w7vXxECKvkuBBHTnZMQ_RlzPTIRVys18nJazOyQLXyLS2h9l3sa",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "Suhas Mahajan",
+              "uri": "//maps.google.com/maps/contrib/111213736531719084182",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX_hMXXe5LFByZ7LcI_6scSXwZnJ2kZVPaEI9qKo6tdsRNN3JG09Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJaMgMraCdsyM-vlNnpNKRsAVm8vhe-XbL3xKnnpJju77c7Ilb1DJSr5zFGHzDaKP3zKptezQL6xbgWq7xIS7Qsa96tNfgb-uhsoOXEM_pU8LSxu8GaK-F--WrDXHIFgaxRoONOiQC5Qp0ceCnGPUAicEJTNFnJrEHqY",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Ameet shet",
+              "uri": "//maps.google.com/maps/contrib/100434866553783727110",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWXdDNw0AeosG2BdYw0ktUXgKa6v60WHQ-9r1Yre_7Vf3YSqtY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJbBkIlr4sz-ZAAzUIvpKAG3i2ChhsOaMCGEn6PTqtsBsGZhMqwM_O-BTJq2VARkM5l39RR3qJesHFniDcyUcKutu7HoPYZL2bZ2a9ggg3vybqnTpw8zCq_1g7ziiCN2PL5v4DCaLoGr8xxsXF1yyRkOq-eNuFDxI1td",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "vinay dwivedi",
+              "uri": "//maps.google.com/maps/contrib/104941711206111930159",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX907TaZrBRalbE_F7rH1Sxbe4Mvy1Z2LWhpbi7jduuaJQTYQj4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJZyUZTIGAEgpUy634q2vhMdpbecen-zmP1xv0WzHWHMEBI57AiSuhCT3dXJf-CNukHKsfvamxD79WoCNdD-N262XpXqCLgKAWSFv6kcrYN1wJ_aeaBkfETGxt-0VVdabLoSmKbmvUCgCf84iZyWyLNOOSxOSNpQ6rlE",
+          "widthPx": 2684,
+          "heightPx": 1789,
+          "authorAttributions": [
+            {
+              "displayName": "Leela Sureshtripathi",
+              "uri": "//maps.google.com/maps/contrib/114688935096793113087",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSIvyPfaHTFiAaGC6uh8st6rdwaS4_Qsw-uGX0G-V2NtW6taL8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXQ9pTf6SBDkRzLEYSAoTm2o/photos/ATplDJZIGd9Ham-PgGFciCQzBsUSfxkG2QYKgOflmOUIy5747NHENjc1_dUkEjbYSWRdJY-M9FGz3Hp7reRIiXgy58PDo79JquhpaqX7Sdmyxns8oLp-Ve85uPtwDCl4SyRDk1rlsELedK88bMEjQVY9-C5OWLDRSSOW2A8I",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Yogesh Pandey",
+              "uri": "//maps.google.com/maps/contrib/107931714845851312145",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUVOQ1HgZ4kaLb_OffbPG9e00qtp3AZePH3q_Yk5VUQQ7Abbdw-TA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc",
+      "id": "ChIJXzC2Mv-4BDkRy28ZBs04Bfc",
+      "types": [
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Baijnath Bhattu monastery, Keori, Himachal Pradesh 176125, India",
+      "addressComponents": [
+        {
+          "longText": "Baijnath Bhattu monastery",
+          "shortText": "Baijnath Bhattu monastery",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Keori",
+          "shortText": "Keori",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176125",
+          "shortText": "176125",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J4R3M2R+J2",
+        "compoundCode": "3M2R+J2 Keori, Himachal Pradesh, India"
+      },
+      "location": {
+        "latitude": 32.051591699999996,
+        "longitude": 76.6900278
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.0502555197085,
+          "longitude": 76.688617569708484
+        },
+        "high": {
+          "latitude": 32.0529534802915,
+          "longitude": 76.6913155302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=17799695555473534923",
+      "websiteUri": "http://www.palpung.org/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: 9:00 AM – 5:00 PM",
+          "Sunday: 9:00 AM – 5:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Baijnath Bhattu monastery, \u003cspan class=\"locality\"\u003eKeori\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176125\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1472,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Sherabling Monastery",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Place of Worship",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: 9:00 AM – 5:00 PM",
+          "Sunday: 9:00 AM – 5:00 PM"
+        ]
+      },
+      "primaryType": "place_of_worship",
+      "shortFormattedAddress": "Baijnath Bhattu monastery, Keori",
+      "reviews": [
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqd3IzT1dREAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 5,
+          "text": {
+            "text": "The most beautiful monastery I have seen. It's just renovated.. colours are so aesthetic and cool. If you are in bir please visit this beautiful place. Campus is so huge and lively.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The most beautiful monastery I have seen. It's just renovated.. colours are so aesthetic and cool. If you are in bir please visit this beautiful place. Campus is so huge and lively.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ajinxplorer",
+            "uri": "https://www.google.com/maps/contrib/106803745370114692564/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIFljb8HPtSfpHIU_zRVsHxJAFsxAo9SHPAaKisCaFEvhUH8RQBg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-04-19T09:51:18Z"
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEb2FYN0F3EAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Loved the place, huge monastery with a cricket and football ground and school.  Very peaceful environment in the quiet. They hv a cafe run by the monks and is recommended to visit on your trip. Souvenir shops are loacted near to this cafe. The drive to this is less than 30 mts from Bir. Keep this place on Yr itenary.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Loved the place, huge monastery with a cricket and football ground and school.  Very peaceful environment in the quiet. They hv a cafe run by the monks and is recommended to visit on your trip. Souvenir shops are loacted near to this cafe. The drive to this is less than 30 mts from Bir. Keep this place on Yr itenary.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Suddhasatya Samanta",
+            "uri": "https://www.google.com/maps/contrib/112281341633603368209/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWJft7TJYtVcT8iyQqoctGJj21yQHJQa20B-G5CM_K8ZWgBAw4=s128-c0x00000000-cc-rp-mo-ba8"
+          },
+          "publishTime": "2024-03-29T05:14:41Z"
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqNnZTVExREAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 5,
+          "text": {
+            "text": "The Sherabling Monastery is located inside a larger complex which houses not just the monastery but also a monastic school, monastic residential complex and other monuments as well. The entry to the monastery is free, one only  needs to register at the entrance. It is advisable to ask the guards before entering the way to the monastery or follow the location on maps as once inside the complex there are many paths and you could get lost. The monastery is a quiet and serene space which houses a large idol of the Buddha. Photography and videography are not allowed inside. As a sign of respect it is advisable to maintain silence. The other building worth visiting inside the complex are the eight stupas. These are located an almost 20 mins walk away from the main monastery. Vehicles are not permitted inside and walking is the only option available. But it is worth visiting if you are in Bir.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The Sherabling Monastery is located inside a larger complex which houses not just the monastery but also a monastic school, monastic residential complex and other monuments as well. The entry to the monastery is free, one only  needs to register at the entrance. It is advisable to ask the guards before entering the way to the monastery or follow the location on maps as once inside the complex there are many paths and you could get lost. The monastery is a quiet and serene space which houses a large idol of the Buddha. Photography and videography are not allowed inside. As a sign of respect it is advisable to maintain silence. The other building worth visiting inside the complex are the eight stupas. These are located an almost 20 mins walk away from the main monastery. Vehicles are not permitted inside and walking is the only option available. But it is worth visiting if you are in Bir.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Patricia",
+            "uri": "https://www.google.com/maps/contrib/117522672227057502484/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhqJITQ_vpFTwvfErtHXNV0qJODsGsklxYEfHykOeQ_M_7mik2=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-04-20T06:30:36Z"
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0al8zOEJREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "It is a good place to hang out. You will find peace and good aura there. You must be good at walking if you want to explore every portion of the monastery. Although there must be some good eateries.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is a good place to hang out. You will find peace and good aura there. You must be good at walking if you want to explore every portion of the monastery. Although there must be some good eateries.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "nigam sharma",
+            "uri": "https://www.google.com/maps/contrib/116272589840912660821/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6qmRtGx3mfq8U-XaXiO6MCG2UpsBwExFnbiAWGyhi2xQawG8a_g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-08T08:45:25Z"
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsZ01qVW1nRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A very peaceful monastery, must visit when in Bir. It also houses an institute for Buddhist studies. You can visit the monastery at anytime during the day. They have a guest house as well as a small cafe that serves the most amazing momos and tomato soup.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A very peaceful monastery, must visit when in Bir. It also houses an institute for Buddhist studies. You can visit the monastery at anytime during the day. They have a guest house as well as a small cafe that serves the most amazing momos and tomato soup.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "The Wanderbee",
+            "uri": "https://www.google.com/maps/contrib/103989505265315494033/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1ELVCovY91ST_ZUV5kNl3BSMMcj5nC4_HWDUfMYv80t0WVg=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-11-12T11:40:37Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJalyjPxuwjmhfTzANs9RJ841tl0LWidsPGCgBWAPb-czhiHpbcOty8GuaQ5UHK29Ba-n4bBcNgt05RHsslXD9wbD4TSVGkR7mmS5YNPMVUi6Lr7KGbAfr9LxCgNd3RR51NfKlWFnvp0-PNPX66SBYHj8OORhtQxCZ8m",
+          "widthPx": 4896,
+          "heightPx": 3672,
+          "authorAttributions": [
+            {
+              "displayName": "SCM",
+              "uri": "//maps.google.com/maps/contrib/109123627540970559006",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUz9JzwW_LRwRcX1nG6JI_znKR4b-iwrhojaJ89BX6hHL30y--_2A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJYrmB7aZt_OrAhMOku9u24lMr6YI-Ec0_N21mjjvHUM0x1OU2m7Y6OFRLLWc6b51Sf3S7H4vprDp-KPyFBa7PbKZxsBpVsRPT3NT4yiW5FOsoCci7dxD32j0A6ZVPPvBzNXiBmeOnxfC4j5aHVmYdBBP90CtD5f_lpX",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "བོད་ཡིག Bodyig",
+              "uri": "//maps.google.com/maps/contrib/108595673397319308474",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU73xJjIhGwP9Mz1vGgF5hx2KihpehUxDP7PYxuUoP9lCHl6Rxokg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJZEqEaNzt4I9e02c9n3DkYx2H2WF-hkKqGpCj6rmoQJX08vbcHYKIoDvjE2EAa6TL-uNaIVSCZzvE_Se5_vAjUdVuLwHRbxBlU_ywmEtB_6aU5NMS__1Kv_1qRYDoEVNDXjRphX0_KQB4oC8qqOJFm8HhKMRjYW5LOT",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Mohit Sharma",
+              "uri": "//maps.google.com/maps/contrib/101035813694774284430",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlm7PuzMq2JQtio4oFzFveni-hsvRDtKGUXr_I4_I2rtqUOw1MPw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJZkDuWuWPa9b50rPUPN70q-eHk7rh235Y6KNqtCBPdyrij3WeUBFJCGjBycwI0_d9W-zYtAjRB_cpfTa0C4ejoAuPHJuGmSNOuqQ0R48BdxTc7DGop2RcZH8b9-GN3poNqH-Kip_yHuSLYv3MD-3sWYX0N8i7SfmzPl",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Harsh Namdev",
+              "uri": "//maps.google.com/maps/contrib/102291529671332744203",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSZXLOXrbN58l0aNFR_SvyNFRE2rxOTBISsKway-DcjzeHwPb9bA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJYeD6Rinuh3TbiM5nMuph_xEnC19Kkdjs1Vi6BgzamQEGVAruT0VruccrAZifw1oJdQOww3OO7dBVgvE3CkWx1NgONCL1VubdBA3ZwPGfv8JCfmz9yE5OGrFieri7H_VGi8fg_wR3kwvRMwyU50T6p2DvX_tc80MhIS",
+          "widthPx": 665,
+          "heightPx": 654,
+          "authorAttributions": [
+            {
+              "displayName": "mehul batra",
+              "uri": "//maps.google.com/maps/contrib/114470314946549151039",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWvA6UqAN-Idtyw4JZTJc1CCedgWM905HI81UHBrX5VLKYGq519yA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJazzFuXMfFmpNU0venh6YiYoB-EECkj-t3l74QV7s0RI6cVc-5Fftr1qpkEHvBn2HKCCnadz0tFuPQs4ZcDxzWp9NyeLMrH283CEIp4kHRH-efqxWcrtSkz44Vw5VRy1eRmNxoSzsNaSpchYY1S3u-Cxu8f_CHeYxs",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "pratik ashra",
+              "uri": "//maps.google.com/maps/contrib/105618292519179583748",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIuevz_xpJj5d4c_Ledeljt8SqDfCVFLvrGP2KNRSfXF78O=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJY1_7ShZJHvYetSsOGt_O_qG71F6LgIfMLg8VQ6CIr2Mn4htZdtg79n1YDIMW9z_fKnTy0CTeF1i8S7MKLfAZ3ILwAzpDUTblQoA2bW5qkzkfXnOz1fI0-7jOG62gHZ0iR1etdgUKeM4jdDAOX9DpHyZ_yN0ExMMcFV",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Tushar Verma",
+              "uri": "//maps.google.com/maps/contrib/103635233144317731212",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV8jPgUoYZUu9iKm0vbMYOtbLmq8Ckpv1ey9rqrLiKr8IwTDYHT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJYG9p_ndL7SXTS1_nod1vkQyyWGHq7NShGcI09PZoLwAvdfKCQVKNvXcgYYwd2zhC_cieWHtDJp8Loo_bACN3tn792UIC-vL7CmPWm9HTensyM0iM_Qh52WiD6eW3EJdXrsPdOfdbNkiwUVNhezQsHdBSlCXowVPKQY",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Karna Punj",
+              "uri": "//maps.google.com/maps/contrib/102454314295145381358",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWgRFuQgMsPdie6bgWDNFiW4fSZJgbA0rE96w4esoU86923NY4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJb3vOVCwfcqoaRh7QKQ3QjkLpzK_QDQ5RNjjS9qWTxc0oBt9jebBVQ0DvZF5ri1-nAMtf1LXE0gdt37ixThZ5REaH-8OPH8QTDOK3irkVr5tQCob5dj5jBH5djCTAtpZ4N7Xh7uhotIXppzrNh3KjS2jALP-ToZ2ehh",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Kunal Goyal",
+              "uri": "//maps.google.com/maps/contrib/106905694054980990326",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVHcb_9VNfyqks2zwYAYfBQ9MvQQqqNQVdeLVNSzTDnFKy1XGTndw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXzC2Mv-4BDkRy28ZBs04Bfc/photos/ATplDJZZ9U3JHfvQToXschIXDfWQ4eqfh4bYn8_DP_TMHj6vBSYBBeqn8wfs0nfbQUZJ02qOqscpOBg4fj964HvQ7CMm4ba78Hef2zNDW80NZanuDb6vp0mzDMb08vHcTzLWqXjuzFPtHi3q9avVrC7GUPDhNi-BSyRx2Gkp",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "karuna murdaya",
+              "uri": "//maps.google.com/maps/contrib/104028864047965549475",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUKSlTye6KhACztYcNdN_dctDRs_Oy7s5OufPNCiKLLR5W7qffH=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk",
+      "id": "ChIJqzCS4vfHBDkRCErJFPVpDXk",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Village post office Mahakal, 2M53+HG5, teh, Baijnath, Mahankal, Himachal Pradesh 176128, India",
+      "addressComponents": [
+        {
+          "longText": "2M53+HG5",
+          "shortText": "2M53+HG5",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "teh",
+          "shortText": "teh",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baijnath",
+          "shortText": "Baijnath",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176128",
+          "shortText": "176128",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 32.008891399999996,
+        "longitude": 76.653871299999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.0075166697085,
+          "longitude": 76.6526247697085
+        },
+        "high": {
+          "latitude": 32.0102146302915,
+          "longitude": 76.6553227302915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=8722744554623158792",
+      "websiteUri": "http://www.facebook.com/mahakalshivtemple",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 4,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 4:00 AM – 8:00 PM",
+          "Tuesday: 4:00 AM – 8:00 PM",
+          "Wednesday: 4:00 AM – 8:00 PM",
+          "Thursday: 4:00 AM – 8:00 PM",
+          "Friday: 4:00 AM – 8:00 PM",
+          "Saturday: 4:00 AM – 8:00 PM",
+          "Sunday: 4:00 AM – 8:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Village post office Mahakal, 2M53+HG5, \u003cspan class=\"street-address\"\u003eteh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaijnath, Mahankal\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176128\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2835,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Mahakal Shiv Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 4,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 4:00 AM – 8:00 PM",
+          "Tuesday: 4:00 AM – 8:00 PM",
+          "Wednesday: 4:00 AM – 8:00 PM",
+          "Thursday: 4:00 AM – 8:00 PM",
+          "Friday: 4:00 AM – 8:00 PM",
+          "Saturday: 4:00 AM – 8:00 PM",
+          "Sunday: 4:00 AM – 8:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "2M53+HG5, Village post office Mahakal, teh, Baijnath",
+      "reviews": [
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/reviews/ChZDSUhNMG9nS0VJQ0FnSURwN3JDY0dREAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A sacred place devoted to lord Shiva as Mahakal baba. Very peaceful, calm and beautiful atmosphere. The temple area is surrounded by green mountains and natural spring water flowing. Shani Dev and Durga Mandir are situated in the premises along with Hanuman ji. A natural holy pond is also there behind the temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A sacred place devoted to lord Shiva as Mahakal baba. Very peaceful, calm and beautiful atmosphere. The temple area is surrounded by green mountains and natural spring water flowing. Shani Dev and Durga Mandir are situated in the premises along with Hanuman ji. A natural holy pond is also there behind the temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Narender (Naren)",
+            "uri": "https://www.google.com/maps/contrib/107664272539873959439/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFdBqtYwRvCg8uDKB1azb5QxBCIV6sCPbx-LwKbcWv3DymGjT-=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-08-22T10:55:33Z"
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlc0kyLVRnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the most ancient and beautiful Shiva temple in Dev Bhoomi Himachal Pradesh. If you are into art and history, then it's the place for you. Every wall is sculpted all the gods and goddesses were placed on the temple walls and all together looks so beautiful. The temple is very clean and maintained, the surrounding is very calm. Best place to visit with family, friends or even you are alone. The temple is near the bus stand. So, no transportation problem.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the most ancient and beautiful Shiva temple in Dev Bhoomi Himachal Pradesh. If you are into art and history, then it's the place for you. Every wall is sculpted all the gods and goddesses were placed on the temple walls and all together looks so beautiful. The temple is very clean and maintained, the surrounding is very calm. Best place to visit with family, friends or even you are alone. The temple is near the bus stand. So, no transportation problem.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rohit Choudhary",
+            "uri": "https://www.google.com/maps/contrib/117656196768026344106/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5EcPXoBxMuAriY4jNlD-cnR9FbRfPuI_DxjFWm5r2GbjttthI=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-09-04T10:29:16Z"
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkb3Z2V0Z3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai mahakal\n\nWatch this video to know more about the place\n\nhttps://youtu.be/_O6K21cYaZM?si=u6c40-P-DAFiQ3yz",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jai mahakal\n\nWatch this video to know more about the place\n\nhttps://youtu.be/_O6K21cYaZM?si=u6c40-P-DAFiQ3yz",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sidharth Solutions",
+            "uri": "https://www.google.com/maps/contrib/103794324531806061906/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLlquRrwpYoEfxp_y6mUhHmAe-_fav3cQCXHXEGLrDK_P7wZA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-14T02:04:55Z"
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1dlB5TC13RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Most beautiful place. It is a historical tample of lord Mahakaal❤️.It is  almost 30kms from Palampur, temple is well maintained. Roads to this place are good and don't need specific skill to drive to this place.Also take a bath here 🚿 Environment is very neat and clean and find a peace of mind here. Beautiful place you must have to visit atleast for one time. Kaal bhi kya kere uska jo bhagat ho Mahakaal ka ☠️ Jai Baba Mahakaal.❤️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Most beautiful place. It is a historical tample of lord Mahakaal❤️.It is  almost 30kms from Palampur, temple is well maintained. Roads to this place are good and don't need specific skill to drive to this place.Also take a bath here 🚿 Environment is very neat and clean and find a peace of mind here. Beautiful place you must have to visit atleast for one time. Kaal bhi kya kere uska jo bhagat ho Mahakaal ka ☠️ Jai Baba Mahakaal.❤️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vanshika Sharma",
+            "uri": "https://www.google.com/maps/contrib/112864473215746530725/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMtDfFBPVfZ2Iv8rqTqoej8AofJuvSRIwme0YByUKcYRGDa68=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-08-16T04:48:47Z"
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxODVYaTN3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A small temple with several subsidiary shrines, of unknown antiquity, but clearly ancient in structure. The small compound is  clean and well-maintained. On non-festival days, this can be a quiet place to reflect and meditate. There's a cremation ground close by and a rivulet flows on one side of the temple. There are no pushy priests, vendors or beggars, making a visit to this holy place, an entirely pleasant experience.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A small temple with several subsidiary shrines, of unknown antiquity, but clearly ancient in structure. The small compound is  clean and well-maintained. On non-festival days, this can be a quiet place to reflect and meditate. There's a cremation ground close by and a rivulet flows on one side of the temple. There are no pushy priests, vendors or beggars, making a visit to this holy place, an entirely pleasant experience.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Saurabh",
+            "uri": "https://www.google.com/maps/contrib/107884529402195838760/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCam2EaBqGbWTdbnLJSv8iDuHQ9CNRs_9oNHh28HxExkMNlAgL1Q=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2024-01-03T14:54:23Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJa9xVhC5FFuYWGrYEUehMEbJzbCeKov4bIiWVnIDnFMcgJivJkD6fcH_dBWFEIXMJSNMi4D2m2vb6UGgh2Zz4_qf6qzd_JwpRd894YTd7W3H0MRMnZFmY7M6BY88MbkZVv-JA2asUIeGSmTsmJMGPnkT-iLBAXGg8QN",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Diksha Bhatia",
+              "uri": "//maps.google.com/maps/contrib/103534214172190841203",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXqkYPy8p1dGxab-xv4OEGB-CzusdLggRs0kH5G9-7gl9VLUa-cKw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJbti_9dGzpxcb8VEE2AqjreO6Cf741479tfDggXhvuoFcnkU3DmYoUmoApOVqd3HyVCs8Rqj9YW8qc9amxy0nrsM-3SRqG9mKf5n_hvcpHbBn4-M9wPbV7E6gTT2J9R1OyNbxGC2MWqSLiBfIvnLwJShwxz1z-CQw53",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Rahul Dahiya",
+              "uri": "//maps.google.com/maps/contrib/101061714999696679189",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVSGu3SMtXq2IdMnKlRwYeeMRIH2wd0DVcrrjaiawvgEj2vggqB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJa-KfQlI6psgbQq3eE_qbkUDLdvSk6VsFJAu__o-r_1JfIIyjXJaDkPO16G-6lGXMA4ZLtB1QDblXvax0qk19k2hchQa69WE4SjELDYRZ8_XChkpl56JuTXwoVr06I-DbjxCva6AW01s7g2jrA4puNGOUaAUH6oIxNY",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Pankaj Sharma",
+              "uri": "//maps.google.com/maps/contrib/104003087387353450717",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWG8Onueo20YrhyJYNuT3dmM_ukWKjAii_Le_fcf87X04Z79q_irw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJYYrhgiL9Gcs4TdwaTo-tSzU-2n4vt23es4vRi7kTQAtJbykDiH2T871fZWlXxoju6VA0zNmNXnoq42qY3QEgMxH4cF5euC8dBIOnMHEIIEBxVPDfXx3ykFajUFM5UCeey6SdLI0jeTmLZoP3FxQ_yD5Hv1P5nirPXF",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Neha",
+              "uri": "//maps.google.com/maps/contrib/101542171659583728388",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCVo-pdnAeXwRhPpQ6gm9ZKllt12xoG0FpV5BBSU09x7n0U3Bh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJYMJhdBYVftubFgBcit09BDYPxuhTc6yPF9ZXPpuIn5opFZy4ulMn_CE8X1qYQLOBQ0BZon0Q7jLW4qDMYkbMq1bQKujdLX6FfaN6reCQJTTyXALeObR5h4mZ-b9zeeIMRZM4nO1uQ8htfsZJs_pMkDw2m1lu_QJjzj",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Sumit Dhalaria",
+              "uri": "//maps.google.com/maps/contrib/102412322725088987944",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7AsNWSGchFkehZsn90K7l78aLsUeYfJbAsybjWK5XHU7gqzRA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJY_hHZ82-2kT5wHBoDVzvuU6QxC9rvbrlrx47ZUFWseFI1dwjE9YZaXap1n4aZV79b6uTPN-SHH81OnXz7qr5biDiI-cWLo_P25CBFBCEuwHW1bV0RTpvqdxCkppgvwua4l_yq-eLuexI8VNjwfem6ofeeSMtqNsOpF",
+          "widthPx": 2600,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Sagar gupta",
+              "uri": "//maps.google.com/maps/contrib/102253693829292353101",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbwMx7epl_eAG1moVFNnFItEXIKq2WMPLEKLIDDCOj2kaKHYh1=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJalaTLTE9TDiu2EtgVNwMi_u2tELwpGjUnrojWVv6S_WynFZMOJWvLdGnJCXoIlBnz20BKc0At9rZXBKN6XUz7K9YvQTSIORXM7_G6T08AIuvYDfSSH5Fzbdr1vNs2uxHS83Y2X6hJmCwhn2eZ7ID8_XIXy3bwPixzP",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nowbugh Mattan",
+              "uri": "//maps.google.com/maps/contrib/104760564700994418276",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUtr0hSQ2HMx5IVtPHWRiysUWnxUVOhEGxmS56yXn4x0qLl71RJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJYdN5-0dTMUxKvOslUYoH24ZRGnp_A20WfSdMVys1SkmmefwZ0iMRE7vogcyCeXWnLxfj8mV7vttw3YVwJCkEdyGl9UlzjeBhqZCLR0Vb7rmCt7VPU3O7E-AB75yl6HAStbHvJHPbnmFGL3JObEBJ1l9HCDfGNndcxn",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Akashdeep Mehra",
+              "uri": "//maps.google.com/maps/contrib/108554800219954216270",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ7oIV1lgz2dQ7-U9TPVdNjoTsBPElEsdJcqD1vWsw4EfBHoQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJbwLLE3T5E7f07ew5CBivdXcDISOrGUdNRZ7atYcHp4-hx2UferhumUtIVutxD1BTwpZwE1YzcHabjo3NopYt8e74CecJf8nupV-mQ0eRWJf9W_MQ-z2MRnXbW9aEsUf3jrj7xuYBAsAwj5t9GsnoyxQnOhSEYGcSU",
+          "widthPx": 3264,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "anshul rana",
+              "uri": "//maps.google.com/maps/contrib/107402425719586395996",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUwl_O_qXzj5hflNDvZwt5or4wpbIdKJ9_GeenG8Sf4JcwE1X0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJqzCS4vfHBDkRCErJFPVpDXk/photos/ATplDJavo27YCNBMJ7HAdCHnU1_mLiol8XMeuRS_7671BryGw9_lryf7gIXxFvDP1oqWyR72BL7yIBDIJUV1-gjvV0PZk-2E38hWzQ338psFumtxa5EIi0Ow3FRAiZDl6gJMCzqxP4f82sUc4s_2iAQ8yTckZgvOkF-LzaqQ",
+          "widthPx": 8192,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Ashok Singh Bohra",
+              "uri": "//maps.google.com/maps/contrib/114127205889332461507",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWar3CsaRYmCRmrTOSpw8feOGITA4mavaGkgKmqY4KzlWLIz9e4=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA",
+      "id": "ChIJcSOJmpq5BDkRNenlIkEAJMA",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "3M8V+QRW, Bag, Bharag, Himachal Pradesh 176125, India",
+      "addressComponents": [
+        {
+          "longText": "3M8V+QRW",
+          "shortText": "3M8V+QRW",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bag",
+          "shortText": "Bag",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176125",
+          "shortText": "176125",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 32.066745499999996,
+        "longitude": 76.6952263
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.065349869708491,
+          "longitude": 76.6937534197085
+        },
+        "high": {
+          "latitude": 32.068047830291491,
+          "longitude": 76.6964513802915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=13845191434202114357",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "3M8V+QRW, \u003cspan class=\"locality\"\u003eBag, Bharag\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176125\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 6,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Bagalamukhi Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "3M8V+QRW, Bag, Bharag",
+      "reviews": [
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSd3BUenNnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 1,
+          "text": {
+            "text": "Sorry to write that now a days after Mahatmaji no one is caring Ashram like it has to be. No service, seva for Mahatma, Sadhu. No facility.\nI'm wondering what happened to humanity as now a days Ashram are mainly for comfort, fun, and earning machine.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Sorry to write that now a days after Mahatmaji no one is caring Ashram like it has to be. No service, seva for Mahatma, Sadhu. No facility.\nI'm wondering what happened to humanity as now a days Ashram are mainly for comfort, fun, and earning machine.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "pratik ashra",
+            "uri": "https://www.google.com/maps/contrib/105618292519179583748/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIuevz_xpJj5d4c_Ledeljt8SqDfCVFLvrGP2KNRSfXF78O=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-03-28T11:14:12Z"
+        },
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKM2FuY3lnRRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Jai shankar Ki",
+            "uri": "https://www.google.com/maps/contrib/115645509663126941389/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjPp7z0AyJTil0V37QhP8vfhKUoqy9z7_7kn5hzIXwRNny1rL_=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-07-03T07:45:56Z"
+        },
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxMnRfdXZRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Munish Kumar",
+            "uri": "https://www.google.com/maps/contrib/115778227156151143036/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8ra2yBPdP3FpU8_9ZMkwDpGAnZcli2ZRw6JD1ecQa9CafYFJk=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-28T06:34:35Z"
+        },
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscC15QmtBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "R__A__V__I K_A_P_O_O_R",
+            "uri": "https://www.google.com/maps/contrib/100933423501017988672/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVei-JX0DKrUirkLcTtXG3zwt1PlevpNwTSNUvnYaX6AfFG7cXr=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-11-28T11:07:25Z"
+        },
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsZ0xhTlpBEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Hrushikesh Waikar",
+            "uri": "https://www.google.com/maps/contrib/108440246170275951692/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5S6Ap2aTjVsR05BLGG90JXcLDLHRZee8SU-fAbDXIwp9Ct4M=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-12T12:32:08Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/photos/ATplDJYRDg8fCTN4xwhSOpQKJx2b4uejW6iORE77L2-ADGgOjIZ3CmiIwcfr9VycssOZ98jPoVObYxMYNrACfewX_wMtNX9kqXzn-vfZIk2zjObsud7buK6XJyNhXkcQuIJT54f5OLnSUsuxgt72L8Oy1intPJsTwbewzqY",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "pratik ashra",
+              "uri": "//maps.google.com/maps/contrib/105618292519179583748",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIuevz_xpJj5d4c_Ledeljt8SqDfCVFLvrGP2KNRSfXF78O=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/photos/ATplDJZbj26E2fo9F_oXIr25IGsWYYETEv2LVM6xsLSvNg2NbnWYfhn4ezLRo-8CYXDwrcp7fitj8Ypn7mqzX-4r7GepeT6Uxufa4DbOvR85Aqu8gxnKAzSfmiA4t4bmCbS4L6nhTP1bvCJJ-5nLFbM1nTNVj2WzC6BJ7m8",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "pratik ashra",
+              "uri": "//maps.google.com/maps/contrib/105618292519179583748",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIuevz_xpJj5d4c_Ledeljt8SqDfCVFLvrGP2KNRSfXF78O=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/photos/ATplDJbI2SXKLvjlEhR_ZjrHR8lvWRh11MYTG1Ie619K-tEZBKzb3ztqIJpGevGv0VL49WiSc1QQ1Nf4QihQ-P7B0UEWnQ_DPLT5SsD0XzmGaHW_UDR2XXjGToZRfG1dVPB8efAHzziLEZ9NwWe2gtRfaWIj7uChjD3G3Aw",
+          "widthPx": 1468,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "pratik ashra",
+              "uri": "//maps.google.com/maps/contrib/105618292519179583748",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIuevz_xpJj5d4c_Ledeljt8SqDfCVFLvrGP2KNRSfXF78O=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/photos/ATplDJbRpiLbbY00WrbnvIoHjjAJvubvGNpM2seT_1uwzhYahOb37B_M5MD-oa5_J99LLPfmziysPOZ-x8V5_hSNbY2TUKhDK6NLTq1HHwgZqhMBlZb8A8tU2NaHoOUKsfUd8oDtGqZJGu4oo16EkKsprXPHZjxVzZODLMHN",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "subhash chand",
+              "uri": "//maps.google.com/maps/contrib/112479367256376489752",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWkh01IE7iRS473SCHyBnDIXt1cCoCHCYM7mvu4RAOjmE01kLmb=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSOJmpq5BDkRNenlIkEAJMA/photos/ATplDJYgHXRw722g2tBslVcjg9COspOEH4DvU-4cFFUWUWGTJEChvnS2TIFuugoueFgzFSijoogmOhcb7-8QY1O2rR66z5L0_qK3eEElYoxy-FwmJR38TeFRl2iurj1faQktfHCQQZE-F3TfST3dUx3_KGgq94yiqFjfQspv",
+          "widthPx": 2340,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Tara Chand",
+              "uri": "//maps.google.com/maps/contrib/104607230763886401883",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIwy5bLCAErO_psgJ1KirmSwLdb2vtBFiLW7VwXx7S4CadxHA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q",
+      "id": "ChIJESy43ZG5BDkRDjHhgolF34Q",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Kalholi, 3MQC+9MX, Dharehr, Himachal Pradesh 176125, India",
+      "addressComponents": [
+        {
+          "longText": "3MQC+9MX",
+          "shortText": "3MQC+9MX",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Dharehr",
+          "shortText": "Dharehr",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176125",
+          "shortText": "176125",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 32.088484,
+        "longitude": 76.671724799999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.087141819708492,
+          "longitude": 76.6703101697085
+        },
+        "high": {
+          "latitude": 32.089839780291491,
+          "longitude": 76.6730081302915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=9574447789721596174",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 6:00 PM",
+          "Tuesday: 6:00 AM – 6:00 PM",
+          "Wednesday: 6:00 AM – 6:00 PM",
+          "Thursday: 6:00 AM – 6:00 PM",
+          "Friday: 6:00 AM – 6:00 PM",
+          "Saturday: 6:00 AM – 6:00 PM",
+          "Sunday: 6:00 AM – 6:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Kalholi, 3MQC+9MX, \u003cspan class=\"locality\"\u003eDharehr\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176125\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 229,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Devi Temple, Kalholi",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 6:00 PM",
+          "Tuesday: 6:00 AM – 6:00 PM",
+          "Wednesday: 6:00 AM – 6:00 PM",
+          "Thursday: 6:00 AM – 6:00 PM",
+          "Friday: 6:00 AM – 6:00 PM",
+          "Saturday: 6:00 AM – 6:00 PM",
+          "Sunday: 6:00 AM – 6:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "3MQC+9MX, Kalholi, Dharehr",
+      "reviews": [
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZNUlmVFp3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Mata baglamukhi mata temple is approx 56 km from palampur and 27 km from jwalamukhi temple. This temple is situated in himachal pradesh in kangra district. This temple is must visit place by my recomendation. Mata baglamukhi is also known as stambhan mata. This temple is approx 209 km from chandigarh",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mata baglamukhi mata temple is approx 56 km from palampur and 27 km from jwalamukhi temple. This temple is situated in himachal pradesh in kangra district. This temple is must visit place by my recomendation. Mata baglamukhi is also known as stambhan mata. This temple is approx 209 km from chandigarh",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anni D Rider",
+            "uri": "https://www.google.com/maps/contrib/103632950556573320428/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaV4uG0mySqD2XOoNd6ZMn5A7tue1heXPiOHeni1JXdsJXy59q=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-04-03T19:02:36Z"
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxb05HQUZnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Great👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Wander with Spectre",
+            "uri": "https://www.google.com/maps/contrib/101948860949227351609/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuEZQVjteqR6fnZK-RS4EaCAxCvgUB9kXUy5r3vEU-rqjEBu4fzg=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2024-01-04T18:23:17Z"
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtdVozTzlnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai maa Baglamukhi🙏 holy religious place full with calmness and blessings",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jai maa Baglamukhi🙏 holy religious place full with calmness and blessings",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "something new",
+            "uri": "https://www.google.com/maps/contrib/112630131741639940663/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWncnKd5ZB7pbIIsz2AcaqDCwqW3lacjllPIbvyWx2sF4M-jLJy4Q=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-11-08T08:19:28Z"
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURnbHFxWFVBEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Peaceful place ....Kuldevi Mata of Bhagwan Shree Ram Chander g....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Peaceful place ....Kuldevi Mata of Bhagwan Shree Ram Chander g....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Daljit Singh Chaudhary",
+            "uri": "https://www.google.com/maps/contrib/102464640792005644917/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVntTulCAK5NEPB-UMOG4ogQI1GsNM0ZZrgI3JqkjUBiCo9ME9K=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-06-28T13:00:39Z"
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDM0pISENBEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Baglamukhi Devi Temple,\nKangra, Himachal Pradesh.\n\nLocated 30 km away from Kangra District in Himachal Pradesh near Dharamshala, the Baglamukhi Devi temple is surrounded by the Dhauladhar range of Himalayas. The name Baglamukhi is derived from two Sanskrit words “Bagla”, which means bride and “Mukhi”, meaning face. The temple is among the many establishments scattered in various other parts of the country dedicated to Goddess Baglamukhi.\n\nAround 30 km from Kangra District, Baglamukhi Temple is a Siddha Peeth close to both Jwala Ji and Chintpurni Devi Temple. The deity, Baglamukhi is one of the 10 Mahavidyas and believed to be the destroyer of all evils. Yellow colour is the most favourite colour of the Goddess. That is why the temple is painted in yellow colour. The devotees do wear yellow attire and yellow desserts (besan ki laddoo) are offered to the deity. People worship the deity to win the legal confrontations, to defeat their enemy, to prosper in business and to win the heart of beloved.\n\nThe name Bagalamukhi comes from two separate Sanskrit words, 'Bagala' meaning 'bride' and 'mukhi' meaning 'face'. In essence, it translates to the deity having captivating and hypnotising powers in her face or herself which fights the evil away. It is said that yellow is the favourite colour of the goddess which is why the Baglamukhi Temple has been painted yellow in colour. All the worshippers of the Goddess wear yellow coloured clothes, and yellow sweets are offered to the deity. Many festivals are celebrated at Maa Baglamukhi Temple including Navratri, Guru Purnima, Vasant Panchami, and other special pujas and aarthis.\n\nIt is considered that the Goddess loved the yellow color, and hence the temple is painted vibrantly in the yellow shade. The entrance, all the domes and the pillars are painted in yellow. Inside a tiered dome, which is supported by pillars, there is a huge prodigious havankund. The holy place enshrines the idol of Goddess Baglamukhi embellished with yellow ornaments, garments, and flowers.\n\nBaglamukhi is one among the ten mahavidyas, the wisdom goddesses. Her abode is considered to be a Sidha Peetha. According to the mythology, she emerged on hearing the prayers of other Gods when the huge storm has erupted over the earth. It is believed that she calmed the storm, and since then she is worshipped as the enemy destroyer. This temple is one among the pars of famous Nava Shaktipeeth Yatra.\n\nThe temple is located in Bakhandi, Sameli, Himachal Pradesh. It is well connected by roads to various other parts of the state. Buses and taxi facility are available from cities like Delhi, Una, Chandigarh. Hoshiarpur, etc. The best time to visit the temple is during the month of October for the auspicious Navratri celebrations, celebrated with great joy, style, grandeur and vigour.\n\nTemple Address\n\nBaglamukhi Devi Temple,\nBanakhandi - Haripur Road,\nSameli, Kangra District,\nHimachal Pradesh 177114\n\nTimings\n\nBaglamukhi Devi Temple open at 06:00 AM to 09:00 PM - Everyday.\n\nJai Mata ji",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Baglamukhi Devi Temple,\nKangra, Himachal Pradesh.\n\nLocated 30 km away from Kangra District in Himachal Pradesh near Dharamshala, the Baglamukhi Devi temple is surrounded by the Dhauladhar range of Himalayas. The name Baglamukhi is derived from two Sanskrit words “Bagla”, which means bride and “Mukhi”, meaning face. The temple is among the many establishments scattered in various other parts of the country dedicated to Goddess Baglamukhi.\n\nAround 30 km from Kangra District, Baglamukhi Temple is a Siddha Peeth close to both Jwala Ji and Chintpurni Devi Temple. The deity, Baglamukhi is one of the 10 Mahavidyas and believed to be the destroyer of all evils. Yellow colour is the most favourite colour of the Goddess. That is why the temple is painted in yellow colour. The devotees do wear yellow attire and yellow desserts (besan ki laddoo) are offered to the deity. People worship the deity to win the legal confrontations, to defeat their enemy, to prosper in business and to win the heart of beloved.\n\nThe name Bagalamukhi comes from two separate Sanskrit words, 'Bagala' meaning 'bride' and 'mukhi' meaning 'face'. In essence, it translates to the deity having captivating and hypnotising powers in her face or herself which fights the evil away. It is said that yellow is the favourite colour of the goddess which is why the Baglamukhi Temple has been painted yellow in colour. All the worshippers of the Goddess wear yellow coloured clothes, and yellow sweets are offered to the deity. Many festivals are celebrated at Maa Baglamukhi Temple including Navratri, Guru Purnima, Vasant Panchami, and other special pujas and aarthis.\n\nIt is considered that the Goddess loved the yellow color, and hence the temple is painted vibrantly in the yellow shade. The entrance, all the domes and the pillars are painted in yellow. Inside a tiered dome, which is supported by pillars, there is a huge prodigious havankund. The holy place enshrines the idol of Goddess Baglamukhi embellished with yellow ornaments, garments, and flowers.\n\nBaglamukhi is one among the ten mahavidyas, the wisdom goddesses. Her abode is considered to be a Sidha Peetha. According to the mythology, she emerged on hearing the prayers of other Gods when the huge storm has erupted over the earth. It is believed that she calmed the storm, and since then she is worshipped as the enemy destroyer. This temple is one among the pars of famous Nava Shaktipeeth Yatra.\n\nThe temple is located in Bakhandi, Sameli, Himachal Pradesh. It is well connected by roads to various other parts of the state. Buses and taxi facility are available from cities like Delhi, Una, Chandigarh. Hoshiarpur, etc. The best time to visit the temple is during the month of October for the auspicious Navratri celebrations, celebrated with great joy, style, grandeur and vigour.\n\nTemple Address\n\nBaglamukhi Devi Temple,\nBanakhandi - Haripur Road,\nSameli, Kangra District,\nHimachal Pradesh 177114\n\nTimings\n\nBaglamukhi Devi Temple open at 06:00 AM to 09:00 PM - Everyday.\n\nJai Mata ji",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "anantharaman k",
+            "uri": "https://www.google.com/maps/contrib/103160503547461892573/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWieISlOCoNIYxxlJYbOO0mNbEsXRO4OeYR3u1T3wkwR8ltHxZwPw=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2020-08-15T17:00:56Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJbTAiicQzvasb8xW9X82VgPAdAhcD6nPMDRPvC_WBWvnHsZN0SX-HhLg1-XEwe3EctsAbrOzXcW1CGiFouCLkeZbNKHALv2GWqJnsz9OGd-slSL4GM_CY4nBbAL4exIJJ6qTWFFJmfUVCd97u8IBs9pD4Jsp-diaQQZ",
+          "widthPx": 5184,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Sharma",
+              "uri": "//maps.google.com/maps/contrib/115730706192229301169",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6CoqQtxB-_LTn5OtD2R4m4IW8sVqgC96pn-CxinMlZ7v0QbzoUg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJZlW2ewbh_n70IVrFaPCO7YutbdF7x4I3tbexJH4CPNkdvoaKBm-p60aqFmjIkBiF474KGNrTll9D9tCcSBMaGnJ3kPJf6fBiPEmhwA5WjUAs3TIKLkpyjeTpI1iLbxtMIT7roeV9peJLygLZCykzdvHwz3TIPP34zz",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Mohit Sharma",
+              "uri": "//maps.google.com/maps/contrib/103362319934838967880",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV4h-oxpNGS6X96sRwhPOUMhm_-DOO7C-0Gd-0lp0neCPh2eIoj3w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJaGaQMOyQH7pJmsZ3Y7fy-XJTMPPlLOsPrDlZFqphBaPIlqcSRqyOU07ZLjtQdHJvWZjFvaMaNybc48kUofmVPWddxuQYAr3m20ZUSAtSg3DtziEe-dnJRp3FVgBB9luSSq7mViSHKweqSvQZ8ZUz9Bm6Gx_Sm1hmLO",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "abhinav Awasthi",
+              "uri": "//maps.google.com/maps/contrib/103116626717570312012",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdc2c9ujfSZyPUFLatXAhB2vtKwfMuJViM6GUAQ0UGv_X1Z-Y5SQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJapjnZp-im1Dip7RwnxLm7z42gnitlPaxaWUKAsc177mLmGxM-uezHmChE2A7NaX2bwrOeapBw8UDP04DzeeBPlShex5fvhoZCpPunO72Fgn7XomdKHZF31VxrRGPh6elnOXhoYHG_-FffJd8h-Gar8IZ_9508w_YqI",
+          "widthPx": 720,
+          "heightPx": 1277,
+          "authorAttributions": [
+            {
+              "displayName": "Dev Pathania",
+              "uri": "//maps.google.com/maps/contrib/105296234804370447047",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBFJH0Ov1LtijrT1bP_DIE5wtP4X_PmtPUcuhZLJyg3-TBeR8H=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJarDXaKGGfAK9ZLZNOxcY9sK4guq8TNO00LEJJI4thd6O-TIP7dK4lQODPqsBtjZDrmotoe7Ogqd1y_rdAA2xutZ_Kn96rHdY52xFlpraZMYYZOYr75VaLWlFMMn2jv_V8jWu6s7sTNpo1mK14juIQ3tFUM1Q7UxffU",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Nandukumar Raj",
+              "uri": "//maps.google.com/maps/contrib/115965870518356010840",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKrTU5KnXggcAbDRXGF4pKaJNy6bYnkOQ7w_0rS4nL76ZKQQQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJayQ1s1YkpGjdZLUG2EPggqPRRk5LoSsluV1_ztJ3Mfo4UA0PZpHkwQ-ALx-JuW1QMGRuexgZyUNRIbrHfH1yWaL99TqkqeXAB7Jn9kPAwMsN5wpy85fAsUslDXVh7_iGzSgNanLGBY_PpHigdLsT6fwgxgfe1Zy1XR",
+          "widthPx": 5312,
+          "heightPx": 2988,
+          "authorAttributions": [
+            {
+              "displayName": "Dr Narotam Dewan",
+              "uri": "//maps.google.com/maps/contrib/113170177804794251055",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW5tkShc07eJGL2wkMq0RLgQteqpRf-okD9AHsQDgY5zs0G_3eAaw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJYlNNTcPIoq-ZLWtn9e_SXkebs9fQ_vgsHmhVZV-RIzHPXbVe1qWV4MTs7IUXQwq6CTjXmCd2hFIvkevo4Xizd1end_iOTHzbX8Z0JG3Grl-fsT69jNE28bfcse-IxpNwxPx9-jAgcFfqcG-RlgLx3rapNSuwOAtIsx",
+          "widthPx": 3472,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "something new",
+              "uri": "//maps.google.com/maps/contrib/112630131741639940663",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWncnKd5ZB7pbIIsz2AcaqDCwqW3lacjllPIbvyWx2sF4M-jLJy4Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJY72QEHlX2ihuInjyu718Fe8bcEmt113PvT3ZE-HFzexTZC8zVxmLgmGBK-q2YATrljNg_I957E8EML0ZF8q1veasvevAHBL3BRjaTmUa9vO16wspLVs9unosrjBKzrhizOtkx1cbKQM39jyFD4KTbF2_oZcAPw1YE4",
+          "widthPx": 1728,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Sumit Thakur",
+              "uri": "//maps.google.com/maps/contrib/115576721758281134408",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEM-9NNmhTSrTZ6AnXyW0IicB-PwJ3B6KwiIFl472k9yGskMGN=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJbfACoQjnOCnGDXmKsIHEEK0REictirWG7-jk10AXoEnECedD0nB8BdrQ9OOt_OGFIhvx8pWEgBAThSTPMM_2M9jLVAI6cTMyLcWGTFPVjmQVT0BrArdaHKggTyrUynbUW9r9WIQejdG0zvtAunyuFKcTjVA3gz2bxm",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Anni D Rider",
+              "uri": "//maps.google.com/maps/contrib/103632950556573320428",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXaV4uG0mySqD2XOoNd6ZMn5A7tue1heXPiOHeni1JXdsJXy59q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJESy43ZG5BDkRDjHhgolF34Q/photos/ATplDJaP1OtakLUsAZHWWTiljg4gp3PvBNswJ3TmO6IRFGX64mTUZEAdqO43TF0N5CXiVQtBbAhv_pWsUlpDtIem9bqVsk4p9RnKthCM3U-1DnPmNApKOLnh5IeoyCNEKr-RLF9HltYiRgnyLNMl48IlS36-Q2tdcWk7VV1f",
+          "widthPx": 1728,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Sumit Thakur",
+              "uri": "//maps.google.com/maps/contrib/115576721758281134408",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEM-9NNmhTSrTZ6AnXyW0IicB-PwJ3B6KwiIFl472k9yGskMGN=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y",
+      "id": "ChIJvcmBvxC4BDkRt8RUtCBEr3Y",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "V. P.O. THARA TEH. DISTT. (H.P) 176125, Baijnath, Thara, Himachal Pradesh 176063, India",
+      "addressComponents": [
+        {
+          "longText": "Baijnath",
+          "shortText": "Baijnath",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176063",
+          "shortText": "176063",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J4R2MF3+QP",
+        "compoundCode": "2MF3+QP Baijnath, Himachal Pradesh, India"
+      },
+      "location": {
+        "latitude": 32.0244707,
+        "longitude": 76.6542533
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.023121719708492,
+          "longitude": 76.6529696697085
+        },
+        "high": {
+          "latitude": 32.025819680291491,
+          "longitude": 76.6556676302915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=8552129124654957751",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 8:00 PM",
+          "Tuesday: 5:00 AM – 8:00 PM",
+          "Wednesday: 5:00 AM – 8:00 PM",
+          "Thursday: 5:00 AM – 8:00 PM",
+          "Friday: 5:00 AM – 8:00 PM",
+          "Saturday: 5:00 AM – 8:00 PM",
+          "Sunday: 5:00 AM – 8:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "V. P.O. THARA TEH. DISTT. (H.P) 176125, \u003cspan class=\"locality\"\u003eBaijnath, Thara\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176063\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 51,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shiv Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 8:00 PM",
+          "Tuesday: 5:00 AM – 8:00 PM",
+          "Wednesday: 5:00 AM – 8:00 PM",
+          "Thursday: 5:00 AM – 8:00 PM",
+          "Friday: 5:00 AM – 8:00 PM",
+          "Saturday: 5:00 AM – 8:00 PM",
+          "Sunday: 5:00 AM – 8:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "V. P.O. THARA TEH. DISTT. (H.P) 176125, Baijnath",
+      "reviews": [
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURNa1Blb3RRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Visit and be blessed. Beautiful HISTORICAL temple. Surrounded by beautiful sceneries. Cool and calm environment. Can be reached by train, taxis, or personal vehicles. It is easily noticeable from from the main road. Parking facilities are also available. Hotels and restaurants are also nearby. So you can get breakfast, lunch and dinner easily.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Visit and be blessed. Beautiful HISTORICAL temple. Surrounded by beautiful sceneries. Cool and calm environment. Can be reached by train, taxis, or personal vehicles. It is easily noticeable from from the main road. Parking facilities are also available. Hotels and restaurants are also nearby. So you can get breakfast, lunch and dinner easily.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anurag Sharma",
+            "uri": "https://www.google.com/maps/contrib/111683074161321465068/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRg73iK3e0nbuWtYTAZOsAbp0eD71HNxq7T9gKyDKyfBzhRgb8=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2021-09-05T16:56:29Z"
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwck1MUkpREAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Only god worship gives you inner peace. The temple was really good not from inside but from outside as well. The Shiv bhgawan temple was really beautiful. Real peace of mind.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Only god worship gives you inner peace. The temple was really good not from inside but from outside as well. The Shiv bhgawan temple was really beautiful. Real peace of mind.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amit sharma",
+            "uri": "https://www.google.com/maps/contrib/101068630105609424596/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDlXKnghDHgXCsx-H0WcJfmv_xIO5gwlLZNOo6t781GYWPUjLW=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-08-08T01:26:12Z"
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0MEtiY0F3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best religion place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best religion place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Munish Thakur",
+            "uri": "https://www.google.com/maps/contrib/109184318554061305595/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4d04ImWm1sjWS7_lwJpnMyPv9LdloBMjbzkFCxgRHr0SFX5w=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-01-28T04:22:23Z"
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURkNWNfX2Z3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "10 days ago",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "10 days ago",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manish Balyan",
+            "uri": "https://www.google.com/maps/contrib/104866878297056449302/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXboupg8YEk2zoc9N4kKURUkDPCg6gUKzOXXPeav3X239nV4-x3=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-25T16:36:46Z"
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtMllHUkF3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Pure Devine, almost 1000 yrs old temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Pure Devine, almost 1000 yrs old temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aryan",
+            "uri": "https://www.google.com/maps/contrib/102044428025030348279/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIwskDtD7a5LVeWeUcuv-sDNPajTGLRm3NXiGw5h3QuVLV-qr1=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-11-08T01:10:32Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJbkq7oDqv--GDW4avTTOULo-d_O_P8CwdRLX-DMFjuIhCoKIxXROdpEPA-sThx1H3buVzM3MRsSWT0it4xH-6fDokG9lxOTbiLNZBXESoLudLRRAyZXTlejC3CHJmOAfs55Y8-z9L3gY9TQDNzG02MMj6szBMPqJknt",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Harsh Jain",
+              "uri": "//maps.google.com/maps/contrib/106365202686966241183",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiqAEMDwvhwWhjjoheLNNDrHJEWQhx2Y2-u_A7wOvAi42LzuWo5A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJZK_z8-ShdbUliyJ-VXLrvyCWz0RF1jfm9HUdtcETUDLyIvLkp8C775j1LwRvAaLmX80kJAw0nxWR6tT4ZaVih3y8CHkIqtx19DchyGUXgYO0gC7TUEPZYzMtQjM46UzZtEcojkulmL6PsybxZ5-l3unWxcwYySiVb0",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Noushad Shad'z",
+              "uri": "//maps.google.com/maps/contrib/118012928277690514161",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEUMWYO2Ys60fFKnBJlDW1-CpFMosbXwaV2LUKD5DHyy7VIlnphA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJZP6pRTMndCjvAYQYAbXXkLVBjwO1nfsFFy9-ORXy2lr861M0DhcYsaaGcr0MfTYWruGgKHdcjpR6B3eEY5SXmhazvzVQHBtd2nJ2I2LEyDiD7z4q0LxJT-P_GQUlIzmb9Ga_AZ5GEN3CkSrgG6LqsvNgLft1hJbY1H",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "GOPAL Raj",
+              "uri": "//maps.google.com/maps/contrib/108478687254820398688",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU0vts-sEBD8MhUU2VXvP47i1CCp_ZK1FgtpvEzwxbuSzcXswlQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJaMKEm0GcfYIZ0HSwvBMCc-a9GHucb_ITgkFE7oj9dX4HJzJUdZGaWO88fCW7LXvWSbg5mI4jqhHc1i2tcvgcENxirE8J919JkzXNX1eOB3EF89-yUFz0CtT5ViENgcYPQiJGuhocvVLPTesnRTGD89fh42Jq8vZapE",
+          "widthPx": 720,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Kavita Awasthi",
+              "uri": "//maps.google.com/maps/contrib/115269010310963743151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV5Kbzr5ISCIB4BtLJR09xipwJoxcpzvwDC5huOz_QeVfggMrk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJYpwn3GuXjQYNN7hUIS4VQ9_5EhpIwMktl8eCAMvO_OoOeSaQEvLewnQzlRGR9O0Ylnzss-7lKh6dPZJJwIs3W8EhxN9Tb0UsMyLa31ov0w1fRzSNvC7hhHnEPvOuwzjiYKMTfnVOqv7DzWQ9Y5TMqD8o0ugV8jy2ET",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Harsh Jain",
+              "uri": "//maps.google.com/maps/contrib/106365202686966241183",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiqAEMDwvhwWhjjoheLNNDrHJEWQhx2Y2-u_A7wOvAi42LzuWo5A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJZpanLda723jDb49xXpiamaprsxJZkm7TJjJh5Sp08WEd7VEQ5cxQadADmhDqaNFbR32J_rLcmy88Zx_fEgnUScY30AllF8fah79DycLXzSYW5FeS1fxWvdV7PCTj-_w-WZa_f941aoTPE30h3NKRppukIQimX8NLe8",
+          "widthPx": 1032,
+          "heightPx": 581,
+          "authorAttributions": [
+            {
+              "displayName": "Kavita Awasthi",
+              "uri": "//maps.google.com/maps/contrib/115269010310963743151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV5Kbzr5ISCIB4BtLJR09xipwJoxcpzvwDC5huOz_QeVfggMrk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJZOJul0YjgXBgkx-YHIAUvTS68ymXWdhSoV6OwGLwcPSJOW_pXI7bikSxz7mka2XiRtL9oAT_NQSQ1ljjVaVQYh9P45u_bv5eo0I0cXo_oqFH1MvxG6NUXRlHygzOEeB1iJiJQ4Fyi0qCnJIS8RUG8qsYpNsAb4AlHG",
+          "widthPx": 828,
+          "heightPx": 621,
+          "authorAttributions": [
+            {
+              "displayName": "Ajay kumar",
+              "uri": "//maps.google.com/maps/contrib/100026862532894731710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXeCO2GMo1DEv898c9mcDkYLlD-1Z53DOA6FKrOeCnwBM_Y9WVL3w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJbekPQbuIVMtmwbwlbtrLNnkECxkIazSVg7p8-13Epb2uX0oxwZ6jyG7eQlMpiKabnsQhiPZcOHTEwx8656an__H1K9NBrZjrUlaSQ-fs8yLfJhZ3tKu89g3FARANYs46kqfBkoMbtoWSdby4M2XsMgokFjNK0Pg5fP",
+          "widthPx": 2340,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Thimbu Shivani",
+              "uri": "//maps.google.com/maps/contrib/117233850820159234855",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXioUEdFSjy5yxwiYz-IOtuQnhzRnY8AuUNUkHCrFYeYmf_r3J2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJZ6bbG6TsvqlnzDGDbTfjdVe_AO4ruRMsLPt9KR1h5RfYJdPyvB7dHWYGcgrP3M66k8lBGIbcA0MHVE21ZnjqkhyD2GiGHWaDl8BVqIMPgjp1k_bp-y3e9rhD0O47hxvvuKrgaAiwc4vz-3H2Lx8f4J_fEKxDBdQfNQ",
+          "widthPx": 774,
+          "heightPx": 1032,
+          "authorAttributions": [
+            {
+              "displayName": "Kavita Awasthi",
+              "uri": "//maps.google.com/maps/contrib/115269010310963743151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV5Kbzr5ISCIB4BtLJR09xipwJoxcpzvwDC5huOz_QeVfggMrk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJvcmBvxC4BDkRt8RUtCBEr3Y/photos/ATplDJbPRMgdD0C-Eu-uCgZ6wIjRB65lUmPnjzONLNIL9Qhh8KaQfUDhshdEtifoOf727xjqsPBz-43mlx-QIaM1fZypA8O8x-hzV34WJfM_-mO8jvgZgfUynoaK97--8los_yEmtXku26HEg9wQU5utfLOHIB0YN3zcZ2vk",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "GOPAL Raj",
+              "uri": "//maps.google.com/maps/contrib/108478687254820398688",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU0vts-sEBD8MhUU2VXvP47i1CCp_ZK1FgtpvEzwxbuSzcXswlQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJE0r6uni3BDkRdmKT794HegU",
+      "id": "ChIJE0r6uni3BDkRdmKT794HegU",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "3J2M+VWQ, Panchrukhi - Paprola Rd, Paprola, Himachal Pradesh 176115, India",
+      "addressComponents": [
+        {
+          "longText": "3J2M+VWQ",
+          "shortText": "3J2M+VWQ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Panchrukhi - Paprola Road",
+          "shortText": "Panchrukhi - Paprola Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Paprola",
+          "shortText": "Paprola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176115",
+          "shortText": "176115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 32.0522162,
+        "longitude": 76.634852
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.0508857197085,
+          "longitude": 76.633484069708487
+        },
+        "high": {
+          "latitude": 32.0535836802915,
+          "longitude": 76.6361820302915
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=394636571431887478",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "3J2M+VWQ, \u003cspan class=\"street-address\"\u003ePanchrukhi - Paprola Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePaprola\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 30,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Baba Balakrupi Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "3J2M+VWQ, Panchrukhi - Paprola Rd, Paprola, Khatrehr",
+      "reviews": [
+        {
+          "name": "places/ChIJE0r6uni3BDkRdmKT794HegU/reviews/ChZDSUhNMG9nS0VJQ0FnSURNMDd1X0JnEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Famous temple near paprola bus stop.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Famous temple near paprola bus stop.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajat bhardwaj",
+            "uri": "https://www.google.com/maps/contrib/112195962850787686029/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVi-7Zil63Mq6LPJha9K3FI77Wr1_diwrg2I4x9NSPuUGc--9AhfQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2020-01-11T11:32:09Z"
+        },
+        {
+          "name": "places/ChIJE0r6uni3BDkRdmKT794HegU/reviews/ChZDSUhNMG9nS0VJQ0FnSURJbHZyZllBEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "A great local deity and beautiful place to visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A great local deity and beautiful place to visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RAJKUMAR BANYAL",
+            "uri": "https://www.google.com/maps/contrib/105931410335844238512/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsY4gAvflxVET4Ef4WjchJw2gYkXOrfdg0XULwEepvZqHb1CcUxw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-01-03T15:08:31Z"
+        },
+        {
+          "name": "places/ChIJE0r6uni3BDkRdmKT794HegU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbFllcERREAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Wow nice 🙂",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Wow nice 🙂",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JEEVAN THAKUR",
+            "uri": "https://www.google.com/maps/contrib/114659062727996485020/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeCthm9SpQDBxY0hQHMvTNvNCQ5BPSKJNBLefmPHnt1kR3Rd2mbA=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-11-23T11:28:47Z"
+        },
+        {
+          "name": "places/ChIJE0r6uni3BDkRdmKT794HegU/reviews/ChdDSUhNMG9nS0VJQ0FnSURKNXVQYi13RRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice 👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice 👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Seemu amar",
+            "uri": "https://www.google.com/maps/contrib/116743979996196038136/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRSGOp4IyT49qCOX9QUUZpwAfo7SpCXZmGQ22GludS1qdoJw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-07-16T08:49:35Z"
+        },
+        {
+          "name": "places/ChIJE0r6uni3BDkRdmKT794HegU/reviews/ChdDSUhNMG9nS0VJQ0FnSURBcXZpdHdnRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 4,
+          "text": {
+            "text": "A known temple among the locals.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A known temple among the locals.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vivek Kumar",
+            "uri": "https://www.google.com/maps/contrib/116924133580333110186/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0KgGe12rHqwhOoAbI-_bh-P4PBR35Il9uMya3YOZVHJddAb4=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2017-06-16T07:42:08Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJE0r6uni3BDkRdmKT794HegU/photos/ATplDJZ75w7idiywf2-PO2ApTls3jNQuXQbL29XM50y3cHfRG0XuvTMiYHNtw_l68ckfQMky6LljgsNCj_OVBJHW5PpPz8YONkRlfOKwr_I2GqcRsmn7V5e6rajvD16TVGZRstUx65C3-rTb2j5uceN-KZO_ZPpYcPJSmcg8",
+          "widthPx": 4128,
+          "heightPx": 2322,
+          "authorAttributions": [
+            {
+              "displayName": "Kushla Devi",
+              "uri": "//maps.google.com/maps/contrib/118282304156557573961",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZHHJV7aC_1IcXYaIOrDuxj-txp64TjCpldbREwn-gY8Zai4RB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJE0r6uni3BDkRdmKT794HegU/photos/ATplDJZGQ7h8KJ3X2liH89o9HYyt_UzVMXG-naBdOdSUwAe5znamxV3VQSyj8vK7HjUkgZrD9VnQWc9AP2wXdy6TTW4y8ocqAA6kkBevoTf9c1jEXPj4fhbjBjAsi-mkl-SrMMsMwJmwohFx8V0-o3w1032L1TW3QssePdM4",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "PRATHAM HEER HARSH",
+              "uri": "//maps.google.com/maps/contrib/103520318573028969919",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVUZmYO7Im6zbn-cGl3Yt21J2rJ-hGGOU-qwPRux6AgqMxMxaTR=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJE0r6uni3BDkRdmKT794HegU/photos/ATplDJYyIdlHaI-BrthJYmaZIoiplx2EOc6Y2auPkEHCgZwJAZF_SSwjso7Xfav_k6IQv7sk2P23ShGzJQaWP2jifG584Zx3Ejq5Y_Uvz5YoObu7WPnSSqYHqY-FCck0LTFCpmmHya-vaz1lLd0_x_r29oMLZ7cNuvLRsElN",
+          "widthPx": 1944,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Sukhraj Singh",
+              "uri": "//maps.google.com/maps/contrib/105663336912696056774",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLj-YER8NnIBfl9mfyTYax1co0xAQrKHueKwXrxCxSxJ2Ys-Q=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ5aiDc5a5BDkRhlq-NO4rpZY",
+      "id": "ChIJ5aiDc5a5BDkRhlq-NO4rpZY",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "2JWV+5PF mandir bansaha, Baijnath, Himachal Pradesh 176125, India",
+      "addressComponents": [
+        {
+          "longText": "mandir bansaha",
+          "shortText": "mandir bansaha",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "2JWV+5PF",
+          "shortText": "2JWV+5PF",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Baijnath",
+          "shortText": "Baijnath",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176125",
+          "shortText": "176125",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 32.0454442,
+        "longitude": 76.644288199999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.0441929197085,
+          "longitude": 76.6429035197085
+        },
+        "high": {
+          "latitude": 32.0468908802915,
+          "longitude": 76.6456014802915
+        }
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=10855130778933549702",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "2JWV+5PF mandir bansaha, \u003cspan class=\"locality\"\u003eBaijnath\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176125\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Baijnath mandir bansaha",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "2JWV+5PF mandir bansaha, Baijnath",
+      "reviews": [
+        {
+          "name": "places/ChIJ5aiDc5a5BDkRhlq-NO4rpZY/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxMlpYYTdRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aryan Kapoor",
+            "uri": "https://www.google.com/maps/contrib/103983712662611736828/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSS6Ri58pWZ3A-Hcbi7wszxW4dG_Zb5E6DHNAaJ7u5cNBA8Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-08T12:26:24Z"
+        },
+        {
+          "name": "places/ChIJ5aiDc5a5BDkRhlq-NO4rpZY/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMTlyT2dnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "TxT::GAMING TxT::GAMING",
+            "uri": "https://www.google.com/maps/contrib/108530595976780199808/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtRkAk1Pcz57BllgCuoK7t9U82zMCpWAwwXzQcjWvUMUmqrgFX=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-03-20T03:05:19Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU",
+      "id": "ChIJV5oGYXK5BDkRczqTPUWcnSU",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "078071 49653",
+      "internationalPhoneNumber": "+91 78071 49653",
+      "formattedAddress": "teh, Vpo, Baijnath, Kasba, Himachal Pradesh 176125, India",
+      "addressComponents": [
+        {
+          "longText": "teh",
+          "shortText": "teh",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vpo",
+          "shortText": "Vpo",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baijnath",
+          "shortText": "Baijnath",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176125",
+          "shortText": "176125",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J4R2JWR+6Q",
+        "compoundCode": "2JWR+6Q Baijnath, Himachal Pradesh, India"
+      },
+      "location": {
+        "latitude": 32.045575299999996,
+        "longitude": 76.6419446
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.044227519708492,
+          "longitude": 76.6405927197085
+        },
+        "high": {
+          "latitude": 32.046925480291492,
+          "longitude": 76.6432906802915
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=2710494371946642035",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 8:00 PM",
+          "Tuesday: 9:00 AM – 8:00 PM",
+          "Wednesday: 9:00 AM – 8:00 PM",
+          "Thursday: 9:00 AM – 8:00 PM",
+          "Friday: 9:00 AM – 8:00 PM",
+          "Saturday: 9:00 AM – 8:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eteh\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eVpo\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaijnath, Kasba\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176125\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Baijnath Bir Billing",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 8:00 PM",
+          "Tuesday: 9:00 AM – 8:00 PM",
+          "Wednesday: 9:00 AM – 8:00 PM",
+          "Thursday: 9:00 AM – 8:00 PM",
+          "Friday: 9:00 AM – 8:00 PM",
+          "Saturday: 9:00 AM – 8:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "teh, Vpo, Baijnath, Kasba",
+      "reviews": [
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGLWFLV3RBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aariz Ahmad",
+            "uri": "https://www.google.com/maps/contrib/102544378050028198649/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgUpude7hfky3RVM_vTJjvIFiCYgKQ6uGiwt8REJDB8teabUjp=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-29T14:48:44Z"
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNXBqWFZnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Akanksha Deb",
+            "uri": "https://www.google.com/maps/contrib/117003218543411996814/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXySjPTAS5p61TCJAualpam4qShkSlJojSv366drvq313qgR2HG3g=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-04-24T10:41:57Z"
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4dTdQUGx3RRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Happy gill gill",
+            "uri": "https://www.google.com/maps/contrib/116557184989832314436/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvPrHIZfdrdaKS-cJlTmBv7aFwUVVcDKpPoFveOJl2OGaKfFHu=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-05-27T04:33:22Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJYxpqaW1CE4Gi2akYGFea9Q2tW58UAVv3FFrJTC6FUHCll9a7jG40oW-oOXTsB8HyAIl-soUoLPkVqDEDs3tuEECkuIt6w48LzL7ylWTd0yUmljOHOLgwAKmN2Z7bxfBf7CObAkhFlbcB_D5K-Ety5Ptk7NtiYIFdwj",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJbBsXU8h4BsQswg_Evz3vF4Qbq6oty0DS8VAhAyU1Fi2tndInH8tSy2Q3seymTV4GUhuIjx7vVhzXf8KhYgC_xMm0NZAUncZ3kYK2z7egYTCStYhBc5u1_hLwoZZeZJj-TuTxR1qNTu5EYOfqa_YW0usL6gdpjCZ_F9",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJYLt1v159bCmXgLik7EItRw8hr-U6rOD9rt_G2WW6YUy3q_MObw5p9hTpdEN9XlYXzlRhyu5w0dx0qI1_atw2d5KF9OFBHj1_oac73OGo4JOMkS0ZEXMLwp_aOrvQIdHS59gh-iXodptp9eR8OgUkP-Blc-4en14aFG",
+          "widthPx": 1080,
+          "heightPx": 1407,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJbCcWheaM0vNR9srwhS25GokoVaT3_vGEBKQBJqq3HDVY46q_JD7dfxHIHhLH7-UP4A3xCqKzFrQYzPp6VinD0n2fD0kARL0e0sRgT7H2bFyxTVZ3o1e7PCvWiJXOL6l7AhbxOOdeZJoD7vNLRCcLOzdoQ0BCMo8735",
+          "widthPx": 1080,
+          "heightPx": 641,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJb92X-OJBI85keiMobRh2f1a9TyXzvblPKj2cWjh53R_V1J_6xNpZPfjPF37rtwTNv6Cll4wm0eGyaPujTv4ghuZg90DyI4IUEANHu0WB4S8-NbppCRpRodrptixvmZr2tI4MP3IlzvpXleXJs_fkkU1EHAqSXeoy2-",
+          "widthPx": 1080,
+          "heightPx": 1440,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJbggxbd26ZaYojjOeXvp5vmDfZ4R_DUcLcYGhPFpT6me4GBSvWR-ACMmQV5jF_BU3MQNYPBu70mGXCIhtZIvmvfd5BDQTAwikmjydFl3KZOC5NkO8OchERGqg4JTS2KDXQhBJiLyyya7jc_c48DCuFdU-Oin9qFsJHK",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJZpEXau05ij3rzYLuYL2eT6vFzIrmyo7tMF-Vl-5WitVwWjmhCHNKOH2YX7SF_nL1IUbddnZXLUHroZlCpZVwm881-zFAacGYmbjKUherN0R01DuoCU8ZhlLzJMo5qgRBZyif5y4kHhUM-9CSbuwo0I7sPgbcpgxYTh",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJZO7jdXlyKtC2qNttwepHtNTQKl_T2keqK-mSTQ4VdLWp1MjSmRpNY8VWk4cwkrswYKTyvB4NtouASsIN402actt6JpCzKr7GRl9K4UFlq25DuZgKhj1gEUTaBfvQuWwe_H1HiisdZi3EeZizGs8FwBDAuicPv_n31H",
+          "widthPx": 1080,
+          "heightPx": 1197,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJYF_jM3nIxdfMkHWykMbNELdHlwByHRM7ha3A9mJG1f8Nb9ak2qKakkFzP3a-vmuUvtP7jBs_HB1I9Vn3sxCVRO3kSaqF0RkMJ8IaHmxpB15aow454k5y8V-SEwbF87Jp5kmS749z7usXbtbJB6L8O9JLnC5PDY476O",
+          "widthPx": 1080,
+          "heightPx": 1409,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJV5oGYXK5BDkRczqTPUWcnSU/photos/ATplDJbSueMbOUf0dcG7m5krbybC6utdiJaRlxR5mCyIjL440LRFZy46rBb7uj6MP3H0BXq9nm6_29-naixPi4Aw1yZuY7X4fTeGllZ9fj8yR_UCFys2gc3p2SbTMW4sEVEG8UPMIot_SZ_9JLYKxNJzGHF2xNJ5kQbwOWKz",
+          "widthPx": 1080,
+          "heightPx": 1075,
+          "authorAttributions": [
+            {
+              "displayName": "Baijnath Bir Billing",
+              "uri": "//maps.google.com/maps/contrib/109093527432350519021",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKRQQUsg6rsoGdcfr1T0IX_D2lg4u1BvqzX85pf_tzrzGF7ew=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE",
+      "id": "ChIJtZDgIke4BDkRaNNPTk2M4wE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "NH154, Dhar Bagi, Himachal Pradesh 176125, India",
+      "addressComponents": [
+        {
+          "longText": "National Highway 154",
+          "shortText": "NH154",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Dhar Bagi",
+          "shortText": "Dhar Bagi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra",
+          "shortText": "Kangra",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kangra Division",
+          "shortText": "Kangra Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Himachal Pradesh",
+          "shortText": "HP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "176125",
+          "shortText": "176125",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J4R2MQ8+QM",
+        "compoundCode": "2MQ8+QM Dhar Bagi, Himachal Pradesh, India"
+      },
+      "location": {
+        "latitude": 32.039412399999996,
+        "longitude": 76.6666317
+      },
+      "viewport": {
+        "low": {
+          "latitude": 32.0381060197085,
+          "longitude": 76.6653450197085
+        },
+        "high": {
+          "latitude": 32.0408039802915,
+          "longitude": 76.6680429802915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=136106677405471592",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eNH154\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhar Bagi\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e176125\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 319,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "iconBackgroundColor": "#4DB546",
+      "displayName": {
+        "text": "Kangra Valley View Point City of Lights",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Park",
+        "languageCode": "en-US"
+      },
+      "primaryType": "park",
+      "shortFormattedAddress": "NH154, Dhar Bagi",
+      "reviews": [
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/reviews/ChZDSUhNMG9nS0VJQ0FnSURBaV9iZmF3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Spectacular view..\nRugged terrain of various size hills are clearly visible from this spot. Someone get a vastness and magic of nature..\nBizzare cold wind also win your heart...!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Spectacular view..\nRugged terrain of various size hills are clearly visible from this spot. Someone get a vastness and magic of nature..\nBizzare cold wind also win your heart...!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dibakar Ghosh",
+            "uri": "https://www.google.com/maps/contrib/110049000333858375521/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXReDraoTP3GqokP2uFHTlocxLI_nJocvWBy4MYq-0MSvl7tEmE=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-01-03T13:41:36Z"
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/reviews/ChZDSUhNMG9nS0VJQ0FnSURwaExxdVFREAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "If you are adventurous trip lover person. Then this route is for you.\nKangra Valley is a natural wonder that leaves a lasting impression. The lush greenery, meandering rivers, and towering mountains create a picturesque setting. The valley's charm lies in its serene atmosphere, offering a peaceful retreat for those seeking solace in nature. The Kangra Fort is a historical gem, adding a cultural touch to the region. However, some areas might be less developed, impacting amenities and accessibility. Overall, Kangra Valley is a paradise for nature lovers, hikers, and history enthusiasts. Embrace the tranquility and soak in the beauty of this enchanting destination.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If you are adventurous trip lover person. Then this route is for you.\nKangra Valley is a natural wonder that leaves a lasting impression. The lush greenery, meandering rivers, and towering mountains create a picturesque setting. The valley's charm lies in its serene atmosphere, offering a peaceful retreat for those seeking solace in nature. The Kangra Fort is a historical gem, adding a cultural touch to the region. However, some areas might be less developed, impacting amenities and accessibility. Overall, Kangra Valley is a paradise for nature lovers, hikers, and history enthusiasts. Embrace the tranquility and soak in the beauty of this enchanting destination.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Daniel Naidu",
+            "uri": "https://www.google.com/maps/contrib/104383909916131641957/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIPdhyX-S4jWWx6lLrWtW1eayQZ4sqJxcqygx--EYCNeuNrXxT9=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-08-24T04:40:15Z"
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbnItMXp3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Perfect point to view baijnath and paprola valley down under",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Perfect point to view baijnath and paprola valley down under",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Akhil Bhian",
+            "uri": "https://www.google.com/maps/contrib/100356453784856513177/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOiKE2QCCIaIf5bpCNQNucdtNyVkUKY1jh8UiPviQ__9gtVw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-02-15T12:21:45Z"
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/reviews/ChdDSUhNMG9nS0VJQ0FnSURRNWJLSzdBRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Superb view valley of flowers..must visit point",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Superb view valley of flowers..must visit point",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ankur Tyagi",
+            "uri": "https://www.google.com/maps/contrib/110574701209698124371/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIB4TcFE_I58PAg91STfEAfdmxGBGW3fHs3XxHNOMZXNMDUG4jbg=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2018-07-14T17:45:12Z"
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/reviews/ChdDSUhNMG9nS0VJQ0FnSURRNmFMdjJnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This place was really nice. But not as expected. Sun set was beautiful from here. You can visit this place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This place was really nice. But not as expected. Sun set was beautiful from here. You can visit this place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr. Gaurav Tyagi",
+            "uri": "https://www.google.com/maps/contrib/115136573088898237570/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlays7F86dMtUUMLu6g3NvNzBXuN6doB83trVj57zLbR9e0ruv=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-06-13T01:30:45Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJbFcTRAb-8AOXuJtIiyaog_FSFLtsnaENDk1JeV8KipNGz3gnwjkavtXzWwS9-7vbQx0Y-GC7duBBufJxM6cZz2bBTgFJavCR-e3OoZj7jf44Gwrs1_8bzYLpEqeZ_paRjfNj5MGIEnQ99AZ5Lb0tnKiW02R_fxfr3F",
+          "widthPx": 2296,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Naveen Sangrai",
+              "uri": "//maps.google.com/maps/contrib/116962137617433724281",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVmE_ZPTuPCRll3lZTKtIeGV0cC3FuJAF3VuJwJ1dFTOC2X5A1-qg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJaFcst1hqWWQmTQKcfmFKyCEH8mt1e619XIY3BGF9jbadYpZ0pEy9jWSN0vEEDC8c1kwCI3KzBhB1wOYeT1OI2j34jWqKWKYjbs4Rynefr5Rvk_hkz3_YCx4pPkGNr4xuztoOt6mmujl50VBygor7Ht7hPi_EODiOSk",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Dibakar Ghosh",
+              "uri": "//maps.google.com/maps/contrib/110049000333858375521",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXReDraoTP3GqokP2uFHTlocxLI_nJocvWBy4MYq-0MSvl7tEmE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJbE0U-YH5JVFcNwvdGg-7bORj4Mh-aWi1yKyE0vdstQQ6-XOPW9BC1k2TSthJgyUb5Ty54pT003UlWcOXMZpaWOlJICEmwZ_9dkUlYnjAeGxdv_zam6I7OAlt43SCl0XtQdDl5Z_xK_yEVO7hIc6rqLLxCHMpu_y17P",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Piyush Singh",
+              "uri": "//maps.google.com/maps/contrib/112079404948904662947",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWYN7cNVc86fdgkVmx82C_xn9j8-wan3GH1fJJDdjYn5Dbn_Ds=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJaWXOaHItsMuvuRA3zf8zTsYqbjaCgLXhiTIt_WCbANdRKlUrAXlpJkY-_IaPf6HxEDkdopM9lEkPdHWf71q-ji8q-ZBeyFgYIAUB5nK-6Mef4A9oPgyvGkFCPGBhrTEpo4a3b1DylBMd_IYj484rf9vCZ4OtolrFPq",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Digvijay Kumar Chaudhary",
+              "uri": "//maps.google.com/maps/contrib/103379399265340970851",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKUHEdnBDHWGo-SGZKc0OXeBA_rV9xM5r6_ROOTBokHssoTpQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJbQ8-4F17oIpF8GE7tNkDqvtAT_kAvRqJER0cQTFNLYRn8s5XtelZUizBZddY_HbQX4MGbU9_gcWMdpygW3h9Zwmv8JpaoKuCr9AMMcsUjzlh2fGlfEBrMsjOJ5p52HAadBfduY322BoZi7Ep1uahpUje3IusZbBc-i",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Naveen Kumar",
+              "uri": "//maps.google.com/maps/contrib/115832827117806133649",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU8ukUSKkbkW_z98KgKZWuFiZdtUmT7aM71Q-3VcxrTf4JdEzwtXQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJYt7vo2rXjq61D_yfp4u6m09QlhlLiatb27ZJWccUdRv484dzgK08W6DcwmCObx0vlXSLz1HRgzXjMnQy6SflslGBK7-Wi76uC1ON4Lf6eMH6c9nprWeeiGtnjIPDB-NbmqI8r-dVAmbUFy6xYWlGYXOTCqY_0L8f0P",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Jagjit Singh Saini",
+              "uri": "//maps.google.com/maps/contrib/113541544311427330679",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV4Fvo6e3eoETLKfxL18qI-gOgVEPjG4RfOwKncZRzpr-JD_Fd8VA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJYBw3T6yHFtAYcjEGy8TbZW94uvhlxZrtyza-DRjsyORiIOEh3Mh_AHy9SUbonXhQir1qqNIb-i3a6QLjrUGLyApkvgWK6UEJPNHPt1F69vvQyNMtUN3XEIarc4UJpI-UslxlK9JBS2oF05nR4kMtQg1zsp-lE6zkR9",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Ashish Gathania",
+              "uri": "//maps.google.com/maps/contrib/116105937980825597549",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXpmB4NH862O9ezinkORjDMZWKmDIxEKMT5yyeMC5FBsUE4e5pEOQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJYu7vHw5lBg51_181EOpN4uJfl9x5viCz46R5yo5lecbJx03OWTPQ83QDapbFuTUjQf9CLg7Q6RKWxsuI6kR3d7AOU9bQMarKVZEwPFutzNd6qTw_KThziMaaXhrkuANtgIRmW_lx9Ci8f0hlZ4KF5EAklzTH2_N4v9",
+          "widthPx": 1156,
+          "heightPx": 867,
+          "authorAttributions": [
+            {
+              "displayName": "Sa-one",
+              "uri": "//maps.google.com/maps/contrib/115776302188643378221",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZ7F1FFRQJ1il6JUoQ6IOvuZfTmHFJ98oAwtrI8pAhFwvWxfc5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJb3_1A8T2OSAya-MKQ2qOAjX3Z1WQb4SNmB_M_eNbUG4rWQm9o9COyCkFoaq0ezCMyqyXIqlXXSOjp2apdMhGZkhEtEvgyTj_DW7Ujsh6v0H256Ny0TQbX_c67grlyLt19AtND5n648OCkphxRwfq9xpzCgSPni8z17",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "VIKI LO VS",
+              "uri": "//maps.google.com/maps/contrib/115490485247963255934",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWHmfVVAqVddLwPJLMqB79puClHpNZYbF9Ov8OlOXynqdiogEAzzw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtZDgIke4BDkRaNNPTk2M4wE/photos/ATplDJZqlPwXGvnMpyddzTDJtaLzRVN7UIO1cQFufF4DbT5OKy7gzatk9w0Uw7RSGjs2zFqOsWU9QvzRH3INx-7K6ssS43MAVOsgI6LT1M8cU_y0HDTQpU-qHRfQxaw6kMoHw_8Ma8dss9hK9LJzKev7j9YztbIRwyB1s16C",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Sylvain MARET",
+              "uri": "//maps.google.com/maps/contrib/114195465191193524293",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUcQGOQvPsGSZOtahZW2bWU527Su17T9vY8lbhuDmuUs5k4zAj4fg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    }
+  ]
+}
+

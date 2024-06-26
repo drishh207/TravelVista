@@ -1,0 +1,4432 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q",
+      "id": "ChIJZT4-RfSnbTkR816HWHDc3-Q",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "078382 68268",
+      "internationalPhoneNumber": "+91 78382 68268",
+      "formattedAddress": "NH11C Jaipur- Delhi Exp, Jaipur, Rajasthan 302002, India",
+      "addressComponents": [
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "302002",
+          "shortText": "302002",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ4XPW+49",
+        "compoundCode": "4XPW+49 Toda Meena, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.135317699999998,
+        "longitude": 75.995950999999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.1340581697085,
+          "longitude": 75.994602019708481
+        },
+        "high": {
+          "latitude": 27.136756130291502,
+          "longitude": 75.997299980291487
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=16492142735533760243",
+      "websiteUri": "https://teela.in/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "NH11C Jaipur- Delhi Exp, \u003cspan class=\"locality\"\u003eJaipur\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e302002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 212,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Teela - The Glamping Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 21
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 11,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 21
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 11,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 11,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 11,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 11,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 11,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 11,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:30 – 11:00 AM",
+            "Tuesday: 7:30 – 11:00 AM",
+            "Wednesday: 7:30 – 11:00 AM",
+            "Thursday: 7:30 – 11:00 AM",
+            "Friday: 7:30 – 11:00 AM",
+            "Saturday: 7:30 – 11:00 AM",
+            "Sunday: 7:30 – 11:00 AM"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 21
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 21
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+          ],
+          "secondaryHoursType": "PICKUP"
+        },
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 21
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 21
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 22,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 5:00 – 10:00 PM",
+            "Tuesday: 5:00 – 10:00 PM",
+            "Wednesday: 5:00 – 10:00 PM",
+            "Thursday: 5:00 – 10:00 PM",
+            "Friday: 5:00 – 10:00 PM",
+            "Saturday: 5:00 – 10:00 PM",
+            "Sunday: 5:00 – 10:00 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 0,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 1,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 2,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 3,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 4,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 5,
+                "hour": 11,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 7,
+                "minute": 30
+              },
+              "close": {
+                "day": 6,
+                "hour": 11,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 7:30 – 11:00 AM",
+            "Tuesday: 7:30 – 11:00 AM",
+            "Wednesday: 7:30 – 11:00 AM",
+            "Thursday: 7:30 – 11:00 AM",
+            "Friday: 7:30 – 11:00 AM",
+            "Saturday: 7:30 – 11:00 AM",
+            "Sunday: 7:30 – 11:00 AM"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        },
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 17,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+          ],
+          "secondaryHoursType": "PICKUP"
+        },
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 17,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 22,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 5:00 – 10:00 PM",
+            "Tuesday: 5:00 – 10:00 PM",
+            "Wednesday: 5:00 – 10:00 PM",
+            "Thursday: 5:00 – 10:00 PM",
+            "Friday: 5:00 – 10:00 PM",
+            "Saturday: 5:00 – 10:00 PM",
+            "Sunday: 5:00 – 10:00 PM"
+          ],
+          "secondaryHoursType": "DINNER"
+        }
+      ],
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "NH11C Jaipur- Delhi Exp, Jaipur",
+      "reviews": [
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOMUxtQkpREAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A truly wonderful experience. A location away from the busy life of city. A very good thing was that there was no TV in the room which bought us close with family. The bonfire with dinner was amazing. Excellent food and good room service. Overall a wonderful night out.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A truly wonderful experience. A location away from the busy life of city. A very good thing was that there was no TV in the room which bought us close with family. The bonfire with dinner was amazing. Excellent food and good room service. Overall a wonderful night out.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ishita yadav",
+            "uri": "https://www.google.com/maps/contrib/110595188918747617305/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwwKgcfWStt3DCZoJk8We4ezqmOBEnmGhcGbsXZZ1asCAtTRWg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-12T11:05:44Z"
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURWeTQtNDV3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I recently had the pleasure of experiencing the ultimate glamping getaway at The Teela. From the moment I arrived, the exceptional service stood out, especially their unique Jeep service that whisked us away to our luxurious tent.\n\nThe highlight of my stay was undoubtedly the private bonfire experience. Surrounded by nature's serenity, we enjoyed the warmth of the fire under a star-studded sky—truly magical!\n\nMoreover, I was pleasantly surprised by the immaculate cleanliness of the bathrooms. It's rare to find such pristine facilities in the midst of nature.\n\nOverall, Glamping Paradise exceeded my expectations in every way. It's the perfect blend of luxury and nature, and I can't wait to return for another unforgettable stay.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I recently had the pleasure of experiencing the ultimate glamping getaway at The Teela. From the moment I arrived, the exceptional service stood out, especially their unique Jeep service that whisked us away to our luxurious tent.\n\nThe highlight of my stay was undoubtedly the private bonfire experience. Surrounded by nature's serenity, we enjoyed the warmth of the fire under a star-studded sky—truly magical!\n\nMoreover, I was pleasantly surprised by the immaculate cleanliness of the bathrooms. It's rare to find such pristine facilities in the midst of nature.\n\nOverall, Glamping Paradise exceeded my expectations in every way. It's the perfect blend of luxury and nature, and I can't wait to return for another unforgettable stay.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Eagle Eyes",
+            "uri": "https://www.google.com/maps/contrib/103419116550296481228/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqcgegyn1bc4jcqK0p0usBUaq7fFR8rbgAEDSOhqvkbshppsAI0A=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-16T05:22:14Z"
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUREeFp2WWJBEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "A surreal experience making our annual workcation at Jaipur all the more memorable for me and my team. The rooms are nicely done, very well managed and moonlit spots that their general manager Kshitiz aka KZ took us for was worth a lifetime experience. I certainly plan to go again and be at Teela to experience solitude and serendipity of golden dunes and green.\n\nOur day tour included ATVs, Paintball and off-roading giving the team an adrenaline rush and heart full delight. Though the excitement took over the high tea hour but the snacks were mouthful and dinner spread was a delight too. We are happy that we chose Teela for our workcation this year. I would like to thank their entire team KZ, Priya, Naren for their hospitality and the amazing marshals who gave us such beautiful memories of a lifetime.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A surreal experience making our annual workcation at Jaipur all the more memorable for me and my team. The rooms are nicely done, very well managed and moonlit spots that their general manager Kshitiz aka KZ took us for was worth a lifetime experience. I certainly plan to go again and be at Teela to experience solitude and serendipity of golden dunes and green.\n\nOur day tour included ATVs, Paintball and off-roading giving the team an adrenaline rush and heart full delight. Though the excitement took over the high tea hour but the snacks were mouthful and dinner spread was a delight too. We are happy that we chose Teela for our workcation this year. I would like to thank their entire team KZ, Priya, Naren for their hospitality and the amazing marshals who gave us such beautiful memories of a lifetime.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jigyasa Laroiya",
+            "uri": "https://www.google.com/maps/contrib/118293248019165986047/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlk4F90V0rO3VEdEWfNHUbh38jk-Bd1u4vBofvMCLMOp5Z6BBZ-A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-12T03:24:00Z"
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURWLTdIRWFREAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Great place to get away from hustle bustle of city life. Suited for those who want adventure rather than lavish resorts. Everything was good except the kitchen service, it was bad although the food was good not amazing. Still the resort is at niche stage and lot room for activities that can be done there at resort. In all enjoyed the overall experience.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great place to get away from hustle bustle of city life. Suited for those who want adventure rather than lavish resorts. Everything was good except the kitchen service, it was bad although the food was good not amazing. Still the resort is at niche stage and lot room for activities that can be done there at resort. In all enjoyed the overall experience.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "kalind singh",
+            "uri": "https://www.google.com/maps/contrib/103000889768906339000/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWU8Z0b9Ahw0PX_hs8R0gTatoCcFmHB2WxIHBcbZCIzzGit_cUr=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-17T04:39:26Z"
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUROdmREUDlBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Our stay was truly exceptional! The property, staff, and overall experience were all memorable. Purely indulgent glamping with a unique blend of luxury and camping. The Sundowner setup, the cozy bonfire, and the diverse food options added to the charm. A heartfelt thanks for creating such a wonderful experience!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Our stay was truly exceptional! The property, staff, and overall experience were all memorable. Purely indulgent glamping with a unique blend of luxury and camping. The Sundowner setup, the cozy bonfire, and the diverse food options added to the charm. A heartfelt thanks for creating such a wonderful experience!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ritu Marwah lifecoach",
+            "uri": "https://www.google.com/maps/contrib/102139971486592203339/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2_fxUThe9sKzTEyyCTBF4dYA2ki6hZryssSj63G5MLrnYtTHd7w=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-25T07:04:13Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJamofRzMpWhB19VKA4VgEdh3dpd4zYJ1VidywVpCAxwNVqr4PL094i8MeILfoHf9odowfPSNhvI9lMlZP5KWFcrutCMivM0aHx2nbglrd22vzr7QL8HL3SFpjVuMLeVgARVTG2sZ_e6ewibJr6ir4y1rSlI-2n_K0Ww",
+          "widthPx": 5472,
+          "heightPx": 3648,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJbuvEYw_Hl1u5DZMXsL24mX0YH-q9OCLA6PYqHHbLJfjv9XTlEwVCBauswDErTpeAqFkJ_Kr51jUsSJGpjLjPT44nqZR9JV6Hq-u65fTbAMSx3r6zNY5US6OHK76he-LXeBwu8kBK3QeC4e_FU3zwNSxzViUC5ED5Cg",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Piyush Jain",
+              "uri": "//maps.google.com/maps/contrib/104236341723646733696",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLAlN5dQXTFxMdbP-JV9-oyZXKT8chJAW9A0tH6zQYCJbuHN4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJbw0jfxKpfiHNp6nkPRtuBf2216xsKlts-s-EsBHq1Lq0TdMjKd2KyC0yhYxZxC3XM0iv59dynIJf8eRARPBGyWD7txpVVyfpP-jbj0_Fq44i-4-pG4gnr7tekCm0QpjJhTkm5iyT_SJu2QRhZgHGpb7ZZJ-lAN6rR5",
+          "widthPx": 1280,
+          "heightPx": 853,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJYrLypCqe8dkea4uI9cIuw0qeSzgY09P7BxapOuon2PPDU6IYydZg2ofskmshvVhS6Z3ieTg8AFQH7X7Mnkyn7remkvMb80urU1DZoLvZrv-5Iq8v8ePs8jkJV9YBSUL_HJE0UBwiiwJ2m2Z2iUgYstQRnvfM4IrVc0",
+          "widthPx": 5472,
+          "heightPx": 3648,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJaAByxuTwTGXHN13OgzK5u6FGIq_ilUxATm1vuQ9q5xas6HNHei64UroJyN0KkuL0gR-M0Cc1Pvd9U98ZC3zpd9AykczNIeNtBY1KIUcoK7O27LHimwpt4QubCipRkd981LHTzXcreEInhIXWKUQqg6V7Uym4JarODK",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJYi8p1NuxI5HAY8MyTOTreYoV5vCRSmlBrYiS8LzlfQtIGea7KkxObQjnlrLVQJDrbHzCHWwAMVMiNHt2UV-gMLi1O_beXGxboh30nbJOIzq5m3gwFeaZF76XGbiOYFHi6WQeIdO7QDbaMJxMPvfcgB2xwCmpOPVyO5",
+          "widthPx": 853,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJaUzeB-S3UNayLOBcLjw1YxazxXKoPKBvbKftgn6sYtoBZTqvnEU_rpccQoRkWEP0SeN00uuFRAY49AZsg8KoOHmn5WQJR3E5CGvqE2STFvdfZT-KucZxXdUtxc8-ncvBlF5FtwNCtL2J4ZmqniYNk4ytUXRQ4jPh2y",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJaKhii5fazNH-EoQzEz-Zjs_hJ5Ruxz6uv9OPg8c_FZbHF5V_u61VkE3NuMypBRI3WmA3LP4fJUr2VrhKnvGeZkOGUrLlIIeANSS2_zI0pV0SB6vXmGrJup9_jO5q2XuJItg4Fo0wJLo3Tlu2F8KomG3e_uKjCe9VbR",
+          "widthPx": 5472,
+          "heightPx": 3648,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJZ1GjWq_H3hygqWdRho2fUrZBYX4XsZCUBwN6fG8r1UG10rxzmkAcsoYZclRuBDMPYsOtXFoog-8V5UhlVC4AZkHtJNHimncH9fx4LSEb3GljEva_R9ZUoaFNFqsI0Dv-r5vKT2b-ikvvnbiDaamt5mB86MPxfuWD4w",
+          "widthPx": 3648,
+          "heightPx": 5472,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZT4-RfSnbTkR816HWHDc3-Q/photos/ATplDJb1znfa5uc4EP6QSDTmLWMPDP-SgGHzsEy8IEOJYsCKbzFUIjBovZUT8H23JYn8nxEWIgmG7epah9dOokZmtv3QgD41f3E_oNISooUDm7j0d6QpURzLQSobgv7FRbC2jdaC05-6TDsb0ZF4higmvS0OfHEXpzSLxtm3",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Teela - The Glamping Resort",
+              "uri": "//maps.google.com/maps/contrib/117619232181334168710",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUoejrPnACeyyqWihi-cvgTRMBtOQk8e6UNSgQ8OZkP49J-2CE=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M",
+      "id": "ChIJeXBBv5umbTkR0vXXuzlnr9M",
+      "types": [
+        "resort_hotel",
+        "wedding_venue",
+        "hotel",
+        "swimming_pool",
+        "lodging",
+        "sports_complex",
+        "event_venue",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "098290 52270",
+      "internationalPhoneNumber": "+91 98290 52270",
+      "formattedAddress": "Near NH 11C, Chappar Ki Dhani Village Achrol, Tehsil, Amer, Jaipur, Rajasthan 303002, India",
+      "addressComponents": [
+        {
+          "longText": "Tehsil",
+          "shortText": "Tehsil",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Amer",
+          "shortText": "Amer",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "303002",
+          "shortText": "303002",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ4WXW+G2",
+        "compoundCode": "4WXW+G2 Jaipur, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.148873599999998,
+        "longitude": 75.945101
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.147522169708495,
+          "longitude": 75.9437763697085
+        },
+        "high": {
+          "latitude": 27.1502201302915,
+          "longitude": 75.946474330291522
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=15253523960589448658",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Near NH 11C, Chappar Ki Dhani Village Achrol, Tehsil, \u003cspan class=\"extended-address\"\u003eAmer\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJaipur\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e303002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1553,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Achrol Niwas, A TreeHouse Hotel, Jaipur",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "dineIn": true,
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Tehsil, Near NH 11C, Chappar Ki Dhani Village Achrol, Amer, Jaipur",
+      "editorialSummary": {
+        "text": "Unfussy rooms, some with private pools, plus a restaurant/bar & an outdoor pool.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqNlB2V0JnEAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 5,
+          "text": {
+            "text": "\"Staying at Achrol Niwas was an absolute delight! The serene ambiance amidst nature provided a perfect escape from the hustle and bustle of city life. The staff was incredibly hospitable, ensuring every need was met with a smile. The rooms were spacious, clean, and beautifully decorated, offering a cozy retreat after a day of exploring Jaipur's wonders. The delicious cuisine served at the restaurant tantalized the taste buds, and the picturesque views from the property added to the overall charm. I highly recommend Achrol Niwas for anyone seeking a memorable and rejuvenating stay in Jaipur.\"",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "\"Staying at Achrol Niwas was an absolute delight! The serene ambiance amidst nature provided a perfect escape from the hustle and bustle of city life. The staff was incredibly hospitable, ensuring every need was met with a smile. The rooms were spacious, clean, and beautifully decorated, offering a cozy retreat after a day of exploring Jaipur's wonders. The delicious cuisine served at the restaurant tantalized the taste buds, and the picturesque views from the property added to the overall charm. I highly recommend Achrol Niwas for anyone seeking a memorable and rejuvenating stay in Jaipur.\"",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vivek Tambe",
+            "uri": "https://www.google.com/maps/contrib/115736918448176383962/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIv8jiMEiVL9apM4WttnjqBPteiX9LeV02mjhkZxXY6jN_mHA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-17T13:31:56Z"
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/reviews/ChZDSUhNMG9nS0VJQ0FnSUROMGQyb0h3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Was in this place for 2 days attending a wedding. The property on its own is good. But is it worth traveling that far to? Probably not.\nSince huge property, the wedding preparations were done spread across the property and had some lovely decor.\nComing to rooms, they are huge rooms. Room lighting is pretty low. Hot water to bathe was luke warm. Housekeeping folks claim that's the hot water. In this cold season, how can one shower there? i don't understand.\n\nFood was average. Nothing to go gaga over..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Was in this place for 2 days attending a wedding. The property on its own is good. But is it worth traveling that far to? Probably not.\nSince huge property, the wedding preparations were done spread across the property and had some lovely decor.\nComing to rooms, they are huge rooms. Room lighting is pretty low. Hot water to bathe was luke warm. Housekeeping folks claim that's the hot water. In this cold season, how can one shower there? i don't understand.\n\nFood was average. Nothing to go gaga over..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prathima Acharya",
+            "uri": "https://www.google.com/maps/contrib/115943927012237932532/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWU0ZsdooMGqmLxIHAg1saHconqvLMUIr8RgGi0-TuJL2jSZuqHJQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-23T09:40:26Z"
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/reviews/ChdDSUhNMG9nS0VJQ0FnSURENnQzY3Z3RRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 4,
+          "text": {
+            "text": "It is not accessible as per disability point of view. No ramps were available. I did suggest the GM Mr Dara Singh for the same. Before checking in the room, do check for leaking flush, hot water availability at night and early morning. It is located in the outskirts so food can be ordered in their restaurant only. Food is ok types not very tasty.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is not accessible as per disability point of view. No ramps were available. I did suggest the GM Mr Dara Singh for the same. Before checking in the room, do check for leaking flush, hot water availability at night and early morning. It is located in the outskirts so food can be ordered in their restaurant only. Food is ok types not very tasty.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "LIFE COACH Priya Bhargava",
+            "uri": "https://www.google.com/maps/contrib/104404110615751805964/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmZ5mOfIOtZIp1hjjGGhvZ0a53WFEJ8UJ3Sk_cqky-0WZrjJugjg=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-04-08T04:38:46Z"
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxblBPXzVBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 2,
+          "text": {
+            "text": "A very good property is maintained poorly. Staff is rude, don’t hesitate to say no for small things.. unlike other resorts/hotels in this price range.\n\nWe entered the pool, realised it was too dirty and even after telling them many time they didn’t give a damn!\n\nThe only good thing is the location and i would give 5 star to the gardner, very beautifully maintained.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A very good property is maintained poorly. Staff is rude, don’t hesitate to say no for small things.. unlike other resorts/hotels in this price range.\n\nWe entered the pool, realised it was too dirty and even after telling them many time they didn’t give a damn!\n\nThe only good thing is the location and i would give 5 star to the gardner, very beautifully maintained.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gourav Gola",
+            "uri": "https://www.google.com/maps/contrib/103885985551430768505/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMHvJnadHCUV-d_vgmb-bibi-w9jz0929EclRXrXf_FBrC8y2J=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-25T04:25:48Z"
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/reviews/ChZDSUhNMG9nS0VJQ0FnSURkd2VMamV3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 1,
+          "text": {
+            "text": "Such a bad staff and property… Achrol Niwas “A Tree House Hotel” the most ridiculous people working at this property specially Mr Prem he never show respect to the customers and never fulfil what he commit at first meet… Customers ke bhi paise kha jate h… Booking krne k baad advance leke bhi last moment pr wedding event ko khrab krte h pr refund bhi nhi dete or customers k paise kha jate h! They never maintain decorum… behave badly…. Do not come and visit this property ever specially for families, couples and for wedding celebration.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Such a bad staff and property… Achrol Niwas “A Tree House Hotel” the most ridiculous people working at this property specially Mr Prem he never show respect to the customers and never fulfil what he commit at first meet… Customers ke bhi paise kha jate h… Booking krne k baad advance leke bhi last moment pr wedding event ko khrab krte h pr refund bhi nhi dete or customers k paise kha jate h! They never maintain decorum… behave badly…. Do not come and visit this property ever specially for families, couples and for wedding celebration.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tarandeep Kaur",
+            "uri": "https://www.google.com/maps/contrib/103379645517189787504/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLObfioovvDCwBnD8DBS5_FIYeXwxfN-XQHNVOJPaAwhaUwZLU=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-24T08:02:34Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJZSlMvHgTcS9h7gspIvl7kldby9SWpsrKY0p4KhZSizAUQwgVnxjdXH9DxSJFKgLX5RKSn_OyM1wN-CD-Ok_9zN5rG1yMzdkPfQ4oshbA4IOWSKOAwZuaQN1pKp54mJwwCwiHFr4ULHwxt0hZaD2JbpYsNFNhTCHKUL",
+          "widthPx": 5520,
+          "heightPx": 3384,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Niwas, A TreeHouse Hotel, Jaipur",
+              "uri": "//maps.google.com/maps/contrib/118130618032160809585",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-9LbyU5fkaXX3bmh9DxZNbCMg8XchOmGeatSUdndnel14d9Xq=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJaXpJ-fMILUHYYVJowzEqn1QvZD1uYmPk7WEFNA6a7vaemyJRVeRM8Ac0lv0upiDfIsz4Dz1Z5O19ORpmU_PugSQ8_YvkjfxYOHS2g5XfyDsX7n7X-DuKi1NO6MHhOEJG2yuANVXRRQDJonaEvLhuMd4WXvaLqTXZC_",
+          "widthPx": 5520,
+          "heightPx": 3346,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Niwas, A TreeHouse Hotel, Jaipur",
+              "uri": "//maps.google.com/maps/contrib/118130618032160809585",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-9LbyU5fkaXX3bmh9DxZNbCMg8XchOmGeatSUdndnel14d9Xq=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJYDrUOYkr7BG_zOw93KTosr1PZCUlnj3cVXyTnGwZgSiG9w4tGMOALJVfZnXMaBZ3KwcqZlsU2t3gw-8I6m5CQMo0s8ppFRfSUdEwrhY0AjpWxM8dnGlc4M4_pCvMsPuMhm8YXNZ7FVCJZai-KHh8UhiYfj3kecCdo8",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Samridhi Kabra",
+              "uri": "//maps.google.com/maps/contrib/105738780879618537143",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIJib8RenPv6Hw6aH9WL7lSUBRSc8ai3TLJmn9gQQiBefsALg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJYme-ZfEJLmxU45ENOwzhc7f0eT7TZ94i2dB41jbbhBJWtHwZJE5FhCjx13uzPIf4PakODplpTBg4mjLeCj_8-rksWKEqg2mm3TqYGISXTmDRWkKZ33jYEnHL3MAQUXIFGuebDt2o_C-L2zmTF-_DoStcR0-7KkyrCl",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Shradhey",
+              "uri": "//maps.google.com/maps/contrib/106195618601625088403",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUIFCIePFXyR8daBAUjZ4xmmJypY6tk-jiWhUKq8pJEhcVCAwoa=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJaqdXntT_2nypIqjnSr_oWPKtmy0_93B9byI9ELaRB10CcpODORS1CSMWiiNYKki6a7UKExL1KC8jVdICo-W8g998_AhcjH1tbL_cQ9MuHTKFZounwntvdNCfl1MiSZtZACZOqBpHXPh51SxZUe0IdzIIdag8WT6vbq",
+          "widthPx": 5434,
+          "heightPx": 3223,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Niwas, A TreeHouse Hotel, Jaipur",
+              "uri": "//maps.google.com/maps/contrib/118130618032160809585",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV-9LbyU5fkaXX3bmh9DxZNbCMg8XchOmGeatSUdndnel14d9Xq=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJbbREwLWQ4TkzQuk3kumVpKENgiI76U4htCGbGsufVc74GBJqjJnPXwDXCYZAyH1cEhn4IDDLhemgCoEu7NlE1l-GZ-LPlSPKpMTCFH41WL1vTkH-M21iF8MEXvumENhib3ddJY8t2J_bBHu2K473Qm3ig4cWgZwKuw",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Tarun Gupta",
+              "uri": "//maps.google.com/maps/contrib/111926980302784685090",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJB5PQyJqk0jmkpkdnaMTVRBigZkfTlO_l3IUegGWLaxDAEfGo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJbePglb0QaGnmrZQ6i8Po1YPoHoSjyLvIoTO6BOqlsfqM12AcxBc4tpOLdqekwGIcfgCOswCaXODl2gYHekS1IhdqLH7qeFA8x_NY0K3j_yFhYm2AdO_wIe1V8X6sV37CGc5KWJ9BSsYOtZPN5znBVNQXUyr_JZAF8",
+          "widthPx": 1588,
+          "heightPx": 900,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Niwas",
+              "uri": "//maps.google.com/maps/contrib/100617430937832165151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU2J4wPabz1TFWj61FLxX34900uwNbpqHc8AKadv9SaE2HuAQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJZCSi51oXZe2fGreqe_fyIsCisXMcA4ggoyFoGAbrURURTX9bo0DAHen1fq3T44ZK9S-puah5GhEMNMh8_ghJDrZACKgpd0xANecmWNH2pdDNb8Pgog1-jsl8qIc93xg8f-QOBiNMMoB0Bgv1Bcbu-YdttcZbqmWGn1",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Ashish Gaur",
+              "uri": "//maps.google.com/maps/contrib/114975055063817464415",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI7CKBhk5VUVU-RKT2Zgnl-sHRHFLfritQBJY0tdvIki5TpLA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJbFb8Hw7ga2QyOsLyns3qL6N4oQ9MlUMhxYloO9EZw16T0BOGUk5dczI4GnjOFpn39ERF6UjkhjfPP3LCSb1YTuVm7O7FpjnKIvcz-rebCtSri3m7HoahbyMkgPwczHD7u8EC2zfuOM7oTGnXCgMXgs5SQbudNiHh4r",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "MB",
+              "uri": "//maps.google.com/maps/contrib/113450072727046501686",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIgAjA-PQ771b6UmgaCVEEh_GyQkfFcBPAp9UuVWfOKpdK9pg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeXBBv5umbTkR0vXXuzlnr9M/photos/ATplDJZUjBdAE79bBsZE8a9r55-1VzATmaruybFxjNT3kPhR2w8YRlXROQzCGg8sL2mFz33exIN3lVkKi-3J4eiQV5iYd717x0rccaRQx0ROjEgmOXOa6BzZtp99ij9QWGfPvE9M8IRjtOt68hgiT0SC56ri1Bp0T6zgLTz3",
+          "widthPx": 1242,
+          "heightPx": 621,
+          "authorAttributions": [
+            {
+              "displayName": "Shazia Abbasi",
+              "uri": "//maps.google.com/maps/contrib/116607886654290354201",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJk_6bfe3FHRstxwqNGZEH2QR9_Xc_j-H_OE6dJpMFJcg537t4=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ",
+      "id": "ChIJ8YZtsPmlbTkRfjVkjjA46ZQ",
+      "types": [
+        "cafe",
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "farm",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "093522 65004",
+      "internationalPhoneNumber": "+91 93522 65004",
+      "formattedAddress": "Delhi jaipur highway, Jaipur, Labana, Rajasthan 303104, India",
+      "addressComponents": [
+        {
+          "longText": "Delhi jaipur highway",
+          "shortText": "Delhi jaipur highway",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "303104",
+          "shortText": "303104",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ3XX3+MX",
+        "compoundCode": "3XX3+MX Jaipur, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.0992211,
+        "longitude": 75.9549889
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.097909219708498,
+          "longitude": 75.953544269708487
+        },
+        "high": {
+          "latitude": 27.100607180291505,
+          "longitude": 75.956242230291508
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=10730169368385435006",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 PM – 1:00 AM",
+          "Tuesday: 12:00 PM – 1:00 AM",
+          "Wednesday: 12:00 PM – 1:00 AM",
+          "Thursday: 12:00 PM – 1:00 AM",
+          "Friday: 12:00 PM – 1:00 AM",
+          "Saturday: 12:00 PM – 1:00 AM",
+          "Sunday: 12:00 PM – 1:00 AM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eDelhi jaipur highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJaipur, Labana\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e303104\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1548,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Stories- The Organic Farm Cafe ( a unit of Little Things Hospitality Pvt. Ltd.)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Cafe",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "curbsidePickup": true,
+      "reservable": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesBrunch": true,
+      "servesVegetarianFood": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 21
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 21
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 21
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 PM – 1:00 AM",
+          "Tuesday: 12:00 PM – 1:00 AM",
+          "Wednesday: 12:00 PM – 1:00 AM",
+          "Thursday: 12:00 PM – 1:00 AM",
+          "Friday: 12:00 PM – 1:00 AM",
+          "Saturday: 12:00 PM – 1:00 AM",
+          "Sunday: 12:00 PM – 1:00 AM"
+        ]
+      },
+      "primaryType": "cafe",
+      "shortFormattedAddress": "Delhi jaipur highway, Jaipur, Labana",
+      "reviews": [
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOdFpHUGZBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "A nice getaway place at city outskirts with baori, pool, cafe seating, villas, dj dance rope course, basketball and other outdoor games for entertainment purpose. Peaceful & Nature friendly aura although a bit old fashioned. Food was average. Cold coffee was great. Overall, sun..fun..relaxation! Which is Much needed in winters. 😄 Had a STAY-CATION day!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A nice getaway place at city outskirts with baori, pool, cafe seating, villas, dj dance rope course, basketball and other outdoor games for entertainment purpose. Peaceful & Nature friendly aura although a bit old fashioned. Food was average. Cold coffee was great. Overall, sun..fun..relaxation! Which is Much needed in winters. 😄 Had a STAY-CATION day!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sakshi Maheshwari",
+            "uri": "https://www.google.com/maps/contrib/103214854606477272288/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXEVpsz36XfDJmDXLSJ9MeNlNDAjQBgA43-ULt4BxGBp9uJTc=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-02-16T15:53:39Z"
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaaHRhSmh3RRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Best place in a bit outer to Jaipur. The ambiance is amazing, I loved it.  They have limited food options but the chef is doing good work 👍\nThe only thing which I noticed during my visit is that they try to avoid accepting payment through UPI or Card as they charge 5 % extra on payment through UPI and 8 % extra on payment through card.\nEvery hospitality place nowadays accepts online payment without any extra burden on customers.\nOverall experience was great 😃",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place in a bit outer to Jaipur. The ambiance is amazing, I loved it.  They have limited food options but the chef is doing good work 👍\nThe only thing which I noticed during my visit is that they try to avoid accepting payment through UPI or Card as they charge 5 % extra on payment through UPI and 8 % extra on payment through card.\nEvery hospitality place nowadays accepts online payment without any extra burden on customers.\nOverall experience was great 😃",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gaurav Sharma",
+            "uri": "https://www.google.com/maps/contrib/108158027068625721154/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnLvmfUWDEQQZuCxMyC4ipnkv11et19d5Jnpodsn-hAGe9QYQ7=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-09T09:43:54Z"
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURGX3Fici1BRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It’s was amazing food , great atmosphere..! Polite behaviour of staff ..! Pet friendly",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It’s was amazing food , great atmosphere..! Polite behaviour of staff ..! Pet friendly",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AN ODYSSEY OF SANDEEP",
+            "uri": "https://www.google.com/maps/contrib/115166759612311617503/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvRSQP-Xq-vsTDi_Si0mYh4toBvuxlm5UxIJCtqWfLHeWsj5DU=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-07T15:12:40Z"
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2aWRPaWFREAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "If you’re looking for a venue to do pre wedding shoots, theme parties , kitty parties with private sitting area along with food prepared with fresh vegetables this is your spot. They have game areas too. This place looks divine with aesthetic vibes. The aura of this place is filled with fun and love. There are different backdrops which are perfect for any shoot. The ambience is very eye catching also they have live kitchen and delicious North Indian food. All over I had a lot of fun and will definitely recommend you to visit it once.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If you’re looking for a venue to do pre wedding shoots, theme parties , kitty parties with private sitting area along with food prepared with fresh vegetables this is your spot. They have game areas too. This place looks divine with aesthetic vibes. The aura of this place is filled with fun and love. There are different backdrops which are perfect for any shoot. The ambience is very eye catching also they have live kitchen and delicious North Indian food. All over I had a lot of fun and will definitely recommend you to visit it once.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Albinus Joseph",
+            "uri": "https://www.google.com/maps/contrib/111538256285174425476/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWM08U_fFGq78mf5exMv9VDdrQ4SqlFlDK1lM3rkdJRbJzpdT_n=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-10-03T14:21:06Z"
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURSbU5IOERnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Place is really beautiful. Day and night both the time ambience is really pretty. They have some amazing cottages to stay . Affordable prices, I tried honey, chilli, potato, iced tea, virgin mojito, pasta, and some more dishes.\nTaste was okayish . They have a pool area too .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Place is really beautiful. Day and night both the time ambience is really pretty. They have some amazing cottages to stay . Affordable prices, I tried honey, chilli, potato, iced tea, virgin mojito, pasta, and some more dishes.\nTaste was okayish . They have a pool area too .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "foodie_ babe",
+            "uri": "https://www.google.com/maps/contrib/108436411336924412068/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXj0KUJip3YUdG4fvlHHqzCB0oqv5f5en03zYkMD76HO58pgBCanQ=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-04-17T05:52:58Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJYt3QuCsdOc0Y15GDFhuean_SsrRcJnFvomC8vm6R3LvBT_yVeKuSoCAEZ1pCDVukcXPKDl2Wy9v60nsTp8Qs_rZjYUR4OxuPo5baonAD5cWkVr_Ic9P4pu7aFw2-X37fk1rYILI518LmPJzWyRIeAdJdUVqm6kZ1E0",
+          "widthPx": 6048,
+          "heightPx": 4024,
+          "authorAttributions": [
+            {
+              "displayName": "Stories- The Organic Farm Cafe ( a unit of Little Things Hospitality Pvt. Ltd.)",
+              "uri": "//maps.google.com/maps/contrib/106376081478833505158",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ3lGcm7uZFRTWUocguANxh4c0G0nFxViU9LdbXxGFO5WPoaQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJb2fK2PRA2dWzdlMviwh-5p7yyArPfd6PnLeCJ-d56LfyEp99fnHdMRlO9wjgEggsZaW86WlRnb-cOrOLdn0bfs9nk_T_I1g48Q_JaT9SZLmUxgV9kOu2XUL8Vnl0AA0W3AjEoSCfhNqzMqT8MrUikwf3NwRA5f6tkH",
+          "widthPx": 6048,
+          "heightPx": 4024,
+          "authorAttributions": [
+            {
+              "displayName": "Stories- The Organic Farm Cafe ( a unit of Little Things Hospitality Pvt. Ltd.)",
+              "uri": "//maps.google.com/maps/contrib/106376081478833505158",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ3lGcm7uZFRTWUocguANxh4c0G0nFxViU9LdbXxGFO5WPoaQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJY8VBdYDdDwGNheVjBpSpheHVLjPPRBPMpEcKClhh8GlaZAfPS6JMuk4-mIBaUjdtXcV_iFbVkCLNGgEE6-eZa6qmOKdWJH9--9p-hKZuF0HJ5p1s8BtzdfV4OOFBCb_HulqKuymApxLyu9_Am9d0hHONPyqKhNf42Q",
+          "widthPx": 3840,
+          "heightPx": 2160,
+          "authorAttributions": [
+            {
+              "displayName": "Shagufta Sheikh",
+              "uri": "//maps.google.com/maps/contrib/104879897494791331378",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU2fmTZNgJqbvdty6yGjmRMLD94d8ZZu4U2gZE9RGRP5MApxSUfIw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJZDWo7kyGpEEGdkaKWovOtC3KRvFU0hwSaMWe5scV6VvJInzP8Fe3pHjozeZs8k-XxvduEHnI0AZ-Cc2WO9hjW4zgcb23Tl0c-lxATkC_J0RSsCwUOrh-N81NFPNsefv6r7NJF4SVZZQs8-oohKq8hWwCt8SoUz2Hq1",
+          "widthPx": 1440,
+          "heightPx": 1440,
+          "authorAttributions": [
+            {
+              "displayName": "Stories- The Organic Farm Cafe ( a unit of Little Things Hospitality Pvt. Ltd.)",
+              "uri": "//maps.google.com/maps/contrib/106376081478833505158",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ3lGcm7uZFRTWUocguANxh4c0G0nFxViU9LdbXxGFO5WPoaQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJbUwAE3GNse5DF-C1lovsvlI5aaxvGy64VAFqfbmpmeTK9noJldSiKDWsxk-rcSbpOMBV6NAjFZtfjpwVQbM-vZFqID_3EtmqWo291VCOOsBJRVoJAPyZOnu6cA5eWWu0sTPBmqDE0DS3WroDbyhiSHhlhBpxeQY_Bs",
+          "widthPx": 1280,
+          "heightPx": 837,
+          "authorAttributions": [
+            {
+              "displayName": "Stories- The Organic Farm Cafe ( a unit of Little Things Hospitality Pvt. Ltd.)",
+              "uri": "//maps.google.com/maps/contrib/106376081478833505158",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ3lGcm7uZFRTWUocguANxh4c0G0nFxViU9LdbXxGFO5WPoaQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJb0xCvtfg9_B1kAE68CFz2rlmrO1YTa-Ws2JevG_71FqHQIOLb2y8j0YAb9Bf2End6hj3q6rsZRL-p6aeSwXnM-GRMiy_gQOCFfOK7ZdQAjMd7tE-Gh_mnyEGdyuklxJTTQlY3IPEQ56nHH4VPJ9NBkLUT83PSlIcJk",
+          "widthPx": 6048,
+          "heightPx": 4024,
+          "authorAttributions": [
+            {
+              "displayName": "Stories- The Organic Farm Cafe ( a unit of Little Things Hospitality Pvt. Ltd.)",
+              "uri": "//maps.google.com/maps/contrib/106376081478833505158",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ3lGcm7uZFRTWUocguANxh4c0G0nFxViU9LdbXxGFO5WPoaQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJY0Jj9oq6c5IXiaBD7VpP4OmNNRBAchNdBpQVdUDmu-lKYJzfVcS16yUmj6Kl2jP_Q2dOpn0YN8qzwjwapkEdr1wo4g2yKinUqICoiq3-kOHzLS7UF1a2LOLzE4XfH7U99q2kUfy7L7htq3VhZytN47CAdADfleZp-v",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Stories- The Organic Farm Cafe ( a unit of Little Things Hospitality Pvt. Ltd.)",
+              "uri": "//maps.google.com/maps/contrib/106376081478833505158",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ3lGcm7uZFRTWUocguANxh4c0G0nFxViU9LdbXxGFO5WPoaQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJbUHynMGtkHV6c3YEkPC7etX9qUpDkJr-9XLdCn6WybXYpVCMWGyzT4T9FRc0vv2j9nU1HbJ6iEvAPwvB4KuqOHoAjJOYP-bnYJGNAcvX35sKTekWT7chD5WA7_iFdYYoxyb3OtybP0758vYKEibZ9Zc31rA7Eqf5ID",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Sanjay Luhadia",
+              "uri": "//maps.google.com/maps/contrib/104661964295584758795",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLUBb_tVybcycVYyd7ZndKXfGTkV9C1QqsIWJct-Cvdox7Log=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJbiRj3aMDDh7Y9aKmLBEnVrJdpNJh1xU9DeECD59Y6oV3LtE3Ji4eWCT-1DRwVXJDn3nHvL6y6tyqs0-077rx7BtPm6tpr-z1rkcJO11CavdYUqw3etkZ77aDuNy1sg3ayvHwwKbE7wBzX8IZf65JdCa5-M3fCHaFhq",
+          "widthPx": 9248,
+          "heightPx": 6936,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Vansh Goyal",
+              "uri": "//maps.google.com/maps/contrib/116731592461083480995",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBeYdZGPORfaTcOgWIJB2UWyvN4Xt82-NyLh-WeAKqNmejhoRd=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8YZtsPmlbTkRfjVkjjA46ZQ/photos/ATplDJZoxs7uz3czFEBlE0djYAKcl6bQpcH7ta402VBFsSVUDk1odH1j9JulQgo6AoqBEPJ2ufvSWDBGbIEjzpLGk-e6acI1xqoIt3tk8KEsG4yfny7AvuB7pjptfMVMUcvHOYp36Se4D1ay1pcbHd2Kzg6zu9F1MJ6j1vHH",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Chetan Choudhary",
+              "uri": "//maps.google.com/maps/contrib/105316848151390603760",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTaplQlRKLpXXDGauAyX99tMPTfD8AFaEAFKvWpyHroiuijCGKxw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "outdoorSeating": true,
+      "liveMusic": true,
+      "menuForChildren": true,
+      "servesCocktails": false,
+      "servesDessert": true,
+      "servesCoffee": true,
+      "goodForChildren": true,
+      "restroom": true,
+      "goodForGroups": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "parkingOptions": {
+        "freeParkingLot": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      }
+    },
+    {
+      "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE",
+      "id": "ChIJpQ6ObF6nbTkRFAO1YAkgefE",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "4XW6+MMF, Achrol, Rajasthan 303002, India",
+      "addressComponents": [
+        {
+          "longText": "4XW6+MMF",
+          "shortText": "4XW6+MMF",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Achrol",
+          "shortText": "Achrol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "303002",
+          "shortText": "303002",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 27.146693799999998,
+        "longitude": 75.961681599999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.1453294197085,
+          "longitude": 75.960207019708491
+        },
+        "high": {
+          "latitude": 27.148027380291502,
+          "longitude": 75.962904980291512
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=17399973859971891988",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "4XW6+MMF, \u003cspan class=\"locality\"\u003eAchrol\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e303002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 159,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Achrol",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "4XW6+MMF, Achrol",
+      "reviews": [
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0cFBhT3FnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "So amazing place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "So amazing place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhanu Pratap",
+            "uri": "https://www.google.com/maps/contrib/102559400878104513725/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJeRm0RKBgchA-SVbHyhyDFzMGxXXQfOJrqyK9My6W_LyvJeg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-02T15:25:57Z"
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5d09LTDZ3RRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice 🙂",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice 🙂",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prem creation",
+            "uri": "https://www.google.com/maps/contrib/102660795569973370582/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9Qwqxr-R0ptUsW4FEjAquD8rqmqra3oJXCt8VFFakQHSckJY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-12T03:26:30Z"
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/reviews/ChZDSUhNMG9nS0VJQ0FnSURGdVkyNUNnEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravindra singh achrol star",
+            "uri": "https://www.google.com/maps/contrib/115216367054844300504/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDBIDR5JuaFWFc4FKnVu_j9Am2CUeXhZLV7DagKmdj5ECx1kkq=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-08T14:12:54Z"
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/reviews/ChZDSUhNMG9nS0VJQ0FnSURKck9tZ1hREAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome place with lots of greens",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome place with lots of greens",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dharam Veer (Messi john)",
+            "uri": "https://www.google.com/maps/contrib/104792888801005731200/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZT7_Bsg3JyN1jZTT_j7vwEiOJdNcVNzIqoSN8aDhKt52-P5FF=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-07-12T11:29:27Z"
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/reviews/ChZDSUhNMG9nS0VJQ0FnSUREaTR2eEJ3EAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Deepak Yadav",
+            "uri": "https://www.google.com/maps/contrib/116176709425955305706/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0aDCt0Tk83MyGLtV3g9Xu1GSY6-hjNvXIC7jTviP84adwNw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-14T06:47:10Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJaGNWmAzfsrCfGe4yf6CB4X9sQck0v4wjtSlADq7mnf79LzdIijxQF1JO4L8f-JP3EfzZiozyet9QnvSohVd8gXEeA8luN414U6VTOCxSEE6ZmMn-WJtUUKWXNeUNUpuLvqjTh35VYAkyY1QSyCTG-xY5UorTx7LYcx",
+          "widthPx": 1440,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Nivedita Db",
+              "uri": "//maps.google.com/maps/contrib/100113447165099325195",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWygfMQbn8jgVMz2ARTAeS_CQgPQ7h5tvuVyYZ7J5CF5SDHDR4h=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJbNu2_d4EAjdDTGwa_nfGKTfzJAqbDYc7XYFHV6qmV6WHYqrnNnrUx2MkOMIHAhzmpc3GEh16kLjpllk1KOKtXhPSQXb4s0t-qtE0od6-s7IJB1NlWfI5WyfVP_l65km9fk-76Y1BBbxnppTd_1iIqqeUgQeKfoYrKu",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Pradeep Barolia",
+              "uri": "//maps.google.com/maps/contrib/107301003590430302894",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJF2KWWfyuwILPl97Mb6WdHaaIAjVhd9S7P-JoeG8PuOiNQiwE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJZZYgWRW_mt0IwLs8p3mIE766JL5kbMJ536JLPioq0ZLm8NAGF1mAQD3shTLTgrrr7w9ogQqmDE9xx06c-IKAnrjlsUwEYPsnS0gn1nGOAi9-GHSm_tiaVLWKGix7Nfhdd2Q7DI0cw7lzYSKn2bdsC6kIEsusXhJN6-",
+          "widthPx": 1200,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Pritam Jamalpuriya",
+              "uri": "//maps.google.com/maps/contrib/116246879392079315251",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLrRozF_Vd-alPwqyiAh-WC4OYkciEZTCGveJ_XQPTMBTSqI1K2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJYh4f7bdB781hXdtXuGsJuCwResqK6CVmuuqpQ5WDlK7M8HWzb-Ky7xXpOI1cUpJmy_afztaq3w3daxydR-anZq3VqxPwFXv7naaDFa8RKoUg3VtVD--5_nF9zrSLCvDYDoR9JVFaXviNfxM3L-QVFYRAhaBfOMzkrC",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Pradeep Barolia",
+              "uri": "//maps.google.com/maps/contrib/107301003590430302894",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJF2KWWfyuwILPl97Mb6WdHaaIAjVhd9S7P-JoeG8PuOiNQiwE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJaCmxwOST_xTN1xaQd05m_KeWGAGH5wZ6vQXuInrNenv6A2EPvo18W5KwzXeJlA0LItiD7hludJHtfPfsbNqSAk-FxQGNHtmm1olSziXql5Pq1zZErf4l3s-_Z1LWaT57iAZnacBsAynjMd4n0k0K4rHXpegqdeY4sN",
+          "widthPx": 2560,
+          "heightPx": 1440,
+          "authorAttributions": [
+            {
+              "displayName": "Ramawatar yadav (Ram Coach)",
+              "uri": "//maps.google.com/maps/contrib/116363370653058951532",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFMtuKFHw4_eJINCQ77akbuA5P9CEMNiguF1y2ZaHODS-BClea=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJaTZ7g2DSOD3t0eW2IHWu4iBTqoxt2qcGASHT2qr5rS9u5wGIgUABYUlXzJ_thjSrSGBKLoiAzsUaoaILzwpgKSCCDcW3HjdyKrMfgmjCzXZrp-ivocwWHmE1kbYwyA5_vpvbbASSwFG1hZtz0mIpb4_YR4-uXWY8UT",
+          "widthPx": 1440,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Nivedita Db",
+              "uri": "//maps.google.com/maps/contrib/100113447165099325195",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWygfMQbn8jgVMz2ARTAeS_CQgPQ7h5tvuVyYZ7J5CF5SDHDR4h=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJahR0XJLwtBimGUorShi2qVMVhin0cEyr5NDYBPEaOtj8LLLLA2fpxScJaybPvD20gv50TqEB5ZT1FAwEy4Y1c3wNwVd0VtLkq1KHAqwjidcCdmo6jWhlzIlvEHG8chkMKyc38ZvKYB0YrkaioBRlONlrE0h4JGL-9M",
+          "widthPx": 1440,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Nivedita Db",
+              "uri": "//maps.google.com/maps/contrib/100113447165099325195",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWygfMQbn8jgVMz2ARTAeS_CQgPQ7h5tvuVyYZ7J5CF5SDHDR4h=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJY7uEZ8I9uaChnB8TKRlewBoYdhZ1gHoVw285KajygJ0MehGL7oF9iY5Dr9f-63ZHCnSK0Re-DcuGp4TvEPJBgk1wvaWpKK9NvYKXr7ZpSQF1K8v2NBP8mpmb1AJCZep7fAhrJK6sA7Jd0_UWdWveq0rvvxPZYMuTpa",
+          "widthPx": 1200,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Pritam Jamalpuriya",
+              "uri": "//maps.google.com/maps/contrib/116246879392079315251",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLrRozF_Vd-alPwqyiAh-WC4OYkciEZTCGveJ_XQPTMBTSqI1K2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJat6s9OAXdiR9euCysbdBCfvBLEVGUbXIpcZX2wIJ2NDxJu7AbK0YtfXpZqGIlA-AMzYJlLdqIkE5hhGe6_nrAm_Lm8-xlc52CixegNjgf5ZS4vQ0Ou1BiMLpWMK7ezh3N2VSssXL6CO8wak0BMq6tVhnOdMeBHqIfC",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Hamant Yadav",
+              "uri": "//maps.google.com/maps/contrib/105237398874517589534",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKbTudlWzP9N1MBIIl8GYJ4ClwVM6nXUGuHeawbBaV499G0WsM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJpQ6ObF6nbTkRFAO1YAkgefE/photos/ATplDJZZVs5oycmgFfv_hSCs2t4zbP6Z7FhukhxP8UCjtAHZn6PwHYylyeP6LphxztVlVmPbPEcBcbBQ4otH2Xxke6u7VvkbO-xEx3TNoiVafCaTs1OshsH1XZCNhs45VJMQFdXI2jBF6j88yw5uJc8VCbfBNdoEBr-QUyrn",
+          "widthPx": 1440,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Nivedita Db",
+              "uri": "//maps.google.com/maps/contrib/100113447165099325195",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWygfMQbn8jgVMz2ARTAeS_CQgPQ7h5tvuVyYZ7J5CF5SDHDR4h=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJCZCPx6embTkREjolbsQw-bU",
+      "id": "ChIJCZCPx6embTkREjolbsQw-bU",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "096253 78599",
+      "internationalPhoneNumber": "+91 96253 78599",
+      "formattedAddress": "Village Achrol, Thasil:, Amer, Achrol, Rajasthan 303002, India",
+      "addressComponents": [
+        {
+          "longText": "Thasil:",
+          "shortText": "Thasil:",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Amer",
+          "shortText": "Amer",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Achrol",
+          "shortText": "Achrol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "303002",
+          "shortText": "303002",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ4XFH+HV",
+        "compoundCode": "4XFH+HV Achrol, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.1239302,
+        "longitude": 75.9797339
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.122604319708497,
+          "longitude": 75.978394569708485
+        },
+        "high": {
+          "latitude": 27.125302280291503,
+          "longitude": 75.9810925302915
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=13112565410285566482",
+      "websiteUri": "http://www.achrolbagh.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Village Achrol, \u003cspan class=\"street-address\"\u003eThasil:\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAmer\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAchrol\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e303002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 517,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Achrol Bagh",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 21
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Village Achrol, Thasil:, Amer, Achrol",
+      "reviews": [
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEMjYzNnpRRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 1,
+          "text": {
+            "text": "Good setting, far from Jaipur, the location is quite quiet, but we hear a lot of music nearby two nights out of two we slept there. Quite beautiful places, Bedding quite good, many lamps and sockets do not work, the fabric roofs are interesting, but there is no sound insulation : you enter next door as if you were in the same room. mediocre food, very bad service. I even had to be the one to ask to open the swimming pool, which is normally open from 7 a.m. to 7 p.m.\nCame in a group, the evening entertainment was ridiculous, we didn't come all the way to India to have cheesy parties with French music. And the worst point : the baggage handlers do not hesitate to enter your room, being aware of your presence, whether you are ready and available or not, to take your luggage 25 minutes before the scheduled time because they are in a hurry. The same goes for the keys : I was jumped on as soon as I went out to take them back when I was going to come back a few minutes later.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good setting, far from Jaipur, the location is quite quiet, but we hear a lot of music nearby two nights out of two we slept there. Quite beautiful places, Bedding quite good, many lamps and sockets do not work, the fabric roofs are interesting, but there is no sound insulation : you enter next door as if you were in the same room. mediocre food, very bad service. I even had to be the one to ask to open the swimming pool, which is normally open from 7 a.m. to 7 p.m.\nCame in a group, the evening entertainment was ridiculous, we didn't come all the way to India to have cheesy parties with French music. And the worst point : the baggage handlers do not hesitate to enter your room, being aware of your presence, whether you are ready and available or not, to take your luggage 25 minutes before the scheduled time because they are in a hurry. The same goes for the keys : I was jumped on as soon as I went out to take them back when I was going to come back a few minutes later.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Guy",
+            "uri": "https://www.google.com/maps/contrib/100502902913627555072/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILSiGXRzDOByf3EqvwUpdZ5_0ALZRCCSMC3ZMqH2LVOwi39w=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-02T01:57:25Z"
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5dnRmM0p3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "Winter events are enjoyable here, but in summer, the jungle setting can be exhausting, with abundant greenery but minimal shade. Accessing the rooms involved navigating lengthy pathways, yet e-cabs were readily available for convenient drop-off and pick-up.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Winter events are enjoyable here, but in summer, the jungle setting can be exhausting, with abundant greenery but minimal shade. Accessing the rooms involved navigating lengthy pathways, yet e-cabs were readily available for convenient drop-off and pick-up.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "shreni shah",
+            "uri": "https://www.google.com/maps/contrib/109779731179718188684/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUidTSFUEX-kZ3RT9OeWYzHGgZmCXXk_3Z31j7wKaPLS5z3OA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-17T08:53:38Z"
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxMFBEOVB3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "We stayed at this resort for 2 days to attend a family event. This is a beautiful resort. The staff is top notch. The cottages are well maintained. They have few vehicles to take you around the resort. We would highly recommend this place for destination events.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We stayed at this resort for 2 days to attend a family event. This is a beautiful resort. The staff is top notch. The cottages are well maintained. They have few vehicles to take you around the resort. We would highly recommend this place for destination events.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "S Kan",
+            "uri": "https://www.google.com/maps/contrib/105027364853212037076/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvchtBZWlE67Y-rttNkRGtUkE97XNuJdmWyvxgoslIF0af0lF5Mg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-04T20:15:35Z"
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxNV8zUVBnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place to spend weekend with family and friend. We went for new year  celebration and everyone loved it. Great arrangements by Reasort management & staff.. Great food too.... Keep it up.\nJust a suggestion Rugs in room need to be cleaned.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place to spend weekend with family and friend. We went for new year  celebration and everyone loved it. Great arrangements by Reasort management & staff.. Great food too.... Keep it up.\nJust a suggestion Rugs in room need to be cleaned.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ajay Kaul",
+            "uri": "https://www.google.com/maps/contrib/118231736815068555861/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7ITKWPuZiu2_Eqgxbn6PjPpF6KVih3gs31OHsIgz2Y7wqS07k=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-11T19:16:07Z"
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/reviews/ChdDSUhNMG9nS0VJQ0FnSURkaEwzeGtnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Had a destination wedding of my close family. Thoroughly enjoyed the couple of days we stayed in Achrol Bagh resort. Room cleanliness and service have a good scope for improvement.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had a destination wedding of my close family. Thoroughly enjoyed the couple of days we stayed in Achrol Bagh resort. Room cleanliness and service have a good scope for improvement.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jagannath B",
+            "uri": "https://www.google.com/maps/contrib/107845315439330127360/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7riI6et-ripfnpLJLdoGA8M1WwL3-MpNNoc_09qSqEHZm8BY=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-21T00:37:36Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJZjw3EneMeew63uNh8lCIKpDuPiD0awQ9c5Gw70UuW8-kFaTXNPBqCoZfaYQWqjvFPbIFVONA7hv_lmykOxq42wFs8KotfbO1hkqzMb14L0SgkrFiV7pdBZrSyLizaKzIACJ4MP7VnSB0l-JEdXn5VqOH3hRdIt4L6M",
+          "widthPx": 1833,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJZjWt9uCyK3kka0j38RM6ruIT2eMEsigjU0aeVdZmoYzsBf1BxlOL3XQYCDwlOmVgS73gUXskMmVU42a2cn25eiDfzSmLAljzOZWZQ8Ab4sbElpkPhSC49CD72S4wpK_CnFNdvSo3D2B6GkgmtOtmfPBIK__DCiJdra",
+          "widthPx": 5184,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJbGR9bPM942clj6-OewKKi1duM6199zUepzWZaUl5IE_G6iEksUAr7h62ANRyOHbkgROX9iP12GRm09M2jK5kskklCl-cHF2vjbJyKXL0DMnvQCoKLcfw0d7cllPfz6iv_io0A1bbJrsDgl6MRp8jgkD8ycA8s2C3On",
+          "widthPx": 3984,
+          "heightPx": 2984,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJb3gTXkA9W9O9Yf6lMZU5QpktcqG6oVdYyDJXNW8xEsiZa9dDTdJyCFov3qqGpxJAbIal2G6yP8CO0U-xRUgrLq2xqnBFaD4_QACg50XZ8hkgZMsi30XATJbzPnoIW1bdoWiTeNpjypdVbuHmyoyL8b5fRbAtcDhRD4",
+          "widthPx": 2048,
+          "heightPx": 1360,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJYkyxBNkeaCD5_HELaJDm5DWwf5jvudysgUc1HVl01os6J3eWIhRbyuJTPEEwF561bA3ILx5Nbcj04pebdW49PGkawvEtiEsdJKYGXXIqwN_XnomNCEBpTZH3o5-9O_1KUI9GiWuqJrKzjbFddInknxmaEsdpwpK4SZ",
+          "widthPx": 1040,
+          "heightPx": 780,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJa1xECwSVkFg7-q2sX3EPnBtsRGR7NKjVNbcFVWVyP8V8iu2Nwy4Pts2SuiGCVZbFVoI59OefFLXa4PMlWN7oJKvzlAXrxlHO8rQrvFz2F8EB9kvwhI_fwY2Mdgc551qX77bWlQWekfQhlmoyEZS7ESbonJpZ-y6khD",
+          "widthPx": 2984,
+          "heightPx": 3984,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJaqD-OH-TaIXWbntX77QKtkLw-Ms38Ft39TBlYzvcaByNpIzTLR5ye1SIT49WdkwNPzmWtVifYdAtqsb0wevMFbtWwIcj-tko-2jMma6sf5Q9P6nLRXTlo6KIM-l-pHdZY4PGiF5ofWQg6LhQ-wzXfD9eTATzY-XZ5R",
+          "widthPx": 1024,
+          "heightPx": 683,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJZacZELpbS69PtPgw3E2U2eTCZM0MHDl5pkWSyCMe7iYR20CcZzBMqx0j_PNCoa9W_Swv0K2PBzk3H9TMv_0VrJ290FKgZNqlhSKlfQz93oKtqwsztHoIiWu4ar7mL9KSJ8WhDvOotgR_qjQKtnlO_LJnEPS6cr7K-F",
+          "widthPx": 2688,
+          "heightPx": 1520,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJbhCBl2vpD50ljrB3zgwyH7kMtqhxXdxWbvVuwFSTkMdjXPyh-zr6VZnwTKyMKCsNtbuegVSEdxE9JBrbcrlYA1iOwhNHA7N1Vr4womC4tfdmOMeNOKrClU08Yo_IP2jlKWPj72bjdTo6ZNFdu5PtK91RjkKHe3XQVZ",
+          "widthPx": 1040,
+          "heightPx": 780,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJCZCPx6embTkREjolbsQw-bU/photos/ATplDJZuWrcZ1RuRJDm6Mi-OtqyOZGMxFfnwRLfStfAaGU32RFFLd4vQLnhFTwt3ALb7yfHMCT0dCPozCZ3ELDIxWcL_jXfcxXd8031nkyYD2Z6YafQYbgdk9TxxbYQ_FT31GUbpp8SpKuupla59FlqIBKa_Dtj_eMT1ZS2_",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Achrol Bagh",
+              "uri": "//maps.google.com/maps/contrib/116326931046317896884",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU4k8olsUZ910axhEA0aQAXWBbbI9-ZOqRkVqHqduvhUdUO_gfG=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU",
+      "id": "ChIJe-LstKunbTkRL_wY3iY3hvU",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "093554 45757",
+      "internationalPhoneNumber": "+91 93554 45757",
+      "formattedAddress": "Delhi Highway, Mod, near Tala, Achrol, Chak Charanwas, Rajasthan 303002, India",
+      "addressComponents": [
+        {
+          "longText": "Tala",
+          "shortText": "Tala",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mod",
+          "shortText": "Mod",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Achrol",
+          "shortText": "Achrol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "303002",
+          "shortText": "303002",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ5X96+5G",
+        "compoundCode": "5X96+5G Achrol, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.167959699999997,
+        "longitude": 75.9612839
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.166662969708497,
+          "longitude": 75.95991501970849
+        },
+        "high": {
+          "latitude": 27.1693609302915,
+          "longitude": 75.9626129802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=17691888826246036527",
+      "websiteUri": "https://azizaa.in/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Delhi Highway, \u003cspan class=\"street-address\"\u003eMod\u003c/span\u003e, near Tala, \u003cspan class=\"locality\"\u003eAchrol, Chak Charanwas\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e303002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 38,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Azizaa Resorts and Hotels Jaipur",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Delhi Highway, Mod, Tala, Achrol",
+      "reviews": [
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWaGNPTzRRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Azizaa Hotel The hotel is a perfect place for destination wedding.It is a beautiful built property in Rooms are cozy and spacious with all amenities.Warm welcome with smile .Front desk staff was courteous.Food taste is amazing. Definitely will recommend to our family and friends.Special thanks to General Manger Virendra Shekhawat",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Azizaa Hotel The hotel is a perfect place for destination wedding.It is a beautiful built property in Rooms are cozy and spacious with all amenities.Warm welcome with smile .Front desk staff was courteous.Food taste is amazing. Definitely will recommend to our family and friends.Special thanks to General Manger Virendra Shekhawat",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pardeep Singh",
+            "uri": "https://www.google.com/maps/contrib/109773312845638516860/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkFiliUzD55ft9Vm7vjiapZLR5s4zG5-QJtzTCgMfAXqcIJUJTxA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-08T10:33:48Z"
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqOEt5czRRRRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 4,
+          "text": {
+            "text": "Honestly the service is really good, the rooms are good too for the cost but the distance from the city is something i didnt expect.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Honestly the service is really good, the rooms are good too for the cost but the distance from the city is something i didnt expect.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nivedith G (MacroTraveller)",
+            "uri": "https://www.google.com/maps/contrib/115051823873496347411/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWr_k1M1NiII1pKiu1ZMxKIRojNgkE5NKWzHuhLrEA3IR1DzwjhTw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-17T03:35:06Z"
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxcUtUelJBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Azizaa Resort was Beautiful and Decor was modern and Stylish\nStaff was friendly and helpful\nRooms were spacious and well maintained\nLocation was perfect\nFood and services were excellent\nOne should visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Azizaa Resort was Beautiful and Decor was modern and Stylish\nStaff was friendly and helpful\nRooms were spacious and well maintained\nLocation was perfect\nFood and services were excellent\nOne should visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "NISHA GUPTA",
+            "uri": "https://www.google.com/maps/contrib/101264535358898594594/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKouCwQouWzi2eB1YaCVRfzxqzcFrgVmoD31WkHtlg0ZdGBxOA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-21T16:34:23Z"
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/reviews/ChdDSUhNMG9nS0VJQ0FnSUROMS1tNmh3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good service tasty food 😋. helping & gentle staff with quick service…i have lot of enjoyed there.. beautiful property",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good service tasty food 😋. helping & gentle staff with quick service…i have lot of enjoyed there.. beautiful property",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sourabh Shandilya",
+            "uri": "https://www.google.com/maps/contrib/112287646588871038761/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrg5AvSDoMAnmpWETJgXqbQhV5PLDCGwAbpAU_1NVoZBMV3E-eaw=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-01-27T01:29:50Z"
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWbC1UY0xREAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I stay with azizaa resort in wedding function\nRoom is comfortable\nFood was very good\nService was very good\nAll staff help full\nNice resort\nThanks",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I stay with azizaa resort in wedding function\nRoom is comfortable\nFood was very good\nService was very good\nAll staff help full\nNice resort\nThanks",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajendra Rathore",
+            "uri": "https://www.google.com/maps/contrib/109316998465154781143/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKeeuLni1d5CLDgxOUA6hCAtcjuVdJvCIEbdt_-DGwAUy6k6w=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-09T17:31:24Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJbL15qOrhesAw912ih3FqJUhaMgFpmk3FWQVnzpqdffW4WtELpUuzFryk2jss83a8VWuld24V15WEc_ElHaRcTKG19FacAmDxqkDBdb_0jVh7_egh2Sp5t_EQZt1y98sqwFFJ8rAFTwKa_jgc5tdMj4nvvNbDEwEtAR",
+          "widthPx": 1600,
+          "heightPx": 1203,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJbHTk8rFvZ3WR8WlkwPywKn8E8fLIJBqbKUqpFrFjlZdnFrKmYsSaHLf9ypJI2yiebk7nWpl5Pii6kszNYXHjDtrQjWI6CbtizcgeM0FZ4tYheetlO5jdyeX-GfUaplwXs617R6eSjbVgQugmzWK2XDj4L6bJhB5ah1",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJadBeE1dYnL1S9w4Y61_2jxYOMhKbCIukMq0iXLZdg97GFHLZmuG_s5C7hCGgYxmYcRJWJ3E2ROt-q8mV1l_KvoI3CS5q532ND8BWbhUd6TQsOryNFt7fl9niCZ1t_sbLj_kmA41dHMdyXLZUHa5uouoEAWkiVXaO4u",
+          "widthPx": 1066,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJZim6oLB8AwjIMrrQoKTRCkpiXG_J9zy6WG7X-oM-lMMBF1e2Mq7wMXzRNn-HxXxB24IkL6PWwozfaG3qoIdz7T8u38O2aKRdSYwPDYtZeScMQ8xQFMV9Vv15eE1MmiKWEFeQFF543rpI2Fu8MIyeIF0JKqM6eKgoo5",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJZAq44yxlFI1pBQhQbgvjkzEuQFhPcj9cZM3Qr6Rfr4shpWCJpnJER1VDhTcq2xdc4JNrPCwaCOoZnV9jb_Pfsk8ejNJHbhgU9cUCPoBhA9k-RTIZRzCRJ88pMg7QKvVivyVJTbzLmssXufOlKoT9Py1n6qy_nrVnzK",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJaazigD6G2EV0youIr8wP889DOqfrwlwBodkXwBQTZPAhIxY7FfMEzifaXdn6IsbJKT_Z9kFJ3eSqUIhdkjY_pDC8-lre7G57vRCc1hbmoJpI-xhxQJaT5Tev0T2_OQos8R5MpOl-1ZKGW5-7ulJ-vu4xkTSrynKSDc",
+          "widthPx": 1600,
+          "heightPx": 1203,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJbgWMlYrCi2cY2L8PDtdwxn_oRnLuH2nPqStBSOmJpR2tnPbxCFNzSWnZK0RppjbJ3UkIjWN3MPVp6NTpPq_XHQbldy5ROrsTNUmSsE5Zp5bDiioSXU5cd_44wLoplI3y-wLVH542FDsSJ-7qHX6w7MI7JzdcOij2YM",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJa84ysYS48BoFSHAnLkjS2EI2CQuaGAwO7I7KkEF87mCz0Pl_4KwV4dxgTnv1xnFl4w5u-DJRnKDUABn3fbcZDsSXxZHIXlCr9r4utPyR-byIhQ7Cq8zORkhq7ljzJUmSSRXE-_yYeJb3AoN8UOUF_15fl0b9JlsCec",
+          "widthPx": 1280,
+          "heightPx": 573,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJaPD_lXF59HaE3u7jat-RhCEyvcpro024aLnPorHHthgamENeJj3UZGRUOrjX52z5UJ3SKdZDQdUyIQYgrV_mRvnRg5IKjBGnNuvwj9JR2kZ5t-rTi_NU5rU4VZH_87dOk3LUQnjHN69rbdLTK83htCeNM7ldQc4pF1",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJe-LstKunbTkRL_wY3iY3hvU/photos/ATplDJZwZpHDkvUwObd_AOFWhYH0SKJEwonLElIYqU4qiHfJjglZEjZUq3b11ospZA4KC1VOeSnwhuhI9EjPtGVb4j81d9QzkEtCBp1FRVgtlfrONLe66HKX8oDiHs9uumC17m5EUFR_Cf45GOaJJu1d7m6g49tyox0Rsi4r",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Azizaa Resorts and Hotels Jaipur",
+              "uri": "//maps.google.com/maps/contrib/117561927713417715254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8QOUri339JnYkOKroUc9CNqL-BUHgK-w5ZvYbZTI0amury9g=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI",
+      "id": "ChIJOY6w4V20bTkRgMOGJN50bAI",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "090017 70333",
+      "internationalPhoneNumber": "+91 90017 70333",
+      "formattedAddress": "N.H.11-C (Jaipur - Delhi Highway), Near Tala Mod, Achrol, JAIPUR, Chak Charanwas, Rajasthan 303002, India",
+      "addressComponents": [
+        {
+          "longText": "JAIPUR",
+          "shortText": "JAIPUR",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "303002",
+          "shortText": "303002",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ5X96+5G",
+        "compoundCode": "5X96+5G Chak Charanwas, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.167961,
+        "longitude": 75.961283
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.166663419708495,
+          "longitude": 75.959913869708487
+        },
+        "high": {
+          "latitude": 27.1693613802915,
+          "longitude": 75.9626118302915
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=174642983004980096",
+      "websiteUri": "http://www.shubhamresort.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "N.H.11-C (Jaipur - Delhi Highway), Near Tala Mod, Achrol, \u003cspan class=\"locality\"\u003eJAIPUR, Chak Charanwas\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e303002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1272,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "SHUBHAM RESORT",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "N.H.11-C (Jaipur - Delhi Highway), Near Tala Mod, Achrol, JAIPUR",
+      "reviews": [
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5M2UtRWtnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice property. Amazing food.\nSupportive host\nMust visit on your trip to Jaipur to Delhi route.\nOwner supported in each way possible",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice property. Amazing food.\nSupportive host\nMust visit on your trip to Jaipur to Delhi route.\nOwner supported in each way possible",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shivam Mishra",
+            "uri": "https://www.google.com/maps/contrib/118245378380982350948/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWowBm6nZaUVBtcZAuV9TIodEFU14lLnjFDeajgT00uVnDE18g=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-20T06:25:27Z"
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5ajRLZmJREAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice experience over there ♥️i was totally gloomed in the nature of that resort not resort but a beutiful palace 😘",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice experience over there ♥️i was totally gloomed in the nature of that resort not resort but a beutiful palace 😘",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arshin Shk",
+            "uri": "https://www.google.com/maps/contrib/108450714182355043513/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJDFx6zVDF1MxXmj4Zb3e5sf6xTYhlxGWIzaRsGqhdIZmA24g=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-22T10:50:03Z"
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5cS1Hd3VnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "This property is excellent.\nAnyone Enjoy there . Service is very fast",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This property is excellent.\nAnyone Enjoy there . Service is very fast",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mahendra Jain",
+            "uri": "https://www.google.com/maps/contrib/113576626388145209293/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIuEMWqMzyHDqPvWhSZVUw1zJ1e6zQ5iPSR1NUuVc5diYm-AQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-21T06:37:40Z"
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEb04tWUlREAE",
+          "relativePublishTimeDescription": "4 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "I love this place and wonderful view most beautiful services ❤️ I'm happy",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I love this place and wonderful view most beautiful services ❤️ I'm happy",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pawan Krish",
+            "uri": "https://www.google.com/maps/contrib/117871763372174889931/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdVyBfA7djBce8kRPbldM88izTLV6hM22iSGYS2KoWkxzsHDm_=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-23T08:30:39Z"
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEb0plekx3EAE",
+          "relativePublishTimeDescription": "4 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "It's a great resort to visit with a family and friends good to have there",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a great resort to visit with a family and friends good to have there",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "samina baig",
+            "uri": "https://www.google.com/maps/contrib/101576954174384342207/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyOcmOgT9mumxGyZMMEkb86hIivFlV4akWlzGlH_VHSQL7JpG3hA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-23T08:22:23Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJZVyZrRRVF99X83YVMKgEuX2e5sBh97Wi93zJ5snQqoPdQeSava91hKiARCZlTLjwMbdg1Ms2YtGj3y4VaSFqTgA_2UFCBzqJ_bIIXp1kWhXaicS_ZD5Ggzd3mekTXHbNXPAe-GwWsNA1y-9yZOdsLMAWSoaBT6GJRI",
+          "widthPx": 2048,
+          "heightPx": 1359,
+          "authorAttributions": [
+            {
+              "displayName": "SHUBHAM RESORT",
+              "uri": "//maps.google.com/maps/contrib/116987715484565950285",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWGGyMhE9dH9S7AVVDru2mZsYO7Fna46-Oe35NiTx8S8DDf-bk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJbdxSmKGYujGSyKdoY7BIxp5Yk7Nv7-LOsTw604Qf9S8KdbeBxecbMSSV9QW9DLUtLaCrhtehoQ276r9k3teTmSpNxwShHiEG49uNQxBsvaS4DQt0YDqRW-ehDxf8pQ7i3sVL4fOaW6SAhZKfJhgNtevYChhbX8EB8I",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Ravindra singh",
+              "uri": "//maps.google.com/maps/contrib/101419625140162257550",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVAVt-626fgcn09CvHhSxvrJ5xy5nxhy1jIF_DNdZ-aVZVrinHh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJZ3YTqAjLGSAUyjeafN01CRa-YPSS2QAOsHiY6aULUJ-BBaQcbO6XHbky4ep-ZLs0PBPxpMPjM_3ivW8DSwB3OP3UZ0GPcJsNDOYx8_s8-n3WEDhRUcUOroQ_xIMq5g0gr6FUm0Yoxmuk-GJ85iKzGbSaCpt2FXZvXj",
+          "widthPx": 719,
+          "heightPx": 1030,
+          "authorAttributions": [
+            {
+              "displayName": "Nitesh Gurjar",
+              "uri": "//maps.google.com/maps/contrib/115221972789034301189",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUhxL6YRswgd4tOkndNyGN-xrAdIZjEQzTiM5RCFdXVtruR7opN=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJb-wq9nYMlHD44cwyUzsjAkpHq1lpw14hQecSJCol2iRNQPTfhnZW83sX-G1HhdyA0M_THjrOm88vIb-t9tmPvvzGre0BtFrwTCUe6nH1Aa81dSpkJ5hIC8ap26YBVlZNPx0C8VpnOXBQbbat0QAfQus7bsf51nxK5o",
+          "widthPx": 5616,
+          "heightPx": 3728,
+          "authorAttributions": [
+            {
+              "displayName": "SHUBHAM RESORT",
+              "uri": "//maps.google.com/maps/contrib/116987715484565950285",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWGGyMhE9dH9S7AVVDru2mZsYO7Fna46-Oe35NiTx8S8DDf-bk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJZPzBv73t_CvFhzlCIdKiqlJ7YZydwwp7kulK6JMY8QH8Zy61UARapnk22Kvaaf-FwcbR-BUMqyRaEGYIZySXGSKjk3KJV9W-APNr87e8y9Hu6vN6LSwUsgkiTRZHQtjMo7pmENODLaghi5oI2OOpV-RtToFhII113L",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Prakash Chandra",
+              "uri": "//maps.google.com/maps/contrib/101261902604446534163",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVAvv47DESSkgIzAkcRWTuUnST3CpooxQClOQH2io3CIgkJE1_nQA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJaMYlPy_aMd27ITWOd-lwbeHMcvv-8qzp8xp5SO2ZOQvRK3BRG3JhPtV6cidpHbQpoOFBiXKbDBQS2NXGVxLU-h7l72sQrM6MeZZp_3rHJUueL7tHog0a3lWSiKOnoGITuJ_plYN4BOqlvfTIm4zaBLNGkSbE89JPm6",
+          "widthPx": 955,
+          "heightPx": 1614,
+          "authorAttributions": [
+            {
+              "displayName": "SHUBHAM RESORT",
+              "uri": "//maps.google.com/maps/contrib/116987715484565950285",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWGGyMhE9dH9S7AVVDru2mZsYO7Fna46-Oe35NiTx8S8DDf-bk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJYlUfG5LJyGzclKD4Z8U92iT9schN2P1y8RffvH-QgVbwzGCbh7JrQ4-Fc6XOv6UfCxQw0uMxRLH8fHV5H8k75i9p-x0u3i6CUXi6_Y3Hb_clrKbget2DIUnfEEA2H-NZPIhUhwBs_Qf96LTdY9o47hAHxh14sGNPQK",
+          "widthPx": 960,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "SHUBHAM RESORT",
+              "uri": "//maps.google.com/maps/contrib/116987715484565950285",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWGGyMhE9dH9S7AVVDru2mZsYO7Fna46-Oe35NiTx8S8DDf-bk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJbwoPowLBW_Ud0VxbTY5HIS6r-smTSXlsZuK_XBJADKFZUtuAA08glKA7S8vJEBbHaqHfwekDu40QZg2uK8-0FtE0JPzIbRTdp5esnanf6MxjTHupWVRgFR2izzvePVMexdN8iVay8rXAZrzYm4NhsSngB106A7OKS2",
+          "widthPx": 719,
+          "heightPx": 520,
+          "authorAttributions": [
+            {
+              "displayName": "Nitesh Gurjar",
+              "uri": "//maps.google.com/maps/contrib/115221972789034301189",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUhxL6YRswgd4tOkndNyGN-xrAdIZjEQzTiM5RCFdXVtruR7opN=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJbj5Umgz6uwBemxVtCBjur1DmI9qQ5s6GIxu2SDOmxjrZDC6DE7jyYCnA4jRFAtse0EocohS-mL0PcdN_aohLVHei5P_S-MxC1F9l0nFtiFlJ_mXoLfbHo7X_1tBl8ls2sciXo6XppXGQ-DgbXG6giLRuZqXQTDgxRN",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Bhargav",
+              "uri": "//maps.google.com/maps/contrib/117750140703470157552",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK2aEi9pq5ebneZUcujFLGSEF7rocRC1LuWU2FCZ_L69i7kMOQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJOY6w4V20bTkRgMOGJN50bAI/photos/ATplDJYxYEa414dxn_lzhEqnmfFyit6NVF0Bv4vl-GbBW0JRgMYYUccLIWpuGVHxfw4FsVhrQhq69xAk_-BD9jUcKCHJFOTxWwT6SaXsCXXzCsnX62ihaPPgyQ_cwwNuW5Kmsa0gDtEwM_8lbnv_VPgfkArnyjLPRAc64hG7",
+          "widthPx": 1040,
+          "heightPx": 780,
+          "authorAttributions": [
+            {
+              "displayName": "Mahendra Prajapat",
+              "uri": "//maps.google.com/maps/contrib/108265072652950840503",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWrbMoQ9MPAiC2805nzERSW6KDVLeU5lPXnAvXEjiy3QhJ0sr1WyA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJecDbgEylbTkR3o5BKd-knFQ",
+      "id": "ChIJecDbgEylbTkR3o5BKd-knFQ",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Near, Gunawata, Seengwana, Rajasthan 302028, India",
+      "addressComponents": [
+        {
+          "longText": "Gunawata",
+          "shortText": "Gunawata",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "302028",
+          "shortText": "302028",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ3WWP+43",
+        "compoundCode": "3WWP+43 Gunawata, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.0952554,
+        "longitude": 75.9351597
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.093792069708496,
+          "longitude": 75.933757169708485
+        },
+        "high": {
+          "latitude": 27.0964900302915,
+          "longitude": 75.936455130291492
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6096929273929633502",
+      "websiteUri": "https://www.fineacers.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Near, \u003cspan class=\"locality\"\u003eGunawata, Seengwana\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e302028\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Fine Acers Jaipur Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Near, Gunawata",
+      "reviews": [
+        {
+          "name": "places/ChIJecDbgEylbTkR3o5BKd-knFQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURWZ1BUdnd3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Outstanding Location",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Outstanding Location",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ankit Yadav",
+            "uri": "https://www.google.com/maps/contrib/109747577753881994315/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvMC7RWt_3YiDUVLQ-elXqhtqf6jPtT8pj9x3ER3RamZvsubvG=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-10T06:21:22Z"
+        },
+        {
+          "name": "places/ChIJecDbgEylbTkR3o5BKd-knFQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWXzh6YVFBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhawani Joshi",
+            "uri": "https://www.google.com/maps/contrib/109491326770457327947/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQGBgZcu2OkZhGIhmBT0LlDXKQn1-Pxzh68u6M4fOEnYfaAQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-10T05:06:07Z"
+        },
+        {
+          "name": "places/ChIJecDbgEylbTkR3o5BKd-knFQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNONUtQcHlnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Shubhamm Saahu",
+            "uri": "https://www.google.com/maps/contrib/109091368589589504514/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3GHgr_DZXA7QtCC-XOE73Gffg6t5ez9gcnk4XsbdeO2NZqw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-12T08:13:45Z"
+        },
+        {
+          "name": "places/ChIJecDbgEylbTkR3o5BKd-knFQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWXzlHcWh3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Sagar Bhargava",
+            "uri": "https://www.google.com/maps/contrib/107503851248290421271/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUukUia_AVhN5fcQTT-t5nr-r9g9V4kGY0aRPBmJNWPm1e71cdf6Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-10T05:30:41Z"
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ",
+      "id": "ChIJywJmFB2nbTkRibwZ2jCg4VQ",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0124 620 1526",
+      "internationalPhoneNumber": "+91 124 620 1526",
+      "formattedAddress": "National Highway 11C, Kalwad Kalan and Khurd, Rajasthan 303002, India",
+      "addressComponents": [
+        {
+          "longText": "National Highway 11C",
+          "shortText": "National Highway 11C",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalwad Kalan and Khurd",
+          "shortText": "Kalwad Kalan and Khurd",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "303002",
+          "shortText": "303002",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ5X95+2V",
+        "compoundCode": "5X95+2V Kalwad Kalan and Khurd, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.167589999999997,
+        "longitude": 75.959679
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.1662425197085,
+          "longitude": 75.958623169708488
+        },
+        "high": {
+          "latitude": 27.168940480291504,
+          "longitude": 75.9613211302915
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=6116345900623838345",
+      "websiteUri": "https://www.oyorooms.com/hotels-in-Jaipur/?utm_source=Google_gmb_so&utm_medium=Organic&utm_campaign=JAI945",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eNational Highway 11C\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalwad Kalan and Khurd\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e303002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 181,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "SPOT ON 62478 New Jammu And Punjab Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "National Highway 11C, Kalwad Kalan and Khurd",
+      "reviews": [
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5cExpRmV3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "For a budget friendly this place serves good tasted food and love their Chai. But what's best part about this place is their Adorable Labrador😍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "For a budget friendly this place serves good tasted food and love their Chai. But what's best part about this place is their Adorable Labrador😍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Akarshan Gupta",
+            "uri": "https://www.google.com/maps/contrib/114117370447428026293/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWihkmUxRUPIe3ja5OSacSGAMthPd1-NxowcCJgn7zrgUnKxM=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-02T08:52:00Z"
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURKdXBIZzVBRRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 3,
+          "text": {
+            "text": "✨ The food is of average quality.\n✨ Service provided by staffs was good.\n✨ Apart from food alcoholic beverages and soft drinks are also available.\n✨ The atmosphere is just like a highway dhaba.\n✨ We went for the food so cannot comment on the stay.\n✨ Situated near Amity University Rajasthan.\n✨ Ordered roti ( plain and butter), jeera rice,dal, paneer bhurji, Sev bhajji, masala papad.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "✨ The food is of average quality.\n✨ Service provided by staffs was good.\n✨ Apart from food alcoholic beverages and soft drinks are also available.\n✨ The atmosphere is just like a highway dhaba.\n✨ We went for the food so cannot comment on the stay.\n✨ Situated near Amity University Rajasthan.\n✨ Ordered roti ( plain and butter), jeera rice,dal, paneer bhurji, Sev bhajji, masala papad.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anuska Mahalik",
+            "uri": "https://www.google.com/maps/contrib/111063801854704679950/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIdaxAerh0rwOb-nE5yzB_HOqkvKCT37y04xA8Rxnbd6fo8ece4g=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2023-07-15T12:44:28Z"
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOMzZxbnV3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Highway top class hotel hai all staff is friendly",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Highway top class hotel hai all staff is friendly",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ramesh chand gurjar",
+            "uri": "https://www.google.com/maps/contrib/107877254864318176151/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-97jfIukS5A8F9V5kjfHxLGtBl6NORDrBIz4spkUXDi_8pA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-19T10:08:27Z"
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5djRmQlNnEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "It's wonderful in a way that they can arrange for booze at anytime of day..if you are ready to spend extra bucks. Sanitation and hygiene is certainly average but food tastes ok. Availability of booze, veg and non veg food at late hours of night makes it a popular spot among students. Number of students is high due to so many universities in vicinity.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's wonderful in a way that they can arrange for booze at anytime of day..if you are ready to spend extra bucks. Sanitation and hygiene is certainly average but food tastes ok. Availability of booze, veg and non veg food at late hours of night makes it a popular spot among students. Number of students is high due to so many universities in vicinity.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Khushwant Singh Rathore",
+            "uri": "https://www.google.com/maps/contrib/110176787580324655882/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXS6GQR5fSlXgZ5MjL5R2Qd3x7zLDh0Bxmk8WiZ6kDROTvnyQ9V=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-02-19T08:32:25Z"
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtdTRuUDdnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Great food.. Free parking & plenty of space.\nYou can choose to eat outside in open or use khaat ( bed ) to eat in ac or non ac halls",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great food.. Free parking & plenty of space.\nYou can choose to eat outside in open or use khaat ( bed ) to eat in ac or non ac halls",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Er Navneet",
+            "uri": "https://www.google.com/maps/contrib/112426806150215021634/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqqYzgVDo7kBBuukqCew0ZVQz8eb1XEoGd8GHpg4bZs9Zyekom9g=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-11-14T17:34:04Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJbrwBFvznkj1Np-sBpQ1bDU_0VjfRRhoXJ2xqgk5w5CQ2j5KJEpCtFxeu-nPCpdTHL8ENTIocvWT9DqH2aZ95hbTMwMf_UT-iomHsyJzLqZGR5NhXyZxkhlqbXqgV3BEft4wiSU3h_6AtpHsI3C_OyB2YpG-565vcDT",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Anuska Mahalik",
+              "uri": "//maps.google.com/maps/contrib/111063801854704679950",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIdaxAerh0rwOb-nE5yzB_HOqkvKCT37y04xA8Rxnbd6fo8ece4g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJYYEPg8-NsghJ0PDWYl7VOl-cRFHL5oGbQzLrCX2BSA8S8cRgsHXpAkBcLx_6adDc2r1SBLObmSrGQayVavCnCU0ohROUKTR_d_dFU8URzH9kofL6LlWRvvJA7ux7425yhANoTDFjHVBfPDiDGDysYRwxOf7QJt3XNO",
+          "widthPx": 2600,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Er Navneet",
+              "uri": "//maps.google.com/maps/contrib/112426806150215021634",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWqqYzgVDo7kBBuukqCew0ZVQz8eb1XEoGd8GHpg4bZs9Zyekom9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJYwex1avgsu4qVhEt0FIgElsFVYXGKggzZ3wrHZckQih5rVcMKUl3LPCxFdYEwSJMfs_PvRsUwS_8rt1Xv7D7LHK2YKA6GWZHC_0yZCRJ62TH1djzQKbS29aYVU5iPQg1VhLz5d5Ex4w9Q8taJuoYKygBaUA1CgUkFP",
+          "widthPx": 2880,
+          "heightPx": 1728,
+          "authorAttributions": [
+            {
+              "displayName": "Utpal Dave",
+              "uri": "//maps.google.com/maps/contrib/110880566285455099043",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXM59e7JgG2UWswccC-foUzXKkCvrlaQdOSdEi8hKyWurT-wHB3PA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJa0YmpisRbpObkLTzS5YbNGlpIEL5j83t5uBXBopZqRopxgqFpGs_cjxaeRryoSBWMdiFK6HuKDmxsDbn0OBGBP99dh9owLSsbEAGva8e5CUXoScHsoQkATCBFMLJCWppF3kvncFFKfcbsCfopoLRz8Ok3jmQLduDIm",
+          "widthPx": 2250,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Anuska Mahalik",
+              "uri": "//maps.google.com/maps/contrib/111063801854704679950",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIdaxAerh0rwOb-nE5yzB_HOqkvKCT37y04xA8Rxnbd6fo8ece4g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJYrMx_Z7k2JfDx22BTf5TjY731asgtCYrXE6fTYJ2SaQfD1WfRByRY7VoWlb3TXPlGQ_aL44zA4uguDLi4gNU47vMJgVipOhid4LHoOEDu360Gy08ovDyoi5Hrl8YKQ-TkcxjpIPv_yUwJKg5h6ya7XG18_AKBcLXjR",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Anuska Mahalik",
+              "uri": "//maps.google.com/maps/contrib/111063801854704679950",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIdaxAerh0rwOb-nE5yzB_HOqkvKCT37y04xA8Rxnbd6fo8ece4g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJZ2UKL7_m1c_LH1XX9a11VRRSmzhoHwLX2p-tKVjzM6GI-CpcBlRcmcLKFhk40Iiv8LNYnQjDIsgidCcanB0ArByrWlSwZw7gbUEZ_TAMp-pv5a86_NSXRomaC_fopwYF3_aRpyt2ShUdBedr2l1KScz9NJuhsgVOVy",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Anuska Mahalik",
+              "uri": "//maps.google.com/maps/contrib/111063801854704679950",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIdaxAerh0rwOb-nE5yzB_HOqkvKCT37y04xA8Rxnbd6fo8ece4g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJbYB8KY042wlSKpyMbikAkfBg5ZYjGaEjDGtsDSDyhCchhrlqZIWk8n4BJIPDdaCplxwB_NTMHDFCKu06aP3pXpA1wVZrwSBjDaXcDpLvvXbT2qSbfUeIxby-dJusTy84vsrz0ro0izf3NCtRGZhlNi7tPwRuQ5LpvZ",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Anuska Mahalik",
+              "uri": "//maps.google.com/maps/contrib/111063801854704679950",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIdaxAerh0rwOb-nE5yzB_HOqkvKCT37y04xA8Rxnbd6fo8ece4g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJaMTacuh-32vSlgMqyf9y1fa1riQ8rc9S_lMrBjDHS4S6GhVaJCyaMWaFYAmeMb1JvjbcrdbpkZELhc81xCPxQUCnGxRPgnSlC75yxlaTNAR_BSARQBpun6rGZQXpcW1LO7-SNMZCJ-ix3czsIxDSDb7r2PGVDStwCc",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Anuska Mahalik",
+              "uri": "//maps.google.com/maps/contrib/111063801854704679950",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIdaxAerh0rwOb-nE5yzB_HOqkvKCT37y04xA8Rxnbd6fo8ece4g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJbk3iDgum4Dxorc1Ex9aWiSbrj1iY7q3vBdajfeTtsEACVtd8l0umzeRX1bbpUwWvp8MF8ucHEvl8iLMhcZS93B40BLF3VMxnpWOdX7H1G0cmzOXLRlArsbkAXw4zehe1RvDut31JB-QYPhQjnmrbbmurO3e4LbikyK",
+          "widthPx": 2880,
+          "heightPx": 1728,
+          "authorAttributions": [
+            {
+              "displayName": "Utpal Dave",
+              "uri": "//maps.google.com/maps/contrib/110880566285455099043",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXM59e7JgG2UWswccC-foUzXKkCvrlaQdOSdEi8hKyWurT-wHB3PA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJywJmFB2nbTkRibwZ2jCg4VQ/photos/ATplDJbszIl74azEUdDnSFFwxvVrDOQpuKiSrvFgdH0Xd7Awu4zikrZntlx_L7bvzOJik9j_iohRPXyAAj2dWAuTU_pDb3H9ZSxXAdeD3eSjX0SgE3xKt1FCCZMcoYHwzS2nWJomXX0f6QJ8H3lbk4LUx_ANZ6IlVezhd5qx",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Anuska Mahalik",
+              "uri": "//maps.google.com/maps/contrib/111063801854704679950",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIdaxAerh0rwOb-nE5yzB_HOqkvKCT37y04xA8Rxnbd6fo8ece4g=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": false,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I",
+      "id": "ChIJeW5HvQAJbTkR5mYS_Uk_l5I",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Delhi - Jaipur Highway, near Achrol, Labana, Rajasthan 303104, India",
+      "addressComponents": [
+        {
+          "longText": "Achrol",
+          "shortText": "Achrol",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Delhi - Jaipur Highway",
+          "shortText": "Delhi - Jaipur Highway",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Labana",
+          "shortText": "Labana",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur",
+          "shortText": "Jaipur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jaipur Division",
+          "shortText": "Jaipur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "303104",
+          "shortText": "303104",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JVQ3XX4+P3",
+        "compoundCode": "3XX4+P3 Labana, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 27.0992546,
+        "longitude": 75.9551638
+      },
+      "viewport": {
+        "low": {
+          "latitude": 27.097905619708495,
+          "longitude": 75.9538148197085
+        },
+        "high": {
+          "latitude": 27.1006035802915,
+          "longitude": 75.9565127802915
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=10562981038031791846",
+      "websiteUri": "https://www.aranyabystories.com/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eDelhi - Jaipur Highway\u003c/span\u003e, near Achrol, \u003cspan class=\"locality\"\u003eLabana\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e303104\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Aranya By Stories Luxury Villas",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Delhi - Jaipur Highway, Achrol, Labana",
+      "reviews": [
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEM042RjhnRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 1,
+          "text": {
+            "text": "It was mistake booking this property”\nThe reason you don't see too many reviews about this property is perhaps because not many people comes here. I did that mistake. If your coming here understand that u will not get the basic services like drinking water bottle availability in the room, tea coffee sachet, sugar, salt sachet, not even glass, we were served water in paper glass and we had asked for glasses everytime we want to drink water, there is no mini fridge, tv is there but doesn't work in any room, they don't serve non-veg, food quality is bad, there is no chef in the property. They have a cook and boys for cooking from around the village. Owner has spent money on property but not on service. Staff was no doubt very helpful. They don't have phone in the room, they don't have a proper reception. Overall not worth the price. In this price, you have lot of better and excellent options",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It was mistake booking this property”\nThe reason you don't see too many reviews about this property is perhaps because not many people comes here. I did that mistake. If your coming here understand that u will not get the basic services like drinking water bottle availability in the room, tea coffee sachet, sugar, salt sachet, not even glass, we were served water in paper glass and we had asked for glasses everytime we want to drink water, there is no mini fridge, tv is there but doesn't work in any room, they don't serve non-veg, food quality is bad, there is no chef in the property. They have a cook and boys for cooking from around the village. Owner has spent money on property but not on service. Staff was no doubt very helpful. They don't have phone in the room, they don't have a proper reception. Overall not worth the price. In this price, you have lot of better and excellent options",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohit Sharma",
+            "uri": "https://www.google.com/maps/contrib/113350550628817283849/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXi3UfQN82D9VcwS1GKLvh4V2DKROVan5RO4w_p4tnd-XkvQDRLqw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-25T16:35:39Z"
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5MmFyUGVBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "I recently stayed at this resort for 2 nights and had a great time.\nThe villas were huge and beautiful. The service was excellent. The food was fresh and well prepared.\nThey too have adventurous activities which I truly enjoyed.\nDr Raghav and Mrs Swarakshi were of great help. They guided me well and helped me in planning my day.\nWill surely visited this place again.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I recently stayed at this resort for 2 nights and had a great time.\nThe villas were huge and beautiful. The service was excellent. The food was fresh and well prepared.\nThey too have adventurous activities which I truly enjoyed.\nDr Raghav and Mrs Swarakshi were of great help. They guided me well and helped me in planning my day.\nWill surely visited this place again.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jeevika Sharma",
+            "uri": "https://www.google.com/maps/contrib/117619305857034089072/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_rXudeCEvzkZmJ5EnSrI7xUlvEV54DqkntAxw_LjpMFIYiOdvyA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-07T06:08:51Z"
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0eHA3b2xBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Celebrate my 25 anniversary here\nNo tension, feel and get  what I want\nNo any artificial all is with nurture",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Celebrate my 25 anniversary here\nNo tension, feel and get  what I want\nNo any artificial all is with nurture",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "manish rathod",
+            "uri": "https://www.google.com/maps/contrib/110145971330268661819/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3UEBYKB7TuD8asz7vHjS3MwEYgmhvVRGKbwtjjJkZ-5zcag=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-04T05:50:43Z"
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0MTR1S09BEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Fabulous service and nice property",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Fabulous service and nice property",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sameer HAMID",
+            "uri": "https://www.google.com/maps/contrib/118141479697623731847/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdplClpLFImgWptDTyYhpeOacZ2eQmISMYZ2yawOhAj7_uHQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-07T20:00:06Z"
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0d0lic1d3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Soyal Khan",
+            "uri": "https://www.google.com/maps/contrib/113882807120848320161/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJE8Mxt3WKrP6RD608ueEbEiEwcTfNSvAkAArNWwdJCNMCRBQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-27T20:54:23Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJYe6PIYm3SPdrUm1RxIWdooxmdFkAfuxs2ALkYe7igGjobYTcaTifyX1A7Y71cPgUTq9SA11ivO12AEfPIGEPzefVYE4kNkhI1fBHIfgX3xAVrFC9AOXQ_1CjkE9JcyL6vF-yGXLD9LedeQF6LcwOKg5EziP-r6fYN0",
+          "widthPx": 3000,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJaCBheCpiEpCXneh1SfqnO7O-KI6l63vxfUSwt7EEVHBT2-UuYQYMuqgHjP3-ZYX9KeGWaDvyodoC15z5IGms4eue4o8c57gsfRlaO1xD2p63JNHtTvswEgK5ysLHjpQn3z1vmGdv_GWFGsGWSt3ZTxde2epvyh4L_O",
+          "widthPx": 3000,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJa1Pju7UAC7dU6hZqQKdE6I1e1SjxVPu5jZy91rXkJKoFn-ytvSLZx-ON_sgzcSglu8dw6c1QOjI6VgG29ewNxdYzWeav05SLjcQpd7Oo1SuIQ182aq7vhfpei9_SwAZm058KNZGpZJ5nb2nXHerLJWDtdM9f0BfIv6",
+          "widthPx": 800,
+          "heightPx": 533,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJaA6in7yX1KxThf3SbrTy4JuPTN46zispny7zUh8f0BlTVGkJRidar-yjCb6VqLoZIoDJSFe6L1MjmjeEozRSFEXkbF5dAgDAEcV_-9AEnMKu4EhNbDE7FQFpS1pSHX7bhfHlyC0E68hGuwK8V8dVNgPykh0Yy-xz0D",
+          "widthPx": 800,
+          "heightPx": 533,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJbNzc9SlDXX44_PNQ68HAOXWR9QKsPeLmwKwuEjWS5ivdUPLLQmJy-DEy191nPhInP6QQ9aJPD-qFiFWmZg9TbtV7aY-QPTLHRKLplH7GNR0dUEvdGCOq1qW1Pff-zPPFoyz5ndNIquoSKqeZxxAPm9fzGSLzTvjb2E",
+          "widthPx": 800,
+          "heightPx": 533,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJaXgrwApzkjD0ZGSOzCdggcVtLlNF-0JX1UNyutEtRIuY5KhTC2NYUXRdYC13zVrfOWJ7ykiBwou2srMAi_KHsatW99MOPWnZCEFSHPl2y2Z0K2qSiINGf6vA7-uE5O2GIRAgKFefVDB33dsNK7Rd3uko2M4N6QxZdM",
+          "widthPx": 800,
+          "heightPx": 533,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJbdhRYBgvCP19sz8hVsTPCRJ-1Mf0_M5gjwBoGlAwbvTRaSVz9AbmI_7h4ARjcjGmcsA-YmrMwCqFX8gGtD_arm2S5yFSQpKLK-SbD0vVjKb34b3oCa0DJFDHdmk1c9E7_OEw6ToUb2PVwEsXTLgOGwxwHVaucrLwYW",
+          "widthPx": 3000,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJaHvDgcimiGB9BU93nrX8mvo6hHpJLqFO-iuMnocosSjx_aQPzRA-_iCMBZLV2c4crNbWbdX4bRcCkS2chjRbuKeWXlDDUJZbZL7LC9JGwLhML6yD7gtvh8rdhQ2Wdu5vCJeegbwPfSV36g4nu4j-TqS1GyjDPfMn7P",
+          "widthPx": 800,
+          "heightPx": 533,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJa4f8lM2uQYdwG2N8wjqn45ryKRch3jfIkO2nUlkIWTiRQKFZNi2F3fhdkq5b4GzMeAZrf0cqp1UOqkr9aAhbk9v8QAKvOwN-elYWsVcu6Z_BM0PPqAtBAn7AlBTFsZf1cpbEeUx7i_7IOfVZwiqpgfgsAZPvF-7XPU",
+          "widthPx": 800,
+          "heightPx": 533,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeW5HvQAJbTkR5mYS_Uk_l5I/photos/ATplDJbGAoyfTVplmqoTXJU_9iAzKZ_Nmp5skNF-vU4FNSO4n0j6zYudSIL1c6G8IUAN21YKo0kFLXwSiVQLWVgCcVSEDuyl96MlBsm_qY6X5vco3jhvvG1G6hY_jaEUdeIjC4PrLzb--AFDKtuhxjIfvxc2reOLg6JQiq3u",
+          "widthPx": 800,
+          "heightPx": 533,
+          "authorAttributions": [
+            {
+              "displayName": "Aranya By Stories Luxury Villas",
+              "uri": "//maps.google.com/maps/contrib/117276214836937547798",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKTnZd-ZZPGX4eSabR-S0guRuYkJvcdFXpN17YfQLakzXHybg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

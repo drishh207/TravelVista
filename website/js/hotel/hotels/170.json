@@ -1,0 +1,4077 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho",
+      "id": "ChIJwccuqcTSujsRnKyQ_KNQSho",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "089706 50026",
+      "internationalPhoneNumber": "+91 89706 50026",
+      "formattedAddress": "Temple Road, 5V78+V59, SH110, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "5V78+V59",
+          "shortText": "5V78+V59",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "State Highway 110",
+          "shortText": "SH110",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 13.1646615,
+        "longitude": 75.8654734
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.163371619708496,
+          "longitude": 75.864142169708487
+        },
+        "high": {
+          "latitude": 13.1660695802915,
+          "longitude": 75.8668401302915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=1894415258509946012",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: 9:00 AM – 5:00 PM",
+          "Sunday: 9:00 AM – 5:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Temple Road, 5V78+V59, \u003cspan class=\"street-address\"\u003eSH110\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2235,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Mayura Velapuri Belur",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: 9:00 AM – 5:00 PM",
+          "Sunday: 9:00 AM – 5:00 PM"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "5V78+V59, Temple Road, SH110, Belur",
+      "editorialSummary": {
+        "text": "Simple quarters, some with a/c, in a laid-back budget hotel offering a restaurant & parking.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/reviews/ChZDSUhNMG9nS0VJQ0FnSUREXy0tamZREAE",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 4,
+          "text": {
+            "text": "I stayed recently on April 2024. Overall good. I choose room with AC deluxe double room which was in first floor. But for elderly people bit difficult mosquitoes were there but they will provide repellent. Room is neat and clean. Everything is there. Good for families or couples. Make sure that you booked room in ground floor or in first floor coz if you face difficulty in climbing steps then you will face same problem which I had it. I didn’t taste their food coz of some bad reviews but there are many restaurants in walkable distance.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I stayed recently on April 2024. Overall good. I choose room with AC deluxe double room which was in first floor. But for elderly people bit difficult mosquitoes were there but they will provide repellent. Room is neat and clean. Everything is there. Good for families or couples. Make sure that you booked room in ground floor or in first floor coz if you face difficulty in climbing steps then you will face same problem which I had it. I didn’t taste their food coz of some bad reviews but there are many restaurants in walkable distance.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "rubin pereira",
+            "uri": "https://www.google.com/maps/contrib/114381711247655552208/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVru6xEh8PxKxt3_YY_e5AW9CTbw28wh72pFeN38VQJsJLQxq_I=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-16T12:12:07Z"
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/reviews/ChdDSUhNMG9nS0VJQ0FnSUREc2ZDb3hRRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "7th to 9th Apr24 two night stay, Pleasant place to stay, we received good service and hospitality from the staffs. Restaurant service was good and very quick, veg food taste was very good. Its near main location of the city near chennakeshava archeology temple. Optimal price for the stay and cool place, surrounded with trees and good maintenance. Suggestion could be to have mosquito to the windows for 4 double bed family room.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "7th to 9th Apr24 two night stay, Pleasant place to stay, we received good service and hospitality from the staffs. Restaurant service was good and very quick, veg food taste was very good. Its near main location of the city near chennakeshava archeology temple. Optimal price for the stay and cool place, surrounded with trees and good maintenance. Suggestion could be to have mosquito to the windows for 4 double bed family room.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kalai Selvan",
+            "uri": "https://www.google.com/maps/contrib/109233037074777490407/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ50zJ75qlTUhL1kW8PaYkCLjoXLtwnG7SUUPi2gNl-5G8kqw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-10T23:50:47Z"
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5eE1DdTZ3RRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 1,
+          "text": {
+            "text": "A really terrible hotel.\nStaff are untrained, have no respect for clients and are unsmiling unprofessional.\nExtremely noisy as on a very busy main road and no double glazing.\nNo maintenance seems done for many years.\nFood in restaurant not good (salty and 90 pct gravy) and even worse service than the hotel.Internet terrible after 10 pm. If you hqve paid for breakfast, its extra if you want an omlette\n\nGood things.  Great location near temple. Parking.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A really terrible hotel.\nStaff are untrained, have no respect for clients and are unsmiling unprofessional.\nExtremely noisy as on a very busy main road and no double glazing.\nNo maintenance seems done for many years.\nFood in restaurant not good (salty and 90 pct gravy) and even worse service than the hotel.Internet terrible after 10 pm. If you hqve paid for breakfast, its extra if you want an omlette\n\nGood things.  Great location near temple. Parking.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ulrich Belusa",
+            "uri": "https://www.google.com/maps/contrib/105521408421985986997/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHUdhg9CVqV2TzSg3b0mKB3s2cV03cKUC-SvWemmPcZ6vEUg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-02T03:50:33Z"
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqdXNiWW9RRRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 3,
+          "text": {
+            "text": "Room service isn't available and the restaurant did not function properly. There are insects inside the room. The coffee cups in the room were so dirty and the TV doesn't work.The whole experience was mid. Can stay here in case of emergency.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Room service isn't available and the restaurant did not function properly. There are insects inside the room. The coffee cups in the room were so dirty and the TV doesn't work.The whole experience was mid. Can stay here in case of emergency.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aadharshini Jaikumar",
+            "uri": "https://www.google.com/maps/contrib/111871214382403741915/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnI3pNnRYFwnWoui2EPzVUTFBWWFQXo4sdo3Bu3OQb0bfdaOYa=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-20T13:56:46Z"
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEZ1l6RV9BRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Suite 4 has a drawing room, a bedroom with attached bath, an Indian wc, a kitchen, and a backdoor. There's high sloping roof and 4 people can sleep. Only bedroom is air-conditioned. There's room service available. Restaurant is ok. Bathroom is ok. Suite is good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Suite 4 has a drawing room, a bedroom with attached bath, an Indian wc, a kitchen, and a backdoor. There's high sloping roof and 4 people can sleep. Only bedroom is air-conditioned. There's room service available. Restaurant is ok. Bathroom is ok. Suite is good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amit Mankikar",
+            "uri": "https://www.google.com/maps/contrib/118035502439608301343/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKZECrVq9OIQRXpFXqHl5FSqi5vBRXTsizh_-f2bPDUPOQGcrM=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-28T22:56:21Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJbc-KYvjFF0MK_QTytZs5m1ISBUQ-wWBv-RBIvMq-5Mk3cVRZU9Ygw9ljcU0EfrEZCHZTV0eNL0j9v-hhZbLlkvPUVMEaI4qLmqCQ--X-dk-v6ut5qDRBtzxJgSWC2Ml7hc9mkAXZ2Ul8LLognFl14n8ZykJSRqETnY",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Rohit Regonayak",
+              "uri": "//maps.google.com/maps/contrib/115740724394432493459",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLqbPmicf9aU5t_GWxgvcdX0xOhjGKYvjN5GLwd6faCPBhZTA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJbYfZmlcU2c2GmrqkyzC3NXQXmVyBY9QM6pzd_TruXAiIuYigs8OclYWiEWazrYH-lMGJZCcGlSIO8aMaoiDRm4u9-Ph-g9o-tkWIstklJOdZvXR7Adw8yKdhLx6PCiuwyixshepLL403GQx-QTQdraS54dJohMeV01",
+          "widthPx": 2688,
+          "heightPx": 1512,
+          "authorAttributions": [
+            {
+              "displayName": "manu muraleedharan",
+              "uri": "//maps.google.com/maps/contrib/108663953097483792348",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlFwdDdnyRQ_YgPNKS5thNKtgH728byhtwqMPzh5eYZQb44Gv6XQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJYXPa2hH5adoIAXunEHz4Qba_L3-PZ_ZxdQW6Z9xYQ1KAbNBY7Aco9ZeJ8-AuN4OQEqL8uOmVnHomNIwEtkFPiimvabhaAUyaKraiNQrBJ--sbWU-Kkpg88Np4ELzHbSzeDDLcH07VLnZIH89Wzry4rE-B48r8HlT73",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Yashvi R.",
+              "uri": "//maps.google.com/maps/contrib/102802060832168903431",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXsW9QZawEXuTtcNUHmM0jtNP-v9_uHK0pWaaZim5E2EUGblbnV=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJbLh04wfRfCHY4_CnqX3eQjsOi-nkSLhN1QNPU9Ibj5-Zjzw4LMjC5uRBBrEDFqSSIKlFFJazx-uEgKe81FQ5OQcg63tL34qhYn7JeL6HeKEK2P9u37w5XPKkpPtXXYCLWuteG6NO7ZDEiDOL5PKMOP7giu7QTuhlSF",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Sagar",
+              "uri": "//maps.google.com/maps/contrib/108159232810092585183",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUSSHq-AUpuixf2wDJatlUC7Kefp6ifCigsJjHAALkhc3-WIjHDhQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJb-Us4CmDASUjpT3WzDzeMjBp3hzsumjzY6LT_coXzgLuvrCrY8jEsTzJLIuwTLkxQmELInNHBlAspiqiA9MYfquxvvxo006qob3zQHqN9FpQcnh81gqAFtA1zuUyilU-nwpQZtK8E9F_0rDwueSboAqnxSrrIZNbM",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "RAj G",
+              "uri": "//maps.google.com/maps/contrib/115169042700869990644",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU3nJr-UZAlztGIp4cF0ZAsjuN_9xdfi8o1Kv5oeSOpaWEYqlc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJbUVDP4ZnOuZpiw4t9prlim9wfxeSZy8PULEE5elMeHGiWqHpzJDD0KDBFAlAHIdfyLilbfJPDoaUMz3b6vu9pRDyZlMDN-VQasF7GeJRPLFOxpBv1xY954yG3U2IWpwJlPMfzw7xoSMS-x-VSTh767aZPfZdDJC5oe",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Vishnu C Pillai",
+              "uri": "//maps.google.com/maps/contrib/105859660986827383835",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXKu2wl-uRPHhq865vIXauWJAT2T4ho0W8jahJ5YtTvT9bIL7L9jA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJbrVjz2F79lk8yHH_HmW3UAWjFZ3iSPg8yyrxzNLPZvLa8yObhIrwVNoyMvUZUebiPccAIdm0ZmM-sNfH1lTUyl4KFaENHNGdwDXNM8JMF-X0YvdxmYOH5FP-RkIIDYrQz3E_kIE_4cjwhPRElbkAOL9TlJetpbWZt0",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "SriRam Rangaswami",
+              "uri": "//maps.google.com/maps/contrib/111465830622710648238",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLsmd9LNU5Zby-ux222LmStWK0sgR5AOYEEhaBjysKBO5BUPw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJaZfIdgjECqdJY1ijg8lqTIaAv69xarKyruws2I_rcIHF2CqQzdQTN3fwCJ9wlxaZtEJI4bsx1uwiCRK81EcHAEGQDCVg94plWi6PThJyc9rEXEdFmQkTZzIA4MN6KHKb18d-vOz6SCYuUGdLivy6csD1Jlv2qr4UOL",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "Jayanta Mazumder",
+              "uri": "//maps.google.com/maps/contrib/113281209396203340590",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVbp_4UCGoz8pbhuwnCh5Io4tIxFZoNOOdKNoCc2beS5syNrNT3AA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJYFELmjzjyl22cAi7_GL9l0-Nen7fMlpeaGujj8Zxxos6yFESv8GcaQTG9XZTesY_JqjqYObRSPfmQlT1IHu4qAeGZthbG5msPZmAaTcrFC52WX_naeSO7IRylPOW_Jwg6rGlW_oDRd8pzqIERpLMqkQorvEIcojAjs",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "The onti traveller Shashank jangam",
+              "uri": "//maps.google.com/maps/contrib/104584502315425810712",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVI_pfGuVgumG4Ej6LWRq1vscF15la6xVDtZ489asGLsJ7leJfv=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJwccuqcTSujsRnKyQ_KNQSho/photos/ATplDJY1upPN6SkltdrVL9c0DlBOe5CD31yKp0ncByA6KZ8qNETlkYrqKxYncK1Ew-H12nzZ7GAQZ9n_4CJ7dkJ7JN_UH0hy6tfcn1cxbGqXCdestlhm4-IueopRxF82BAZAOwlCojSpAtYIdGu3D2eOznmk7LlXVyjAT9h6",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Vasanth Mohan",
+              "uri": "//maps.google.com/maps/contrib/117395200277703656259",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV4T-sLwn5VtJcXMp9GBH7jjkC28ThQHdLknL3Iuj6IbMJpTBGphg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU",
+      "id": "ChIJRx4dzk_TujsRRARwvWmzcVU",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "089706 50041",
+      "internationalPhoneNumber": "+91 89706 50041",
+      "formattedAddress": "Chickamangaluru, Road, opposite Yagachi Dam, Chikkabydigere, Belur, Attalgere, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "Yagachi Dam",
+          "shortText": "Yagachi Dam",
+          "types": [
+            "premise",
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Road",
+          "shortText": "Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chikkabydigere",
+          "shortText": "Chikkabydigere",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J5Q5VJC+35",
+        "compoundCode": "5VJC+35 Belur, Karnataka, India"
+      },
+      "location": {
+        "latitude": 13.1801561,
+        "longitude": 75.8704786
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.178735519708498,
+          "longitude": 75.8687280697085
+        },
+        "high": {
+          "latitude": 13.181433480291503,
+          "longitude": 75.8714260302915
+        }
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=6156899432323351620",
+      "websiteUri": "http://www.kstdc.co/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Chickamangaluru, \u003cspan class=\"street-address\"\u003eRoad\u003c/span\u003e, opposite Yagachi Dam, \u003cspan class=\"extended-address\"\u003eChikkabydigere\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelur, Attalgere\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 344,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Mayura Yagachi",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Chickamangaluru, Road, Yagachi Dam, Chikkabydigere, Belur",
+      "reviews": [
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/reviews/ChZDSUhNMG9nS0VJQ0FnSUREbUxERllnEAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 4,
+          "text": {
+            "text": "Personally I liked this hotel. Since its a government hotel not too fancy. But its very spacious unlike other private hotels in the city. It has ample space outside for parking. Rooms are comfortable. AC and geyser were in working condition. They provide extra bedding too for visitors in larger groups. Restaurant is okay types. Simple food is being served, which is good. Yagachi dam is nearby and also the water sports is in close proximity. This hotel is not too far from the city.... We stayed for two nights and it was a good choice indeed. Had a great time.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Personally I liked this hotel. Since its a government hotel not too fancy. But its very spacious unlike other private hotels in the city. It has ample space outside for parking. Rooms are comfortable. AC and geyser were in working condition. They provide extra bedding too for visitors in larger groups. Restaurant is okay types. Simple food is being served, which is good. Yagachi dam is nearby and also the water sports is in close proximity. This hotel is not too far from the city.... We stayed for two nights and it was a good choice indeed. Had a great time.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Minu Singh",
+            "uri": "https://www.google.com/maps/contrib/102523901587424782772/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhRVQgyAKgKjB257vLagCsUQdMMfU3EI_9fDDcPFVtp0vVqg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-05T06:50:52Z"
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5Z3YzaXhnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "I liked the rooms clean and spacious for the price. The rooms are well maintained. The property is huge but still requires lot of improvements and there are lot of things they can include like indoor games, garden, there was some work happening expecting for some developments. The restaurant was good but not great though the taste could be a little better. Staff are helpful and soft spoken. Overall I would definitely recommend in case u are looking for stays in beluru",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I liked the rooms clean and spacious for the price. The rooms are well maintained. The property is huge but still requires lot of improvements and there are lot of things they can include like indoor games, garden, there was some work happening expecting for some developments. The restaurant was good but not great though the taste could be a little better. Staff are helpful and soft spoken. Overall I would definitely recommend in case u are looking for stays in beluru",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Roshni Kamath",
+            "uri": "https://www.google.com/maps/contrib/100908484111146580784/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6eTgRbdhpzPpUuOmXS2zqLBngXdmRMvMNV0O-GDRV1cqtag=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-04T09:55:39Z"
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxZ3ZLeW13RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Ambience is excellent. Surroundings are lush green. Food is quite good. Staff very helpful. Located near yagachi dam, away from hustle bustle of the town.\nOnly negative is that there is no wardrobe in the room. They should keep a large sized wardrobe in rooms and keep furniture, walls and bedsheets clean. Also Wi-Fi speed is poor.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ambience is excellent. Surroundings are lush green. Food is quite good. Staff very helpful. Located near yagachi dam, away from hustle bustle of the town.\nOnly negative is that there is no wardrobe in the room. They should keep a large sized wardrobe in rooms and keep furniture, walls and bedsheets clean. Also Wi-Fi speed is poor.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Debjit Rakshit",
+            "uri": "https://www.google.com/maps/contrib/109162860995919915753/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIugoJxmGPqSGnR9c_DkL8ZbXpZFpV86ZKtfYVNlX1PUkBqbg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-25T20:39:01Z"
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/reviews/ChdDSUhNMG9nS0VJQ0FnSURkcGFEbThnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 1,
+          "text": {
+            "text": "Pathetic hotel, not maintained properly. Food is below average and staff totally useless and not bothered. Not even well lit room. All you get is one CFL light.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Pathetic hotel, not maintained properly. Food is below average and staff totally useless and not bothered. Not even well lit room. All you get is one CFL light.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kalyan chakravarthy",
+            "uri": "https://www.google.com/maps/contrib/104249413277449807744/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMJXE6zx_zw02f6kXv1pPPR8LPPTLuWgrHk2ycDuV_0QJ2BykqeA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-25T12:58:09Z"
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGdzhiVnVnRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Whenever we're en route to both our hometown and Bangalore, we consistently choose to stop here for lunch. The location is delightful and cozy, and they provide excellent service along with exceptionally tasty food.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Whenever we're en route to both our hometown and Bangalore, we consistently choose to stop here for lunch. The location is delightful and cozy, and they provide excellent service along with exceptionally tasty food.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raghunath A M",
+            "uri": "https://www.google.com/maps/contrib/102827066876585159191/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsHOBvojcj209-ge-7R7nN8DKgXDdCiWRk-64rR19gsbhRow=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-01T07:28:07Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJaxBxFhBOpNnGd5J1DEBmZ11AGbt4akO6NV3C1n7Y1Gk7Ra7b_cDjO97lMto_wRJcOqWLwY68oW5VS8bIHQ6Aj2nICYz1x9fF8UyBkEYyVEbEvK0TklsQ0mZfwV9_9Rjk9jIdEQkakayJ2D0DiIcn66wOWFScO6wnU6",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJYH_tPluK7GztAcAtRL_mJy-oBCuUiaSnKiWA-lfWHZU4EQV7v9qhIs97n09xH97HFxxjKwYAA7GWOMYDT3L2wowiXYTxb8BjgZCw66WRf_xfngNKyXJAP7ywSDJflkDyUD6tITTW-NFaizdjOE5SRyHlU0QG68IDTq",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJZLFJEAOkzJgGdYONTc5rvbkU0jFFugM2Yts-vGAGOVFtR80fg8N9HPoap8fX87I2Ufc8oFjG5igISa_Luy_wi7cskcHYooY9jnMluOdTVZcl_FnCoyuaC1E5bY38EIk0RvAHN65PCOhIrPH4c0qkt7cG7ydSEzzLDu",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJbFEqE0uVU0peETKG1QaBTlDH2c2HDm5q33-pNhIBZwyEed3vkKnRlxoOQtsLYOaRdnzCkHsZ2k27UO54fvxj0000jboKULwUF66YV0V_tnLPk_R7YRFky9b71AWwaT8NY6-2scT0oY_fl30_cLQOthuH7rY6lQvLkN",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJb96sXJCRIlSqUXRLyJE7m7o0mPrF3EMDCQafbme4-ADL22SmX1m7M4Xja_EZ6Qk_v27S-Fzo__SkS1-mT-XW7_moiSXLwWt0UAIHJN_GqTXFVIq2dv8zk_CjYySdilgnUoACic__Uwa3Gnpc68EEEy8RW7rm9rOMmf",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJYcuA69W3txboZN3Xdx2fEC6cr8_XqHmD1Q9P75pvSedGIBzUbANgA-fwo35hHvKWGAQj9PiIoD0RBYmU5P8Xp27VzgAsJHVj7zKRQ4ShTqPBkwNqrBwjniyK_fY1p-UTjtrurTKE_hvmSvMYIzwF4KsC7Mh63rVCzH",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJZaXOlL1DQMt4kt--ni8St4IFwxFQfmq_RoLt_yOELQA2XPF9Y2gg3zddsT2s5dKUqE70kU0lOFdiEdEtna3I9TBrUq5UKPPRgJ-rK0dyN8DWT2OnbGiaTRm6GPD1NDNm_TfMPgduKA1h2iAn9PMBDy7RRTBq_0V8yI",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJbBgKe8qQJzoBd81X_Xyc38J_uhxfjYS1iQQ83aLiiw97jkwEl3UBQx5A_ldzSjoS0AZMceUaxkrUvvBBXLqgn1PECpzeUEqGJJyQmiMahy24UhIwhaceD8lieFIuV8Bn117hBtfmespXGPlDl5mQCU7DjR5BlJciFK",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJbe2MpC67TsY6w_DHVEZAPMBebM8tabFT8Toumv7wzpVajIXfERqABU2kr2LzlJv1GwnxMRLrQyXfmYJ-60_bSzooKDp4qujB_ecI4n4hITiMtnLoOqtow_HakPAsRZWprQZSDz5szWQxaMmXR3ZbpLiwmkSi6b5Xsg",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJRx4dzk_TujsRRARwvWmzcVU/photos/ATplDJbohm02lXc9kJRtPAwYwO9nJNXZOtiG_K3lyRv9w4KwI2jdvkjDl_pqpplPWd1e735jdU8BOBoZcA48xGC7zEDJKBY1l1VzWQ21nxeDC_KD8uZ1q4M8C-mAzBqAc81nBCDERPhBUWWX0LpdcrDRjEcr_Q7rYPt6SE1p",
+          "widthPx": 5760,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel Mayura Yagachi",
+              "uri": "//maps.google.com/maps/contrib/117038284706429628870",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLS4rTTpowm-9KS8cYdwdmlPix23Fbdm5ACz0cbAxAJJW0k4w=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo",
+      "id": "ChIJkZqlg8HSujsRDgA8YbfqgAo",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "070194 27784",
+      "internationalPhoneNumber": "+91 70194 27784",
+      "formattedAddress": "Hotel Samanvi International Rsk Complex, Sbg Bridge, Main Road, 5V9C+C95 SBG BRIDGE, NH-234, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "SBG BRIDGE",
+          "shortText": "SBG BRIDGE",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "5V9C+C95",
+          "shortText": "5V9C+C95",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "NH-234",
+          "shortText": "NH-234",
+          "types": [
+            "route"
+          ],
+          "languageCode": "hi"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 13.1684717,
+        "longitude": 75.8713614
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.167170269708496,
+          "longitude": 75.869983669708489
+        },
+        "high": {
+          "latitude": 13.1698682302915,
+          "longitude": 75.87268163029151
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=756862810729480206",
+      "websiteUri": "http://hotelsamanvi.com/Home.aspx",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Hotel Samanvi International Rsk Complex, Sbg Bridge, Main Road, 5V9C+C95 SBG BRIDGE, \u003cspan class=\"street-address\"\u003eNH-234\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 948,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Samanvi International",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "5V9C+C95 SBG BRIDGE, Hotel Samanvi International Rsk Complex, Sbg Bridge, Main Road, NH-234, Belur",
+      "editorialSummary": {
+        "text": "Down-to-earth quarters, some with sitting areas, plus a restaurant & a lobby lounge.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5NjlHS05REAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good location.rooms are clean and big .well maintained.food is tasty.they provide fresh towel.toilet was clear and had ೨೪/೭ hot water service.totaly very nive to stay in this hotel",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good location.rooms are clean and big .well maintained.food is tasty.they provide fresh towel.toilet was clear and had ೨೪/೭ hot water service.totaly very nive to stay in this hotel",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lohith MS",
+            "uri": "https://www.google.com/maps/contrib/116593379017536216803/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXR31kSiEnYUezDMOIm761YnhTtxmX91zmZiIh_e9biKOtKZMdA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-08T12:19:17Z"
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMnA2M0FREAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Exceptional service, luxurious amenities, and breath taking views. The perfect escape for relaxation. Highly recommend this hotel for an unforgettable stay.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Exceptional service, luxurious amenities, and breath taking views. The perfect escape for relaxation. Highly recommend this hotel for an unforgettable stay.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ranjith A",
+            "uri": "https://www.google.com/maps/contrib/106842443479189556149/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVCtXAIWaa7_9m-xtCKONPrSP9PgJNkvoVwKx1RUkuubwdzgwP=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-27T06:25:22Z"
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5dExQbVZBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice place to stay.\n\nPrice is on the higher end, service could be improved for the customer by giving shampoos, brushes etc.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place to stay.\n\nPrice is on the higher end, service could be improved for the customer by giving shampoos, brushes etc.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vignesh Shanbhag",
+            "uri": "https://www.google.com/maps/contrib/109742728213271330638/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgyFtHhJGvoUgyZk5aTDgf3aAcQ4lpy5foa3jiDdbjM1iCEK3D=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-03T04:40:20Z"
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/reviews/ChZDSUhNMG9nS0VJQ0FnSURsdl91YkVBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 1,
+          "text": {
+            "text": "For some reason our online booking didn't work. When we got there they said they could still accommodate us, but would charge ₹2500 instead of the ₹1216 online price.\nNeedles to say we left and found a different hotel.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "For some reason our online booking didn't work. When we got there they said they could still accommodate us, but would charge ₹2500 instead of the ₹1216 online price.\nNeedles to say we left and found a different hotel.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Andre Kottek",
+            "uri": "https://www.google.com/maps/contrib/111746247715258906892/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0BMvoxZvUt8LS9Zmcff5m5L2JrGaK4NUSixbUXP6st_wg_nescA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-12-04T18:38:27Z"
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/reviews/ChdDSUhNMG9nS0VJQ0FnSURabG9YLThnRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Mark my words and do not plan to stay in this Hotel. I booked it through Oyo but when I reached there Hotel denied to provide rooms saying it’s all occupied. But when I called Oyo and gave them left right and centre then they spoke to the hotel and I got rooms. There were rooms available but they were giving it for high price I guess to people who didn’t have any prior booking in the hotel. When I asked the reception lady, she started misbehaving.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mark my words and do not plan to stay in this Hotel. I booked it through Oyo but when I reached there Hotel denied to provide rooms saying it’s all occupied. But when I called Oyo and gave them left right and centre then they spoke to the hotel and I got rooms. There were rooms available but they were giving it for high price I guess to people who didn’t have any prior booking in the hotel. When I asked the reception lady, she started misbehaving.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "puja talukdar",
+            "uri": "https://www.google.com/maps/contrib/115515048289494564349/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocITRyNsE9-MzXR5Aj2-YjQiNAI-yKazCkGNVVuqrSZ3Q6tUsw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-30T09:24:43Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJZE70ihQd5jXOJ2XvL827WO70i-LGDGBJjvsfJ6MROIJiMLSsAds_0NG7jjo-rJnJckuOlemSgUWgv0buGAc5quU4gr_UwxxLxCiHDyexDLv9-8VvWyR7wMiq_IiE01u2B6xqWziH6h-GPNFcL5cHyZ1TxM4_q0qlG-",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "manthesh sajjan",
+              "uri": "//maps.google.com/maps/contrib/100835962804190556834",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWDE4bWE4Q8Atwv442silmhYqo_Ht65f1KBpoNlwOO66pPfAgCg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJaEYOFAAXZENoP3o9XkFvcnlKngXYOVtLQQA0OjGLfTayDAbVcu0kVVTuhijuCz0p47KpuAljBZislYWFayPXUD-9C38PifZAF1C0hLEDrlaz5dWPqDhQtpCQK-qxwiEk4gfVk6_uDVGeY9jgMFQgY-fdYKaKNiZKIH",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Amit Jais",
+              "uri": "//maps.google.com/maps/contrib/116081686903149594540",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK6T7jgfPQUZ23cBBuxa9-HhIWhU47CJQuR9WZynOoCq1Hgpg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJb7Ml_Y--gfNPPS8xvlWIfsOiWFv6ztl7keDTr5dHl00aul6IURTAG8i7pSqMzxCN0rxD7j31a2nOhS0L5-t8SzlZvKUMnvwT8u0BRhnsDi1LHDHPvLzD0WhMSQ7kLLpqRe8A8cVWpEx2qjqfgLkNuEmwSfFA50Dl8",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "vishnu vinod kumar",
+              "uri": "//maps.google.com/maps/contrib/110776797249739655082",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL5l_olROErN8tVLtXep3sW71Uj5bJT4PCl6solY27vxDpp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJagHUAk8XN1gUXmw9DIrgbfnpk5OKqs-p-SPAVQE0KBDo-5m_YZOZ64l7XJPkx6zfhcOQjrlkQgJj8ZpOdUb7nh6rIYIm44rSP8wOBJ5H6esi51r3vyGe0peZ-rwW5PFG9Qc8bEp1CaToRgurmVlPm8H4JoDVqhZyuY",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Syed Faizan",
+              "uri": "//maps.google.com/maps/contrib/114036159823266746850",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUUD1d6Oonjl8-3rfHFX4LPBF2TBjLtAxzznB-vw_9zpNLU5wkRUQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJZyDqzX0Tw456kQvCY7RgE-4Fl0IcZt8rkoI-WkOioDF87ttlUOXUp86F1JEBZB-UMT5YYFH_UoIiCowUbebDdDpm3bv5kqyn7snMK5WsilOXN2hVXujA8mTC18uozxB9kdwArlNVb1i3sSaFwTIqZK6s8IZ-vteRcX",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Arjun Jois",
+              "uri": "//maps.google.com/maps/contrib/110988537711790833321",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9D7vN5hYVAUqd8gda-MKIRKGyn8RGnvW1pSPIXp8-ZWrUFdz_bg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJa8Ly7KcQ5u7bBWpvEKEcy1tdwOveq4sytIU5SuTwIjj2VTdWmI8mynEaz3fRaDQajSwnCm9PoZKmmoIglkKh7Rf5mVlJUoAeH2EPc8jITRTkOmQn4uRxE2ymNXChi03Hq1imPtsKEBfbsn2_Ou2EuLaQY84xyKVNxR",
+          "widthPx": 2250,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Atul Abhishek",
+              "uri": "//maps.google.com/maps/contrib/107203915689978947188",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXJzMPBv2EmORezW6hAAmzZfHAbqRymSrO9NYC3apU7S9UiiPM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJZlVLmE-1kmZfLg-6dqLcDFxitkdM9FD-D7ivCYOlQpo-br6h34Xhf60mzdyjgGjp_Hl9hHbQtuqO_TD-e87HJ-53VZpPYYw-V9YnvLvdH8TdKgAojzQYZ-u-lnTtOGo9kH6W-sI4ALOKIJlqsXAN9WO2EuLXMK3wAI",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Pooja Kalpan Bhargav",
+              "uri": "//maps.google.com/maps/contrib/111034132583809252658",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVoEmyT3MNMHKhKlVzxwgTxZsW-asMKF6Lhds_flX25r41EppmUmg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJZ2YkGHN65UKt9yV_l_dY2cHuaDYFIwawFkzs8xaj2c0pWBvL9Qx1vGbgAncjxXxsKUDRYl85GuQkx12deINzW7bSoN9ga47WUcSfqvjC3mD_Q6VDIceC00EJcy07i7Z4yLorynFVpWAZ6Ahfb7ZLItqkzNMMIdRLks",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Varanasi sai sowmya",
+              "uri": "//maps.google.com/maps/contrib/108554642349838821154",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEw4RW-TmAPrSRzBjzWedkm7HbYXY2QXJJXRwLvkjbsMhhSUBG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJb27EIZ2LKXPJwMV8l8y_sW8n9ar0jUIurvVIV0PJCZ4tgnbf_PRKWcIDxeOARV4POdDYN6aoofoFc33jFfxhHavxVWhZ8U-f2X1ZK7CSDFkyXEBGI9v2h1ZR1nmAJMCJV1mEvlcjXCS0BMg_SaCdmMbdfwDTg-9yxz",
+          "widthPx": 2160,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Prashant B",
+              "uri": "//maps.google.com/maps/contrib/104877880052210076064",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7Rf8HvklUOLkASTBOmi_LyYbz_o1H0bKSzw0sbap00HtCql8zFw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkZqlg8HSujsRDgA8YbfqgAo/photos/ATplDJYnyI85vNvuGUmCthuE7KmEN04RYi3mITV0UqW6_hQCs28weyNRImQ1aDnh-YecBtGWWmxPZArds9RfqMcHkVfaMsbUBLFXS-2noFx0N3C_BHU0oXHPUGIprc47cnlyJ9PLa1Ya-b5TFsy4-tvfkd--ZzNpq2JnJ_vw",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "madhu soni",
+              "uri": "//maps.google.com/maps/contrib/115680777658381221609",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJwC93TQY_ibW8u4VuUPVtOh9SO8q3mpEn3K2LZ-jz1PzhlN5kl=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": false,
+        "acceptsCashOnly": false,
+        "acceptsNfc": false
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0",
+      "id": "ChIJHVNb4pTTujsROVsBGbj7yg0",
+      "types": [
+        "restaurant",
+        "hotel",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094485 48400",
+      "internationalPhoneNumber": "+91 94485 48400",
+      "formattedAddress": "110, Lakshmi Devi Temple Rd, Opp Govt hospital, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "110",
+          "shortText": "110",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Govt hospital",
+          "shortText": "Govt hospital",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Lakshmi Devi Temple Road",
+          "shortText": "Lakshmi Devi Temple Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J5Q5V78+M2",
+        "compoundCode": "5V78+M2 Belur, Karnataka, India"
+      },
+      "location": {
+        "latitude": 13.1641473,
+        "longitude": 75.865117599999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.162788419708498,
+          "longitude": 75.8637436697085
+        },
+        "high": {
+          "latitude": 13.165486380291503,
+          "longitude": 75.866441630291519
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=993883435900689209",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e110, Lakshmi Devi Temple Rd\u003c/span\u003e, Opp Govt hospital, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "userRatingCount": 984,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "Sumukha Grand",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesBrunch": true,
+      "servesVegetarianFood": true,
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "110, Lakshmi Devi Temple Rd, Govt hospital, Belur",
+      "reviews": [
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqckwzSXp3RRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 1,
+          "text": {
+            "text": "Had dinner on 16/04/2024. Ordered masala dosas, naan and paneer curry. We were 15 members. 5 of our team who ordered masala dosas got affected with food poison. They serves old food for dinner. Dont know about breakfast or lunch. Please enquire before hand and order the food.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had dinner on 16/04/2024. Ordered masala dosas, naan and paneer curry. We were 15 members. 5 of our team who ordered masala dosas got affected with food poison. They serves old food for dinner. Dont know about breakfast or lunch. Please enquire before hand and order the food.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SHAHAAAN ROLLING FRAMES",
+            "uri": "https://www.google.com/maps/contrib/112124794985434493221/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCqnpEyjT1P8qb7DCs5XGrYExJgtDtOgr26nW_Q013LFTnQtKJ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-18T16:13:14Z"
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqdE9ucDVRRRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 1,
+          "text": {
+            "text": "Worst experience. Restaurant is not at all hygienic. The water jugs were so dirty. Many people from our group were suffering from the unhealthy and non hygeinic food prepaeation.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Worst experience. Restaurant is not at all hygienic. The water jugs were so dirty. Many people from our group were suffering from the unhealthy and non hygeinic food prepaeation.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Suni Selene",
+            "uri": "https://www.google.com/maps/contrib/114308446788608044045/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV06AWOpHEqv1llMLRBs96dvx_UiSwTGvMCU7d43N0H_zA4szgQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-18T08:07:14Z"
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWaFBUZW9BRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Not Much on the Menu\n\nDid not stay here, but came for Dinner\n\nParking: Parked at belur temple as space availability was a constrain\nIts just around 400 mts away from the temple premises\n\nAmbience: nothing to vibe about\n\nSeating: Can seat 30-40 at a time\n\nMenu: South & north Indian Available\n\nWait Time: Reasonable\n\nFood: Taste was somewhat ok, no complain about it.\n\nValue: Felt bit Overpriced.\n\nCleanliness: No washroom Just a sink to wash your hands\n\nHospitality: Noting to brag about it\n\nLot of option were unavailable at 7.00pm itself.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Not Much on the Menu\n\nDid not stay here, but came for Dinner\n\nParking: Parked at belur temple as space availability was a constrain\nIts just around 400 mts away from the temple premises\n\nAmbience: nothing to vibe about\n\nSeating: Can seat 30-40 at a time\n\nMenu: South & north Indian Available\n\nWait Time: Reasonable\n\nFood: Taste was somewhat ok, no complain about it.\n\nValue: Felt bit Overpriced.\n\nCleanliness: No washroom Just a sink to wash your hands\n\nHospitality: Noting to brag about it\n\nLot of option were unavailable at 7.00pm itself.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr. Adithya Hande",
+            "uri": "https://www.google.com/maps/contrib/103737864718108764175/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCDzlMKAA60At0slgN4L2W-J0wK4-DuBGh_s8syrWe5-4vvU4=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-12-05T11:42:10Z"
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/reviews/ChZDSUhNMG9nS0VJQ0FnSUREdzcyQ2NnEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 1,
+          "text": {
+            "text": "No Taste No Neetness Bad experience Don't go Anyone Waste of Money",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "No Taste No Neetness Bad experience Don't go Anyone Waste of Money",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vinay D n Shastha",
+            "uri": "https://www.google.com/maps/contrib/100381392175864501194/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUN2iSmmXfNwHYRu861TRkPV5g1hMwTFf4uB8bHBQVmaJg0lH3x=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-13T14:58:16Z"
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/reviews/ChdDSUhNMG9nS0VJQ0FnSURkM3B2dDBRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "The hotel is good to have breakfast. The taste is good and hygiene is upto the mark. One can try idli Vada and set dosa.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The hotel is good to have breakfast. The taste is good and hygiene is upto the mark. One can try idli Vada and set dosa.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "VINAY S D",
+            "uri": "https://www.google.com/maps/contrib/104015895466071092988/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdEtNfctTq_q0Vvw4zmHfb5ssGOlNFpleql1JEakNOC1Ogmtl5=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-02-24T03:06:32Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJYKGv1xONcJV_BE44tKAgHJ1SdSNvyWiIxggAsGl-MDDX40THihnVklIuLpfXrCrizujL4wTSwcSypL5iX8ev3Hq6JbL954-zvm_0YUIOUWSRoQdSlSKyncltSOUHz3M0nJMNhMNH-_b9KJdry9F31OSLMc0sxxdEd4",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Sumukha Grand",
+              "uri": "//maps.google.com/maps/contrib/114107659345426905236",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJifYyhztJYJ9ADn8L4PVeO5eweLx1uLaekCHC5pNF9RFVW8Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJYE9IX4pdZk-r7uZrVb8bMZIFLkxSKneOYBYcB5ZhMxOMNifrzcdUPN7cnWwN6xlA_yCTu_uLV6Cj-Dotm183SzsilT2PnDWS6tjzBzKkmiuFvhtdqiKfatyyx1YUIDbiX6d1Wk42oN3DDQXRW9-2uCjXLN7WxeLfsd",
+          "widthPx": 1156,
+          "heightPx": 521,
+          "authorAttributions": [
+            {
+              "displayName": "Sumukha Grand",
+              "uri": "//maps.google.com/maps/contrib/114107659345426905236",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJifYyhztJYJ9ADn8L4PVeO5eweLx1uLaekCHC5pNF9RFVW8Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJa5vTLf99GCaUYzh1yA8JHOaLf4Er48xdUfTCyZ0GyPGBqVABeuyNxyc0IiUbv883MxWYzQKD0HvMunJ4Sql2S6-tv6jXDlMyrtGekCyysAT1KKJqtoWVmYrod9u5_8JqRRxqfx-iHSuUGLcbDg_7LNk00arP9d11Em",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Amrutha G",
+              "uri": "//maps.google.com/maps/contrib/102151726052846527391",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgSboY3X4pG4-gcYtsR_WSVotaIM_EwREItnSIIPWOc0huWDBm_g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJbEfVF05-iGihIXaVGTCGgr3bYDtOo3aWYAaIZ6N6GhIMym-_b8fONHIGdlnbaKHzs7dZRAMwP9VLy-5QnD6IXr_NjTQfeJ7X3yx-k8effxAh5WTdJD4hvyRNKBjIvWo4gStkg5zBL6hozXObGJoEYKhKSEKIGexSDm",
+          "widthPx": 1080,
+          "heightPx": 875,
+          "authorAttributions": [
+            {
+              "displayName": "VISHNU WAGHMARE",
+              "uri": "//maps.google.com/maps/contrib/101499067045301376171",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUnCM6qtH9iuz3K3N9vU8910jH8_c0xxLPNuKNtQYbVbaupNd4sTg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJatFk5wK5wPJp3aMwzVAkTe7Es_Gozwb8zILTODRDsBy3kD2V5EhmTehnO3Q8lL8JjLEwXfzeRKFIPT9yeewk3tonJwr-P8FdcqNU49xYCZTL9N6Df-ElG3TolRoABzOt_CbhDX8b0v3CdYR1NJsJFhTTC6Y5Sz5ecZ",
+          "widthPx": 8192,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Meeta B",
+              "uri": "//maps.google.com/maps/contrib/118158626463084821816",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK8OM5TPKJRtz4gMOl1TFWWhbDgzFr7c32Cx-QxF5wJ93KLNHB3=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJZmTVeWNuhFyRnGih9WuMTbPreUuzn16wy7k2rfCUx-nK40UTnwZ5hPkYNiNsPFy627-M3SwLYhiVKF4Exz8FeJ05mPRheYzO5uVmimd46on6Ti9CNcgC9X7KuzrVcIg-kqxZ889ZUn9fE56z0Aw8iXa9Tv-yhbAH1L",
+          "widthPx": 4080,
+          "heightPx": 2288,
+          "authorAttributions": [
+            {
+              "displayName": "SHAMANTH V M",
+              "uri": "//maps.google.com/maps/contrib/116788034650124005477",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWCk5QYy07D9xKE7T1PEMALC7gLbgBu_vX3gv8yhT2HsvEU6-Ov=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJbepmDiBU-Wz5O3p0gLBiWsokajER91qvVoyqR6_I52Fw2puu4fGJRUGWGgPctHeGnrY48apgsubY2SCuMwg-MWNC-aryqcUwKYTm1I-Hlt6P-veQ1YY9m0xF8-MLpX04awtw-_aT3eRfHou_6iEamAWXN7goc5Xgqf",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Harshith Kumar",
+              "uri": "//maps.google.com/maps/contrib/114400658408451119495",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVB77FbDZmhjNdQFEkYynU7cSxAjaaI20-Wafcm1sE1H7pqVEKA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJZF-UcjVlq5FdooMOaB-kVJzkY9YaUdeIQ5yvPPrlcLT6yBZmp2CHegNzMoroij9J5x5c3M5aD6L9PId9qALTrdfN9xUwI27srguQ-htu2Gu29xi-8EBg-bZSgK72igiw5FRt7bnidb6hm-gWIy5UTrjmoZOyp0Hznw",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Amrutha G",
+              "uri": "//maps.google.com/maps/contrib/102151726052846527391",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgSboY3X4pG4-gcYtsR_WSVotaIM_EwREItnSIIPWOc0huWDBm_g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJbqs-L4IBrxrxVjMVTItSQg9RaWr2F8g-DbpBIW4yPSdS42Krbb0ZA8DtCQxglwkOPdQAE_JnWtD2B7odl5xtenph8EtA2q_b0HWhbE20eIDSOKEXpRAKYYw7s0hsztMwx73XwIQlUX372YFOZuKVkQbDPAvImeiaLP",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Harshith Kumar",
+              "uri": "//maps.google.com/maps/contrib/114400658408451119495",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVB77FbDZmhjNdQFEkYynU7cSxAjaaI20-Wafcm1sE1H7pqVEKA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHVNb4pTTujsROVsBGbj7yg0/photos/ATplDJb2q__iLMbtAl9TLN6yu4AOGm3H5GYd7p2ZK0GPTm8LX50kmfvtZkPe-a--sHCxrO1TLNfMKzdS-7zGYJxlqeJ1kgxTi6WUd-0uRDxcYWTEdhBBEkE1wdghpvzxxeM5h0Wa_2RWbAjHzik6I2mVkVEPy9qlPlPMD_vw",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Ramesh N",
+              "uri": "//maps.google.com/maps/contrib/103670348541367648671",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXPXQny5nbXGrr-Z8OIVtPyvZ2bMX6qZhu0TI1bh2IrYIVf8j4K=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "outdoorSeating": false,
+      "liveMusic": false,
+      "menuForChildren": false,
+      "servesCocktails": false,
+      "servesDessert": true,
+      "servesCoffee": true,
+      "goodForChildren": true,
+      "restroom": true,
+      "goodForGroups": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "parkingOptions": {
+        "freeStreetParking": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": false
+      }
+    },
+    {
+      "name": "places/ChIJoWsfManTujsRsEBUChtK-p0",
+      "id": "ChIJoWsfManTujsRsEBUChtK-p0",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "070199 44268",
+      "internationalPhoneNumber": "+91 70199 44268",
+      "formattedAddress": "5V65+H2R, JP Nagar, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "5V65+H2R",
+          "shortText": "5V65+H2R",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "JP Nagar",
+          "shortText": "JP Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 13.1621265,
+        "longitude": 75.8579348
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.160809119708498,
+          "longitude": 75.8565945697085
+        },
+        "high": {
+          "latitude": 13.1635070802915,
+          "longitude": 75.859292530291512
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=11383492488130216112",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5V65+H2R, \u003cspan class=\"extended-address\"\u003eJP Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 115,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Sunshine International Boarding And Lodging",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 17,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+          ],
+          "secondaryHoursType": "HAPPY_HOUR"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": false,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 17,
+                "minute": 0
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+          ],
+          "secondaryHoursType": "HAPPY_HOUR"
+        }
+      ],
+      "primaryType": "hotel",
+      "shortFormattedAddress": "5V65+H2R, JP Nagar, Belur",
+      "reviews": [
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5cWE2TTRBRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "We had a fantastic stay at this hotel with excellent rooms, friendly and patient staff, and a perfect location. The Non AC standard room we booked was reasonably priced, and the hotel staff were exceptionally helpful. The room service was prompt in responding to intercom calls, making it convenient to order food. The hotel's location is ideal, within walking distance from Chennakeshava Temple. Additionally, the hotel offers wheelchair availability, functional elevators, working TV, hot water, and comfortable, clean beds.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We had a fantastic stay at this hotel with excellent rooms, friendly and patient staff, and a perfect location. The Non AC standard room we booked was reasonably priced, and the hotel staff were exceptionally helpful. The room service was prompt in responding to intercom calls, making it convenient to order food. The hotel's location is ideal, within walking distance from Chennakeshava Temple. Additionally, the hotel offers wheelchair availability, functional elevators, working TV, hot water, and comfortable, clean beds.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammed Anas Byary",
+            "uri": "https://www.google.com/maps/contrib/103025733550860222153/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUaYTU788jW-PDlraRVpifR3338-fAK9Ri4VidjZwPv1ngLAKl=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-07T00:32:05Z"
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxNG9uVWl3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Had a worst experience staying in the hotel. Charged 3 star hotel price but the service I received is like normal hotels(if normal hotel price is 1500 but they have charged 3 times more than this). Asked them to clean the room but no one list bothered about it. I asked some extra refreshment things bcoz they haven’t kept in the room and the hotel guy asked me to pay extra.  No restaurants available but there is an option to order from outside and if I order also need to pay extra charges!.\n\nBreakfast was included in the booking and I received a written slip to have the breakfast outside and it was only 2 plates for 2 person? If I want to have extra then I need to pay! And for refreshment I have paid it from pocket.\n\nPlease don’t waste your money!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had a worst experience staying in the hotel. Charged 3 star hotel price but the service I received is like normal hotels(if normal hotel price is 1500 but they have charged 3 times more than this). Asked them to clean the room but no one list bothered about it. I asked some extra refreshment things bcoz they haven’t kept in the room and the hotel guy asked me to pay extra.  No restaurants available but there is an option to order from outside and if I order also need to pay extra charges!.\n\nBreakfast was included in the booking and I received a written slip to have the breakfast outside and it was only 2 plates for 2 person? If I want to have extra then I need to pay! And for refreshment I have paid it from pocket.\n\nPlease don’t waste your money!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohan Lal P",
+            "uri": "https://www.google.com/maps/contrib/111506037364502954995/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOZZ5Ggl_vYK2LN1HuqWbsIiy34E7CD2RoOxrGAfdSD_sPJJLs=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-26T12:30:48Z"
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNENWFqNjRRRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice... Just 550m away from chennakeshava temple...  Rooms were clean and 24hr hot water.. Shaving kit, dental kits also as complementary .. Over all best one..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice... Just 550m away from chennakeshava temple...  Rooms were clean and 24hr hot water.. Shaving kit, dental kits also as complementary .. Over all best one..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ganu Bhat",
+            "uri": "https://www.google.com/maps/contrib/111918018582719609514/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyu7yCAumehO2yixZuwQc-AvgamUUNEUeCx0bFcc3WqDctsByl=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-30T17:28:40Z"
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/reviews/ChZDSUhNMG9nS0VJQ0FnSURWMEkzOU1REAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Had an amazing stay at Sunshine's. The place is at walkable distance from the temple. The facilities were also good and the room was clean. Was impressed with the dental kit provided along with the other toiletries.\nI would highly recommend this as your stay if you're planning to visit Belur.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had an amazing stay at Sunshine's. The place is at walkable distance from the temple. The facilities were also good and the room was clean. Was impressed with the dental kit provided along with the other toiletries.\nI would highly recommend this as your stay if you're planning to visit Belur.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Merlyn Mary Thomas",
+            "uri": "https://www.google.com/maps/contrib/104142737142848177358/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOsIgvspkvXLzbleU5T2ROeZS3ttnvCoKiPCpZEcc_C_HDd4uT=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-10T12:28:35Z"
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/reviews/ChZDSUhNMG9nS0VJQ0FnSUREc2FMUUl3EAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "It's a decent place to stay. Rooms are a bit small, but they're clean and well maintained.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a decent place to stay. Rooms are a bit small, but they're clean and well maintained.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Avinash Karmarkar",
+            "uri": "https://www.google.com/maps/contrib/103473584307943131009/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVfncZgIxL5A_9cpmH7RfaPzqNqpEFu9uyEKRRUKZ4sjjAvhJE=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-04-11T00:36:55Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJYHLQdAK8J5LzQQV__-RaDwi8bjHQgL0TldxaQSfgsMs6LpmIU6mvYJKxJd6zXWJvjEFpBH3VgjHRWfHq6AGz4jVacgHfaBhsYgKrw7RL47gFGnVX3wt81m8P770fd_aRD_ZymCnYo4vDVON9bfHTviNFDY6ZitvM-Q",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJaIcFfF38a9Fpy_sNwG3Y9t-vzigBdTBq5xbCvrEnfPTP2NYQp_Sof8gQziuQTziLTDekR4jG8j21twbqiEODiumdQd4pA_NYzJo_L7G8y7GxOzun6uHR1hrgrEBqvHgxhyMvjeZ7B4QWnxw9byYg43thfQKzd79TQp",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJaG6nLV0ucbkiuJU2cKDiWbs0HaxJCgEQpIBkrNlm__iLO_yK7A9oGSXduInJhbjN1beZPLEEjSVljh5cr-p1ZrZSAR5QBN2E1zIv1Ac1dcYmErQt38MDjynhgbCIxXbU2OyFKdvUdgRuDwqMHtoBsUeM1wi2s5vaIa",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJa31t7A1P9XsieuaiHchKCHNJUPF1w15gThKpfDCivy2SGe1ZXJ41pW-m0-3uN2y8owyOEe1zqU4vdXzBInBpiTiXVT0HE8ZFbhzxEZYOZAVZQT72YBO4B-bL4A5LUfcLxpOL2mX7F3izBXTarQ5UVIS84d1nt8o4r9",
+          "widthPx": 1156,
+          "heightPx": 867,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJb8-ct7XEGzc9WRGD0Qiy92pZq-XxPRwCq8r83xZUREcd2NbddSQ5GZQjxbXbrgbgBJt69r42-rZqOvwA2mRz4Q7KkAusTbYmDIFLl7UShO11u4fUwnbuYIkJu-4JReC3p5m0an0QqUUaKUKln3LU6ox9r0G3092mIM",
+          "widthPx": 1280,
+          "heightPx": 1001,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJYezSnS-kbVNIMWln5iSwvHolH2HPDx2YiaUrkghVnYvznBoRlmqiwdfkzicrKEL-nRs45u-o1YuxpoONYrMqlVXqtqkkQCGqQPN1CZc5fbr204kdcIdy1rd2NtCtTvfmBN9ukecH2AKRu3At4xNVkJDyr4etP14rBg",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJZ9uS9ZMuSgKcZR1cdWXatXqTrI928malU9YHPZIbfUKbOswV9vx7ALgR1NFycIjY7dlzPILA28xwK5ahEzBpDrfmSa8u10i4j5VWrZWEV2_AlOE3KJXDlL_Co6u2jV6QbTi0GDJd7EtabQIuIHz9V5jBIEqynL0SwQ",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJY_xUBiFRHTu7atJ55JO_JcE-_jkwdakQDWiB8Sh5K8CKt5h1XyOnUDfHhzdbdmM2eH2Lz_FhQ-HxpYxR35Wp31qhYFCNKdXtSsyuR0AFT-G_SNk7PamUbwxfLsQD12kf_1QaAIBpFcuKFFxKMFSFrsz5QpmcZ8A83X",
+          "widthPx": 1280,
+          "heightPx": 851,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJbX9joi189jILtVsPnK8VNsIyBVcatF8cf3Cq1xYvUYaoeFB9K2ZUdLkjKRPXQepSH-NsBAyfLLPpmLupfOej_rXGPmx-Moj426LGY4wnm5AtkXTNtUOEkGlUsY1AWRZz9nk3kXfPie2HYJAqsr8uTXBYhhPIEAhuUG",
+          "widthPx": 1280,
+          "heightPx": 851,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJoWsfManTujsRsEBUChtK-p0/photos/ATplDJZhvNEuFz6g56AaFgLxW2cK0RcIroVqNvKIwpwCAwVgblQNTraxy5753GMzdgLMam2ktf7usx0uE5NajCKSnIJ-waVC0or-cNhErvjWG_1yvmThpfX6Vs_z9MxzDxDmtcRCmL3-rcnIWqPDP5N98JRCmbn2Obk3PO4I",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Sunshine International Boarding And Lodging",
+              "uri": "//maps.google.com/maps/contrib/105766845672999957398",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTC3hkXcJciwE5uILyKFBptoe09gZsokHEf5gCZoTnImdcl30=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJZUxYnmLTujsRk0rFzJERTS4",
+      "id": "ChIJZUxYnmLTujsRk0rFzJERTS4",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Old, Market, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "Old",
+          "shortText": "Old",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Market",
+          "shortText": "Market",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J5Q5V88+QX",
+        "compoundCode": "5V88+QX Belur, Karnataka, India"
+      },
+      "location": {
+        "latitude": 13.166934099999999,
+        "longitude": 75.867426
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.165567769708497,
+          "longitude": 75.8660858697085
+        },
+        "high": {
+          "latitude": 13.168265730291502,
+          "longitude": 75.8687838302915
+        }
+      },
+      "rating": 3.3,
+      "googleMapsUri": "https://maps.google.com/?cid=3336342216854817427",
+      "websiteUri": "http://staymaker.in/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eOld, Market\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 19,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "STAYMAKER Belur Guru Comforts",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Old, Market, Belur",
+      "reviews": [
+        {
+          "name": "places/ChIJZUxYnmLTujsRk0rFzJERTS4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0M3JhblZ3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Ideal location.\nLooks wild, but once you check-in, it is not that bad.\nThe manager is good and very friendly.\nAnd the in-house kitchen is good.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ideal location.\nLooks wild, but once you check-in, it is not that bad.\nThe manager is good and very friendly.\nAnd the in-house kitchen is good.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "pratheekk poojari",
+            "uri": "https://www.google.com/maps/contrib/115286914694507866400/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxhVRsTVvPTlNE1TaK-YdwxL86UMdx37NQLy9Eq-rNvdPm5xDXoA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-30T12:22:24Z"
+        },
+        {
+          "name": "places/ChIJZUxYnmLTujsRk0rFzJERTS4/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4bVpDMXNnRRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 1,
+          "text": {
+            "text": "This is not a place for families. Situated above a bar and has reception in 2nd floor. Wouldn't advice in a million years.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is not a place for families. Situated above a bar and has reception in 2nd floor. Wouldn't advice in a million years.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shishira Rao",
+            "uri": "https://www.google.com/maps/contrib/103374569848944939940/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaokNT_EQhZshyc9Bp59KGjyUpb1iB4Z61-HMZZVCdQy61XoxBYQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-05-21T01:39:15Z"
+        },
+        {
+          "name": "places/ChIJZUxYnmLTujsRk0rFzJERTS4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSazlYQUhBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Located in the center of Belur town with good rooms and bathrooms. Good value for money hotel",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Located in the center of Belur town with good rooms and bathrooms. Good value for money hotel",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chethan Parameswariah",
+            "uri": "https://www.google.com/maps/contrib/109100963737314579022/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXi5MkDPwD3a50VTxncGIgT6Y1j18phRfFc77TktVmrk_TBDX3_=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-04-10T00:38:21Z"
+        },
+        {
+          "name": "places/ChIJZUxYnmLTujsRk0rFzJERTS4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPb0tibUZBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 1,
+          "text": {
+            "text": "Don't even think about it if u are going with family, bcoz so many alcoholic guys are their.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Don't even think about it if u are going with family, bcoz so many alcoholic guys are their.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sujay Kar",
+            "uri": "https://www.google.com/maps/contrib/100121231385220099415/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkiRrJ64po39Wnqf1T-dLzllm-DBIwMnJIixXpJghfKcy9SFMA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-05-30T04:15:27Z"
+        },
+        {
+          "name": "places/ChIJZUxYnmLTujsRk0rFzJERTS4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0MU02dk53EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 1,
+          "text": {
+            "text": "This not sefty in girls",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This not sefty in girls",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Puneeth R",
+            "uri": "https://www.google.com/maps/contrib/103609651564923770574/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkWE0VKHfnkBmPtCNqx-Irq28mmLOfZ2j7uO0dYA1EFp2GWQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-29T09:06:42Z"
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU",
+      "id": "ChIJuwvjU__TujsR2P7B6oCKduU",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "080732 67986",
+      "internationalPhoneNumber": "+91 80732 67986",
+      "formattedAddress": "opposite Channakeshava Temple, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "Channakeshava Temple",
+          "shortText": "Channakeshava Temple",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J5Q5V76+6H",
+        "compoundCode": "5V76+6H Belur, Karnataka, India"
+      },
+      "location": {
+        "latitude": 13.1630907,
+        "longitude": 75.8614356
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.161777869708498,
+          "longitude": 75.860076669708477
+        },
+        "high": {
+          "latitude": 13.164475830291503,
+          "longitude": 75.8627746302915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=16534555368236383960",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "opposite Channakeshava Temple, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 112,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Vishwas Comforts",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "dineIn": false,
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Channakeshava Temple, Belur",
+      "reviews": [
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxeE51Q3FBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Location is exactly infront of the temple. Nice and clean rooms with hot water facility (geyser) and affordable pricing. If you are visiting Belur to see Chennakesava Temple this is a comfortable stay. Only catch is you have to park your vehicle outside but you will have a decent parking space available as it is opposite to temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Location is exactly infront of the temple. Nice and clean rooms with hot water facility (geyser) and affordable pricing. If you are visiting Belur to see Chennakesava Temple this is a comfortable stay. Only catch is you have to park your vehicle outside but you will have a decent parking space available as it is opposite to temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Pavan Kumar Nanduri",
+            "uri": "https://www.google.com/maps/contrib/103385316086471211237/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURbvrc0tYXwAC00IjLJSFN7NNOYTGF0VLQfJVVf9OXRw7Wf3sZ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-23T00:48:02Z"
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/reviews/ChdDSUhNMG9nS0VJQ0FnSUREOFpfTDdRRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "It is just in front of the temple. Rooms are well maintained with hot water facility.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is just in front of the temple. Rooms are well maintained with hot water facility.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kalyani cherukuri",
+            "uri": "https://www.google.com/maps/contrib/114445825982011879643/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQ5QW1rpaZyugRzrnC7h0EGXyrIJavYh-YWsdOS__V38CGxg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-11T05:45:18Z"
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxMk5XZDl3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 2,
+          "text": {
+            "text": "Location of the lodge is good in residential area and nearby temple. You can see the temple. But clean and comfortable is fair",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Location of the lodge is good in residential area and nearby temple. You can see the temple. But clean and comfortable is fair",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tkbala Subramanian",
+            "uri": "https://www.google.com/maps/contrib/101187462049339288789/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZfbwsCR5I1yx2WG4TLDZcyytg7QPtkns1D1ZNOp3p7aEQEprG=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-22T08:27:07Z"
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKX3ZpYlZnEAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Overall very satisfied and peaceful stay at Vishwas comforts. Had booked 2 rooms and stayed along with family. Owner aunty is very polite, humble and genuine person. I really appreciate the genuine hospitality. No issues/discomfort/complaints of any sort what so ever. Family too liked the place. This would be my first priority and recommendation to others.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Overall very satisfied and peaceful stay at Vishwas comforts. Had booked 2 rooms and stayed along with family. Owner aunty is very polite, humble and genuine person. I really appreciate the genuine hospitality. No issues/discomfort/complaints of any sort what so ever. Family too liked the place. This would be my first priority and recommendation to others.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "harsha hc",
+            "uri": "https://www.google.com/maps/contrib/105125586373653920547/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhFqEsRvE7gp1J0PreR90adHINjig6SMK4vT1IElnspWKG0S-4=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-06-28T08:56:24Z"
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwc2JQeHNBRRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Not too worth for the money, very basic, tv won’t work, don’t expect too much, owner aunty can help but difficult. No soap/shampo provided, one towel upon asking, no room service, hot water 25/7.\nNo dedicated parking.\nTemple Bojanalaya will remain closed randomly, one need to go little down for a good restaurant.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Not too worth for the money, very basic, tv won’t work, don’t expect too much, owner aunty can help but difficult. No soap/shampo provided, one towel upon asking, no room service, hot water 25/7.\nNo dedicated parking.\nTemple Bojanalaya will remain closed randomly, one need to go little down for a good restaurant.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sach",
+            "uri": "https://www.google.com/maps/contrib/115810500322756190620/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIU-OOQHFJxxrSB-x6gX97P13cewp1b1pDqZ8qSoi043OI_iLE=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-08-05T18:17:06Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJZkrvw0KmDIC6axklpt8KAcPqeeKWtB-_rtRt0wv1VcLQ-SsKuzUUHENWgZq2t7Fa3Bsw466r3aUbetntofVWPQ5sGxAoG6tbxGKCGTOUTpmOMydkPNcO8V2fTbF0QBpR9ZDLXMDlTFTonqpyxnyhMIwYYUizgcAIwv",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJaQaaERpUDnkBbGV-iwVWEwI2ilSJgMDYY51ZksINUdqZpwFfwWayOjxUEaRNTeRqTfLwpkfCJoLZkTMA9Vy3hVWY_RwxiL7_4tFrzysk_nhI_iYFfjtoi-89OkQjlBMJ-h5v9AuGOu9rHbeO0F2CHq3XsvbinqUC1G",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Arnab Saha",
+              "uri": "//maps.google.com/maps/contrib/112666857279446801029",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIHS-rLGqvn0GjtWYr7APg4RygPubbEjs0bSq_2LLfiyiEZKnn=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJYhm8yuguTk_RfdwKKgezrIXFh_pZE7tXu1hl6rNk5W-Usd2bX9hz2wXY2ajSHTdQHsyMRISo6NFvzH54zsw5jDzltBN2514v-DgxpRVAce8EyUxTdQjDWwrKtGgBvf1Fy-AfAAL4DQPgSpFXi87-z-6ceopEGqYkdR",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJaDnPInG7r3r9hdR9T9mR13CpjeVHF8qaMHCwT5aP2t4dMezj7OjoAPnLFtUBsfibuyLqK2UKlp6kjaz2ZYBsZX2s10_wAm6kWxuijk-BXg-3sofmTsM5ipOluTxJnP5ntemZNEyoM9BASNXd8hGfiKLjj4hGcipetT",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJYIrisl_Sk_Z_O4CcC-vMUuhEAmbhco4dIdB7fHWVTSA5-MAlsQOazq9tLwec_PYBJ_ok33xtC-0dmp8LAr_rrLzfD2s8EXSifV605SEkN2KDGlpJjrmpkpjD2vg2zCTFHKUq2Cq2R-DHP0kyKzEmKEK_IfY-FQIT0I",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJYqFggdaCkyWzQLDmSxDCh6AiZHXKIe6bQiUMWrCoT1p7oG3HdTG0GHgXGLj6UofnV2WMvXcGcTy1u_qG75WOFJptTs8YatK2ffyV11n0lC9qK-zc3gnP3zhymfex4keCQhGmfkC-1VLnmHKyVt2QlYqd38DXI15DgR",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJbxoM1C9zmPwayNSojjgJ44KQutkBosggyhATUXFRxKkOHuAbhQJLUViTC9rpl-49y2NErqg6CCbH3fmSAc7020PlKb9D48yCes0m9yAXCxYW8XDavvWJJIZaIE4MeXbwsjlrqOr3VzeaNXyD1_lkOHur2Yg7gth2rb",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJZIJkpdzmGXLmCHB95VuJwwkgSc-_RPk3UyXrMJyw1nyUf1IXav8M8PvvZpKZYb_qgFGk99jn5zChn2zjEpM41YhC8jvclsyOW4-JBWA29msGM-2ZH2vZJ6ivoIZ40zoli4j8az6TsHpMRExO0QlSpxGVnNiPS1e9Ql",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJbdCuZH2Z6CklbB5kqDSJFnQgi5mVvM9hM43hHSjAJai3giW37aTCGJgCm91XWkNx5bgFxWV0MuFfUbHg_MpPqfldnoZmkcHLE-fgFvoaDEXBSGRhquL4IOSZ-f4UZCG1ZTBUzr6vght-Pze66F3BE5e95HLm09kWNW",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuwvjU__TujsR2P7B6oCKduU/photos/ATplDJb2JJ8qKgYhIXg4s8YUBuDWEpYaZilWEdfgLlBUyQNbrjirs9FgjOx3TIxkmXxLLZ2IdQqxwQdh3AfLIrAn4kprvwYCdUO6hjOKcxnDmzVcgq3Hf2bMh_4yk4fjYDrklkPotWUPdazq0b5e3LFqbpHaT57vLpAIt8xL",
+          "widthPx": 1440,
+          "heightPx": 809,
+          "authorAttributions": [
+            {
+              "displayName": "Vishwas Comforts",
+              "uri": "//maps.google.com/maps/contrib/107074173812967012191",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTzMQm-jLHUK0Vtoz2PUGcgnLCOZ39UD7MYgLVIASdVaf8_IM=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "servesCoffee": false,
+      "goodForChildren": true,
+      "restroom": true,
+      "paymentOptions": {
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s",
+      "id": "ChIJJ56GZyLTujsR8Q4ObgP4p3s",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0124 620 1327",
+      "internationalPhoneNumber": "+91 124 620 1327",
+      "formattedAddress": "Mudigere road, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J5Q5V88+GG",
+        "compoundCode": "5V88+GG Belur, Karnataka, India"
+      },
+      "location": {
+        "latitude": 13.166320299999999,
+        "longitude": 75.8662744
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.164910169708499,
+          "longitude": 75.864935819708492
+        },
+        "high": {
+          "latitude": 13.167608130291503,
+          "longitude": 75.8676337802915
+        }
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=8910363081390821105",
+      "websiteUri": "https://www.oyorooms.com/h/50778?utm_source=Google_gmb&utm_medium=Organic&utm_campaign=CHK045&latitude=13.16632&longitude=75.86627&locale=en",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Mudigere road, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 99,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "OYO Pushpagiri Comforts",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Mudigere road, Belur",
+      "reviews": [
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/reviews/ChdDSUhNMG9nS0VJQ0FnSUM0Nk9xaTd3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "The rooms are okay but there is no room service for water. You have to go to ground floor to get water from a canteen. The staff is also quite less in number. For the price they charge the service is not the best. Parking space is not there you have to park your vehicle in a park around the corner for it to be somewhat safe. No kind of ventilation in the bathroom. So be ready for some smelly bathrooms. The rooms are big enough but not very well maintained. And for single person the room is very small and the room didn't have air conditioning for the single bed room.\nNearby good food shop is around 4-5 kms away so plan your dinner and lunch accordingly. I don't know whether you can swiggy or home delivery at this place or not. Better for shorter stays. Longer stays might become problematic.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The rooms are okay but there is no room service for water. You have to go to ground floor to get water from a canteen. The staff is also quite less in number. For the price they charge the service is not the best. Parking space is not there you have to park your vehicle in a park around the corner for it to be somewhat safe. No kind of ventilation in the bathroom. So be ready for some smelly bathrooms. The rooms are big enough but not very well maintained. And for single person the room is very small and the room didn't have air conditioning for the single bed room.\nNearby good food shop is around 4-5 kms away so plan your dinner and lunch accordingly. I don't know whether you can swiggy or home delivery at this place or not. Better for shorter stays. Longer stays might become problematic.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abhishek Maurya",
+            "uri": "https://www.google.com/maps/contrib/113818594880509703638/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJ9bxWHig4btZUpf612rxpmt3qLEoIPunignOvpZfUkjocMNg1cQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-06-01T03:33:10Z"
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/reviews/ChZDSUhNMG9nS0VJQ0FnSURNbkl5U0VBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 1,
+          "text": {
+            "text": "Didn't give rooms even though full amount was paid online to OYO, this is because of differences between Hotel owner and OYO. This happened during dasara holidays. The sufferer at the end is me & my family as a tourist who had been with  trust and confidence that my holidays will be used to full extent in happiness & enjoyment. I had to waste half day in search of other hotel and had to pay extra for approaching late. I also had to pay half day charge to my taxi for no mistake of him. This is the hospitality we get for trust, confidence and honesty.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Didn't give rooms even though full amount was paid online to OYO, this is because of differences between Hotel owner and OYO. This happened during dasara holidays. The sufferer at the end is me & my family as a tourist who had been with  trust and confidence that my holidays will be used to full extent in happiness & enjoyment. I had to waste half day in search of other hotel and had to pay extra for approaching late. I also had to pay half day charge to my taxi for no mistake of him. This is the hospitality we get for trust, confidence and honesty.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anand P S",
+            "uri": "https://www.google.com/maps/contrib/100742090346740001558/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaOZJirsYdskNTDEm-XQRd_hIT_FENJ8hUqqp9kG0a2LNybkU=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-12-20T17:38:05Z"
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwaEtxRjdRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 1,
+          "text": {
+            "text": "Very bad staff, rude, no parking space available. However they are affiliated with oyo but they imposed their bad relationship with oyo to the customer reaching their hotel in the midnight with family with expectations of smooth check in. However they made me wait for an hour and forced me to pay offline directly to them and get the money paid online to refunded at your own risk. A Never expected experience.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very bad staff, rude, no parking space available. However they are affiliated with oyo but they imposed their bad relationship with oyo to the customer reaching their hotel in the midnight with family with expectations of smooth check in. However they made me wait for an hour and forced me to pay offline directly to them and get the money paid online to refunded at your own risk. A Never expected experience.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kashi Swarnkar",
+            "uri": "https://www.google.com/maps/contrib/104773014767406708473/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXuM4coCs2ZX-uyCma3hHsMXaevvhaWHjPuWpi6ZCBZKSj0zYR=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-10-22T18:28:35Z"
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxbU0yMHRnRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very clean and Hygienic Rooms. Reasonable and Affordable price. Best lodge to stay in Belur town, and you can vist with yours family, Friends or for Business. And I need to share this, Owner and Crew were very Kind and Helpful.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very clean and Hygienic Rooms. Reasonable and Affordable price. Best lodge to stay in Belur town, and you can vist with yours family, Friends or for Business. And I need to share this, Owner and Crew were very Kind and Helpful.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jeevan Naganur",
+            "uri": "https://www.google.com/maps/contrib/107181855954052800598/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUu_sW9vf_mQZe2Aij5kidoX8AS8uRDY7J33mqFER22mxNuWnKm=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-05-26T02:44:02Z"
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMm9DTnNBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice location.. friendly staff, clean rooms and affordable price..just parking is a challenge.. otherwise big thumbs up",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice location.. friendly staff, clean rooms and affordable price..just parking is a challenge.. otherwise big thumbs up",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ganesh Ananthapadmanaban",
+            "uri": "https://www.google.com/maps/contrib/116814803209693805598/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaizbIncovbyH0ciiWThDN7juDSrKxru2T8xDo4e2T6b-3X79N=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-07-03T05:11:29Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJZwLICsu6Ipvxw88AW6mUJibKG5pEpHHHas-wRiyiwhLv5dRMclmsy3UCeFLefa9LzDZfBW9Hc5mjIBDl50X1Cxoav90s_8fTCPuJPkOg89IdO96GrKCNjdGkzeSMoMDEmhYFKl78mC_ErC4ADRfQTZ8cQ5j7u3CBRJ",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJbPzM1SLhHZ9QQl93fmvpn9XTfgMZJR4tymGhz879KQ6qm2HQQOmzLgy9wxubMPN5hOgFfdLGHEfq8uEizKJNSjgMmq6VwftJSkR6X3c8s_sBwZCljjJyE37w-pOBF5iGAOMxlqWGtKvCyGyeIxsdhEJh6iGT8SeZDD",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJYSRx-veZVi9hL_nhe_SPwN2E5sSvIWpPE3QjgOnWoCUPmxQry76MWnYm1xIbmSh48X3Q8HatzemTRG4Z_R3urWV_rSC7dAep8dr79UJV7vlaVk7Zht5U2eO46TU8X7-ems3We7G3tg0qof8bvCxINr-k4Q4rts0pGj",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJZsuKLa7Tds0rr9yLzifOxowuc9u-wI-14lgNc4GYQ4oqVV5ngqwX3uDcNqlVRQ68bWHCyg83u1IxAlfA5jxYalUBRbuNJ6n7epFhFaekIP5QPQotHcYt637jEg-uLYEeVx8SVMKZcJDH_j9-Nt-rTdBBDO3VXuXQYG",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJYw8V3XvFosmgcg1Rjlmu45Cm5x4DitJbkpvuae7kHBSzvcTSABoSByrgNW9x1-Fx9HbsAUReBcwUdhmLjS7VV-UVOLjSY_-L5HCrfs1gCiQ8i69F9-TUIMOJddu6nlgteSO1KCRCJFIKuF7rR53KYkbPHKF-r3QkW2",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJbZwZWEZQ-_Jv324ez2-XvTd5h9nPSFz88Gl7NfsMvl2pEimu02XTSYGVm7VzjFqW6HAJBPQrY5n96FBJBTZ7zsZE1ZOxKHRAmU2jLgqhUIKSDTe8TLPJ-h2ULnru7Glev7kbJ68CR3f8SlvIu8rliKyxiUCiy63lsL",
+          "widthPx": 1440,
+          "heightPx": 809,
+          "authorAttributions": [
+            {
+              "displayName": "PUSHPAGIRI COMFORTS",
+              "uri": "//maps.google.com/maps/contrib/108990233183703277957",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOE0TPguvSdtSHaFS4TsSNV20O3_CfeGIuqSQs9Abk8r9LyAw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJY_FhBPtd-LvAQHNkH_XITluNVyz-5aGTya__Fh2CcCDgFBTGkoYyUAa_pOwUanze2ZKsoD4Z5ND0m53UsH7qYisD88QU_dvhUDJVAwqWf53vNDyvIKWmcmbLTAsSMaDTdZg8DRUS61FUsSJ7ly0vu00Yn9l7wf6p9Q",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJbZ4Wb-4qkqMbe4uLpj-l9oS4lRc36HQOR48bonB9ycbYwIqltrOWv6_LqFnEYn2kf-2E-dhwKT-eweoAGq75PL8QO6r-HmjaJ2rc686M7EIRIG_6SsHm3Gu5C7G_w5vK1q8LSbXqHVOOiMHcT3TiO6L9d6DrWI3xA1",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJbu4NJjbZGSPg8O4xQ7Mv3hN8HEcM3-hHt5WzW1Mbu-AMO2668WWhF_OvAP4dBuJTWio0XuIkkxJI9KqoX3ikrHueBhOmxIuJnDzr7ER0kmor7DtudZkpYrlVAgSruBaJn5LH7xtimnciVW82lMYteNvW0VFv8m3VSo",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ56GZyLTujsR8Q4ObgP4p3s/photos/ATplDJYUxQVBRRzkBrQqpKzNB4n8HT3nTeAMxY7Rs6pPPZfbkyxk2fnYH9vVuUPdDamdhUqPgAXn2p5a3NIJl0kJCcBEGt4n6Rpy_o9BUB_I2yl0LeQwzTJeeQBbVLkqDRbsWGWB9j4Su4hBwN7slELnxpRRclsNiNQWwSF8",
+          "widthPx": 640,
+          "heightPx": 427,
+          "authorAttributions": [
+            {
+              "displayName": "OYO Pushpagiri Comforts",
+              "uri": "//maps.google.com/maps/contrib/106657615824409911612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX37qh5Bgq7WT9DdgtZ-wIm01xxkBqzb4rW090WYPzw3NrizLDS=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU",
+      "id": "ChIJmWGfZJnTujsRwD7bw5f2SNU",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0124 620 1327",
+      "internationalPhoneNumber": "+91 124 620 1327",
+      "formattedAddress": "Old, Market, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "Old",
+          "shortText": "Old",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Market",
+          "shortText": "Market",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J5Q5V88+QX",
+        "compoundCode": "5V88+QX Belur, Karnataka, India"
+      },
+      "location": {
+        "latitude": 13.166931,
+        "longitude": 75.867429
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.165567769708497,
+          "longitude": 75.8660858697085
+        },
+        "high": {
+          "latitude": 13.168265730291502,
+          "longitude": 75.8687838302915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=15368804860088237760",
+      "websiteUri": "https://www.oyorooms.com/h/39452?utm_source=Google_gmb&utm_medium=Organic&utm_campaign=CHK024&latitude=13.16693&longitude=75.86743&locale=en",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eOld, Market\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 268,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "OYO 16537 Guru Comforts",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Old, Market, Belur",
+      "reviews": [
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/reviews/ChZDSUhNMG9nS0VJQ0FnSURsbTVPS0x3EAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Pathetic place. There is no car parking facility. The entrance is so narrow. Blankets are very dirty.\n\nThere was power cut during the night time and they do not have backup.\n\nHot water won't work. It takes more than 2 hrs to fill one full bucket of hot water",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Pathetic place. There is no car parking facility. The entrance is so narrow. Blankets are very dirty.\n\nThere was power cut during the night time and they do not have backup.\n\nHot water won't work. It takes more than 2 hrs to fill one full bucket of hot water",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "nevetha vasu",
+            "uri": "https://www.google.com/maps/contrib/102693602516517756251/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWM_guu5W8-Q3yUj_3RV1q5f3ZtnaHcrV2m4MLW5Ns-aGhDck=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-04T01:44:08Z"
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/reviews/ChZDSUhNMG9nS0VJQ0FnSURsOUphc1dBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Room was good but there was issue with hot water and wifi. Not so costly.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Room was good but there was issue with hot water and wifi. Not so costly.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Basavaraj K A",
+            "uri": "https://www.google.com/maps/contrib/107326673079525081610/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWALhyZ1Tw5DYcW4GqJRhLFTRVTa-TGjn1JK8ZojuST0C4iNIvH=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-30T14:30:54Z"
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCemNQa3B3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "A good stay with all the basic amenities. The rooms were neat, clean & well maintained. The staff friendly & helpful as well. It is located in the heart of the city & very close to Cheena Keseva temple. Do keep in mind the final entrance is bit tricky & not updated correctly in google, so check with them in advance. Overall, I will recommend this stay",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A good stay with all the basic amenities. The rooms were neat, clean & well maintained. The staff friendly & helpful as well. It is located in the heart of the city & very close to Cheena Keseva temple. Do keep in mind the final entrance is bit tricky & not updated correctly in google, so check with them in advance. Overall, I will recommend this stay",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sagar Chamoli",
+            "uri": "https://www.google.com/maps/contrib/118099197370014128697/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKht3boxMb1sHKmue-nCb2hNVWGF-A_qrv_S9luF9emi-VXJWh7A=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-01-01T12:54:48Z"
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbXRyRGp3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Least maintained. Lots of Cockroaches. Not worth the money.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Least maintained. Lots of Cockroaches. Not worth the money.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhavitha Poojari",
+            "uri": "https://www.google.com/maps/contrib/110293874985946693050/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUp0UBnO1cW8HRDNpFI_xGXbUk83EZEK5nCoqn38sgp5VHGRe4x=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-27T22:20:38Z"
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/reviews/ChdDSUhNMG9nS0VJQ0FnSURNcXZTYmhRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome place!! Great rooms, comfortable stay and definitely fits in the pocket!! the rooms are in the budget!! Tidy neat and clean rooms, has a great ambience!!They have a rooftop garden, bathrooms are posch with jaguar fittings, 24 hrs hot water, AC is cool, they deliver food at your rooms and have a retaurant at the ground floor!!Safe Dedicatedsecure parking for the car and close the shuuters . The hotel even has a wine shop close at 100 mts. The staff are more than willing to help great hospital8ty!!!¡awesome place and great confort!! thank you team!! you are FAntabulous!!!Kudos!!!!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome place!! Great rooms, comfortable stay and definitely fits in the pocket!! the rooms are in the budget!! Tidy neat and clean rooms, has a great ambience!!They have a rooftop garden, bathrooms are posch with jaguar fittings, 24 hrs hot water, AC is cool, they deliver food at your rooms and have a retaurant at the ground floor!!Safe Dedicatedsecure parking for the car and close the shuuters . The hotel even has a wine shop close at 100 mts. The staff are more than willing to help great hospital8ty!!!¡awesome place and great confort!! thank you team!! you are FAntabulous!!!Kudos!!!!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "abishek anbazhagan",
+            "uri": "https://www.google.com/maps/contrib/110039228366471018142/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWU_JoFrpE_WCba87M2r1juTlq_B_Bswh3aoFpkG1ewKj8JiJ8=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-12-26T02:19:45Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJZ-fMfdzpqrkVTHbfootEOFSoM8Tm_YVB01QO2jSkalz8tSwG5dBOwpBvjB5w5B5THJgR60zLH-cILOR86I_YThER40Nec0n70D3sLUL4hLktklbntzrsHebkRs14xfAIPrKwDxgou0PORc4r3vNsawQ6Ni8FIASo7J",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Hitesh Sachania",
+              "uri": "//maps.google.com/maps/contrib/117905085759753876095",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBJNH-tw1bKBVD5NfCcgmalUIk4X0gRpOZ2I-u_yXVJjA4XqKglw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJa_JiL3ZnXBOzG-g-KysAMFx7SJWmnC-HFIYZinjzaNxeNxTLXk1Olssx6Lyq_P63S75GQ_dP9C-l7YbpkCYf4HocG_3fjLI7sfp7JwhGNOE-ORHpFkRkLpTLebFfGcgcqxOVbyNY9ft-Iw2cubWJrBMEhIcI1k9hrs",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Hitesh Sachania",
+              "uri": "//maps.google.com/maps/contrib/117905085759753876095",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBJNH-tw1bKBVD5NfCcgmalUIk4X0gRpOZ2I-u_yXVJjA4XqKglw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJaDkqIuNDUG7AR0Hj7gJohAG54cT-yHZgkVlHq3YAvfiLHp_J0j8HmKwFpaYGCjPyLtdS-cIa4aiRMmq4zaaLNsyGGuodfPkhPoydQUc3R_Jp0XNZepz1PtOQPl3ULVDNKHPu8njV9Cx6Kgez6m6bNCctkKi5yZlcQM",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Manohar Prabhu",
+              "uri": "//maps.google.com/maps/contrib/107637632685465986947",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJjY4Z2HnxTajSNyhLgJukYjm8v_xvm1cqbGAq3rsorfkrSWLNnQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJbqd8dyQGuXk7g4CD-YOqmxasQxp3743EYgKDWUNHjR3VLdbOEx4lugeZ_g8l0hhNKFjHVrSA0YIf48BjKSWiNsK9K9yj8CkkP5J3zw2zh0KID-FtXK71wRQCKHmsbSQGzD-W9P1cxHKVLHpVNKGzUKt_p-7Qzn8kC_",
+          "widthPx": 4608,
+          "heightPx": 2176,
+          "authorAttributions": [
+            {
+              "displayName": "R.Bose Rb",
+              "uri": "//maps.google.com/maps/contrib/113145989386659111709",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXMPkwR3fIcA2TJpD1RPMjYwgi1IC4hfkJg9k47Rl-kmcDOam1tuA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJZyd-atzi03DdeArpSAo6FHRXKrjWPpya0fUMhf_pNp_nI1Kdsa5gzsMeFItStCa5E5pjul84Z95nv-hXedeJ3iOgz4g8nJkU6hWal3TJqLpUN-ThCi4YtoQnCXpIGT-HMY-jKADRcJLrFX2XqzpDABp0PgtlnAtoKJ",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Om Singh",
+              "uri": "//maps.google.com/maps/contrib/117918577253194983922",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsSAuNC7N1uV87bFJJdb4S3LFLY6k1RvoYzs-2VQFnuxYfSLjE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJauZDKHg4-Osk3v2BSSI8IdlfEDr8SOMdd3Ak6WzOAtxvxelgZdfA-5nmDvby_7J1m2tsvGMBHV_jDqs-Yot_zuQBvsNvjjWyMn_FwXPaQiru4GAQo0NKDVqEUJrN1AakPlSS0gLstrR2tU7ZCW1EuO3eUAYAvqGcTH",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Prasanna Roopa",
+              "uri": "//maps.google.com/maps/contrib/103162509771691467378",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVbJKM3Z380zYtBScRvxQJTJiND7hKNhoERufuc0p8fBOCku4iT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJaaBiVc9Th5gImCzRGCh7IhVphrofSinLPCTXmuZFeuCUsZFH6vO5grSZLLu06VrJJg5rqDwxLcyqeAbzUBqL6intTB9pY40CH4JZEcfNUAIz0HAAt4NLJaU0t8a52c5j7w_GQCA3b9ts2yMJDdGwvgod5u22_cKZT6",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Supriya Chowdhury",
+              "uri": "//maps.google.com/maps/contrib/111833635999082406334",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLisKyK3bQdAERrqhq7_qZ8joGuiVHdrsLM539w68IzO-sGsQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJZPCmQ3cM2YtQH6f8fLO839uk8WwsCIFWQzDrZW94InSXDO-EuXH_mlWzB1CzECnVJpqP4ReGssCUKZRDnEkAEE60evQjaEtOBWYHbfrPZ1LKfcfxWV7y5PAO8vLnDt4PgVch7pAwrSFV8ZZ0TvkNP5OSXUfw8i7_4X",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Prasanna Roopa",
+              "uri": "//maps.google.com/maps/contrib/103162509771691467378",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVbJKM3Z380zYtBScRvxQJTJiND7hKNhoERufuc0p8fBOCku4iT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJZo-envjTWiYhkjZZbuLZAgV8PkMIP4Mhz_inbwNwxyf0oHcfw9TwdwwxVRfq3Iy8frqtLOHOhjbLZfp3LrnwqLU91LopikHHNILVIENEr4yurMP7DimFl2sDdliP_O--T3HZ0eR4bNIlCYyyYlAc5nWElQawh0HNLe",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Hitesh Sachania",
+              "uri": "//maps.google.com/maps/contrib/117905085759753876095",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBJNH-tw1bKBVD5NfCcgmalUIk4X0gRpOZ2I-u_yXVJjA4XqKglw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmWGfZJnTujsRwD7bw5f2SNU/photos/ATplDJY2rIHKSiOZomvyz98kGecR1nJP8LCTghcnxgij9ZReHO6yqezH40QsPCe3Pm5I4yEhmxKNYvCTGO8o5EBX85yWgR9vzXAhiA7rxJYtCNcVG2orrsY3-qklrwb53MO3tvqc43b_ibdyqKW5lMAA0eIxmT0RY0zi7AyK",
+          "widthPx": 2592,
+          "heightPx": 3022,
+          "authorAttributions": [
+            {
+              "displayName": "Hitesh Sachania",
+              "uri": "//maps.google.com/maps/contrib/117905085759753876095",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBJNH-tw1bKBVD5NfCcgmalUIk4X0gRpOZ2I-u_yXVJjA4XqKglw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsDebitCards": false,
+        "acceptsCashOnly": false
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks",
+      "id": "ChIJZxlgc9vSujsR1FbeLAiI8ks",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5V76+CXG, Temple Rd, Belur, Karnataka 573115, India",
+      "addressComponents": [
+        {
+          "longText": "5V76+CXG",
+          "shortText": "5V76+CXG",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Temple Road",
+          "shortText": "Temple Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belur",
+          "shortText": "Belur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Hassan",
+          "shortText": "Hassan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "573115",
+          "shortText": "573115",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 13.1635546,
+        "longitude": 75.8624674
+      },
+      "viewport": {
+        "low": {
+          "latitude": 13.162151069708496,
+          "longitude": 75.8611315197085
+        },
+        "high": {
+          "latitude": 13.164849030291501,
+          "longitude": 75.8638294802915
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=5472586065902458580",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "5V76+CXG, \u003cspan class=\"street-address\"\u003eTemple Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e573115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 102,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Paryatan",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "5V76+CXG, Temple Rd, Belur",
+      "reviews": [
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxX095YVJREAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Economical lodge with basic amenities... Car parking available.... Best price in belur located near hoysala temple... Suitable for family",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Economical lodge with basic amenities... Car parking available.... Best price in belur located near hoysala temple... Suitable for family",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vardhini S",
+            "uri": "https://www.google.com/maps/contrib/104994257166679272664/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5aGTkEljmjJmhbeMhomgn976bikWokosQ-6CTrrfF-JjC2Z6H=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-25T14:53:19Z"
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/reviews/ChZDSUhNMG9nS0VJQ0FnSURCaDV1Z1d3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 3,
+          "text": {
+            "text": "Clean rooms , hot water available always.Easy access, polite receptionist. Limited but manageable parking. Neither cheep nor costly.Walkable distance from the temple and eateries etc. On the whole OK.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Clean rooms , hot water available always.Easy access, polite receptionist. Limited but manageable parking. Neither cheep nor costly.Walkable distance from the temple and eateries etc. On the whole OK.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arunkumar Holla",
+            "uri": "https://www.google.com/maps/contrib/110097322402197973308/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyOjcShhwzPWQRKDU8ymXIasXcDTPiKY080mfI3ir5WqsRcst6MA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-01-30T09:03:41Z"
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxcktPdVJnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice lodging at belur near chennakeshwaswami temple 👌",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice lodging at belur near chennakeshwaswami temple 👌",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajesh Gholve",
+            "uri": "https://www.google.com/maps/contrib/107257677717288978488/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUni5odAUbyTqWbZpQbiS7fIYQDbeN9iD2vrtVk9Thbu8PW6qNc=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-12-24T15:38:32Z"
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyamJfQUZBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Rooms little cramped but with 24 hours hot water, Aquaguard machine, very near the temple. Very affordable at 1000/day (April 2022). However no room service, have to walk a little for good restaurants. Has underground parking and that's a huge plus point.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Rooms little cramped but with 24 hours hot water, Aquaguard machine, very near the temple. Very affordable at 1000/day (April 2022). However no room service, have to walk a little for good restaurants. Has underground parking and that's a huge plus point.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nitin Bhandare",
+            "uri": "https://www.google.com/maps/contrib/102213745589408416019/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVomE_uYOzUNo6FRUTmhV5b3xUdY8Ce1SZpQWC2HJpABPcNn8LI=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-04-26T14:01:37Z"
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/reviews/ChZDSUhNMG9nS0VJQ0FnSURodUlfX1dREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "A very good hotel at an affordable price. Clean rooms and a good bathroom. Close to the temple. Recommended.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A very good hotel at an affordable price. Clean rooms and a good bathroom. Close to the temple. Recommended.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Geoff Keys",
+            "uri": "https://www.google.com/maps/contrib/110819715324591746417/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoO5Frbp2FBOE5SNduT5fd_tj8MIoBfGYFVNXhtjdxArLJqYI6=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-03-01T05:20:23Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJZ9VR4xRVw1nUVweTgt7YbMEzkqHHcJCvFFIePRexuhul8iMoylpxPJaoxHsuwIazTMlNjwu08YxEY335ajppTv8Kls146Jq1X76lcqdIdmYOkh2eWRAUO79D6l6t3LfcRaCwwJGvcqXDC2ux4ED5gWMtCdlgcP-yRE",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Arunkumar Holla",
+              "uri": "//maps.google.com/maps/contrib/110097322402197973308",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXyOjcShhwzPWQRKDU8ymXIasXcDTPiKY080mfI3ir5WqsRcst6MA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJaU9sICf_mk8uQRgYvJHQ55MqXFXDbTgTzBez2c0QBoEQZWtnQxY9U3UY1hWbbWM49oW01uaUzAUJb0S3f0olYdfF4XmCIVzbreNaZnWBtXsznF_xTap64gXTNBGtrHFiOSOnIB5vZaHBGhCbimt-a85pXfzM1tqPa4",
+          "widthPx": 5472,
+          "heightPx": 3648,
+          "authorAttributions": [
+            {
+              "displayName": "Nagesh H M",
+              "uri": "//maps.google.com/maps/contrib/110417330675397584464",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0K9DqYFXlz-9R5osWlTOV1uVIuE99J_WG53pe7a-xgVqkzxKa=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJaeDty0T8iQJYRWIbWkue1JDAPJpGIwFFl58yVyyihVvwxLdSJFpyJjNKkXjRxlp4i8geBsKNIRk10qHMZs8GW5JM7j0rbLuftPF5odCUpZfipY_YBuLE8pW4rjQphR9KHX-QE0eqyBU_D3CgnnISzUhEaBUW7YCIKM",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Arunkumar Holla",
+              "uri": "//maps.google.com/maps/contrib/110097322402197973308",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXyOjcShhwzPWQRKDU8ymXIasXcDTPiKY080mfI3ir5WqsRcst6MA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJZc22-l9_2YtCvHBG_oZur3RglDiAy-0uOiIvXQAGKL50qxLIXuXxVzaAT8mLuyeY64ot7CqXjCZ1BDtFL8kfNXkukOdt2TyHuDzKUbS8zQkEitMGPAqfTDwj17tBmcFnjNve8HvwEmZx5VsqZxcVchFWTSrR31dCkf",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Kunwar Innpal Singh Bhati (Thikana Sidda)",
+              "uri": "//maps.google.com/maps/contrib/109767484716549942549",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEgXHj5g2efdZF19HouIn6HFGlZs1fRBKyqHTDLcUesJeileF_vg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJZ6mWbxDSVub08YRU9N_n5jhIyXqFfAjY7gl-6_k0OBIU3sbjWiiqKMPbXiuyrY7qEwEnuR_a45aQdZWulIx5DJOXi6cJOhLjMz4clHGaZSH72r5nDoGb6H6RoQEmpf3W7eHceC44Djf04DVg5rW09XoQf3dckPs4J-",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Rahul Gandhi",
+              "uri": "//maps.google.com/maps/contrib/113607209340830217254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU9Qw5b8A0BIMzgQat-ucHDem5D9uzNTnNe7q1rkbTaW-9POWqmRA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJY91SCOtYBZyfWvU32erx6IW2V_L_8hiJU-SUwgHKRa6evOzjex9QZ67UwwxSzNznDr3d80fSn8Pwr22iDTIsOHl5KauhmM1ozJ_PEbIG1C6kf0Q9jT5abvZMYBSZ8bPNpcdbGC9C5UW1Sj1PPZhP500RlqQEp6EqxH",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Nagendra B N",
+              "uri": "//maps.google.com/maps/contrib/111563499815389273657",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLghgtp3c6Zvu1sTUzCDU84T7JbjCnJkwQxoCKSsPrFELCM3g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJa6J_71u-1xvvI9DkP90hG5mc0m9c1sajQj_apaZe6h5-lvq1rA6avw0FTxO77WltpWmcDvAKm0hn-zooqw-kn12WYZusDPP5aGoo3cdWDF-Y3NQAr_8-WaLFexNVnCkeabl1xv0TK9lq9Iq7y2-WUHPOLAdS08pCp0",
+          "widthPx": 4608,
+          "heightPx": 2076,
+          "authorAttributions": [
+            {
+              "displayName": "DINESH Shetkar",
+              "uri": "//maps.google.com/maps/contrib/101584627115962559555",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBR97XbpuVvlAci1gDikRBEALcLFqwhlLbY32IYzL5xovDhqNZ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJaYm7n002JY127ShdFeSaashIsJG2njRzwcjakS5QzkBAKg2ihReFkXfJsBee_fvAvsHZmJuO4YNPyEZkHWmawyixjs_smNt3XdaFwZXjaS7lMBq-oMoEEiur4FDFP1Iz-mzBsKQNNcsEXMstwOTu0SzDyIudWMlbAq",
+          "widthPx": 2076,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "DINESH Shetkar",
+              "uri": "//maps.google.com/maps/contrib/101584627115962559555",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBR97XbpuVvlAci1gDikRBEALcLFqwhlLbY32IYzL5xovDhqNZ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJZXvDIVYPiUWeYOJ0M9NhjQDmw4ovI8Q-hFSfW6l6AwAxTaGKfa29Q8D23C1bDrwsvnhrgIU9p1Mwg7X3WRNz9PmWm87em3KPsmPWqgiNCa6gFi78CSQ-dhGtwVbGIXWM5e1gQZFpWXXuSmeN-0WFHYHpPxlk1DpiJD",
+          "widthPx": 4608,
+          "heightPx": 2076,
+          "authorAttributions": [
+            {
+              "displayName": "DINESH Shetkar",
+              "uri": "//maps.google.com/maps/contrib/101584627115962559555",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBR97XbpuVvlAci1gDikRBEALcLFqwhlLbY32IYzL5xovDhqNZ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZxlgc9vSujsR1FbeLAiI8ks/photos/ATplDJaaVBWpXHwmViBOOewBKBfWQdsTnGg6GZDVHH8IBAsoxLCmAmQq1lhZ-JZCEihMYy6a1eGABUnTYPl14SzcZLxHwlXbbLKaWN95WF3R61S3cpCtcmnwbYU60ytTIFl9rdgCFK9ki8uulxrSSZQ_B53GRSXENvcDbEw",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Guhan Ginu",
+              "uri": "//maps.google.com/maps/contrib/108373883749491624045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVJHpGDp7-1phcG-n8qyNDt9gBX6Yvwc9SlDNHggqNN4BddWDc=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    }
+  ]
+}
+

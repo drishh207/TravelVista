@@ -1,0 +1,142 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJMw4dM-of4jgRNOkV6Ku7uDM",
+      "id": "ChIJMw4dM-of4jgRNOkV6Ku7uDM",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "NH1A MAIN MARKET, Awantipora, 192122",
+      "addressComponents": [
+        {
+          "longText": "Awantipora",
+          "shortText": "Awantipora",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "192122",
+          "shortText": "192122",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J5QW2C7+9R",
+        "compoundCode": "W2C7+9R Awantipora, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 33.920923699999996,
+        "longitude": 75.014578399999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 33.9195457197085,
+          "longitude": 75.013132919708482
+        },
+        "high": {
+          "latitude": 33.9222436802915,
+          "longitude": 75.0158308802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3726935038656637236",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "NH1A MAIN MARKET, \u003cspan class=\"locality\"\u003eAwantipora\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e192122\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Janbaz tea stall",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "NH1A MAIN MARKET, Awantipora",
+      "photos": [
+        {
+          "name": "places/ChIJMw4dM-of4jgRNOkV6Ku7uDM/photos/ATplDJZwgDu6tQv9-6tpsUSLMmH3m-8YLuI0gC8GGzVk-_M2NFBmWEA2Dv-FrEZR6fmOEavno1s55G81EzShjuhKtrx548YyJ2v5t1L97fFCDmeYcAKjzaZipkqDOCcbkUSe82rMXZOF3palcIss1RzWATeyZ5662DMHvTSj",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Sajad Akram",
+              "uri": "//maps.google.com/maps/contrib/117706990610480749556",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFOfmwGVkp5JmmbiK2-_ep-A0XgMcJJIFGPX2CgA8V2t831FwH=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Itinerary</title>
+    <link rel="stylesheet" href="css/styles_itinerary.css">
+</head>
+<body>
+    <h1>Your Itinerary</h1>
+
+    <div id="itinerary-container">
+        <div id="error-message" class="error-message"></div>
+        <div id="itinerary-details">
+            <div id="itinerary-1" class="itinerary"></div>
+            <div id="itinerary-2" class="itinerary"></div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const itineraryDetails = document.getElementById('itinerary-details');
+            const errorMessage = document.getElementById('error-message');
+            const urlParams = new URLSearchParams(window.location.search);
+            const dataParam = urlParams.get('data');
+            console.log('dataParam:', dataParam);
+
+            if (dataParam) {
+                let itineraryRequestData;
+                try {
+                    // Decode and parse the data parameter
+                    itineraryRequestData = JSON.parse(decodeURIComponent(dataParam));
+                    console.log('Parsed itineraryRequestData:', itineraryRequestData);
+
+                    // Extract only the names of places to visit
+                    if (itineraryRequestData.places_to_visit) {
+                        itineraryRequestData.places_to_visit = itineraryRequestData.places_to_visit.map(place => place.name);
+                    }
+                } catch (error) {
+                    console.error('Error parsing data parameter:', error);
+                    errorMessage.textContent = 'Invalid data parameter.';
+                    errorMessage.style.display = 'block';
+                    return;
+                }
+
+                // Fetch the itinerary data from the Flask API
+                fetch('http://127.0.0.1:9004/get_itinerary', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(itineraryRequestData)
+                })
+                .then(response => {
+                    if (response.ok) {
+                        return response.json();
+                    } else {
+                        throw new Error('Failed to fetch itinerary');
+                    }
+                })
+                .then(data => {
+                    console.log('Received itinerary data:', data);
+                    displayItinerary(data);
+                })
+                .catch(error => {
+                    console.error('Error fetching itinerary:', error);
+                    errorMessage.textContent = 'Error fetching itinerary. Please try again later.';
+                    errorMessage.style.display = 'block';
+                });
+
+                function displayItinerary(data) {
+                    const itinerary1Container = document.getElementById('itinerary-1');
+                    const itinerary2Container = document.getElementById('itinerary-2');
+                    
+                    const itineraryText = data.candidates[0].content.parts[0].text;
+
+                    // Split and format itineraries
+                    const [itinerary1Text, itinerary2Text] = itineraryText.split('**Itinerary 2**').map(itinerary => itinerary.trim());
+
+                    // Extract and format Itinerary 1
+                    const itinerary1Formatted = formatItinerary(itinerary1Text.replace('**Itinerary 1**', '').trim());
+
+                    // Extract and format Itinerary 2
+                    const itinerary2Formatted = formatItinerary(itinerary2Text.replace('**Itinerary 2**', '').trim());
+
+                    // Set the formatted itineraries to the respective containers
+                    itinerary1Container.innerHTML = `<h2>Itinerary 1</h2>${itinerary1Formatted}`;
+                    itinerary2Container.innerHTML = `<h2>Itinerary 2</h2>${itinerary2Formatted}`;
+                }
+
+                function formatItinerary(itinerary) {
+                    return itinerary
+                        .split('\n')
+                        .map(line => {
+                            // Bold the content between '**'
+                            return line.replace(/\*\*(.*?)\*\*/g, '<b>$1</b>')
+                                // Handle bullet points
+                                .replace(/\* (.*?)(?=\n|$)/g, '<li>$1</li>')
+                                // Handle paragraphs without bullets
+                                .replace(/^(?!<li>)(.*?)(?=\n|$)/gm, '<p>$1</p>')
+                                .replace(/<p><\/p>/g, '') // Remove empty paragraphs
+                                .replace(/<p>(<li>.*?<\/li>)<\/p>/g, '$1'); // Fix nested list items
+                        })
+                        .join('');
+                }
+            } else {
+                const noDataElem = document.createElement('p');
+                noDataElem.textContent = 'No itinerary data provided.';
+                itineraryDetails.appendChild(noDataElem);
+            }
+        });
+    </script>
+</body>
+</html>
+

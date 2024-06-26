@@ -1,0 +1,632 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns",
+      "id": "ChIJJ8mgnOQNyDsRbOBOrbCl_ns",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "FH8X+PR7, Hebbal B, Karnataka 585215, India",
+      "addressComponents": [
+        {
+          "longText": "FH8X+PR7",
+          "shortText": "FH8X+PR7",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Hebbal B",
+          "shortText": "Hebbal B",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Yadgir",
+          "shortText": "Yadgir",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalaburagi Division",
+          "shortText": "Kalaburagi Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "585215",
+          "shortText": "585215",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 16.4667971,
+        "longitude": 76.599549299999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 16.4654576197085,
+          "longitude": 76.5981509697085
+        },
+        "high": {
+          "latitude": 16.4681555802915,
+          "longitude": 76.6008489302915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=8934760888990097516",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 6:00 PM",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: Closed",
+          "Friday: Closed",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "FH8X+PR7, \u003cspan class=\"locality\"\u003eHebbal B\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e585215\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "ಶ್ರೀ ನಿಜ ಶರಣ ಅಂಬಿಗರ ಚೌಡಯ್ಯ ಸರ್ಕಲ್",
+        "languageCode": "kn"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 6:00 PM",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: Closed",
+          "Friday: Closed",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "FH8X+PR7, Hebbal B",
+      "reviews": [
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/reviews/ChZDSUhNMG9nS0VJQ0FnSURlNkt1MUpnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Ok",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ok",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Veeresh S kumbar",
+            "uri": "https://www.google.com/maps/contrib/108576943267948995245/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpJO1f0vHOBiCfFF9v2URGhLjw9y5oCEVvcrd9dafinESCnj5I=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-10-01T04:23:19Z"
+        },
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwaWZHNmhnRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Circle",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Circale",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Venkates.p.chavan venkates.p.chavan",
+            "uri": "https://www.google.com/maps/contrib/117762648025231595257/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJc4JmKp0Y5XRQHksQV9w4KQy_MFqaVslYmM4uyz42Q29gi9Q=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-10-01T12:08:30Z"
+        },
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdFlldFZREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 2,
+          "authorAttribution": {
+            "displayName": "Bhimanna Bakli",
+            "uri": "https://www.google.com/maps/contrib/112753750153985541485/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJS0xPHKn--WE7q8KO1lGraR2hIf-Ir7Pk1ljSGtaAzHu10Kg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-01-15T01:34:11Z"
+        },
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3NU43cEhREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Bheemu Godekara",
+            "uri": "https://www.google.com/maps/contrib/101981365994177545577/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLi2xsDd3vnUREtJmxdr1mAoaarc5R6TtCuqYbLLpKvXkS7xA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-10-21T08:36:50Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/photos/ATplDJa5AuvDL27N_O0pHRhhmNfCXbHOjkqRYb9AaFBm18GEXksAYld74x2Tp12xHc8IbFeFTiKSKayNMpnQbBtaJLk4vTfDe4-TGgFWpRQj_Ze-hKj0dSmYXOqGgUT7tMsMGkVRqY3snXbosTExbxShKROAImfid-DVNcoz",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Mallu T",
+              "uri": "//maps.google.com/maps/contrib/104481719924299134130",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJdlb2XeNpjUGC3Bzv-cNlsr6J4uZVNB97KFFyNrnGPyKVAww=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/photos/ATplDJa98iQHqd-h7Vty1J3L25QPvl4UknUEcBiGHZ23mNWS9sKp-4Ek3IqF9ifatX-6lIdKq-EgdLDg_xoJ9zIaE8trPS70oKEOZWSbxcdR0PEWxpMlLRJKeJHsBaB339G6pIPVoOQLpPpuL9bqlVWr8-W65mTAcZ3RO-e_",
+          "widthPx": 1023,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Bheemanna",
+              "uri": "//maps.google.com/maps/contrib/106302053273849657479",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnxM-m5vtDApsK1TJc0vE4v08L05i5NDGKAXGlAjmD7uTAHQE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/photos/ATplDJa-A-OqH5F6_NyQe78TVb13aNJj94HgVLETtrp3KLiRkm6BTuA6VPr8j7hrF5SdEPjO_tFgkowoQgZ1plgUIBHK2v13sM5aLU6jrTa-GXqeCQSSK_ZWAoQZG68LWjOM1SJ4AZOyVEmFx3zI-sh4Xp1ULhQwzmpD06IZ",
+          "widthPx": 1080,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Bheemanna",
+              "uri": "//maps.google.com/maps/contrib/106302053273849657479",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnxM-m5vtDApsK1TJc0vE4v08L05i5NDGKAXGlAjmD7uTAHQE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/photos/ATplDJZfE0J6dxwC579KrbxRMBqjDaqCmbJ7dRc7hfictLMG2PU5jkaUjAYTqZS1HufAcSH37VimRF97ggavgX1AyHlvlvys0pfzxVGJkA9vhBI8V-_E3btt3Z6EGp7cmpZTr0zQq9iDZI4e5BMJ8COilkuxqhcV31t4FkfQ",
+          "widthPx": 294,
+          "heightPx": 424,
+          "authorAttributions": [
+            {
+              "displayName": "Bheemu Godekara",
+              "uri": "//maps.google.com/maps/contrib/101981365994177545577",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLi2xsDd3vnUREtJmxdr1mAoaarc5R6TtCuqYbLLpKvXkS7xA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJ8mgnOQNyDsRbOBOrbCl_ns/photos/ATplDJaf1h4MaL2mPavbhmsRDUeTpl2PndMjZciG2IP49ZyJqgF-dk_G35wVYyVEbTZ-vee7qRJdqmPldgcWIIl0gLAxKmnGGXT87FPWhBc0F6jD7sPDNrTEt9yjaHDM0nddQhkCBSBlPl6hC9xBtPFfQ8EHmKEHkMxmQzrr",
+          "widthPx": 454,
+          "heightPx": 605,
+          "authorAttributions": [
+            {
+              "displayName": "Bheemu Godekara",
+              "uri": "//maps.google.com/maps/contrib/101981365994177545577",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLi2xsDd3vnUREtJmxdr1mAoaarc5R6TtCuqYbLLpKvXkS7xA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJiRZjvuQNyDsRIwkkBAnnf78",
+      "id": "ChIJiRZjvuQNyDsRIwkkBAnnf78",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "096639 38063",
+      "internationalPhoneNumber": "+91 96639 38063",
+      "formattedAddress": "Hebbal B, Kaldevanhalli, Karnataka 585215, India",
+      "addressComponents": [
+        {
+          "longText": "Hebbal B",
+          "shortText": "Hebbal B",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Yadgir",
+          "shortText": "Yadgir",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalaburagi Division",
+          "shortText": "Kalaburagi Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "585215",
+          "shortText": "585215",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J8RFHGR+G6",
+        "compoundCode": "FHGR+G6 Hebbal B, Karnataka, India"
+      },
+      "location": {
+        "latitude": 16.4763291,
+        "longitude": 76.5905415
+      },
+      "viewport": {
+        "low": {
+          "latitude": 16.476127769708498,
+          "longitude": 76.58818716970849
+        },
+        "high": {
+          "latitude": 16.4788257302915,
+          "longitude": 76.590885130291511
+        }
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=13799001809196681507",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Hebbal B, \u003cspan class=\"locality\"\u003eKaldevanhalli\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e585215\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Joya Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Hebbal B",
+      "reviews": [
+        {
+          "name": "places/ChIJiRZjvuQNyDsRIwkkBAnnf78/reviews/ChdDSUhNMG9nS0VJQ0FnSURadWVELTZRRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Anand g Anand g",
+            "uri": "https://www.google.com/maps/contrib/116892575607147421899/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoXL5CzDbLIccyxaUKLE0LJOIpyAw_foRXJt23_6kiFOdiUQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-04T12:00:38Z"
+        },
+        {
+          "name": "places/ChIJiRZjvuQNyDsRIwkkBAnnf78/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4eTdTZWpRRRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 2,
+          "authorAttribution": {
+            "displayName": "Parashu S Pujari",
+            "uri": "https://www.google.com/maps/contrib/111743835240211686362/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtUfq0Ecl48iQa0r7oPLvio7FGdrj3-RYC9BSOP-VKCbYaHFY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-05-26T03:59:51Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJOxGEHbJzyDsRigj9K_wWsvo",
+      "id": "ChIJOxGEHbJzyDsRigj9K_wWsvo",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "096119 06662",
+      "internationalPhoneNumber": "+91 96119 06662",
+      "formattedAddress": "Hunasagi, Kaldevanhalli, Karnataka 585215, India",
+      "addressComponents": [
+        {
+          "longText": "Hunasagi",
+          "shortText": "Hunasagi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Yadgir",
+          "shortText": "Yadgir",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalaburagi Division",
+          "shortText": "Kalaburagi Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "585215",
+          "shortText": "585215",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J8RFHHV+86",
+        "compoundCode": "FHHV+86 Hunasagi, Karnataka, India"
+      },
+      "location": {
+        "latitude": 16.4782938,
+        "longitude": 76.59306939999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 16.4776787697085,
+          "longitude": 76.5917127197085
+        },
+        "high": {
+          "latitude": 16.480376730291507,
+          "longitude": 76.5944106802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18064526327662053514",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Hunasagi, \u003cspan class=\"locality\"\u003eKaldevanhalli\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e585215\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Archena Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Hunasagi"
+    },
+    {
+      "name": "places/ChIJzyG-rkRzyDsRnTJRTb4oeZQ",
+      "id": "ChIJzyG-rkRzyDsRnTJRTb4oeZQ",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "FHJG+432, Kakkera, Channur, Karnataka 585215, India",
+      "addressComponents": [
+        {
+          "longText": "FHJG+432",
+          "shortText": "FHJG+432",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Kakkera",
+          "shortText": "Kakkera",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Yadgir",
+          "shortText": "Yadgir",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalaburagi Division",
+          "shortText": "Kalaburagi Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "585215",
+          "shortText": "585215",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 16.4799812,
+        "longitude": 76.575330800000017
+      },
+      "viewport": {
+        "low": {
+          "latitude": 16.4785881197085,
+          "longitude": 76.573980269708514
+        },
+        "high": {
+          "latitude": 16.481286080291504,
+          "longitude": 76.57667823029152
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10698627187601388189",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "FHJG+432, \u003cspan class=\"locality\"\u003eKakkera, Channur\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e585215\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "ರೇಖಾ ಕಿರಾಣಿ ಸ್ಟೋರ್",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "FHJG+432, Kakkera, Channur"
+    }
+  ]
+}
+

@@ -1,0 +1,3814 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg",
+      "id": "ChIJ5Wfzn7PDGzkRvkI4oS5XLGg",
+      "types": [
+        "hotel",
+        "banquet_hall",
+        "restaurant",
+        "lodging",
+        "event_venue",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "089688 26188",
+      "internationalPhoneNumber": "+91 89688 26188",
+      "formattedAddress": "Q6W2+8W Jalandhar, Amritsar Bypass, Thathari Gate, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "Amritsar Bypass",
+          "shortText": "Amritsar Bypass",
+          "types": [
+            "route"
+          ],
+          "languageCode": "hi"
+        },
+        {
+          "longText": "Thathari Gate",
+          "shortText": "Thathari Gate",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J3QQ6W2+8W",
+        "compoundCode": "Q6W2+8W Batala, Punjab, India"
+      },
+      "location": {
+        "latitude": 31.7958125,
+        "longitude": 75.202312499999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.794467569708505,
+          "longitude": 75.2009637197085
+        },
+        "high": {
+          "latitude": 31.7971655302915,
+          "longitude": 75.2036616802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=7506470536704705214",
+      "websiteUri": "http://msvictoria.in/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Q6W2+8W Jalandhar, \u003cspan class=\"street-address\"\u003eAmritsar Bypass\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eThathari Gate\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 123,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel MS Victoria /AC rooms hotel in batala /Hotels in Batala/Best Luxury Hotels in Batala/banquet hall in Batala",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 28
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 22
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 23
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 24
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 25
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 26
+                }
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              },
+              "close": {
+                "day": 6,
+                "hour": 22,
+                "minute": 30,
+                "date": {
+                  "year": 2024,
+                  "month": 4,
+                  "day": 27
+                }
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 10:30 PM",
+            "Tuesday: 9:00 AM – 10:30 PM",
+            "Wednesday: 9:00 AM – 10:30 PM",
+            "Thursday: 9:00 AM – 10:30 PM",
+            "Friday: 9:00 AM – 10:30 PM",
+            "Saturday: 9:00 AM – 10:30 PM",
+            "Sunday: 9:00 AM – 10:30 PM"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        }
+      ],
+      "regularSecondaryOpeningHours": [
+        {
+          "openNow": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 0,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 1,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 1,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 2,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 2,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 3,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 3,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 4,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 4,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 5,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 5,
+                "hour": 22,
+                "minute": 30
+              }
+            },
+            {
+              "open": {
+                "day": 6,
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "day": 6,
+                "hour": 22,
+                "minute": 30
+              }
+            }
+          ],
+          "weekdayDescriptions": [
+            "Monday: 9:00 AM – 10:30 PM",
+            "Tuesday: 9:00 AM – 10:30 PM",
+            "Wednesday: 9:00 AM – 10:30 PM",
+            "Thursday: 9:00 AM – 10:30 PM",
+            "Friday: 9:00 AM – 10:30 PM",
+            "Saturday: 9:00 AM – 10:30 PM",
+            "Sunday: 9:00 AM – 10:30 PM"
+          ],
+          "secondaryHoursType": "BREAKFAST"
+        }
+      ],
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Q6W2+8W Jalandhar, Amritsar Bypass, Batala",
+      "editorialSummary": {
+        "text": "Unpretentious rooms in a down-to-earth hotel offering a restaurant & event space.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMHB2Rk1BEAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 4,
+          "text": {
+            "text": "All hotel management is perfect you can take perfect portait over there\nbut Noise of Fly killers inside the hotel is too high I shocked first time when I noticed light hearted don't sit close to it",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "All hotel management is perfect you can take perfect portait over there\nbut Noise of Fly killers inside the hotel is too high I shocked first time when I noticed light hearted don't sit close to it",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "darshan singh",
+            "uri": "https://www.google.com/maps/contrib/108114952325605053555/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUFWtwy8aI_a1RelA95OXGT0cSRwca29SUxDZ8EaHOt2U_gbFg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-26T12:10:46Z"
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbDVTS2lBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I stay in this hotel for 5 days and the services they provides is soo good and too fast except of all hotels in Batala and the food that they give to me is fresh and fully baked that’s soo good .\nThe furniture in hotel is too good ❤️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I stay in this hotel for 5 days and the services they provides is soo good and too fast except of all hotels in Batala and the food that they give to me is fresh and fully baked that’s soo good .\nThe furniture in hotel is too good ❤️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "khalsa gamer",
+            "uri": "https://www.google.com/maps/contrib/108520517819219229721/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJxuq9QiIdu5g8vCoE3eqR4yWUoV_WF-hTn_W8oLrvBRmVi5w=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-19T03:44:34Z"
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/reviews/ChdDSUhNMG9nS0VJQ0FnSUROOTdiMGpBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It's superb comfortable rooms\nStaff was very cooperative\nI really enjoy my stay\nMiss gagan help me to how share the review",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's superb comfortable rooms\nStaff was very cooperative\nI really enjoy my stay\nMiss gagan help me to how share the review",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Karambir Bhullar",
+            "uri": "https://www.google.com/maps/contrib/100198608059996123573/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3nvMhtd7HbfR_Y3ehm1Gm1WJbNwWkQpuMihjtNvDGgfSjMg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-27T05:19:22Z"
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/reviews/ChZDSUhNMG9nS0VJQ0FnSURadk9fM0Z3EAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 4,
+          "text": {
+            "text": "no water in attached bathrooms. stayed for one night but it was a nightmare. zero room set ice no one was there to pick the phone as if we were only guest there with no staff member to serve except chokidar and one at reception to take money for the stay. only room ac was working fine. room was neat and clean and newly built.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "no water in attached bathrooms. stayed for one night but it was a nightmare. zero room set ice no one was there to pick the phone as if we were only guest there with no staff member to serve except chokidar and one at reception to take money for the stay. only room ac was working fine. room was neat and clean and newly built.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raman Wadhawan",
+            "uri": "https://www.google.com/maps/contrib/110969556979168908020/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIbti6XYbmoCk1J30f7YfhEtMz5HfowWmbVDb14ZABQRcaxHg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-26T18:35:24Z"
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscThmVmlnRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Good ambience.. Good catering service.. Very spacious.. It was my first visit to Victoria",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good ambience.. Good catering service.. Very spacious.. It was my first visit to Victoria",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AMBIKA MALIK",
+            "uri": "https://www.google.com/maps/contrib/115375455923471658105/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK78HuMB-D53QP-J_9dicb9IrBafpNlwvFi9Tn5C5LPuD74SQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-27T10:55:00Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJYiIJuhyGe9ZCmSTY47cMXJGA-k43LSDwKj7him8D_g8Wck6Pvg2cqAVpCUp-gGL0_gou3N1ncuyhFOOnO645CCbZG6hg0_BzzE9T0YNAH0iAF8ppdbbXTOc-S-HaRczNZvch6xf1wu2Hhg6bZ3ywxxnXFqANRjpVmK",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel MS Victoria /AC rooms hotel in batala /Hotels in Batala/Best Luxury Hotels in Batala/banquet hall in Batala",
+              "uri": "//maps.google.com/maps/contrib/103791710246498573327",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUjnfz4tBhxt5lTZqg2Wa4fveE57QCYmzfB_-h7OdptE6Fwcto=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJbS9aigYYHTV_-lo3egiA6VkO0FY2-abSiJJS2l_vtgwLHyOuNs1diYOf8beuiPy6O8jxOTfXGv2SdhX97fLSkQOSgBbZEz2C7WEfZTuKmSJIMy5O4BItgAzPnI5gymiG94WAongMjrrzJWTwWOQCfLxPnQEWX_hX9r",
+          "widthPx": 1000,
+          "heightPx": 667,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel MS Victoria /AC rooms hotel in batala /Hotels in Batala/Best Luxury Hotels in Batala/banquet hall in Batala",
+              "uri": "//maps.google.com/maps/contrib/103791710246498573327",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUjnfz4tBhxt5lTZqg2Wa4fveE57QCYmzfB_-h7OdptE6Fwcto=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJY0CI7Q0doBreYljuk94RNB2NmLpYOSUk2qSuYylvL-egjz6Qkce2yPCRauCwf7wtdFRbrJfy_VjwfZZKJnGjs-_bv9xujqXwEXPnjODRAxLFVSdf8l6TIFPmagcO3IFTCEwSdLMplmp_5pNkcp5qtgJp6PgkSfZsG0",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel MS Victoria /AC rooms hotel in batala /Hotels in Batala/Best Luxury Hotels in Batala/banquet hall in Batala",
+              "uri": "//maps.google.com/maps/contrib/103791710246498573327",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUjnfz4tBhxt5lTZqg2Wa4fveE57QCYmzfB_-h7OdptE6Fwcto=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJZQaMIV-yDI2dmt7vcbQCRZJ8sFW8UIflXGb2HkOGLjwNjHmPTrt_cz0Idv8kuaxSf0V6AvIxCQ7cUDxJMS7v3KKHJqtMr6nUAkWxeMAIdP5omt1mHmOFUylYvOK3AGYfYmaH13hZP4HuwpDf3vYJ-340R1kr54gzVd",
+          "widthPx": 897,
+          "heightPx": 504,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel MS Victoria /AC rooms hotel in batala /Hotels in Batala/Best Luxury Hotels in Batala/banquet hall in Batala",
+              "uri": "//maps.google.com/maps/contrib/103791710246498573327",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUjnfz4tBhxt5lTZqg2Wa4fveE57QCYmzfB_-h7OdptE6Fwcto=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJYcZ18qrdsHZpbc5vkjCvgGRYpcybdioFi3thd2fjVcdEBEVLVsNTdb4stAHPL60Y95YWtjc0pHyCAq1A56dqmd0jWTwTjFNEFno71AVwxjPCnH6BKTAIG_Vk7GdYNsqwFSlutGMue3tQY3J5nd9qHGWL66pwU1nSMW",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel MS Victoria /AC rooms hotel in batala /Hotels in Batala/Best Luxury Hotels in Batala/banquet hall in Batala",
+              "uri": "//maps.google.com/maps/contrib/103791710246498573327",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUjnfz4tBhxt5lTZqg2Wa4fveE57QCYmzfB_-h7OdptE6Fwcto=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJahKRzb-v3pz0IfOAfbj582BtMv_UUldRRNRunTFIYRGaLWWFPZx1-RMWnNlKuyf6-_d3a4h_81ZU5dOK15vKdAnWn3TNZyIRiI5l0X_-xa7urSG8sYWkQncHkAk67Z62XGuA_dDOzsb7BMQnIw73jXN3Fgq6sy91Tg",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Pawan SUN Infocom",
+              "uri": "//maps.google.com/maps/contrib/100310107259550069282",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKbVZkFjNYG-up6gYqLnWErq8-Kz8qAr0uzpuuvus7eg6fZEw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJZpmKBaALyiYBLo64lbo7WiWRDPHZXtcfvrKXw8hfQpcAK2wACo83Es_vPL7i288XJ-F0BkZSVvVCkxVpwuBVPRCnntt7luBje2e1sjNMrDAD-qX_qdeqxLyqk4yOJgQqIaLwDfgkYUMe-ksU-ZYfYxvJc1wohFuPCN",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "sunny 79079",
+              "uri": "//maps.google.com/maps/contrib/114262420703847219419",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVLarvzyZHGGTEGNwG4AiCnZ7jPnFqSEDFo_Ch3NCwuhijm3SA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJaZCRR9Ap36JYcVwaUCux7FTb_QjVYs-5Kc1t8zIMWBwHddBwt__WNxne628jX3GSiL6QgyJ973ORbRy27LV08rbHL3i2c72KEvifrPkP3yD1ip3unnMack4Mwcgb_EU8APlWBzkn0v71r5Ryz0SGFWxSKX4jiyaRhc",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Jaswinder Singh Riar",
+              "uri": "//maps.google.com/maps/contrib/105414039518282157654",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLJTwR_HLHsWanNMWQPhFEEf6Mla7avazAEQEqfHf8CKERE5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJYbapVUMCbS9jzUfhoCcVAdAut6GGBhPVivOg5XK3324fM6iFYyx9YbDN7nxOEKGONVWbfqO11jluH2VblkT4bZFGmAk74QDkpmVMJ8hG_4fZJxvyBXEW7N8dHy6Q4PXAXkftWCeWV2XXOzraEgHR3FiYAJ06UB-rK-",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Vikram Kumar",
+              "uri": "//maps.google.com/maps/contrib/112173917041226300447",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVEkzUBLvbw8yxZqrEmqQzY1LGoMSpNY46N9hMzOTQxrswy7ubqCg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5Wfzn7PDGzkRvkI4oS5XLGg/photos/ATplDJbaoTwHEyj5mOMtmdYJJRLmOADFSsBbds7aSkPxUXNyjU5PW1s4uY2SfHgI_bmhXRt-yX3QC-gcIUu6bwuKlNemCx1noPQmRG6t5-uZ-g4G2X00ynt_Zf2SxdyVBI99l_LpbuwiOezus87Kjva9kBM17gf_LcYUAiSf",
+          "widthPx": 1600,
+          "heightPx": 1066,
+          "authorAttributions": [
+            {
+              "displayName": "Harpal Singh",
+              "uri": "//maps.google.com/maps/contrib/108559649300220361938",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKKAKexRF2YBOV1-oCztODjl691VtA_hNPY-OHcfulL2s00xg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes",
+      "id": "ChIJmbm07anDGzkRaw8NxgUaMes",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094636 50488",
+      "internationalPhoneNumber": "+91 94636 50488",
+      "formattedAddress": "Amritsar-Jalandhar Bye Pass Road Buddhe Di Khuhi, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J3QQ6V3+V2",
+        "compoundCode": "Q6V3+V2 Batala, Punjab, India"
+      },
+      "location": {
+        "latitude": 31.794643399999998,
+        "longitude": 75.2025056
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.793586719708504,
+          "longitude": 75.201309569708485
+        },
+        "high": {
+          "latitude": 31.7962846802915,
+          "longitude": 75.2040075302915
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=16947355484871790443",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Amritsar-Jalandhar Bye Pass Road Buddhe Di Khuhi, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 629,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Khazana Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Amritsar-Jalandhar Bye Pass Road Buddhe Di Khuhi, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOeEpidUJBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good all members & staff",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good all members & staff",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SCK BROTHERS",
+            "uri": "https://www.google.com/maps/contrib/114952703998084065931/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVONs9SOUqod5Jq4-dzFF9gC_vxTyiqDYMAhOyzjs5mKHMzOTnc=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-12T05:16:19Z"
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5Nk02d1BnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "Good place for wedding and party",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place for wedding and party",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manjinder Singh",
+            "uri": "https://www.google.com/maps/contrib/108496844502332502672/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1IXvy4oS8O0UWipNnpkfKOkqE2rgyb9c7x0byuAZAVut4_jaG7A=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-01T04:39:23Z"
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/reviews/ChdDSUhNMG9nS0VJQ0FnSURCeXRDcTNRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "It is very good resort with good location.. It's spacious, neat & clean toilets.. It is good for large gatherings &  also a big hall for indoor functions..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is very good resort with good location.. It's spacious, neat & clean toilets.. It is good for large gatherings &  also a big hall for indoor functions..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajat Mahajan",
+            "uri": "https://www.google.com/maps/contrib/101115866375442035721/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQPC-EqxYdFh6AtFBqWwNWmCHb23RjmJhQH74C3RyhXOdHKvs=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-01-16T13:41:06Z"
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndmZIQkpnEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very spacious well equipped with all the amenities located right on the gt road giving easy access to the people. Best part is that you can easily locate it and also have ample parking space for around more than 500 cars. This banquet is one of the best luxury resorts on the same belt and same can accommodate approx 2000 guests.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very spacious well equipped with all the amenities located right on the gt road giving easy access to the people. Best part is that you can easily locate it and also have ample parking space for around more than 500 cars. This banquet is one of the best luxury resorts on the same belt and same can accommodate approx 2000 guests.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jitender Singh",
+            "uri": "https://www.google.com/maps/contrib/112151364584158461100/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFiPc6FNZ7SYi3vEBqTZcVOiHxDNBGWjRQBA88CFuGArpJ2k0NLw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2018-02-18T16:09:59Z"
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/reviews/ChZDSUhNMG9nS0VJQ0FnSURwcDhxMU1BEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best quality food and delicious  and I f I talk about service it is brilliant",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best quality food and delicious  and I f I talk about service it is brilliant",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mr RAJAN BAINS",
+            "uri": "https://www.google.com/maps/contrib/102782383692681429034/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0Q9BrtvotbwV3hS2OzbM9GDgGZ1OAOUnJJElgt-wyWbOy1de89Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-08-30T13:42:47Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJbyKD5M3NwMgFDnMu0xCiR_g10L1htUDIHkK_gzToNnYQM3FTYgeG0dgNdo4y44SYR5C5oeMMdvJ3x9aLMhrwrqcIUMYvvKTZkRvYj0WS8RmgCH8po_3gW1QBqnU7TdUyKggD_pNe7UePiErf3c1v659ATUqdnF0JwG",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "ponnanna ps",
+              "uri": "//maps.google.com/maps/contrib/102507903412408797822",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXmeAtCuG3MFKHp2vJKAEMLhIA1irQdxORVjOK7Iv9sR3oyFnd0fw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJaGBoBymZ7KHuPkMUbPMFDIQtCAUNV-TdFp0vLQkKLi8Flt5WTepXLXgzTAntJuRsw2pnzvTOILn7JLdxHTb63isKr5zQyQR9ea7etROINKZfthMOpDCN8LQNC-ajrtzNJIGksbFdc1aRx6yBCAXc1SejNsObi3Fov7",
+          "widthPx": 1080,
+          "heightPx": 2156,
+          "authorAttributions": [
+            {
+              "displayName": "Sharanjit Singh",
+              "uri": "//maps.google.com/maps/contrib/103619089259352345566",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU55qvah3JjWPflRQxXp-Rh_ED8TC97R-TpsNzpn-xoAytdYC95=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJbU-nynijF6YEVL934xbbEOfkvcDQqAf1wgqISu3XzY64UL3iaznuFnGWNfh9SZZUsZk3fsiKxHrG6Nm6UyLwSc6ZDDXTZVBD_KMRTMSj0xx3mXVxPuGRILOjSIwJNM_SCJgitwt-96MgY-_ZpWBqaMuGKmMzSIQg",
+          "widthPx": 739,
+          "heightPx": 415,
+          "authorAttributions": [
+            {
+              "displayName": "Abhishek Verma",
+              "uri": "//maps.google.com/maps/contrib/115826051283154481355",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIPUeZ9LhZPrwlcXP90opKDSPXusLEywSicZmaKDb8E_AIp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJZ2gD08m6aLkmO9HfeGLMxkkDkREWBKmspvYwuPdZpbrIC6UH_ZTt5I6ocR8phcpq8WzGfeboeBraJQkpxX2kjTlOlxwgR_wVE3cxGsKOE0Qn2plb2eAE8fzS1mS9nGF6HR-8XpAEakmFSQa6S-_Myh8yfXkqRtVvJ2",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Parminder Badwal",
+              "uri": "//maps.google.com/maps/contrib/106086192536497819453",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKXuNyKeoyclBDfFjOG_x5xZOTqL_ucioCyz10dHtP5-DxP9g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJYDcXTip-J0MofCnYQxg3W1Axh5m-fMXlRSsRuqrO2gssZ5mIVtYZtBVStKoCZCo4UsTAx96A3uAgZZhmYWESGn6QbUBscsoBmGY49zxl6HEIupzg6mwTPjyYWZO1VbJlDKhWzeNpaZITMz-lqSMrSwxRaEMw0hbJd9",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "JATINDER BATT",
+              "uri": "//maps.google.com/maps/contrib/106211459984515623409",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUW_azQh5IvhDA8XExSekUTuvm3OsKMD1cTZ4yDUnSIpBYvxsbK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJYqVq7jxlQ18A-lkTCQ4_pIkHYa12WuUpiOsO08yaMshByabLd5dBXNVOw2GK92E07KSLDDrqfUFfYpN9jSEVPDpID7wlv8EdQxO5QAlgUNwyBu2ssxvn5uuZd3xCIZOfR6k9Km4X3dFsMj6w5Q3K4DH7XngV5tbcwh",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "JATINDER BATT",
+              "uri": "//maps.google.com/maps/contrib/106211459984515623409",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUW_azQh5IvhDA8XExSekUTuvm3OsKMD1cTZ4yDUnSIpBYvxsbK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJZlIvvSlEzhOi9LYgAZzm2cq0FHexLYujjF3PaHcvTk341PAvIf1JuzkCth8khtKZ9pdpjyuL3BCn9J8VK8PuuB2IQRbYrwKIR6IAn-rXJ_0v6sC7fdsdg1X87liUxEAcErkq-K6zLrTGOtwDj2S1bkE5_YbOMs_N1_",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Vj Moon Vj Moon",
+              "uri": "//maps.google.com/maps/contrib/104515947462427369357",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU8dRV9Hd6fL_75lYMU1heD16ZiCTEpTybR9UYw52syXNV1grKM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJYRT860UH3lUDCy6Gx27DSR32q6nxANhqvrhKi-AVjPX1ZB1jqiz1VRIzCDDHb7FyZSHGgW0tGbOA9dcyeexVf4gbJLUWdtkjuQ8atEDbzyzcVIPpljgmo1qiikPFenZ0UoyBOtxB7upapMrxRk1ni0bXQHVVfvCdVt",
+          "widthPx": 4032,
+          "heightPx": 1908,
+          "authorAttributions": [
+            {
+              "displayName": "dj Shiva",
+              "uri": "//maps.google.com/maps/contrib/108436690648157433356",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8eWah19r1IlmZKNQeyTUWMkXiCICWZirp6oeiaPlOWPjAZ7I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJbcpLv3cVix-Fx5VLJUKUIFBl1fx09Zc2VISf7D8Yf85JYo5VBj1PDiJfNeu7JIF0Q9DmccEpjJIaxUaqhH1kD5q-hLuHbkvxtxYYpq-HmKfipCmHSUF9C4wKPoE69PvXVy6742s4iNJUhMbVFuS-UhRrxC3jxzD0er",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "ravi saroj",
+              "uri": "//maps.google.com/maps/contrib/110880202614256525713",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWzRp-x8TzjWBm4It7ZUZK6LmY9uhXUbhElJmM_vCTj8gnRzeEU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJmbm07anDGzkRaw8NxgUaMes/photos/ATplDJbIiQOSynNxVkZoov2u7sCk-fQPEfNHvHyEoneUrTI-HPPsqbceRl4NFDxESFSvevuWavkPf-v7fFzT3OL_jaLmxgAAeZUZxcge6lNO2CkUmodWxCPXooyZhejsh_i4_TLAPaqZ6RsAUxUvC8e6tpMl3-5rg_40ZLdO",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "JATINDER BATT",
+              "uri": "//maps.google.com/maps/contrib/106211459984515623409",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUW_azQh5IvhDA8XExSekUTuvm3OsKMD1cTZ4yDUnSIpBYvxsbK=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": false
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0",
+      "id": "ChIJb1I3q-jCGzkRqO-dL-c7cR0",
+      "types": [
+        "wedding_venue",
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "event_venue",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "098555 91116",
+      "internationalPhoneNumber": "+91 98555 91116",
+      "formattedAddress": "Pathankot Amritsar, National Highway Road, R56M+2FF, near Bye Pass Chowk, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "R56M+2FF",
+          "shortText": "R56M+2FF",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bye Pass Chowk",
+          "shortText": "Bye Pass Chowk",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 31.8100527,
+        "longitude": 75.1836771
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.808634969708503,
+          "longitude": 75.182288819708489
+        },
+        "high": {
+          "latitude": 31.8113329302915,
+          "longitude": 75.1849867802915
+        }
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=2121542763590578088",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Pathankot Amritsar, National Highway Road, R56M+2FF, near Bye Pass Chowk, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 678,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Khushi Vatika",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Wedding Venue",
+        "languageCode": "en-US"
+      },
+      "primaryType": "wedding_venue",
+      "shortFormattedAddress": "R56M+2FF, Pathankot Amritsar, National Highway Road, Bye Pass Chowk, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCOGUyal9BRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Overall a nice well organized venue. Setup and Décor is clean and airy. Especially the washrooms are clean glamorous. Lobby area is beautiful. We attended 3-4 events. Very courteous staff and tables get cleared fast. The food can be improved a notch.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Overall a nice well organized venue. Setup and Décor is clean and airy. Especially the washrooms are clean glamorous. Lobby area is beautiful. We attended 3-4 events. Very courteous staff and tables get cleared fast. The food can be improved a notch.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vinith Devdas",
+            "uri": "https://www.google.com/maps/contrib/110930322420902138464/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8J9TJjUogiiR3_1yT-IB4F3melzU53roRDknmV78CJPzxR60UkQ=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2022-12-28T18:28:16Z"
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsdXNXalZBEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 2,
+          "text": {
+            "text": "On November 16, 2023, I attended a ceremony function at this venue, a former industrial unit transformed into a spacious resort ( in local language, otherwise it is not resort but a banquet hall).\n\nThe location, situated on the main Amritsar Kashmir Road, offers a banquet hall, open space, and parking.\n\nWhile the venue has potential, it lacks noticeable ambiance, and a significant drawback is its inconspicuousness from the road. Absence of a glow sign makes it challenging for visitors to spot it at first glance, necessitating reliance on Google Maps Directions for navigation.\n\nThe single-story banquet hall, devoid of decorations, falls short in comparison to other resorts in Amritsar. However, it accommodates gatherings of around 500 people. Despite these drawbacks, the venue remains a decent choice for organizing functions.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "On November 16, 2023, I attended a ceremony function at this venue, a former industrial unit transformed into a spacious resort ( in local language, otherwise it is not resort but a banquet hall).\n\nThe location, situated on the main Amritsar Kashmir Road, offers a banquet hall, open space, and parking.\n\nWhile the venue has potential, it lacks noticeable ambiance, and a significant drawback is its inconspicuousness from the road. Absence of a glow sign makes it challenging for visitors to spot it at first glance, necessitating reliance on Google Maps Directions for navigation.\n\nThe single-story banquet hall, devoid of decorations, falls short in comparison to other resorts in Amritsar. However, it accommodates gatherings of around 500 people. Despite these drawbacks, the venue remains a decent choice for organizing functions.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Parbodh Chander Bali",
+            "uri": "https://www.google.com/maps/contrib/114385610436416030490/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCxuDDiwjuetOvGA8KnSLDUR7iAuRyXZaTvGWMieGNUp7NazOkMA=s128-c0x00000000-cc-rp-mo-ba8"
+          },
+          "publishTime": "2023-11-17T00:56:42Z"
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0cWMyZGFnEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This is one of the best resorts in batala. With the best catering services and the cleanliness in terms of cleaning and hygiene. Also the hospitality of staff and managment is very awesome. You must visit this resort.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is one of the best resorts in batala. With the best catering services and the cleanliness in terms of cleaning and hygiene. Also the hospitality of staff and managment is very awesome. You must visit this resort.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Fateh Sangha",
+            "uri": "https://www.google.com/maps/contrib/100353891892153738784/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWj1AvbSGCMALlw6SvxVWNvA5AjAz1hn7tp90DY7C8aBLr7Bjz7=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-05T12:03:15Z"
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5NTRhZEJBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "It's very good place for marriages...\nIt's has huge ground air conditioning halland it's own parking",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's very good place for marriages...\nIt's has huge ground air conditioning halland it's own parking",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Varun Kumar",
+            "uri": "https://www.google.com/maps/contrib/115843945903246618981/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUA3Q_qw4XU3FuqJDQIGn3uJ8Imb2rYgVGLhC975KJ-sNZKLKjc=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-10T18:50:14Z"
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXOVl5VHh3RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I loved the food and hospitality here... quality was awesome......nice place for reception..... surely recommend it",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I loved the food and hospitality here... quality was awesome......nice place for reception..... surely recommend it",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ritika thakur",
+            "uri": "https://www.google.com/maps/contrib/108410540944211808469/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVu4AE2S6MsF01jCNA1G-Dzg2s3Th9QFzDwc9Z2vsr38sjNB92big=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-03-03T18:20:04Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJaZaGlcsMPqo-TlMgXjmvJ4iIn3hr9L7Sj-SXx70k7UO4f4jPSNlJs_2wi8td0KftaaRVBHP6_k_UbC9-5E0TMD8XzK-qM6JfBe83OUWbC4wk9FBxBPfIrNjqu4tkP3-rLgk7ygr7218Z8dsn2JgHsrWQz7LKhRjf7x",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "MJ",
+              "uri": "//maps.google.com/maps/contrib/117974964507807062343",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVHlntHpElps4XcYkG0CTKWCUOw2TeLQKibwSEnlbZd1pUBaFkxVg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJaFYLOWBjCOfnLMewGNdV9pLVcz3DbTOJaLSNUc5ovF7R7r7rLbxJ4Ly5qklX5EB2n0EADj4FlSyahumzAQcSob9SjWHPm6cILGF02qktlXOqx8oKOuNVuLIczRl_BIGj1iXIj7CVhgeaNhQJZjc5w77B1tf7if0dXa",
+          "widthPx": 960,
+          "heightPx": 686,
+          "authorAttributions": [
+            {
+              "displayName": "Manbir Singh",
+              "uri": "//maps.google.com/maps/contrib/101991373362627328085",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlOsQNjyUPMr-kX0JNK9Zmmx46tK0si1YFC_NuhjIVdTdkKyBVUw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJbudgQ2dQA8F2Ot9jEBqYn7LPtvLDfAlxLGbG2UxExzAqwoJXlwazm74UZG12iXhSJTVRtBhaeM1JdVd4bXF-gqs-JppUYXVNYV_9hRIsysSm9S7SSKlxPNvAmejGK5btaKOd0KK6cFgT0-EXdKQI-iOJHw1qyCGxbz",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Bhupinder Singh",
+              "uri": "//maps.google.com/maps/contrib/115958075078528373800",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKQ5lkWjt9TsMjMuP4QNVzn379O7kniCF8rbcul9w4bh7iRmw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJa3crgRginA32dNWE7qPR2AOheEDg48-2aRotWXujObzDMIUFrAp73sdkD2UJZDxD_AIoZa4-120Amo4_xBBXFeYbiGR_JCYZl5qwRud9JvsbVu7Gdie5FITKRuSESE3SedyMwwqrcqbRFCxssxN4kMMyvw5wHjJ_MZ",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Parbodh Chander Bali",
+              "uri": "//maps.google.com/maps/contrib/114385610436416030490",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCxuDDiwjuetOvGA8KnSLDUR7iAuRyXZaTvGWMieGNUp7NazOkMA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJbaGJQjyVRHaEF7LjuaHyshiiXT2kPu10qu90getJK1WS5un6R_kJVvd3dECO-7lUYPDJf_YrVNfNd8ZsUlHnBQWEhawOegSC4dWzMvUJRBr7MIeqMPbOLwZXhiVM5OrpaI6GMiVCsGBLKmxwovbHzhuWqDiwHUj0o0",
+          "widthPx": 720,
+          "heightPx": 508,
+          "authorAttributions": [
+            {
+              "displayName": "Sukhbir Khehra",
+              "uri": "//maps.google.com/maps/contrib/117038939689411255612",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUil9IhWUn9N11fuof-ic95WgJ62QCscVi5Yk-V5Fg_KOjULTY-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJYPDfPKv7HeAdVRQh1FLdApxsX5j5zkJDBH-Bt5PY8wrwkrKPdcRpqvCD5Ec9IHI7JJyq5wKcGrfzYXBaXJVz9cI6Pxo4Bf3e1Pfgd6jWENaRkuaBWAf1Z0U3QktRRKW8PfV13xr27Gq17L5vMaqDfKn5b49ZGAKbs",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Gurjant singh Bhagtupur wale",
+              "uri": "//maps.google.com/maps/contrib/103639850876899593011",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVazA05BXWDN9j3pAf-KeiYlgy5lSy6d8lvv2H6kMpgJ9NqqA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJZaOH6JGfth-aX6336jn5J4VBNe8bPPlTmXkywILPULUkE7OINKbgyHJuTrzkiVSPvNT_di75PAVbfpLJ813e6eXWbwnf-grL_vuOhlEPyByLM-NOPsp7peaS9G6Wr8000GMO1b033lMy8c3ZffhXa7FWoR8CMl03S_",
+          "widthPx": 3000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Shubham Lahoria",
+              "uri": "//maps.google.com/maps/contrib/100935853650700881388",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1Q44iRgZWJU1deLCDUUssZ5r79b8yAfLLwLzTqmzvreet96eBKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJbc2Ec0y1aP15oO8sIGXnf9rlP4cpDRDbicGlJm6RRDTfIqiy48K6Zr-7TG7UYCTvOXoLgptY3z5dkVqFng1xs79sG8OsJ6Jz4_uSdKVA-JiZ_gVSValOFgGSxDJhb5g_msH4oVlSQmN185C7m07xGMKRKah1gxTn24",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Ranjeetsingh Slaich (M back)",
+              "uri": "//maps.google.com/maps/contrib/103164797815993200420",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdVrIvKiIAnmztEHV0wXF_pQQTAm9J6hgVaXSaQhqEylpJ0OovaA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJZq1au11dHrEQpuC1yTmXZBGKlgYfXMxFmSdWYcPuOxYRuQ2yi85hG7HgYPQyrVYuAiuesgJA0IRe283zZJ5psyZlHAQz8ibrjrnIUXYO8zi1Vvm8tbHSTbZf5tT1VNa1Z1u5YcnNUU2YDft2BTOcUbBe04d9tOvbe3",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Ashish TV",
+              "uri": "//maps.google.com/maps/contrib/115182997522550878877",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU_J-uBmHl3foqH5zQCt35JgFSuwqO3y83jmtVXl9nQ1IJ1MELY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJb1I3q-jCGzkRqO-dL-c7cR0/photos/ATplDJaTO6LtRctf0xJeIRaDxC1vLS2wNwu3NMJCVnNF-8bWWJiipHWpTB2RfGyvrAfhxybJe-ZdIUFN1UgM6oZGCKZosPb-wJFSzt44tZ0cko826SOz9uWUifQQkoXLKLUGfCSZ-BNmNBXjELLzFC0kjTGqNSatIwgbtdcB",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "ajay kumar",
+              "uri": "//maps.google.com/maps/contrib/110872830087615060290",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVudDs6nbfqXQadDHuwk3lAvRRGnhRi2BotcbjRFFJYSbEAOtMm=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU",
+      "id": "ChIJaa6ugffCGzkRxUWvxWtHkjU",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "098784 66196",
+      "internationalPhoneNumber": "+91 98784 66196",
+      "formattedAddress": "Q6MF+7C4, opp. reliance petrol pump, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "Q6MF+7C4",
+          "shortText": "Q6MF+7C4",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "reliance petrol pump",
+          "shortText": "reliance petrol pump",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 31.7831273,
+        "longitude": 75.2235855
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.781754869708504,
+          "longitude": 75.2221154197085
+        },
+        "high": {
+          "latitude": 31.7844528302915,
+          "longitude": 75.224813380291508
+        }
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=3860226358813607365",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Q6MF+7C4, opp. reliance petrol pump, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 320,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Layalpuri Resort",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Q6MF+7C4, reliance petrol pump, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/reviews/ChdDSUhNMG9nS0VJQ0FnSUROanYydzRBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "No room only marriage and party Place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "No room only marriage and party Place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "balwant saini",
+            "uri": "https://www.google.com/maps/contrib/112114878517454833254/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIj1RqJsH_wv5bFhHNmB996gz16APGIjD32Yphu106I3NnyDQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-22T12:40:16Z"
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/reviews/ChdDSUhNMG9nS0VJQ0FnSURobjRTeXJ3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "this place was not as good as I remember it from 2018... I'd rate the earlier one 5 stars",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "this place was not as good as I remember it from 2018... I'd rate the earlier one 5 stars",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jatin Deep",
+            "uri": "https://www.google.com/maps/contrib/100623572889408727899/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2YcbLRXYEIOmllyg-KhiodC9oXwt4IsKAgm2Yv1J2yxAjIS9C=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-03-21T09:40:09Z"
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdDdxOEZBEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 3,
+          "text": {
+            "text": "The waiter of this palace often demand tips from every person which is very bad. Overall outlook of the  palace is good.  Service by waiters are good to some extent",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The waiter of this palace often demand tips from every person which is very bad. Overall outlook of the  palace is good.  Service by waiters are good to some extent",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "puran jabalia",
+            "uri": "https://www.google.com/maps/contrib/107617876721285652482/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKc5SNUw_y9LdFxcjkW9j3xwGf7iOWWa2OsBO1ADAZwKynRlA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-01-26T12:46:25Z"
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKbHV1MjJRRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Very bad service.\nStaff is not cooperative.\nThe air conditioner of the hall failed.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very bad service.\nStaff is not cooperative.\nThe air conditioner of the hall failed.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amarjot Singh",
+            "uri": "https://www.google.com/maps/contrib/113092028412552002014/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5k8w-Um6n3HheP94IIcShi_l7N7pyo02XWQiCrKufvOnFUN2b=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-06-26T16:50:57Z"
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/reviews/ChdDSUhNMG9nS0VJQ0FnSURpb0t2bHBBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome place for a marriage function. Catering is really good with a variety of items on the menu and most importantly yummy taste.....🙂",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome place for a marriage function. Catering is really good with a variety of items on the menu and most importantly yummy taste.....🙂",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Navtej Pal Singh",
+            "uri": "https://www.google.com/maps/contrib/104731205234177112068/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUY2l5TbulnWLnAT-oP2TpvJ7A828J12_i7NV8KKKwh0oD9PFW-=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-11-21T10:36:35Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJY2K7pRoqAirmxaEVCDlzSKm70C5bT2HXVDnVvDSaSNRYrr84M6v9D1jB-rdwwAejiVMnGxTv3mXhY1rlNg7XmoDXiGiZTFsj5Ic6rSTPmiKNl3puaqkZD82VIWd-8CEYn0jz5VcBXd3QIlBhIEF9Sh16mMxOJMB0-v",
+          "widthPx": 3600,
+          "heightPx": 2400,
+          "authorAttributions": [
+            {
+              "displayName": "satish sahota",
+              "uri": "//maps.google.com/maps/contrib/114020639787119242923",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVL1MUkFbhu5ND8kYM3pV1NCohFcqm_vfU4U1kkvsFYzY3qOVo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJb3V4lc-7nttxK5AJvQeryBISLRhYv1OFfKmVAvRly5bkbaQh81lp1-jIHP6V8o3hPW14juJWTKAjJ6U06PClt7IeTMA0kSTuu2oWHYvoPjgScb2Wl-Zwl1j0vvAvb0aQpZXZhs6k9sVCYvTprKTVNjaWSH3sPqUYHN",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Shweta Mitra",
+              "uri": "//maps.google.com/maps/contrib/105804697979403829166",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCdu5axAh6wXZZTz5OsvHPyHXwwb2mdxWOcGk97ozv-GdYBWdkrA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJbq7VPq7719EVL-U31lWI6QyljCHlHBeOHr-kwksEIEGpOJ-DGt3Bk17KqEkVJlHtn2XTKmIxJpBdoLzdMoIe-3vx3i5WVo6Bpi_Y2BHrxewM_hmYDMn4Mfy5NWvmApVLT46VpZoRLXukM2EbB0mFTdrPJ3ohYd-GsO",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Chandan singh",
+              "uri": "//maps.google.com/maps/contrib/107730930174860353198",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWfQkDk30ZUgX1jeAc48crfqrkPacEvTnK20IjUOkDUXqz0dN0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJb7Agp6gopp0gZ1dT7l2V87Ryh3QtesRDnntQB0-IQfF3nCpTkGB0R92lgb19OyaoxnHnvqLHl8xHkG-YxG5gg2xxX9nxFugty_8OfpoT5ldDdbXxNUxi-tWLecx5SLtbOGgyiyj_iCGq05uSHwNgbzfH0vqpNJsnxa",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Arif Shekh",
+              "uri": "//maps.google.com/maps/contrib/103110094844538609246",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuMevLE81QIYbVzEVgq0pAkpMFbSnUEyH4bHTvVl6JJUB2RF0T=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJZXvw3IE06FHsSjeBJB-xbV_2pBe8Hbbk_puC_KZCDHsGLHuaAULcyMAjeVBkETX0dO8O1kOPknSmz_TNgNYaFGIOKMR4FljphyDiHMXRbKkUWfilaSWQN97EtRi2VUIv4VEJ4wMFpnnEndNmlodNvlW7HUM21LwRmJ",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "satish sahota",
+              "uri": "//maps.google.com/maps/contrib/114020639787119242923",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVL1MUkFbhu5ND8kYM3pV1NCohFcqm_vfU4U1kkvsFYzY3qOVo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJbETIPshh03zIinDuy4uc_aJd-YuHljWj1BxMf7zfbcRSojuR0fLGw76TeTDSu48lm3r4ibqtVRvh0hSyV8bnGsxtvlQYXU0YZQ8s-i55S1bEnPmPn36gCPdUw6i34-VXsKIMHSgGB4Jj3Yi1_78F0R7og9faGDb1Po",
+          "widthPx": 1280,
+          "heightPx": 605,
+          "authorAttributions": [
+            {
+              "displayName": "pushpindersingh maanpuria",
+              "uri": "//maps.google.com/maps/contrib/112340134473763194907",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJDsFmcdXMmWUaeygWyrF2uwkddMZIt4rFJh6KLoKN9pu7x3w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJaq-5BfrtLhCyGH6TyfAKUAF-T46P9eOlNYtGZYJOG4a223bkrq7umdttq8ULVOUEcnm4JycWQgjg1edvaKCNotA9EDkNISamncYwgPenHpalpDUjdmqvekguAcMnN-B1KydLti-6MsWHs8MFKu1R0DL6rV6lFjp2s9",
+          "widthPx": 1152,
+          "heightPx": 546,
+          "authorAttributions": [
+            {
+              "displayName": "pushpindersingh maanpuria",
+              "uri": "//maps.google.com/maps/contrib/112340134473763194907",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJDsFmcdXMmWUaeygWyrF2uwkddMZIt4rFJh6KLoKN9pu7x3w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJafcB0C1pHfo0htD44AH3YR9ay_mh3YNrVWsi_zA2xMMnfZwEtpFvx5sf7LEQHriHir_rZMrVJ4pJ8yzAOqpA8Wft5fQynXaIWRJ_YkkU2hWr9ZWAHV4sPn0-54Nr0tg6JirTe5UiBrk1n3tW2qYXxxvJzIkPYRNh5d",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "satish sahota",
+              "uri": "//maps.google.com/maps/contrib/114020639787119242923",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVL1MUkFbhu5ND8kYM3pV1NCohFcqm_vfU4U1kkvsFYzY3qOVo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJZNYlfbDZ_GsLCbvVOJ_u-aHWpRtcl1dEs_zVZRZCdYByMCjEt2alP9m2o4nkZrX_rmChO2lYwwnvYkFa9EnKVUDi0YuiKAc90J04eRhjVr749KwxOdSE-fcJ3dBTSl4BZeUoBA9KQT6cBuWY7uWYbpY1Bpcs50yffT",
+          "widthPx": 3968,
+          "heightPx": 2976,
+          "authorAttributions": [
+            {
+              "displayName": "Navtej Pal Singh",
+              "uri": "//maps.google.com/maps/contrib/104731205234177112068",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUY2l5TbulnWLnAT-oP2TpvJ7A828J12_i7NV8KKKwh0oD9PFW-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJaa6ugffCGzkRxUWvxWtHkjU/photos/ATplDJZpBMxCNHgnSlHMLL395xbHRlJnvijB6OR2Ww_2_D1eOtVXRXEpniAfm-aN_uBS-NEhXN_sQSb7lioJ1yrIHPDvEU3DAx7p1xI2lmaUB2ok0qIxMVTGow9sRHpWFGZvbh4dnKlsB8qm0hS95HCFsnbIYOI_aVGoqtH9",
+          "widthPx": 480,
+          "heightPx": 480,
+          "authorAttributions": [
+            {
+              "displayName": "Jassa Singh",
+              "uri": "//maps.google.com/maps/contrib/105548823455518561119",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIjD9QVdp-wRMi2RT1iXcSuq0arrVcDjkv925Qk09y8DVunVg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsNfc": false
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU",
+      "id": "ChIJcSJBEU7CGzkRaytDThUgALU",
+      "types": [
+        "hotel",
+        "restaurant",
+        "lodging",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0187 124 9999",
+      "internationalPhoneNumber": "+91 187 124 9999",
+      "formattedAddress": "Near, Civil Hospital Rd, Dharampura Colony, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "Near",
+          "shortText": "Near",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Civil Hospital Road",
+          "shortText": "Civil Hospital Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Dharampura Colony",
+          "shortText": "Dharampura Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J3QR657+MJ",
+        "compoundCode": "R657+MJ Batala, Punjab, India"
+      },
+      "location": {
+        "latitude": 31.8092032,
+        "longitude": 75.2140281
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.807732469708494,
+          "longitude": 75.21274361970849
+        },
+        "high": {
+          "latitude": 31.810430430291493,
+          "longitude": 75.215441580291511
+        }
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=13042459796744383339",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eNear, Civil Hospital Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDharampura Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 334,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Grandway-2 Hotel",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Near, Civil Hospital Rd, Dharampura Colony, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5MnJ5MjJnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very Nice food. Staff was great",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very Nice food. Staff was great",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gaganjot Kaur",
+            "uri": "https://www.google.com/maps/contrib/107564216894708163855/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIkGZ0TclDrxGcJdmdhd0MLOcn-Ik1c1c5UCMXmI-vuOpXlyw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-04T11:52:37Z"
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/reviews/ChZDSUhNMG9nS0VJQ0FnSURadVByYldnEAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good food with quality and quantity 👌...not a crowded area...feel good to visit",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good food with quality and quantity 👌...not a crowded area...feel good to visit",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "jatinder.singh sandhu",
+            "uri": "https://www.google.com/maps/contrib/108333536507371752788/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXs3h2v-d35zHf3DMoS_zFwiTqKLiGreES46WZbVwS5vEo2kI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-24T03:35:31Z"
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPZ0tMNDNnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 3,
+          "text": {
+            "text": "The interior of hotel was simple nice with dim lights . The customer service was very good they look after you very well .Food was good but presentation was just ok . They need to place plastic sheets above the tables as the cloth was very slippery  need to have good music 🎶 Washroom was not clean .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The interior of hotel was simple nice with dim lights . The customer service was very good they look after you very well .Food was good but presentation was just ok . They need to place plastic sheets above the tables as the cloth was very slippery  need to have good music 🎶 Washroom was not clean .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "adesh pal",
+            "uri": "https://www.google.com/maps/contrib/105866324213571835491/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlaHUpjxM6adk50nUafAydDDv1JuPbXDTWoBXKywEG10DheWJwIw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-08-05T03:31:07Z"
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCbnN2WVJnEAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Good quality of food  and arrangements, but service is now becoming ordinary",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good quality of food  and arrangements, but service is now becoming ordinary",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rajesh Chander Rampal",
+            "uri": "https://www.google.com/maps/contrib/104395395288935514603/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCFXtlrwloW_RVcf1b-4z0YR5ThgBF3tDGnWqiPz--lk-75lpE=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-10-25T10:13:32Z"
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4N2FUU193RRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best Hotel Experience with courteous staff and hygienic food for a healthy family environment.  Recommendable",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best Hotel Experience with courteous staff and hygienic food for a healthy family environment.  Recommendable",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "VAID ELECTRO WORLD Jal Road Batala",
+            "uri": "https://www.google.com/maps/contrib/107232277800804247148/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUA74J2-hAejN431Q4XnXC1x8rwHNEJequdAkT8Bb1SBFjM5Mg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-05-23T15:24:48Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJaQ2GT26w98j8nlJu_eWgQ5p8IQjSJE4Pe7PiRg3UlDTgZ4cZx6bPYzn0z6fLMxKCwewydzEDUSGtE4vm5WGpa5Y6zQNSzXrXrrOUhqk2WBUtH0kHBhfRLD62Q8TXZ4kmpT5JhpdYcrYn2L4F3lWowCm8JmDT4RJ0sj",
+          "widthPx": 2048,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Kunjan rajput",
+              "uri": "//maps.google.com/maps/contrib/113512264402593847132",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLng3DWXV9mIamn8btUGGBDXI43P8v0ZKsNSw_H7k4sSrF5mnre=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJaMofS5XkEdxCflq2YvK9cdl9MFIZvib3tqwjpU-qfIzHIUGsZ044EdDcHIcpdnBvGTzjrJW_aPMu-tPMqlgh46BOw5WZScTtYemzrXi0zvDPNzuxtIM3tVaxTDKykWiitf4JgV1uxXWk5gm4tGlYE8nqYbJ_0Ui15K",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Teena Bansal",
+              "uri": "//maps.google.com/maps/contrib/105238262234552287232",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXYxXp_g6rITGwdKHGpr0YMVQRHpT9sNklQ-lxkRwcHnMzYTuVA5w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJamU8ibGdEOZEm50wXcWPgspwjeS1BabUJTL4hwMxd2WVKvEteKmN9iz4RdUJOAZ3FforvvogH3h7YjEiWwIYYRaoQ9xfppPsx3kIxJuB7BvHbqAm01yR86GhYP4JX9nnLammA_ijLZ_O-IGDHmCKah40DCEghZJp10",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "adesh pal",
+              "uri": "//maps.google.com/maps/contrib/105866324213571835491",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlaHUpjxM6adk50nUafAydDDv1JuPbXDTWoBXKywEG10DheWJwIw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJY9wBkB6-2WwwKeKEYUcWnYTF5Ry_ohjgu0SB5Q3tgQUGvF2Ik0kUaTCBBRQU48gLvrh6u99ScBW10X4-eyFGtyJsEf1-txFhDRbSU_8ovO9FN7Bn6r0JqvSILami1__fCzZ6xz-wihVXz6-koiDo56OP2Ml3faTxP-",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Prince chauhan",
+              "uri": "//maps.google.com/maps/contrib/117223610108897358266",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIygWrVoOaTy1CTAYFMyIkX3qdooMoSGMyDT3EK7gjsZx6Gvk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJYHJFcYJAlVXkwTcdVDfh6BVBb5OiRlbqFbNR4a8u8glnJFOV15lIMLf0WoqTana3vGYAPuQnnN2xE3L2hqb4i8yKyRddvWCx7QoKWqI8C6NrRP-aeXT_4PQU-IBlTAZaJ8q-S7jYGbjdh77HOXOe2g4lZExOS9DVoh",
+          "widthPx": 5184,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Digital View India- 9814494500",
+              "uri": "//maps.google.com/maps/contrib/111738265601630763302",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIhinFd612GfeTk6gHsc4xJd3UH5y-Sqh05kW4hd3kwjyCwr8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJZKj9bT975epBz_jQRKkbE7IgujvUoYsk3aGLUNsJ8z9O86rYYawbXF8eSpievb-ZqwPKDiEsifY8-oDCSd-kMQXjyPVh239qacRFJAMkZt6mAU9yVwI-1mNaAT5RrxH6qUfeanOh-8examzFBG7d6VovLhpGpxu_Kv",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "adesh pal",
+              "uri": "//maps.google.com/maps/contrib/105866324213571835491",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlaHUpjxM6adk50nUafAydDDv1JuPbXDTWoBXKywEG10DheWJwIw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJY73amncQnF5esMv89GPbxlZgxWUjXS_aknpMFVsYZc08JV6ky8GwmKfvLJJvW8QRkLG37aCFXl0Eiyr8w9xMrYXPXcnopzB3EGgdN-7mfIEtsDYdYsPaV4-YP21N1P3WF02X4UkLeQDtNVwqLIeGLXDyn1ElydLCkY",
+          "widthPx": 2208,
+          "heightPx": 1188,
+          "authorAttributions": [
+            {
+              "displayName": "Mickey Singh",
+              "uri": "//maps.google.com/maps/contrib/105799171959274067132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZ6S7IgWhrqoxSSLNIwjSpF8ADAPV_OSjz0i8dKQUYusogJ1oa=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJZ4RhPHlGlPXEZMMo-c30McvIjCLjKyLZ2eq1ZLLNLbTnCJEwHuoD9U3xqZCaRVQipFaB-dLJM2VkFW21DVONsc4V30QNPkQlsSK67psT863Wty2JXL8iCXeKlq9Tgzd__ZCihFs21nneKMngo6kcZwVPkuspY5AzlF",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Mr. Abishek",
+              "uri": "//maps.google.com/maps/contrib/104714534016030833082",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWEFmD0qnP1b9sXlcwEWxnZhcTHWOxMg3_jBnPthuoXopNQSkgQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJbCVrDuxJBlT-XlqZ7Eg7T3i4OcfsIHcdOkb3WVSRQyJIT_zZi0IZpRTALByiLXojK2L_CFUS8b0hkxFTPfo3-121fQbNSKVz-qotJngSEyuttok5847mPmFpo8E1-9SyCiR9qWoujhfC7dRj2_mHcTj8HFA2Z0BYdS",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Maninder Singh",
+              "uri": "//maps.google.com/maps/contrib/115981153442882878737",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWqEOnFFYbzpzSxLMBMT-FHC4QixMNgZMCiz4LPadfGInC8e0D8_g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJcSJBEU7CGzkRaytDThUgALU/photos/ATplDJb8R651-DexmcGLnsw5lqjJqOqdj8BTPKMqI8ZLlVoUS28aSCyvfjW-aePxDKrGP0YXOa0iEKsxdqN4fIiKSvdkhfepVmxKyQz0fJTO_QXdlhcQWAdqRTCx9ix5v-TjBtJPUVr822RCKlebov1pZCXSEl7KZuJbj5w_",
+          "widthPx": 5184,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Digital View India- 9814494500",
+              "uri": "//maps.google.com/maps/contrib/111738265601630763302",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIhinFd612GfeTk6gHsc4xJd3UH5y-Sqh05kW4hd3kwjyCwr8=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsCashOnly": false
+      }
+    },
+    {
+      "name": "places/ChIJUXQ065XDGzkRzH53Mxg4EQk",
+      "id": "ChIJUXQ065XDGzkRzH53Mxg4EQk",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Bodhe Di Khui, Jal-Asr, Bye Pass, Shastri Nagar, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "Jal-Asr",
+          "shortText": "Jal-Asr",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bye Pass",
+          "shortText": "Bye Pass",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Shastri Nagar",
+          "shortText": "Shastri Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J3QR693+RC",
+        "compoundCode": "R693+RC Batala, Punjab, India"
+      },
+      "location": {
+        "latitude": 31.8195248,
+        "longitude": 75.203587599999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.818208269708506,
+          "longitude": 75.202197319708489
+        },
+        "high": {
+          "latitude": 31.820906230291502,
+          "longitude": 75.20489528029151
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=653365097539272396",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Bodhe Di Khui, Jal-Asr, \u003cspan class=\"street-address\"\u003eBye Pass\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShastri Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Khazana Resort Batala",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Jal-Asr, Bodhe Di Khui, Bye Pass, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJUXQ065XDGzkRzH53Mxg4EQk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKMHUyOVpBEAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Its amazing resort wht a change u guys have done",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Its amazing resort wht a change u guys have done",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kunal Bansal",
+            "uri": "https://www.google.com/maps/contrib/101917045408636205140/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_iJEo-Brqw858ke4C1iVPnJHasI-jIbstzbs1nrkhRKbrJhvG=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-24T07:59:54Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJUXQ065XDGzkRzH53Mxg4EQk/photos/ATplDJb8C1lmFRxbxh6LUsroZw6xG66nSXX1fBvWEwXFnCazXH2tli6z7qhlHfXWpeqY0lo_H6iiI8oVmOoVXEbyIsBFOMTypATNF43rVHHrvoHbZO7_H0bfTaVGC8ClKGJsqjEydDaZE6cOtVIXClVcSoyES8I365npZ7ei",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Khazana Resort Batala",
+              "uri": "//maps.google.com/maps/contrib/109972393811361556468",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI-7-6eLCtH_1t6dUCIIglpo2lBMgMyck9Y4zV82NxNQojreg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJUXQ065XDGzkRzH53Mxg4EQk/photos/ATplDJbJ56qc2Ped2ZkqGR_S2XbRUVrQblS8rPyHQWREqzSJW0b7CdRyGsMLf7ifhm6m2JKS_gMgZ9Pd778DPrCUI6TMTluwAhGd7JCGwodqQIh0ta975FAGj74eEwZkVhFL2ElS9FixF64cW8Md7qf3yrCS6StISZfBGZVH",
+          "widthPx": 1814,
+          "heightPx": 1207,
+          "authorAttributions": [
+            {
+              "displayName": "Kunal Bansal",
+              "uri": "//maps.google.com/maps/contrib/101917045408636205140",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU_iJEo-Brqw858ke4C1iVPnJHasI-jIbstzbs1nrkhRKbrJhvG=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ",
+      "id": "ChIJ4X6JZl_CGzkR5LgkO_3X7tQ",
+      "types": [
+        "hotel",
+        "restaurant",
+        "lodging",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "0187 124 5344",
+      "internationalPhoneNumber": "+91 187 124 5344",
+      "formattedAddress": "Near Bus Stand Batala,Jalandhar Road, Shastri Nagar, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Shastri Nagar",
+          "shortText": "Shastri Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J3QR692+PP",
+        "compoundCode": "R692+PP Batala, Punjab, India"
+      },
+      "location": {
+        "latitude": 31.819371999999998,
+        "longitude": 75.201764
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.818070819708495,
+          "longitude": 75.2004225197085
+        },
+        "high": {
+          "latitude": 31.820768780291491,
+          "longitude": 75.2031204802915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=15343438463116818660",
+      "websiteUri": "https://sunnybatala.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:30 AM – 10:30 PM",
+          "Tuesday: 8:30 AM – 10:30 PM",
+          "Wednesday: 8:30 AM – 10:30 PM",
+          "Thursday: 8:30 AM – 10:30 PM",
+          "Friday: 8:30 AM – 10:30 PM",
+          "Saturday: 8:30 AM – 10:30 PM",
+          "Sunday: 8:30 AM – 10:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Near Bus Stand Batala,Jalandhar Road, \u003cspan class=\"extended-address\"\u003eShastri Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 313,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Sunny Hotel Restaurant & Beer Bar",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:30 AM – 10:30 PM",
+          "Tuesday: 8:30 AM – 10:30 PM",
+          "Wednesday: 8:30 AM – 10:30 PM",
+          "Thursday: 8:30 AM – 10:30 PM",
+          "Friday: 8:30 AM – 10:30 PM",
+          "Saturday: 8:30 AM – 10:30 PM",
+          "Sunday: 8:30 AM – 10:30 PM"
+        ]
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Near Bus Stand Batala,Jalandhar Road, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0MEptTEVnEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Average hotel with average facilities. But restaurant service and food are really good.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Average hotel with average facilities. But restaurant service and food are really good.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lovely Sharma",
+            "uri": "https://www.google.com/maps/contrib/109862111128178512395/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMx5sOFIJLzbrjkk3LM8JBjU07EAMWJMAO8FyrkGNqIeT6rTyM=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-28T04:45:54Z"
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeFBqWDNBRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Visited this place for lunch.\n\nFood is fine, service is good.\nWe opt for a private cabin, a good place for a gathering of 7-8 persons.\n\nWe ordered chilli chicken, rahra chicken, butter naan and fried rice.\nSurprisingly they are serving Chinese, but not noodles.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Visited this place for lunch.\n\nFood is fine, service is good.\nWe opt for a private cabin, a good place for a gathering of 7-8 persons.\n\nWe ordered chilli chicken, rahra chicken, butter naan and fried rice.\nSurprisingly they are serving Chinese, but not noodles.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kanwardeep Singh Sokhi",
+            "uri": "https://www.google.com/maps/contrib/117841937945594508437/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXB3aKpUq2I9PLD6cm9I2q62Ro1abZiWCLoJxgdZPGrOtxD4K_W=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-06-20T23:33:39Z"
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURCNnZ2TjZnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Great service and food was exceptional. Room was clean and the staff was also very polite. The cabins in the restaurant area are great for some quality time with family and friends and provide privacy.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great service and food was exceptional. Room was clean and the staff was also very polite. The cabins in the restaurant area are great for some quality time with family and friends and provide privacy.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gursharan Singh",
+            "uri": "https://www.google.com/maps/contrib/112961623799568230501/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNgDCxFP2YflVRee8Xwtj8WNM-iXdlxw4PfS_uQAdC_cpD7AY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-01-17T02:37:41Z"
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURCNnQtMHlBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "This place is great! Had amazing food. The service we received was also amazing. I recommend this place to everyone and definitely I would like to come back here again and again. It's just \"THE BEST\" in the town.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This place is great! Had amazing food. The service we received was also amazing. I recommend this place to everyone and definitely I would like to come back here again and again. It's just \"THE BEST\" in the town.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jashanpreet Kaur",
+            "uri": "https://www.google.com/maps/contrib/113316325742991175984/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBUIKzfjsZmjbgob-JH9ShloujZJI6rQijbXq2lEoUWfmepg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-01-17T02:48:28Z"
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMDhmbDNBRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Stayed here for 10 days for official tour.\nGood service with spacious rooms and staff behaviour was very good.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Stayed here for 10 days for official tour.\nGood service with spacious rooms and staff behaviour was very good.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vivek Singh Chauhan",
+            "uri": "https://www.google.com/maps/contrib/104907227378300692221/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkXz5WPv7iNraYkXOYWfoAy3lx99hBG3KD1TpUHtHwq5yJOQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-17T15:34:10Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJaj-L-MXLDDI4YVcDx2a6PtEUlItXxut4un7GLcDP0gT0JleIIKcWwx6uO16Qm2zSPJ6Cpny0xcnsrjgt3Xe1fF3xCXRABPi_gscPjheCp41WYXFdGQ0VswVbmzner9kM5vlIgzfxRu6hTMtrq2sbSVj69eHn1UAR75",
+          "widthPx": 414,
+          "heightPx": 772,
+          "authorAttributions": [
+            {
+              "displayName": "Karanbir Mann",
+              "uri": "//maps.google.com/maps/contrib/110453292625331324142",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVj8L1cmtgKNk3Lq4YaP-EgWmdCsPtQNOH_N0Tt11_383x1RRqJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJahBQ5R9-ECwwKuoAhRzhKVQ422sAooyqOJ9F2_52A6ixHNkqaulTM5bVYnuKb0mM204jRrFlSquWLGNSIO2HYnCsnl4psM4nY9SqEAa-HoI-lwcdOZ1BLGmVKXvY5zFNWxe3Y2IdH3NMbUjJmStrx0kLpv7vO5zi6A",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Sarvjit Singh (Strand)",
+              "uri": "//maps.google.com/maps/contrib/112706605943492911687",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUIqW9hLpj2TMB4uZu2TcAApE3DKPbd5igNlGa1UyyxF68bL4w2=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJaLZ1wbh2m1K003j1tmdzmNj_N4eyWbrowze8kyEvwsovgzbXTVhMoYjH0xcE2QVXNqmZBjdby-yYBtGmdR7DD4B3RLzt_cPzgPtp4ya-xFs4--TQnFmoJMDoqeEQIiJXXysITW0hBg6Yf5msYfglQS-_joZC04oNzM",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Hotel Restaurant & Beer Bar",
+              "uri": "//maps.google.com/maps/contrib/117557510429306734316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdnGBKzRbW_0N3jwMSUBqs1aHqxEqZRpsZmKIoa53SdTyMSQXJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJahCc1y_ZCCWTvFZYy7vnF6igTysNhpRup9XLKvP62SVYLBb6Td0clp_6YyFxO_ebzu1L8hwF8UI7lFM1gpOk4ok77d-1kz6618a2q-67DGNA-jWGeYqgAWvghAyT8DYrppGCElJWRPPLFZMTHpTVXuhCMw35lBhoG7",
+          "widthPx": 480,
+          "heightPx": 319,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Hotel Restaurant & Beer Bar",
+              "uri": "//maps.google.com/maps/contrib/117557510429306734316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdnGBKzRbW_0N3jwMSUBqs1aHqxEqZRpsZmKIoa53SdTyMSQXJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJbLLMp5-lzzInqn9c9k7T58ckMCqoJTwR2Hr2q-CiPe9TaMhUBi07cb305y2XWgacH-1bEEg9LU5bynzilIrHDSae3SbzZJCY1QMPQneTVPhnEs9ddywhxkOhU1GNaAMg3s2rRMFxV2h6lU5BUM1TUoX88wNxGU0a51",
+          "widthPx": 319,
+          "heightPx": 480,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Hotel Restaurant & Beer Bar",
+              "uri": "//maps.google.com/maps/contrib/117557510429306734316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdnGBKzRbW_0N3jwMSUBqs1aHqxEqZRpsZmKIoa53SdTyMSQXJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJYMH4oB4fCnqTGhPgSulFtrO-jN_SJHm8uCPfI4hgTX-PCkgBqV8W8nnCq84TvNfQ18UXFIGLpbCBtDbQ4FyTVolJXofA2RpH6QJ8iPAozBySSQsjJ2eORUqlPxHpa-VtBK6WeittBmSk8Y4HWDC4qBeIuRTX2WXtMd",
+          "widthPx": 750,
+          "heightPx": 475,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Hotel Restaurant & Beer Bar",
+              "uri": "//maps.google.com/maps/contrib/117557510429306734316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdnGBKzRbW_0N3jwMSUBqs1aHqxEqZRpsZmKIoa53SdTyMSQXJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJZc1Ty3Z9WMjupnpXVg25HvSVxxP9NHsaXnoSgRwlGC5C8qNcwrz2rgDEdGmpcyEF7l7ACOTu_iSBO_wKXWzkF1CKTWXAHUz4y2N2qggID8tz_QsIII5XfJy2q6VvSBeguAATk4ED2o6IQOO0N3pnFDnl9CTfUUBKpx",
+          "widthPx": 1352,
+          "heightPx": 679,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Hotel Restaurant & Beer Bar",
+              "uri": "//maps.google.com/maps/contrib/117557510429306734316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdnGBKzRbW_0N3jwMSUBqs1aHqxEqZRpsZmKIoa53SdTyMSQXJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJbVYH2BfBnc_bnJPmXnw_6HjWSrcXL3_tPAKMlp8ciwZNT3RqVOx5UEBoOjcf3FFsVgZEO5xFu-urBl682zMjP3RFQPOuVhW5hWqBDxSiaCf5QS8doDXJc1K9h1WaYt3vBV80hp5e6ETP8d9Li_SY2asqf8W4z6XO7H",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Hotel Restaurant & Beer Bar",
+              "uri": "//maps.google.com/maps/contrib/117557510429306734316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdnGBKzRbW_0N3jwMSUBqs1aHqxEqZRpsZmKIoa53SdTyMSQXJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJZYwT49irz-zq5ZOX5RvShkfLf4G4NVBSNtcLlkrrOt1EjKrDfhphV5bQGlNC0oTPC3WyomqdpF4Xha968wRyB_ICDAAuCI-JV569C5RFIBZZgn5otNrzz6H9bPmWSpDBDQNFr-ZwnnZ7AbuJ-W4vSa0ipHCWlNg5B0",
+          "widthPx": 1506,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Hotel Restaurant & Beer Bar",
+              "uri": "//maps.google.com/maps/contrib/117557510429306734316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdnGBKzRbW_0N3jwMSUBqs1aHqxEqZRpsZmKIoa53SdTyMSQXJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ4X6JZl_CGzkR5LgkO_3X7tQ/photos/ATplDJZiHrmK2Na-WFTDpl7flRJ0NJEi1NUm1U34cOi9uDCn16hpbw3HviiOoeSJq7XQgieI_M1vUA504k98cZ8_EGbZpP-uTN29aF25UaJ7yvh9BrW2TN7ildgwqJJVb96dNC0KFu3sANbQ-L3JqZe1ob0oE50gliPcxfY3",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Sunny Hotel Restaurant & Beer Bar",
+              "uri": "//maps.google.com/maps/contrib/117557510429306734316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWdnGBKzRbW_0N3jwMSUBqs1aHqxEqZRpsZmKIoa53SdTyMSQXJ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": false,
+      "paymentOptions": {
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc",
+      "id": "ChIJ6UO8Y3HDGzkRFki9eWAKxZc",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "R69F+2Q2, Kahnuwan Road, Jharia, Urban Estate, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "R69F+2Q2",
+          "shortText": "R69F+2Q2",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Kahnuwan Road",
+          "shortText": "Kahnuwan Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jharia",
+          "shortText": "Jharia",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Urban Estate",
+          "shortText": "Urban Estate",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 31.817507000000003,
+        "longitude": 75.224400400000007
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.816390969708504,
+          "longitude": 75.223100869708489
+        },
+        "high": {
+          "latitude": 31.8190889302915,
+          "longitude": 75.2257988302915
+        }
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=10936158679614703638",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "R69F+2Q2, \u003cspan class=\"street-address\"\u003eKahnuwan Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJharia, Urban Estate\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 69,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "BASRA FARM",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "R69F+2Q2, Kahnuwan Road, Jharia, Urban Estate, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5dzltaVN3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 3,
+          "text": {
+            "text": "Not bad experience. But hospitality is very low. If management will understand.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Not bad experience. But hospitality is very low. If management will understand.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "A.S Bains",
+            "uri": "https://www.google.com/maps/contrib/113730965258463282256/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeYyieTpWYprRMF5PYwn0YQpM9LXdNLKLh-3KVkYZQ0LQUdOoiYg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-20T13:11:09Z"
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/reviews/ChdDSUhNMG9nS0VJQ0FnSURWekl6cjRBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good place for functions .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place for functions .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bachitter Singh",
+            "uri": "https://www.google.com/maps/contrib/110719953370222729573/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrz4ShvR1e3QWvNkh7e0WcTFyFqSANJrWYR5hQuD6HCHBbwg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-12-11T10:55:16Z"
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/reviews/ChZDSUhNMG9nS0VJQ0FnSURWdnYzZU1nEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Good 👍🏻😊",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good 👍🏻😊",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Karamjeet Singh",
+            "uri": "https://www.google.com/maps/contrib/112496933057891508439/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5kSFhNH-yKd8yJDubOZ_1YTqkNHkJRzF0_jNb3N2FM7nO3wyU=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-13T08:15:16Z"
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoc1ppY0tBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good very open grand haal parking very good palace",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good very open grand haal parking very good palace",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amit Mottan",
+            "uri": "https://www.google.com/maps/contrib/100791192472002790829/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXn8NjNwkVkvnfHZT6kvKWqTiMsohPCnzs6PmmXRKf3m4DC7_Ui=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-02-15T15:01:33Z"
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/reviews/ChZDSUhNMG9nS0VJQ0FnSURCbmE3a0lBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Good place for family functions and parties 🎉",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place for family functions and parties 🎉",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Poonam Chauhan",
+            "uri": "https://www.google.com/maps/contrib/109350863167952373300/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2IdldE4X7LmuPFqawWfCxGSWCbCn0bxuwhIWQPIyUhwukJQig5A=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-02-01T05:59:15Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJbaWd3VrvDRSIsm1boWiWmmnmLsnHeqyaN1wc7CzPiIy2UpoIjNg1FsddQrrsu3JDXPHBweVRDw3qKzr7P-z55aqIqf_nAYo8rkY1mp2_mFJw8swfNoEhygE3oc8uCHXf6_aT6f-67k77k8_ApgXIfpV7Whk44W4Osc",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "TEJPAL SINGH KALSI",
+              "uri": "//maps.google.com/maps/contrib/102346005615802504329",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6jqJw1SOi_hQfZYQ1msvVGKsKFuILPvywha6PtT3NJ4JY_JqP1A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJbbUONHFq-CU4lYyEQAQPgOk6H4jL5FRq1IhfegIBTr_szHlUf0a_aJUUIaKLX-w5VdnK6KCo78LjnGg1EqzYuOTskrzwjyVSLANBHnz-uVpYhPeRVNB0Ql2vdKdT-xWhvvOmV3vEtW7-vid-DwBPcwIC2PiyfUuVOF",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "TEJPAL SINGH KALSI",
+              "uri": "//maps.google.com/maps/contrib/102346005615802504329",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6jqJw1SOi_hQfZYQ1msvVGKsKFuILPvywha6PtT3NJ4JY_JqP1A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJa6B_O096w-DUWXJR7wFm0-loAofY61YjUkeCSdCVkf32TDL2lGXwznFDu-MHVsQ4If5sqln8YJeNwvDzXozCIqrOFK3ptaV1d-3gQHAVH_tEhUp_VjPbaLwe7H3GNmNH-xxFXshCaq4Z0AebdlBAAqh_DtzK8MyJLa",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "TEJPAL SINGH KALSI",
+              "uri": "//maps.google.com/maps/contrib/102346005615802504329",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6jqJw1SOi_hQfZYQ1msvVGKsKFuILPvywha6PtT3NJ4JY_JqP1A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJYcnH-y5__JlFq2kZC1F1J5qOzOfvSk_oKrtu0pIEARSPCsm1sj2yFdkDuu14iL-XS_4JpZniTQMoNGkG7Gy2G42SqX44jJVBYs6hxSxfukpDvyFEChH-k_rLsxKlLR1h2iT8nNVeZTg5DALdM-99038z0n59RcSaV2",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "TEJPAL SINGH KALSI",
+              "uri": "//maps.google.com/maps/contrib/102346005615802504329",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6jqJw1SOi_hQfZYQ1msvVGKsKFuILPvywha6PtT3NJ4JY_JqP1A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJYi18At_EpTtyZU95dZnUjQurMNBjZRkiYP1fJjHPw9bIQWmeiw4J1SyVZ1DkecqfH_1G0WpMRA5Xc9jCV33vVcQnQ2Qsef8bMPdobqqvXmxItw0DWJo_EdrI9yP5UKg5OtquZtg6CDNSe42ml1fcjMg8CLvJqqUpCO",
+          "widthPx": 640,
+          "heightPx": 1355,
+          "authorAttributions": [
+            {
+              "displayName": "Sarita Thakur",
+              "uri": "//maps.google.com/maps/contrib/110084343210142958559",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU_VzZ2sQQMpFXo7_n9c5Pr0Ez9xn3xryrZi6OAdhtzCwJbFQ8Q4A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJYWQhNWpUEERZ4K9mpWJIwG4rMgxHVfEJlpb_vaCIzp7qXG0Z1iWHNLtoHJVnZF5jK-Wu0wMQojh9O6O2uk0-svic9Zg3rwJJwYMpdxIWLCnM477F8WRi0pnKwt1dDQU0fOewjxRK5_O4FO6fVTlsamnzjbSHJAaw4P",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "TEJPAL SINGH KALSI",
+              "uri": "//maps.google.com/maps/contrib/102346005615802504329",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6jqJw1SOi_hQfZYQ1msvVGKsKFuILPvywha6PtT3NJ4JY_JqP1A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJbzbA3KV51CJNBeW83owi2DWn4wUSPYZdbWdcHrcjCEPg_weDHx0ysTWD3HHJZImn45xIkYfgbz7F2yW86L_znUF206bDUJl8Wt3QsimpAcbsmQAE2g34ooYTfdgKkIYIwRyBEAzRikEhpY2CzyGvjIgo_N_DLjCw8_",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "TEJPAL SINGH KALSI",
+              "uri": "//maps.google.com/maps/contrib/102346005615802504329",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6jqJw1SOi_hQfZYQ1msvVGKsKFuILPvywha6PtT3NJ4JY_JqP1A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJauLkFs0CZIIveJLXhfffOsgyfNnW60VCOXfej-CGPfAckPb56-2vZbg6Cjg56KpeVZKRt7Gn32PF9U7UB5KPoiqRV36gfdtYMRBATjRUEdk-J-AB_vsOS0-LR64N_1dQXZUu9z8Rc2K_aS5YieX9SPigtuTHSFNopm",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Jaskaranbir Sandhu",
+              "uri": "//maps.google.com/maps/contrib/104382831298794530316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV68Tlnwmj_3F5jJQN2BeCdVeRipLBPaf3LCam0_ST40Hc5vFj08Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJY2fyOb13UnaSJ8XkuXP9NS4j2JIAbcCQyq1gETYjW7_EjeMZtohxoBiBwXHAKB-x-01iAlZYccbi-6AxLJGdwdGaQaqJ7ShJdSPfBoIHrHZ67zOPrpDDM8ag-n0HbRYcFZUAkFMrfTPf1yfmrOMK_ZCfVVcOEcukS5",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Jaskaranbir Sandhu",
+              "uri": "//maps.google.com/maps/contrib/104382831298794530316",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV68Tlnwmj_3F5jJQN2BeCdVeRipLBPaf3LCam0_ST40Hc5vFj08Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ6UO8Y3HDGzkRFki9eWAKxZc/photos/ATplDJbmIbykykDoy0C3lhHPWg_ShDvWmy1Zd9kRH_zHzDH4NbGGa3plTYC9vG48gn8hlRDUvwp2dhPWePibplogb0Ee70a8RawMZkaj2ddMZzXoMccwU5ZdxPmoCHXgLuncdiCuO6F6oGRGyRbSRPrPNV6gNmzAdb-ZGFc2",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "TEJPAL SINGH KALSI",
+              "uri": "//maps.google.com/maps/contrib/102346005615802504329",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6jqJw1SOi_hQfZYQ1msvVGKsKFuILPvywha6PtT3NJ4JY_JqP1A=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJ556DpIrDGzkRc3NCvUSaGSM",
+      "id": "ChIJ556DpIrDGzkRc3NCvUSaGSM",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "R693+RC4, Shastri Nagar, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "R693+RC4",
+          "shortText": "R693+RC4",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Shastri Nagar",
+          "shortText": "Shastri Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 31.8195248,
+        "longitude": 75.203587599999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.818208269708506,
+          "longitude": 75.202197319708489
+        },
+        "high": {
+          "latitude": 31.820906230291502,
+          "longitude": 75.20489528029151
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=2529222285768946547",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "R693+RC4, \u003cspan class=\"extended-address\"\u003eShastri Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 19,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Kang vila Palace",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "R693+RC4, Shastri Nagar, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJ556DpIrDGzkRc3NCvUSaGSM/reviews/ChdDSUhNMG9nS0VJQ0FnSURENE56RHVBRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Joban Shalu",
+            "uri": "https://www.google.com/maps/contrib/106966497876482048770/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAATHiOZmInezwqvRXa9UqycjW9mIOkq5rrykzqHHvj4hvsyU=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-04T10:43:49Z"
+        },
+        {
+          "name": "places/ChIJ556DpIrDGzkRc3NCvUSaGSM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsNmR6c01REAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful palace",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful palace",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hritik Sharma",
+            "uri": "https://www.google.com/maps/contrib/111304656697654326536/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-utHTPuNDCdqX7dMF14p3w84KkqSLpogYM9oWAaTWnQDGGiQ8=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-21T17:35:38Z"
+        },
+        {
+          "name": "places/ChIJ556DpIrDGzkRc3NCvUSaGSM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScXJIekJ3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Recommended",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Recommended",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Narinder Kumar",
+            "uri": "https://www.google.com/maps/contrib/115496635095815058261/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbJWg4fbOIUJWEs-vGoAe5N50X40IPHiprxyj9BfZcRPWODvQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-03-30T05:48:32Z"
+        },
+        {
+          "name": "places/ChIJ556DpIrDGzkRc3NCvUSaGSM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXczhIMHpRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Awesome 👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Awesome 👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "deep chahal",
+            "uri": "https://www.google.com/maps/contrib/102388327280733254885/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6zsq7EJlIwZ1NR3evt0GHfEQG131gh9RlXlhvX2afAZw5VoLIiQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-03-06T07:41:14Z"
+        },
+        {
+          "name": "places/ChIJ556DpIrDGzkRc3NCvUSaGSM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNocnJuZWdBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "vijay uikey",
+            "uri": "https://www.google.com/maps/contrib/116889339394106977251/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9MNyO5AkIoCwAQtCdtLfB-7qULHLoliYvnQe-3E-LVj3-AgKDqg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-02-13T11:20:24Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ556DpIrDGzkRc3NCvUSaGSM/photos/ATplDJaHocFTPIWpfbjufdG6OOjUcVp1w_-YX-NneiRmUcR25RbCjx-FCZmbbMjFxFXIO6YF3Z6brRvMnhZz0rAukOnsG3YTvrnVaLH89lr-ABJnonIdSeYN0HOJ4kDT6xP_sf7FV3g8_garsW7F4xv4F037wscxcibcXWmA",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Mandeep Singh",
+              "uri": "//maps.google.com/maps/contrib/103230784764477154041",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXLi3bsY37qbvzZx8gZNwt0atZbcLHHvYbqpkdjISvqgHiqOrUs=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ556DpIrDGzkRc3NCvUSaGSM/photos/ATplDJYW_Eh_5KTzYIxYZ8poX9pletHdZwXQ6cdnk8IVcnBJNt9ShMH1MkLSuSCv8BHpWp9MBDU2Q3JbxDDBRepNTn-QiIBorSS0i0MtOtfTqrY7oefCmBBb4jbgbF42FWR3YDMab9k1pClpX6QMCT0hQZW6SV6CcAP_2DPR",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Hritik Sharma",
+              "uri": "//maps.google.com/maps/contrib/111304656697654326536",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW-utHTPuNDCdqX7dMF14p3w84KkqSLpogYM9oWAaTWnQDGGiQ8=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w",
+      "id": "ChIJ8fYJphzDGzkRJ4UWoDDaw_w",
+      "types": [
+        "banquet_hall",
+        "resort_hotel",
+        "hotel",
+        "wedding_venue",
+        "lodging",
+        "event_venue",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "077173 38158",
+      "internationalPhoneNumber": "+91 77173 38158",
+      "formattedAddress": "Near Baba Motors,Bypass Chownk, Jalandhar Rd, Mahajan Colony, Umarpura, Batala, Punjab 143505, India",
+      "addressComponents": [
+        {
+          "longText": "Jalandhar Road",
+          "shortText": "Jalandhar Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mahajan Colony",
+          "shortText": "Mahajan Colony",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Umarpura",
+          "shortText": "Umarpura",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Batala",
+          "shortText": "Batala",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gurdaspur",
+          "shortText": "Gurdaspur",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jalandhar Division",
+          "shortText": "Jalandhar Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Punjab",
+          "shortText": "PB",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "143505",
+          "shortText": "143505",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J3QQ6WC+H2",
+        "compoundCode": "Q6WC+H2 Batala, Punjab, India"
+      },
+      "location": {
+        "latitude": 31.7963829,
+        "longitude": 75.2200494
+      },
+      "viewport": {
+        "low": {
+          "latitude": 31.795020269708495,
+          "longitude": 75.218545369708508
+        },
+        "high": {
+          "latitude": 31.797718230291494,
+          "longitude": 75.221243330291514
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=18213641220395533607",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Near Baba Motors,Bypass Chownk, \u003cspan class=\"street-address\"\u003eJalandhar Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMahajan Colony, Umarpura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBatala\u003c/span\u003e, \u003cspan class=\"region\"\u003ePunjab\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e143505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 61,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Nirvana Banquet Garden",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Function hall",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "dineIn": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "banquet_hall",
+      "shortFormattedAddress": "Near Baba Motors,Bypass Chownk, Jalandhar Rd, Batala",
+      "reviews": [
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5LU9mMDFnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Lovely place to visit food is delicious, great venue, good experience nice banquet hall 👍👍👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lovely place to visit food is delicious, great venue, good experience nice banquet hall 👍👍👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Salil Sharma",
+            "uri": "https://www.google.com/maps/contrib/104838435285026486661/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJGSUmDNiP9TxEXvnFf6xHrBMWv5wyWLyy56ti5_6acwDXayg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-13T06:30:06Z"
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEejd2Z3FnRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "The General manager and management is very good.We book Nirvana hall for our Sister marriage.The arrangement is very good.everything did smooth.Our guest enjoy and we are happy for the nirvana Management.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The General manager and management is very good.We book Nirvana hall for our Sister marriage.The arrangement is very good.everything did smooth.Our guest enjoy and we are happy for the nirvana Management.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Punk randhawa",
+            "uri": "https://www.google.com/maps/contrib/106237223737779494049/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMWNJlGrRhJBAKICG5cDAZlXkt6eFTxCqzJPy4cEY0-hxvXXa9=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-03T12:14:57Z"
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/reviews/ChZDSUhNMG9nS0VJQ0FnSUREcTRqWlFnEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Food quality very good and staff service good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Food quality very good and staff service good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sabi Singh",
+            "uri": "https://www.google.com/maps/contrib/107476796103294974256/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLexX3FGNxysGQrNT3WVWZ_egxUWeJ42pbjzcf20MpH1HFSovQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-14T09:20:45Z"
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEaEt2ai1nRRAB",
+          "relativePublishTimeDescription": "4 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Good place to organise parties and ceremonies. Professional service, friendly staff, proper cleanliness,\nBig parking’s available at backside as well.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place to organise parties and ceremonies. Professional service, friendly staff, proper cleanliness,\nBig parking’s available at backside as well.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Satnam Singh Kahlon",
+            "uri": "https://www.google.com/maps/contrib/112492206477363823442/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9xVxJ5DtxxaA0dMiM0wUH1ay-DidT4kBJLqFKFOQigpaTzw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-24T12:36:57Z"
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEaEl2bnp3RRAB",
+          "relativePublishTimeDescription": "4 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice and big banquet hall for weeding and parties\nParking is available at open space good kind of banquet hall they receive good responses",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice and big banquet hall for weeding and parties\nParking is available at open space good kind of banquet hall they receive good responses",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jashan Kahlon",
+            "uri": "https://www.google.com/maps/contrib/115084541673629750954/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXC_VQOVFQ154c4no1f5tT4EPTd8pCTAdNwxX6gmjLRCqCM9yeCDw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-24T12:35:12Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJb1DXHiHyNchLPna5UsJuIIJIVYrUpH5RiVjP0UbNlCOPoUAU4WWyfkWRtOQV7Y7e-F7knUWAr87O8p9jpAaB-91KkLyI51rXAOfESzQg7RQusExrhPPjYeLOq2gq6vaYChco7Mp-W5G68QVq3i9sDqeR8OTK-aWh8f",
+          "widthPx": 1160,
+          "heightPx": 868,
+          "authorAttributions": [
+            {
+              "displayName": "Nirvana Banquet Garden",
+              "uri": "//maps.google.com/maps/contrib/100546928122472598199",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIbhzUR2MS5m_NGPUjsjGBPPx-vGIUyf0q0sWcHvXKusYQat2w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJZgMhUHeG10WaiURCcZhohelUs28SrExcd4GR23bAQl5LMoPDw_gt4AY7MS6l0Phl-zklTL6e0CfnIwnhcxX89slF_EIjtbssF2fSZ8Em6QzrbaLoK631x6Gs-f5tJvrhqi3OZN4vMD37wy-CzuH106mCgdtQBxIvE5",
+          "widthPx": 780,
+          "heightPx": 1040,
+          "authorAttributions": [
+            {
+              "displayName": "Nirvana Banquet Garden",
+              "uri": "//maps.google.com/maps/contrib/100546928122472598199",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIbhzUR2MS5m_NGPUjsjGBPPx-vGIUyf0q0sWcHvXKusYQat2w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJYSxujKnaGNPciKH9co9okBllzxS03oglT3CkfrpM-OHwVhGPnfhfMAhz254Xpsujwujj2bKvas5EV6GBnlr9Oc4HLp9wqS_XmflMUUadQsY5kFEw49wW-g8TBZMy8ma-k00KFKSDouI6fNELiwR_DaehO6kF6HjDcn",
+          "widthPx": 1160,
+          "heightPx": 868,
+          "authorAttributions": [
+            {
+              "displayName": "Nirvana Banquet Garden",
+              "uri": "//maps.google.com/maps/contrib/100546928122472598199",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIbhzUR2MS5m_NGPUjsjGBPPx-vGIUyf0q0sWcHvXKusYQat2w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJa60wXPUD8ZhIu0sNNE1qFgwnWVWU0zLeeINF2hTqAOv4uo-LSl3-tPvrWpWWYF_fbmdkWCkfLHlnNco3Gr_JkI63YBkkkAvmJfn-eqmFfmopkNR8NbooYg4HFHA7f5QtGkIQLYjzoXb40nN5Qe8S6EM-NbitZGb1Yp",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Simranjit Singh",
+              "uri": "//maps.google.com/maps/contrib/105385292801828004733",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU11BzptSNplGSpcWclLWaE--cEcm-RO6Jv0A9rbzhg8mnnpvW5ww=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJYgfbUPZBH1M_dAM7l1rwiLBQzHSnAbeEvmrtVL_4HLy0S4dhbu26W1-Hxcx3ezhw8799PkV2cC5_G4YWS5NwWLRpnN6i4iS5qbs5LhPJ2qlsjSccUKcDVUsCrm2BIq8Ei1nk0aHs30HS8bZh0CIpJEciAwKcDpxZfh",
+          "widthPx": 1160,
+          "heightPx": 868,
+          "authorAttributions": [
+            {
+              "displayName": "Nirvana Banquet Garden",
+              "uri": "//maps.google.com/maps/contrib/100546928122472598199",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIbhzUR2MS5m_NGPUjsjGBPPx-vGIUyf0q0sWcHvXKusYQat2w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJZbtfiCZcE1pNYP9ifKsD3S2j4GlnJO-vtyb2oKCAGdmCM8hqzaWCSVyNqh6uto5xzMnRrMuz2QcP9dnhqCzFLEkJYgDKOXMUFobEN60l57TF4b0jJBNNDvU1341waFtKeubIhTfCDhVE-lrR-jGQxSn2asI_IRTHIu",
+          "widthPx": 1160,
+          "heightPx": 868,
+          "authorAttributions": [
+            {
+              "displayName": "Nirvana Banquet Garden",
+              "uri": "//maps.google.com/maps/contrib/100546928122472598199",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIbhzUR2MS5m_NGPUjsjGBPPx-vGIUyf0q0sWcHvXKusYQat2w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJaPiEITKEjT1zN1vcVylVXGzAxZyHn0ZA-DgvK68FI5K9K6RLg1sY_9wh6qAMNWmtDiay5bFdb39OYMZoL5cKO2bLpSLK1HXQB5RVZBmhIj4Urc6c2Ry2prLXn45YFWQFixcXrwQYokQ400sXxjiIje9MgmexeS1ssG",
+          "widthPx": 1000,
+          "heightPx": 667,
+          "authorAttributions": [
+            {
+              "displayName": "Nirvana Banquet Garden",
+              "uri": "//maps.google.com/maps/contrib/100546928122472598199",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIbhzUR2MS5m_NGPUjsjGBPPx-vGIUyf0q0sWcHvXKusYQat2w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJY-9r8WYnZWelk1jT18ksshbkw0c0jRBcmMStrVfPKFsIuStAG0ejMvIpvowm0xj4-95NO3vGNZZ10XG4rEhzxPF8RuBNy9sVbRnl9hGGsMICxXjx-t-UEvwmVyizBhVmDUhLma-ICK4uzTu9oiJH-bQZBAFhzodTmn",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Nirvana Banquet Garden",
+              "uri": "//maps.google.com/maps/contrib/100546928122472598199",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIbhzUR2MS5m_NGPUjsjGBPPx-vGIUyf0q0sWcHvXKusYQat2w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJZg7nJG2sszXNgstXLtuFJ6QzgSnoVQajTz31-Zgg9MaRS06ILmPNyAmC3iZ5gMlgxDRaMgDHleMqRenod-PeFpyr0mzi-GN9eHJ8XEfxnVqgkQ5IE8qgylFX-0nrt8PqdBNibXQrtfelpqojieJ0vEMRr9AKGYbB8v",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Simranjit Singh",
+              "uri": "//maps.google.com/maps/contrib/105385292801828004733",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU11BzptSNplGSpcWclLWaE--cEcm-RO6Jv0A9rbzhg8mnnpvW5ww=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ8fYJphzDGzkRJ4UWoDDaw_w/photos/ATplDJYQAUrk4ApdlJYhGozQZqd_ccGSA5d_St6-ShEP8-OkjRBmb0jrDe1rXIOqwG6hKdcrDmYIhhOdwEl90ETTTHZDP2oMaML9fQfrdN_HBF3uSU6D4OfCtsqzxCmEecaZzPJS1V9NHx3eZi7i_-XytyG9THupHW7UgHdn",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Simranjit Singh",
+              "uri": "//maps.google.com/maps/contrib/105385292801828004733",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU11BzptSNplGSpcWclLWaE--cEcm-RO6Jv0A9rbzhg8mnnpvW5ww=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "paymentOptions": {
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+      },
+      "parkingOptions": {
+        "valetParking": true
+      }
+    }
+  ]
+}
+

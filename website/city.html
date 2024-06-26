@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Details</title>
+    <link rel="stylesheet" href="css/styles_city.css">
+</head>
+<body>
+    <h1>City Details</h1>
+    <div id="results-container"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const resultsContainer = document.getElementById('results-container');
+            const urlParams = new URLSearchParams(window.location.search);
+            const resultsJson = urlParams.get('results');
+
+            if (resultsJson) {
+                const results = JSON.parse(resultsJson);
+                results.forEach(result => {
+                    // Create a link container for each result card
+                    const linkContainer = document.createElement('a');
+                    linkContainer.href = `hotel.html?city=${encodeURIComponent(JSON.stringify(result))}`;
+                    linkContainer.classList.add('result-card-link');
+
+                    const card = document.createElement('div');
+                    card.classList.add('result-card');
+
+                    const responseElem = document.createElement('h2');
+                    responseElem.textContent = result.metadata.Response;
+
+                    const infoElem = document.createElement('p');
+                    infoElem.textContent = result.metadata.Info;
+
+                    const ratingElem = document.createElement('p');
+                    ratingElem.textContent = `Rating: ${result.metadata.Rating}`;
+
+                    card.appendChild(responseElem);
+                    card.appendChild(infoElem);
+                    card.appendChild(ratingElem);
+
+                    linkContainer.appendChild(card); // Append card to the link container
+                    resultsContainer.appendChild(linkContainer);
+                });
+                console.log('Results displayed from URL parameters:', results);
+            } else {
+                const noResultsElem = document.createElement('p');
+                noResultsElem.textContent = 'No results found.';
+                resultsContainer.appendChild(noResultsElem);
+                console.log('No results found in URL parameters.');
+            }
+        });
+    </script>
+</body>
+</html>
+

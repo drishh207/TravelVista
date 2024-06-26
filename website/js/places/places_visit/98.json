@@ -1,0 +1,114 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJibL94rP7BzsRxVHA_rUs_fM",
+      "id": "ChIJibL94rP7BzsRxVHA_rUs_fM",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6JH8+PX6, Ayyampuzha, Kerala 683581, India",
+      "addressComponents": [
+        {
+          "longText": "6JH8+PX6",
+          "shortText": "6JH8+PX6",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ayyampuzha",
+          "shortText": "Ayyampuzha",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ernakulam",
+          "shortText": "Ernakulam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kerala",
+          "shortText": "KL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "683581",
+          "shortText": "683581",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 10.2292776,
+        "longitude": 76.6173906
+      },
+      "viewport": {
+        "low": {
+          "latitude": 10.227928619708498,
+          "longitude": 76.616041619708483
+        },
+        "high": {
+          "latitude": 10.230626580291503,
+          "longitude": 76.618739580291489
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17581257680499003845",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6JH8+PX6, \u003cspan class=\"locality\"\u003eAyyampuzha\u003c/span\u003e, \u003cspan class=\"region\"\u003eKerala\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e683581\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "POTTA SREEKRISHNA SWAMY TEMPLE",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6JH8+PX6, Ayyampuzha",
+      "photos": [
+        {
+          "name": "places/ChIJibL94rP7BzsRxVHA_rUs_fM/photos/ATplDJbh8Oc4a1cXRJBOd-0Gk7Z28Ucutdyks4XW1bBfrUGhe9Mu4dJNx3AecCGhGfTa1tHlqQKrzZIxDlxgK9emOguGJ9K9T3LfFxJT2anHpYFs-Tt1IhlNZ9fMmtk_DtHmjuewHj8Lta1tIVfA25jN75opukf7D2Yzo1YB",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "Karthik P S",
+              "uri": "//maps.google.com/maps/contrib/110890305389741289756",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUc7bIKUYW2WbGuaWSu1J6PgNmbdeb98GaFAzGlEHrTfgydicJe=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,2382 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80",
+      "id": "ChIJYZZSqZAH4TgR4wSuSadwC80",
+      "types": [
+        "restaurant",
+        "hotel",
+        "lodging",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "060061 42082",
+      "internationalPhoneNumber": "+91 60061 42082",
+      "formattedAddress": "Hospital Rd, Kanth Bagh, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "Hospital Road",
+          "shortText": "Hospital Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P6947+2Q",
+        "compoundCode": "6947+2Q Baramulla, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.2050625,
+        "longitude": 74.3643993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2036443697085,
+          "longitude": 74.362864269708481
+        },
+        "high": {
+          "latitude": 34.2063423302915,
+          "longitude": 74.3655622302915
+        }
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=14775026866317034723",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 10:00 PM",
+          "Tuesday: 11:00 AM – 10:00 PM",
+          "Wednesday: 11:00 AM – 10:00 PM",
+          "Thursday: 11:00 AM – 10:00 PM",
+          "Friday: 11:00 AM – 10:00 PM",
+          "Saturday: 11:00 AM – 10:00 PM",
+          "Sunday: 11:00 AM – 10:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eHospital Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKanth Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "userRatingCount": 99,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "iconBackgroundColor": "#FF9E67",
+      "displayName": {
+        "text": "JEHLUM RESORT",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Restaurant",
+        "languageCode": "en-US"
+      },
+      "takeout": true,
+      "delivery": true,
+      "dineIn": true,
+      "curbsidePickup": true,
+      "reservable": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesVegetarianFood": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 10:00 PM",
+          "Tuesday: 11:00 AM – 10:00 PM",
+          "Wednesday: 11:00 AM – 10:00 PM",
+          "Thursday: 11:00 AM – 10:00 PM",
+          "Friday: 11:00 AM – 10:00 PM",
+          "Saturday: 11:00 AM – 10:00 PM",
+          "Sunday: 11:00 AM – 10:00 PM"
+        ]
+      },
+      "primaryType": "restaurant",
+      "shortFormattedAddress": "Hospital Rd, Kanth Bagh, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/reviews/ChZDSUhNMG9nS0VJQ0FnSUREbzdyTlBBEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Provide all types of foods like kashmiri wazwan , Indian, Chinese, continental etc also. Provides pure vegetarian foods.Very tasty food and good quality.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Provide all types of foods like kashmiri wazwan , Indian, Chinese, continental etc also. Provides pure vegetarian foods.Very tasty food and good quality.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lone Rayees",
+            "uri": "https://www.google.com/maps/contrib/109229976841977000230/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsAp_KoyOJuDmozKOGipfH2G9okiMGS8GpBDosJ67eVy_XBO8=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-13T16:15:54Z"
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/reviews/ChZDSUhNMG9nS0VJQ0FnSUREbV9ha1NnEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "I love the food. It is very yummy and tasty.\nMaintains hygiene.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I love the food. It is very yummy and tasty.\nMaintains hygiene.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Syed Pakeeza",
+            "uri": "https://www.google.com/maps/contrib/105603691316799415501/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmRmrEXWT0uWduI70zq4lwREkPt7O4Ymmzl9z6DFTQyyHduGK6=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-14T14:07:40Z"
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/reviews/ChdDSUhNMG9nS0VJQ0FnSUREbzRxS2dnRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Best food quality and best taste.\nGood staff behaviour.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best food quality and best taste.\nGood staff behaviour.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Loneghulamnabi lone and sons",
+            "uri": "https://www.google.com/maps/contrib/117076553606738172202/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHc2-pkg6B1K3RDOgHNXyMglWvv0hD2w1-9uVhSFU1Nf0MGw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-13T16:09:22Z"
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaNlp6Y25RRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very delicious food. Afghani chicken is a must try!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very delicious food. Afghani chicken is a must try!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amit Bangotra",
+            "uri": "https://www.google.com/maps/contrib/102474770289968299293/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbWip34IxAEzJeASRl_q-BEAyktljKw3SOwYxijHvYpBR4ng=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-13T11:47:03Z"
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/reviews/ChdDSUhNMG9nS0VJQ0FnSURlemJXRTJnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice place to visit. Delicious food and hygienic environment.\nFriendly staff.\nOverall i had an awesome experience visiting",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place to visit. Delicious food and hygienic environment.\nFriendly staff.\nOverall i had an awesome experience visiting",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Emmy Afreen",
+            "uri": "https://www.google.com/maps/contrib/115797281294116937346/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQFne5hYqo2Jy3iHicF7qr_m2D2KPtWKKEjYXIkvikWPDZJ-iCgw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-10-18T06:39:46Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJbP6IgXzARvptMa9kbok_Rfm_-n1lRKx_cWHCASOHaoKzCVHskGSSnbzRHdzghETFzomlA_SDEB0TMUP-KBhQtsRrSejtofqpfa_J5qUikXtzLIB08LmwpYt5T_AwGQMsuMco4Ixt8AnPmOrJsfD08ydqHv0i3hYmyt",
+          "widthPx": 4640,
+          "heightPx": 2610,
+          "authorAttributions": [
+            {
+              "displayName": "JEHLUM RESORT",
+              "uri": "//maps.google.com/maps/contrib/101176481461291640819",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7H5FOFaK3-1035z2MUcRN0L2E-d5DcLs5Vjf8AxwjuWb0yTIg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJaK1ZCSD3tXXST1GLuEd8n328MAe9Y9KkQ67ox1ovwWlwxJx49I08syzpSOCS960muCwQ3AUbSMlzWJxebf5wFZvkbSYe6n0SI-W1PdbkRo9FcvSmbLw-jeOmT2I85uLuvHFqzsp84hoekxFcdye-yzkYfeP7Ag8pvI",
+          "widthPx": 2610,
+          "heightPx": 2610,
+          "authorAttributions": [
+            {
+              "displayName": "JEHLUM RESORT",
+              "uri": "//maps.google.com/maps/contrib/101176481461291640819",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7H5FOFaK3-1035z2MUcRN0L2E-d5DcLs5Vjf8AxwjuWb0yTIg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJakd3sf2FYM3897zwWBftTcHmw2zUtxh3bDEhUsNiqwZfndvJWFnJ-V0RACAlVwg7a1WkwJd75QmOW4ieYJECXwpqznMX3hGOUcGCzny42frLfpfeZG4nN-mnR8RnuHDDQchORZxXt9o29t1zHBsmTL3pMJed0gkTrD",
+          "widthPx": 4640,
+          "heightPx": 2610,
+          "authorAttributions": [
+            {
+              "displayName": "LØÑ3 RàY33S",
+              "uri": "//maps.google.com/maps/contrib/113786590931815228643",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVVLncLX8QfiolPTI9hrEWM5C0OQEdZYGGjgDfQS_24GC-IzT0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJYIKEyT-OFPWowfGixZMWkeeDcCxHSk_ISgvVwJwDKE-LzDYZXXgGs_jlOknvxAaHfZwz0b1xDw9kuS0TBJG-T6wNHg8j2HrGEFvD3cZnEjTEvQpemLuKUfuWRVKwHTsYG0Fx59HfUXK_MCKbWTgo4dXes_p63Qi8Hz",
+          "widthPx": 2610,
+          "heightPx": 3981,
+          "authorAttributions": [
+            {
+              "displayName": "JEHLUM RESORT",
+              "uri": "//maps.google.com/maps/contrib/101176481461291640819",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7H5FOFaK3-1035z2MUcRN0L2E-d5DcLs5Vjf8AxwjuWb0yTIg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJYunipIVpm1UJ-s8G8RI84SesLma3ylBJBls63WeLjBJfI9sU-ijdeT0E4vniMjqc7NWm3VfyCxloX-j3fHBwtrOtnjGKMRos-yIprdmAvsYwCpbPv3k5ldVZs6o2vangJ7iYZqxLVM09k6m8YbU7-8-eaGIO2tQsYd",
+          "widthPx": 2610,
+          "heightPx": 2610,
+          "authorAttributions": [
+            {
+              "displayName": "JEHLUM RESORT",
+              "uri": "//maps.google.com/maps/contrib/101176481461291640819",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7H5FOFaK3-1035z2MUcRN0L2E-d5DcLs5Vjf8AxwjuWb0yTIg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJYaHa2-0CcNfUopN_ETTjjZTt_tOtaBYyVtBCV3d_JpENn_eSQ2ghbaLe3no4ymknv5s2uCiQ25G0hKLUOVSMtU322Nmycf0uuBzq1ee0WzPntnnk3o9trhhC3jmq7qb3y3A44dWx4TlPesZvZLhFaxIH2qoKXAmP1O",
+          "widthPx": 2188,
+          "heightPx": 2189,
+          "authorAttributions": [
+            {
+              "displayName": "JEHLUM RESORT",
+              "uri": "//maps.google.com/maps/contrib/101176481461291640819",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7H5FOFaK3-1035z2MUcRN0L2E-d5DcLs5Vjf8AxwjuWb0yTIg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJbiwoRSw6rRnIytfMveiP1UOkhPzs7ztYOKBjy6Kxx3QQ8Ab9NYmdISGOKLSsTvfb7Okn-mHmDl7jA7E_98NJyo8DCF3cULgcf56CFL3f1orjial0podLuyUZemuERQax6veqOUJ53NOXjxMfsQg1EqCST9aZWpWjXD",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "PEER AKEEL",
+              "uri": "//maps.google.com/maps/contrib/109594715446919905953",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkjwdLZRpSGiFntYPQ7LatctxFgVPuoeFxCyeBP9E2IBffGY4V=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJYMIuBvDldOUk8NZ7YlrtgJLjjWnSPT3B0VYI5r4i7Rk-YzLjd1SZdzcX7eKUXkb71xmas8olMqo0UjDpVtkna-JtL0WANdKOQvTroDkPqLiRhyGnpceb8HxBnpFXwnf553blBrLvW18qVJGexOIhWV50OjLVo17rjt",
+          "widthPx": 2226,
+          "heightPx": 4604,
+          "authorAttributions": [
+            {
+              "displayName": "LØÑ3 RàY33S",
+              "uri": "//maps.google.com/maps/contrib/113786590931815228643",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVVLncLX8QfiolPTI9hrEWM5C0OQEdZYGGjgDfQS_24GC-IzT0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJaJshEx3wB1yvvXt5SFdHPJq8aQL1EpbdsQpLFZrcr5pMmiTLwkt2fax16D2ddbCMmaPzThmXgX6aO8O5yFS3ZaUupy5qM8UUiSqq8oMdek2tbevT_O1e5eAjOcv6CxcML5y5kJiWB6vrXZ5w8pc5hocBlKskESBpRb",
+          "widthPx": 1040,
+          "heightPx": 780,
+          "authorAttributions": [
+            {
+              "displayName": "Fasial Haneef Khan Manhas",
+              "uri": "//maps.google.com/maps/contrib/101514896880596298533",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV8PTrgxoF3tI96i1u5e8V-0zZ9kkZkibvpurrrQZ2SX20g919h=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJYZZSqZAH4TgR4wSuSadwC80/photos/ATplDJYDf9cg-2NVA0FdWAm1uaaSq9yuP7TE6kyl22jnzg31nC16TXFKS_CaLXx6Yu65vuf4eeqC0uPv-4ygpDm0ovhZHJ6f76fsqSLhlHqfVZB1ECaVNGwCBB0ioxo9bsZYSS3RUcXCsrBTeFm_hoIXqIQW-TKWoxZym4ZE",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Aijaz khan",
+              "uri": "//maps.google.com/maps/contrib/115897408010182985999",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV_tUhnoP8o6-eZSp3uh4oig8R93VWKV1wOt5rqlERo14XEQP_j=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "servesCocktails": false,
+      "servesDessert": true,
+      "servesCoffee": true,
+      "goodForChildren": true,
+      "restroom": true,
+      "goodForGroups": true,
+      "paymentOptions": {
+        "acceptsCreditCards": false,
+        "acceptsDebitCards": true,
+        "acceptsCashOnly": true,
+        "acceptsNfc": true
+      },
+      "accessibilityOptions": {
+        "wheelchairAccessibleRestroom": false,
+        "wheelchairAccessibleSeating": false
+      }
+    },
+    {
+      "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M",
+      "id": "ChIJK8DZhH4H4TgRgUcNCJe_70M",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6958+656, Kanth Bagh, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "6958+656",
+          "shortText": "6958+656",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2080452,
+        "longitude": 74.3653999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2066370197085,
+          "longitude": 74.364099219708493
+        },
+        "high": {
+          "latitude": 34.2093349802915,
+          "longitude": 74.3667971802915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=4895341975371073409",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6958+656, \u003cspan class=\"extended-address\"\u003eKanth Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Samarkand Hotel Baramulla",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "6958+656, Kanth Bagh, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/reviews/ChdDSUhNMG9nS0VJQ0FnSUREaWQ3dzhnRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Its was a nice experience to stay at Samarkand baramulla. Supportive staff, good service, comfortable stay and many more. Special thanks to the owner who really made me comfortable. Thanks for everything thing….. will see u soon",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Its was a nice experience to stay at Samarkand baramulla. Supportive staff, good service, comfortable stay and many more. Special thanks to the owner who really made me comfortable. Thanks for everything thing….. will see u soon",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arun Sharma",
+            "uri": "https://www.google.com/maps/contrib/108205986105142881861/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFwzDJkznvqgn0SiQP3ZHh9V1Rd77eQukkjOVhGlUHXVgNqYI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-11T07:01:08Z"
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/reviews/ChdDSUhNMG9nS0VJQ0FnSURaaHZfdWlBRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best hotel in Baramulla 🔥❤️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best hotel in Baramulla 🔥❤️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rasel Mir",
+            "uri": "https://www.google.com/maps/contrib/103503613588371341958/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGLUikhwyTaRQ1gaR41Btx97NRml9Lsag7nbqKl3QqjkfqXZfE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-29T17:46:03Z"
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/reviews/ChdDSUhNMG9nS0VJQ0FnSURaenBlejhnRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Amazing stay and hospitality",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Amazing stay and hospitality",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SAISH ROHOM",
+            "uri": "https://www.google.com/maps/contrib/115575389558219495569/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkfgvdIaBLFfjTTSinnyzGlqSICLgPkWaowbpRLVlWmF2yHhWJ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-10-01T06:11:44Z"
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEOGQ2NGdBRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice hotel",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice hotel",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ZAHOOR AHMAD TELI",
+            "uri": "https://www.google.com/maps/contrib/108819985984899961166/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtVMwD-CECDnaCkUzFNhdxQ34VKqyZUaAIsAyIqKvPzNfCoof3=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-29T16:48:00Z"
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsNnFQOXZBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Itz. Ishfaq",
+            "uri": "https://www.google.com/maps/contrib/117407048357792751730/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX20Mhqob9J70nR_KA2g2uX5u_xUTtovQTD9sGjQmT8urd46dFyCQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-16T08:28:37Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/photos/ATplDJYWNoT3N7ArCEDwydas5FiAx00v9zkv7mqf1tN624hrxPU5ZL1dFw7_MXZ9KK0Qlv3-sri1uANCSfUlh4xmKCl9RKAu1Bc0ouHUz1wwdFblkjc0tTe7BRVofKENvAT7fX_OMdWdmv_80Mj6yU3aXdR7e6h5H5Ld8fgj",
+          "widthPx": 1156,
+          "heightPx": 520,
+          "authorAttributions": [
+            {
+              "displayName": "Shoaib NoOr",
+              "uri": "//maps.google.com/maps/contrib/104282565926561545721",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVHslgHcmtX6B-YWJFv9fYF_NNDTbhxmEyHKhKp0_dlo32Fboy48g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/photos/ATplDJalFzr2qKWAyiR-5u94hxpX_s99SRlE2XOzcSjUTEz6aa5Q658yMRIK0PU7TXUxiFem8ORo5-1JDXUo6fhhvFnTLA7C1CNLLyZAWK92dUCgjnQqYkBNk7RzF04AnaVyXgjQaEWkuQ56uG3cvxBV54a3ZB8QdcZ9umqP",
+          "widthPx": 4624,
+          "heightPx": 2080,
+          "authorAttributions": [
+            {
+              "displayName": "Altaf Rather",
+              "uri": "//maps.google.com/maps/contrib/117010404291743022783",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIx-Jq3tNjJ7RBAiT9u6aWbCnaUAqHD-a_8rv0Uoj6SydWwOw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/photos/ATplDJaOGX4bKpNnUvYNsPTzTvKUDIpXZ0Da-W4IxoANBWFge7OyOPDsmxL9NtN64NvL-tV0Jhp60eG9ck4ZP9NcLmiwSONMAhap4FhJl5dKXQo1Z6fH9cGbPe3mY6traOmJzdtKPWhWgs2_cDUExTX2edN3xOTQPdBGHzkz",
+          "widthPx": 4624,
+          "heightPx": 2080,
+          "authorAttributions": [
+            {
+              "displayName": "Altaf Rather",
+              "uri": "//maps.google.com/maps/contrib/117010404291743022783",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIx-Jq3tNjJ7RBAiT9u6aWbCnaUAqHD-a_8rv0Uoj6SydWwOw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/photos/ATplDJZOh-ouqOg6HWf2w-P-j-t7eoLJtghQLnO-M6p6pAtdUQ8-Ae_7WDORZ1txlYdvjZSS14hpAODEEJJZ5hKiRR-am2JNdT3ZJWIYVrlpUixHU--6BCB7ox8jSVi-dQmk5xAcm5D_aKG7ZWAKThh7GqTWfba4xxnp9s5U",
+          "widthPx": 4624,
+          "heightPx": 2080,
+          "authorAttributions": [
+            {
+              "displayName": "Altaf Rather",
+              "uri": "//maps.google.com/maps/contrib/117010404291743022783",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIx-Jq3tNjJ7RBAiT9u6aWbCnaUAqHD-a_8rv0Uoj6SydWwOw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/photos/ATplDJah3WhUKw98P8FlN3b99ARun6oXI0y1h8AiXSkH2nqcvU-id6Z4APM3HzRimLH2CFbuzdC3GIPvbQlPw0S2pYSBaksWk1vqfoutVQL9C-mEetOWWlkKSuT5oiEalFriiXRXtMMB-ThVesfjYoaf2_OVS3Vy-CnsPeqy",
+          "widthPx": 2080,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Altaf Rather",
+              "uri": "//maps.google.com/maps/contrib/117010404291743022783",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIx-Jq3tNjJ7RBAiT9u6aWbCnaUAqHD-a_8rv0Uoj6SydWwOw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJK8DZhH4H4TgRgUcNCJe_70M/photos/ATplDJY-m_BY_kqpfuErVbtiyk1BCCvthjOKGmN6dooQ-xGGAvGYoiE58GmPyQn2JQlj1ngdHmBsPEgTcqfCXGtaA901CaLUNrJo7x6Ss28Fc-5Pl80wp2mFhh3XtiMukGFhjN7xDi0TxjFL4SD6puBuDy4lI26RGG6zRofo",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Manzoor Ahmed",
+              "uri": "//maps.google.com/maps/contrib/116853006251360664534",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJajFOj3KMV1t6QwM-sfcMRuq_ooxJyJLUMu1KRe3vonDnqrg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU",
+      "id": "ChIJAQAAANep4TgR-YV4BhwxkPU",
+      "types": [
+        "fast_food_restaurant",
+        "hotel",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Near Raghunath Mandir Main Chowk, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P685R+4X",
+        "compoundCode": "685R+4X Baramulla, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.207826499999996,
+        "longitude": 74.3424692
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.206475519708505,
+          "longitude": 74.34115006970849
+        },
+        "high": {
+          "latitude": 34.2091734802915,
+          "longitude": 74.343848030291511
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=17694696932376086009",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 10:00 PM",
+          "Tuesday: 8:00 AM – 10:00 PM",
+          "Wednesday: 8:00 AM – 10:00 PM",
+          "Thursday: 8:00 AM – 10:00 PM",
+          "Friday: 8:00 AM – 10:00 PM",
+          "Saturday: 8:00 AM – 10:00 PM",
+          "Sunday: 8:00 AM – 10:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Near Raghunath Mandir Main Chowk, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 32,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Sewak Sweets",
+        "languageCode": "en"
+      },
+      "takeout": true,
+      "delivery": true,
+      "dineIn": true,
+      "servesBreakfast": true,
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 10:00 PM",
+          "Tuesday: 8:00 AM – 10:00 PM",
+          "Wednesday: 8:00 AM – 10:00 PM",
+          "Thursday: 8:00 AM – 10:00 PM",
+          "Friday: 8:00 AM – 10:00 PM",
+          "Saturday: 8:00 AM – 10:00 PM",
+          "Sunday: 8:00 AM – 10:00 PM"
+        ]
+      },
+      "shortFormattedAddress": "Near Raghunath Mandir Main Chowk, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSclBUNGZ3EAE",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the best sweet shop in baramulla. Fast food is also delicious. Dosa , noodles , chola poori everything is just yumm and also economical. Staff is very humble and soft spoken. One of my favorite stop in baramulla fo sweets and fast food. 😍 If you are in baramulla do visit here. You will love it  ❤️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the best sweet shop in baramulla. Fast food is also delicious. Dosa , noodles , chola poori everything is just yumm and also economical. Staff is very humble and soft spoken. One of my favorite stop in baramulla fo sweets and fast food. 😍 If you are in baramulla do visit here. You will love it  ❤️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nikhil Sharma",
+            "uri": "https://www.google.com/maps/contrib/105995742177003728906/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-05-27T10:46:08Z"
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtNTl6WHRRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "SEWAK SWEETS BARAMULLA  is really a good choice for all kinds of Sweets & other confectionery items with reasonable rates and provides a very good n quick service",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "SEWAK SWEETS BARAMULLA  is really a good choice for all kinds of Sweets & other confectionery items with reasonable rates and provides a very good n quick service",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Najot Kumar",
+            "uri": "https://www.google.com/maps/contrib/105776437772031378334/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJltJzDW9N1SauEqCWo3WwSCY__4n1wx2WkjtFyDoC4NKAPRc=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-12-11T14:46:13Z"
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/reviews/ChdDSUhNMG9nS0VJQ0FnSURELXZqVG9nRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Taste food all time my fav",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Taste food all time my fav",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tehleel Bhat",
+            "uri": "https://www.google.com/maps/contrib/101725393288725978591/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJnWNw-zPSYv98LN6SRo8sw7maOcvTzlBczF1eEj-SBWphTrV0=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-08T12:33:44Z"
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/reviews/ChdDSUhNMG9nS0VJQ0FnSUREMnZhSTh3RRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Sooo amazing ..... Service is amazing🤩",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Sooo amazing ..... Service is amazing🤩",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mandeep",
+            "uri": "https://www.google.com/maps/contrib/109989186586276361028/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXvJYWdXfvvQ2NUengsiC57-l7aRgZW9oZiKPb91rLbqhBbrU=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-08T08:39:13Z"
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCemNXQkp3EAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Serves best tea and snacks in the town. Love to spend time with friends there.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Serves best tea and snacks in the town. Love to spend time with friends there.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amir Kar",
+            "uri": "https://www.google.com/maps/contrib/101453780739179903903/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMCT2IGMZBox6JolnV0m-Q8txeB6Qmqb0lJCbfTDCOVDY-AKbV=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-07-30T12:58:42Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJZlisxWCVFAV6loDK8fPfcZ4A8cIN-h0vDhInWHYQi-zgtU_OX5KvyJIXel9q7fBTXQ70OIVi77EmYKu-gVLswyBASeSc-6EyWslHWZp8KJHq5oVuV3dlROEEs-URmcIX4MTaXqT325dk50v9x4OZFIxyOEFwHcsHTB",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Sewak Sweets",
+              "uri": "//maps.google.com/maps/contrib/100317739770540355418",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJb3E4tePUdPugMoAhANcXbqxah1LPqhKxUR9KQSr2_g5nUzT6=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJaHUtGETkhTB7hHMCmYkybZ9uJ10chfsqxulH8Z4F7L9thzTweojZaIaSnQGBAqvZ0UhQ59XdAmR6f-bLwbkHc272RqQLF_gYnHW_A-dODJBKZdt9jwcwtMGHRHLZPo4L_FlevzU5DuU9nwB5MhAMWYZHlgNFX1A-bq",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nikhil Sharma",
+              "uri": "//maps.google.com/maps/contrib/105995742177003728906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJYVSg2PjHeFPm6uTQLH1VGP0PV4hgfQFGL0-aq95LngMECqx8mx_vHVoK3QDI2oQlNPq_oEk4RhuZYBZ3Dxe0XH20Efr33g5oWEHFNMK6BSDTxxx0zwoLmEa360u0eBe6ECJDJ7T7hohyh1LzeUcHYaFFth_V3P861t",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nikhil Sharma",
+              "uri": "//maps.google.com/maps/contrib/105995742177003728906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJaVLr0H78AUOwH_6v-NCVcHPQSSAUMrATUAfU7tKpI3jTPZvzwQDZPSs7bN3C7wcfZO9veKQSy3d_PIMpSeJ9xDLFiXM_CxHZHx8xYUkXp5O4Z4bg8guO3X2QWb1_6xYGFx6L6jDhV1QP-GIqge-ct7sCLasAWV56oc",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nikhil Sharma",
+              "uri": "//maps.google.com/maps/contrib/105995742177003728906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJZpNrpVVrgKKy0KFHXShyRdsLoLQDGFg82Qewrdps6ayoTbSna6rs5LcpU26XIG_HTbSUK3mDkkeKI-Ke52xWcdBC5fTdBniaJh3EWj-r5yG7CwgxAD7Rmfo2FUfQMM1n8GAlWGuMNwfYaxsDM0x8Xdn-LNsE__DwDy",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Najot Kumar",
+              "uri": "//maps.google.com/maps/contrib/105776437772031378334",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJltJzDW9N1SauEqCWo3WwSCY__4n1wx2WkjtFyDoC4NKAPRc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJayRjzqrt0dTKn24DUeM3Ed9PzVaqiTCFkr_M4dNi0qaLe5Lag0dnzc-owTFrGrxGKfa5sDZy7LhbTE6RaBIAIxuc5-6ciZHHlzIPw1zdACBgzhQTmu1m7WvhBlhsHL1_JVyuMHpZ1JjU7Yt7nNo1imyqlINu1eDo7-",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nikhil Sharma",
+              "uri": "//maps.google.com/maps/contrib/105995742177003728906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJbNDMAgTVpaPND4L99ETkwjnr-SKvbnoKFBbYqEVdl0HHCNWiuoodz3XqaRNwgZKwDkOGcnw4GGEKLEX6sgBFwBVzCe1dJ7foUv-hltryijrU6bV4lyvNzsdTQfkgGDUQw4PIMv3jhB_fY8JGqCqI4ZrPQVIetUZxOc",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nikhil Sharma",
+              "uri": "//maps.google.com/maps/contrib/105995742177003728906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJaUuW45zX6GQwHOWUIgmxkWypiU4jZ_xV5NHAUjcCus4G1LitMe6kn8D_aD4IuKqvG-akDI_eRU7jXlnXiic76gPK6oObLn3UhC2L6fBAmyx6bIIWIRqENaWRvFKhnyQEyic1CSG9bF-kiMDxvyW0KzMwa4aIMMyNoT",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nikhil Sharma",
+              "uri": "//maps.google.com/maps/contrib/105995742177003728906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJbqFmrJMfAdecOPArTqHaZfy0r7qBRMm0iKGmkU_fa4AQr5Fod1vNbMh0LifWTOygRZNhhk_IEspXwzm85zLJMjcUyhd3Z5crTt_8Pq8eBEnKqqLq6kLSKx3N2UGIdvuZBIdZ6jGmp4JYiouxFM4km12yUmUfcvNQMy",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nikhil Sharma",
+              "uri": "//maps.google.com/maps/contrib/105995742177003728906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAQAAANep4TgR-YV4BhwxkPU/photos/ATplDJaoX5LLTEWJlr-RPjn7hsluZoFQhofHWu76IxQTp3lAJBWCiZTeDM7eJoeKXaTRYlDqaIfgqltmOeeHUJ9Ohj57kGMoEUMUh6nzEM8NCblQ4gosigBimWE63vNgjhciPIefWDOJpD36Qd-9EjmJ13WjxO6PKz5lE0or",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nikhil Sharma",
+              "uri": "//maps.google.com/maps/contrib/105995742177003728906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlL6n2SpegmnphDKYvT9Ckcz-0uz5d_J94AZWWgwmVlbf99ICX=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "servesCoffee": true,
+      "goodForChildren": true,
+      "restroom": true,
+      "paymentOptions": {
+        "acceptsDebitCards": true,
+        "acceptsCashOnly": true,
+        "acceptsNfc": true
+      }
+    },
+    {
+      "name": "places/ChIJ6WopsAYH4TgRlKIx4fzTWQA",
+      "id": "ChIJ6WopsAYH4TgRlKIx4fzTWQA",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Main choke, 685R+9XH, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "685R+9XH",
+          "shortText": "685R+9XH",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.208431499999996,
+        "longitude": 74.3424946
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2070798697085,
+          "longitude": 74.341193619708491
+        },
+        "high": {
+          "latitude": 34.209777830291493,
+          "longitude": 74.3438915802915
+        }
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=25284355990594196",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Main choke, 685R+9XH, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel Ziyaafat",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "685R+9XH, Main choke, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJ6WopsAYH4TgRlKIx4fzTWQA/reviews/ChdDSUhNMG9nS0VJQ0FnSUMteEpuQXFRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 1,
+          "text": {
+            "text": "NAAV THUDH NASTI ZOUD...\nV were expecting the good dishes from the said restaurant '' But it was extreme nasty,, ridiculous,, totally backward restaurant,,,\nThe service was bad the food was totally unhygienic cold with nasty smell,,\nI highly recommend not to go for foods there...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "NAAV THUDH NASTI ZOUD...\nV were expecting the good dishes from the said restaurant '' But it was extreme nasty,, ridiculous,, totally backward restaurant,,,\nThe service was bad the food was totally unhygienic cold with nasty smell,,\nI highly recommend not to go for foods there...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Khadim Mohammad Altaf",
+            "uri": "https://www.google.com/maps/contrib/101396327586069026882/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPP3mQ36ObnF2PB0aL9OJ5Qks1DmCHvC26QtFkSqStn9Zl-ZeZ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-10-27T09:31:00Z"
+        },
+        {
+          "name": "places/ChIJ6WopsAYH4TgRlKIx4fzTWQA/reviews/ChZDSUhNMG9nS0VJQ0FnSUMybzZleEtBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 3,
+          "text": {
+            "text": "Had a lovely visit there staff was really polite and rooms were thoroughly cleaned",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had a lovely visit there staff was really polite and rooms were thoroughly cleaned",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "NoOb GamER",
+            "uri": "https://www.google.com/maps/contrib/116877432781342866145/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtserJ3g-PFyOBlDi8SFUi4gy4G7iIi6c7uIaQJRROkNVvSPiw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-04-27T16:03:44Z"
+        },
+        {
+          "name": "places/ChIJ6WopsAYH4TgRlKIx4fzTWQA/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0eWNmejlnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Cheap and best ❤️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Cheap and best ❤️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sofi Rashid",
+            "uri": "https://www.google.com/maps/contrib/111718489194050829080/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQdvWsef7ndoxU7iNX0na3jUtY-1COKhzcTi9V8kPD75yWSLjb=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-05T11:16:16Z"
+        },
+        {
+          "name": "places/ChIJ6WopsAYH4TgRlKIx4fzTWQA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPMFpTSDV3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Iqra Nazir",
+            "uri": "https://www.google.com/maps/contrib/104628994535898843823/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFcxBiMxhQxg1AjLfeoEahtcsZYoj0OgFQ0WYeY_5zpI9xQAX0JQ=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2022-06-12T14:40:46Z"
+        },
+        {
+          "name": "places/ChIJ6WopsAYH4TgRlKIx4fzTWQA/reviews/ChdDSUhNMG9nS0VJQ0FnSURoaDlIeXlBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "Khan Anees",
+            "uri": "https://www.google.com/maps/contrib/114586261336144610466/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULBEeRlprl1wIZKiYduT0qqjvP_mip9xsL27omhRxVJyA27Wc6mw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-03-19T05:51:45Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ6WopsAYH4TgRlKIx4fzTWQA/photos/ATplDJbNHIUk8xbTBZNx6XArKZwjnQWGfepVmJNFawsbTrtywg9gdDsXLxsZczz93nHrIzrZW8D5aaXZR70N4RJdsI-M2gc5967C0OI9uV4Bfd6RxXpa9Ih8h0snm9OOtlDCjFqmx8O8TSnHiLzhOkb7ybJnn5b21cgsrFKz",
+          "widthPx": 1012,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "mohd hadi",
+              "uri": "//maps.google.com/maps/contrib/104473977678220859773",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyPmAd3Maehj2pmAAVNCVGHfbYlNV5Xp7aWN_pQZfjvzrmT80=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJV12xGm6p4TgR8nDt0IWRyd4",
+      "id": "ChIJV12xGm6p4TgR8nDt0IWRyd4",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "58XX+JX8, Kanli Bagh, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "58XX+JX8",
+          "shortText": "58XX+JX8",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Kanli Bagh",
+          "shortText": "Kanli Bagh",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.1990498,
+        "longitude": 74.3499496
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.197778119708495,
+          "longitude": 74.348516969708513
+        },
+        "high": {
+          "latitude": 34.200476080291494,
+          "longitude": 74.351214930291519
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16053522350660743410",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "58XX+JX8, \u003cspan class=\"extended-address\"\u003eKanli Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "LONE GUEST HOUSE _DRUNG_ TANGMARG",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "58XX+JX8, Kanli Bagh, Baramulla",
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU",
+      "id": "ChIJZdbDZGMH4TgRBB88NMoNlxU",
+      "types": [
+        "travel_agency",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "070067 33348",
+      "internationalPhoneNumber": "+91 70067 33348",
+      "formattedAddress": "Tanga Complex, Bus Stand, opp. Gen, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "Bus Stand",
+          "shortText": "Bus Stand",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P684Q+JQ",
+        "compoundCode": "684Q+JQ Baramulla, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.2066235,
+        "longitude": 74.339430499999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2053042197085,
+          "longitude": 74.338009919708483
+        },
+        "high": {
+          "latitude": 34.2080021802915,
+          "longitude": 74.3407078802915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=1555727358390705924",
+      "websiteUri": "https://baramullatravels.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Tanga Complex, Bus Stand, opp. Gen, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 27,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "BARAMULLA TOUR AND TRAVELS",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Travel Agency",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "travel_agency",
+      "shortFormattedAddress": "Bus Stand, Tanga Complex, Gen, Baramulla",
+      "reviews": [
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/reviews/ChdDSUhNMG9nS0VJQ0FnSURWOFlUR2pBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The best in town. Book your flights on cheap fare",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The best in town. Book your flights on cheap fare",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amaan Nabi",
+            "uri": "https://www.google.com/maps/contrib/113871402193660933867/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtE3QLyk1mz-ndTGquztHNovlN52PQcYadUzTdnTaqqxk7d1bwdA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-12-13T17:20:14Z"
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/reviews/ChdDSUhNMG9nS0VJQ0FnSURWMWVmcWdBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "GOOD SERVICE.....\nEVER",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "GOOD SERVICE.....\nEVER",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ghulam Nabi",
+            "uri": "https://www.google.com/maps/contrib/100311139723883993522/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIZ2WCdQN4GJrId5wXqobXUnmCoGrpHFfUfId7SKs4ts14xyw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-14T14:53:48Z"
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZekl5T3dBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best Service",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best Service",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aabid Nabi",
+            "uri": "https://www.google.com/maps/contrib/118034400708678556800/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWnUQzcRFtkvIrKxASBQjkhYwd0gDGaO542Fe-bHk0msr6BQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-14T13:24:48Z"
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/reviews/ChdDSUhNMG9nS0VJQ0FnSURWcUxDbHJBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Don't now much about this place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Don't now much about this place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "M B",
+            "uri": "https://www.google.com/maps/contrib/115232866047931067464/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXt7BBVG-cFaYpOulXRscrA4Lsf-U2tkA82IvK3k1M85TgG6sNj=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-12-11T17:21:49Z"
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1OF9TV3NRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Best  ticking prices aviliable",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best  ticking prices aviliable",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sheikh Saba",
+            "uri": "https://www.google.com/maps/contrib/110541731290118504583/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJaS09I86M1JxtSdzJE4Fes8qUGRcIU1GaqxDtCX8s4qb0Isq6r=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-08-29T07:56:58Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJamkKRb3E7bBiDTijCfmnrVYPLo0xLH4w-iMQcLFHmxmgjxSk3nFifoCgfSR5j1ukNZxtkLDpKTH5uNx2S_Iye9VBbUHE7OmNo197dLwwQtgLxNJkQpn42l222QoY_qQIHd0H_vY_PwUs7V2AX77MSulcenkAQaTAoz",
+          "widthPx": 1080,
+          "heightPx": 608,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJYQ4309T6NhvY9MwtKV31Btozgw03DTZy3i9q7gAzhyw1919_QvDo8ZTioli-O2lzuAxYfIrLQw4BTkktRDhhUImUI-d3mMZstTUuCVVf0led-zD27r2n0AnehiQu0HTFy6BGWscnc6MUUvFXSErH--CL5Soo4yMxt-",
+          "widthPx": 720,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJaRzE2-6C3pnTdnQ3TvhX2cbf7_2KtLe1FOepzy6-3fSC-jWg0-CKPpo52xzpEh7uWBfmAhK93Kh6tszWUx01yijggUPvg6OVqvNm2pNwia548Kb5_JG3z3zDJbSZ_ilRy4k4TSOVFhaa_R7LHH3t_ULcXdUJrZ5gnt",
+          "widthPx": 1080,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJbyFTxa46fIs_WYHpYsJPcdO3jSALKEw0JOnVe2x2TqFkmoNFBQn_5SN6T6DO_PMnDjaA7Jx6-Zt7fI-olNeUsr2Onvu2A1zPEZwWMWVwVu2gYleiMDaAyq-ef22LxdVVmK6w4Z-_9OLtvHBbbZFpnDuKMlZai2j8ey",
+          "widthPx": 612,
+          "heightPx": 345,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJaraL5NPkRhjbHjyGP-CdMIVp1NRActn_ywcBt8YPFwT4rm4BWyebLWA_tWyM4kQT7SKY6bCoHjXxyj_Cq1cUGoqRkise6VLqsmZDIlHNgJHLYiQkGSgLJS9P_uLH6ohNyKM_jLhcHw1KXDLqTrggAWlfrIfPA_cc4x",
+          "widthPx": 666,
+          "heightPx": 461,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJYECQy9z3eodm7alPJ2q6GSG1j1tDdx5PXTuSDmpVorkaC4ssPLG8CpnjNjbuiRor3RIPsq4SRc4V3xwawpFQbtg3k8sZvba_EVgAkLnS2MT_Kxkkvrm1la1gzGjBMuWKFObeEgX93WWry8Q14Ax_zocag6eg28vj0M",
+          "widthPx": 800,
+          "heightPx": 497,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJbz2YAXUriqE0B0G5-EOWMzi_TmrjhMLPS2UvS2DNRf9mt8nG4UgupT-5f3XFXJeR2Pn26znqugu1XjZAMoXl4BwZNLq7ue8-54wkCpCnCNAAckJ291jYP5u-iQLH_nGqsBRVmcRNnMx--vXBRoCw3lpFfpj62RfGlQ",
+          "widthPx": 678,
+          "heightPx": 452,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJYAobbwxLsX2WmPRSDsVjbe3Q7sOURvPWAYqgCkxveOy4mmkTEzR9kwxqj0FNESrv8p-_k7TEpIi9yQKRrl4tRLy6ZGD0ZzbwcVp_-BIBamBYzfDSI4h2DVAMwY1HEFPe_EygCaZZSBZeJvcihgM-HaksLdPYyvhMod",
+          "widthPx": 1080,
+          "heightPx": 846,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJZ9UThGBSUFzZrjl_btSHY6UtRzTwjo-FSjQUw8UiIUaldfsKN7iluhQWac8Dj0oZgaVeZADc2DJoo5odN8dxn90plVEDWuSoxvihQJHFAPokBMGgXfTsd12HHv6M29CPgt_sJc7OMlZuodectb7kEhKVLhinIFl4RD",
+          "widthPx": 695,
+          "heightPx": 869,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJZdbDZGMH4TgRBB88NMoNlxU/photos/ATplDJbsEQRpTmL-IAnbwztcH3fnXKXbWz9HaGgAjwF9zBKaFi1raS-XoOEINOx9yvq5OsR6kPsR0Mvehpjujn6XuIrc5MAQ4wQqJuEb34wwa_FbUDAN55NaBBR5Cc_PTxTN8vFc42XolG1uocvLqPKuXMSVWZ11FxxhWrvB",
+          "widthPx": 750,
+          "heightPx": 867,
+          "authorAttributions": [
+            {
+              "displayName": "BARAMULLA TOUR AND TRAVELS",
+              "uri": "//maps.google.com/maps/contrib/117790763172667005235",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVv2SEBqz3DRPZqwRO-GqlaFovbOnQ9NLBzXBTgaPw9WHpiSy-X=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ-_sO9tIH4TgRLQX2Jc73BTM",
+      "id": "ChIJ-_sO9tIH4TgRLQX2Jc73BTM",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Punjab national bank, taxi owners union, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "Punjab national bank",
+          "shortText": "Punjab national bank",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "taxi owners union",
+          "shortText": "taxi owners union",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P684R+MP",
+        "compoundCode": "684R+MP Baramulla, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.2066582,
+        "longitude": 74.3418171
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.205160869708507,
+          "longitude": 74.3404143197085
+        },
+        "high": {
+          "latitude": 34.207858830291507,
+          "longitude": 74.3431122802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3676617135590081837",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Punjab national bank, taxi owners union, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Hotel king",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "Punjab national bank, taxi owners union, Baramulla",
+      "photos": [
+        {
+          "name": "places/ChIJ-_sO9tIH4TgRLQX2Jc73BTM/photos/ATplDJb3fxHbeU5Em6uTW6xxNpnDtChSNuiPolIHePLx4fzmXVktAKzIs8CL4FvB07SV9TOZKGM9-_VlFE_li6BScmGqxd-S7jICNNxui7P2_6K7bJI6a5aYQQFM05TpqjSulEMdQwFWWKfyNm-9NlySZjVpBzGvawO3Bili",
+          "widthPx": 720,
+          "heightPx": 1278,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel king",
+              "uri": "//maps.google.com/maps/contrib/111622033374193926911",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJv1thts6804bJHHGgbABTHc5fLCP67H9HUkz-AMD1WhWv19w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-_sO9tIH4TgRLQX2Jc73BTM/photos/ATplDJa6Zlb82DXHkfkyDeK3EHZ6Q1gFv-FpIaLC73wKv2HXFjGwqlMvDKlajN3AUBcxDia8p88jaCDAdRpYGc_1mplnSufZiGwU4cdV1iZCqFgTBN89jlmpfUqFBVccfjlTgzstLCJZ0hpNQSM_C-9lqTgh6YKFxMBSHPBq",
+          "widthPx": 720,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Hotel king",
+              "uri": "//maps.google.com/maps/contrib/111622033374193926911",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJv1thts6804bJHHGgbABTHc5fLCP67H9HUkz-AMD1WhWv19w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-_sO9tIH4TgRLQX2Jc73BTM/photos/ATplDJYrgp2OPrsj8cmUV97D47ytg6ZhaYtWrbHS3kivTCqjMVqTEuOrI37uMh_YDK2oSS1TOzjMvLQnrNTJshxiLK_jPbc_zp2I4RMUQpO4i7auFrYhehERmUfP4Je4LyqFNmF6P3jjpz68Nm7hsOcydwCkEkSWMTLlueQU",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Munazira Sam18",
+              "uri": "//maps.google.com/maps/contrib/108476927788247740673",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ0g68U05qwsKzGpGQO_bQ2fpRrCciZ0oVt3a_GfzJpwRNF9A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ-_sO9tIH4TgRLQX2Jc73BTM/photos/ATplDJaiZ1i7IGenM-wOg9S7L4KsliyITHDoU3Ql_XJGGonZtHSejKBS7uUovYgDjy1zceignqQIrMEhjM8D9YONSwRqKbmj7W59cdmc6H7tAQvmdsb-3nlMSE77F-a4chCv1AARvF9CBKkbH4vQKbbC_UIddZQFRyG2zaJ6",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Munazira Sam18",
+              "uri": "//maps.google.com/maps/contrib/108476927788247740673",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ0g68U05qwsKzGpGQO_bQ2fpRrCciZ0oVt3a_GfzJpwRNF9A=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJgcCG5SwH4TgRWjISc3csNBw",
+      "id": "ChIJgcCG5SwH4TgRWjISc3csNBw",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "698C+3JP, Singh Bagh, Baramulla, Khawaja Bagh, 193103",
+      "addressComponents": [
+        {
+          "longText": "698C+3JP",
+          "shortText": "698C+3JP",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193103",
+          "shortText": "193103",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2152248,
+        "longitude": 74.3715833
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.214046569708508,
+          "longitude": 74.3701488697085
+        },
+        "high": {
+          "latitude": 34.216744530291507,
+          "longitude": 74.372846830291508
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=2032298223394239066",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "698C+3JP, \u003cspan class=\"extended-address\"\u003eSingh Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla, Khawaja Bagh\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193103\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Raazia's PG",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "698C+3JP, Singh Bagh, Baramulla, Khawaja Bagh",
+      "reviews": [
+        {
+          "name": "places/ChIJgcCG5SwH4TgRWjISc3csNBw/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxdXUzNHNRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sheen binte sadiq",
+            "uri": "https://www.google.com/maps/contrib/100094786560483890357/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6izcctYfOtLZntkCGBdkpvgCWmoJi3iwO3z3cjsWnhpPcacA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-28T09:20:57Z"
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ__ztWP0H4TgRTj-n9zr5QqY",
+      "id": "ChIJ__ztWP0H4TgRTj-n9zr5QqY",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "099067 02863",
+      "internationalPhoneNumber": "+91 99067 02863",
+      "formattedAddress": "1, lone barbeques, lone barbeques Baramulla, Sidra Gafoor, Old Town, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "lone barbeques",
+          "shortText": "lone barbeques",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Old Town",
+          "shortText": "Old Town",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P686W+J7",
+        "compoundCode": "686W+J7 Baramulla, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.211549200000007,
+        "longitude": 74.3456348
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2101500197085,
+          "longitude": 74.3442997197085
+        },
+        "high": {
+          "latitude": 34.2128479802915,
+          "longitude": 74.346997680291508
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11980411990417293134",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "1, lone barbeques, \u003cspan class=\"street-address\"\u003elone barbeques Baramulla\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSidra Gafoor, Old Town\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "Mukaram majeed",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "lone barbeques, 1, lone barbeques Baramulla, Baramulla"
+    },
+    {
+      "name": "places/ChIJeXePo3cH4TgRay7GmKCuN-s",
+      "id": "ChIJeXePo3cH4TgRay7GmKCuN-s",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "084918 82043",
+      "internationalPhoneNumber": "+91 84918 82043",
+      "formattedAddress": "3 hotel bhuraan, road, Khanpora, Baramulla, 193101",
+      "addressComponents": [
+        {
+          "longText": "road",
+          "shortText": "road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Khanpora",
+          "shortText": "Khanpora",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Baramulla",
+          "shortText": "Baramulla",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "193101",
+          "shortText": "193101",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "8J6P685P+2Q",
+        "compoundCode": "685P+2Q Khanpora, Jammu and Kashmir"
+      },
+      "location": {
+        "latitude": 34.20758,
+        "longitude": 74.336950899999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2061673197085,
+          "longitude": 74.335576219708486
+        },
+        "high": {
+          "latitude": 34.2088652802915,
+          "longitude": 74.338274180291492
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16949207727413276267",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "3 hotel bhuraan, \u003cspan class=\"street-address\"\u003eroad\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKhanpora, Baramulla\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e193101\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "hotel buhraan",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "3 hotel bhuraan, road, Khanpora, Baramulla"
+    }
+  ]
+}
+

@@ -1,0 +1,4752 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA",
+      "id": "ChIJF0gMyQqGvjsRdq44eXEToPA",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "083882 30412",
+      "internationalPhoneNumber": "+91 83882 30412",
+      "formattedAddress": "M846+333, Mathakeri Rd, Ankola, Karnataka 581314, India",
+      "addressComponents": [
+        {
+          "longText": "M846+333",
+          "shortText": "M846+333",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Mathakeri Road",
+          "shortText": "Mathakeri Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581314",
+          "shortText": "581314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 14.655143,
+        "longitude": 74.31017159999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.654187119708501,
+          "longitude": 74.3089759697085
+        },
+        "high": {
+          "latitude": 14.656885080291506,
+          "longitude": 74.3116739302915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=17338879943462399606",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 15,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 15,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 15,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 15,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 15,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Tuesday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Wednesday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Thursday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Friday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Saturday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Sunday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "M846+333, \u003cspan class=\"street-address\"\u003eMathakeri Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581314\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 827,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Aryadurga Devi Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Tuesday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Wednesday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Thursday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Friday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Saturday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM",
+          "Sunday: 6:00 AM – 1:00 PM, 3:30 – 8:30 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "M846+333, Mathakeri Rd, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxdXRic2lRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This temple is very beautiful and peaceful and is dedicated to Shri Arya Durga Devi. The temple is situated in a lovely town - Ankola of Uttarakannada (UK)district of Karnataka.\n\nAlong with the main temple belonging to the goddess Shri Aryadurga, the other two small distinct temples are in the same premises, one belonging to Shri Someshwara and another belonging to Shri Chandika devi.\n\nAlso a marriage hall is there in the premises of the temple.\n\nThe goddess in the temple was shifted here from present day Goa land some five centuries ago, to avoid atrocities of then Portuguese rulers.\n\nThe temple is managed by the heirs of families of those who brought the goddess here from Goa then.\n\nRooms are available for accommodations but one has to book a day in advance.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is very beautiful and peaceful and is dedicated to Shri Arya Durga Devi. The temple is situated in a lovely town - Ankola of Uttarakannada (UK)district of Karnataka.\n\nAlong with the main temple belonging to the goddess Shri Aryadurga, the other two small distinct temples are in the same premises, one belonging to Shri Someshwara and another belonging to Shri Chandika devi.\n\nAlso a marriage hall is there in the premises of the temple.\n\nThe goddess in the temple was shifted here from present day Goa land some five centuries ago, to avoid atrocities of then Portuguese rulers.\n\nThe temple is managed by the heirs of families of those who brought the goddess here from Goa then.\n\nRooms are available for accommodations but one has to book a day in advance.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kedaresh",
+            "uri": "https://www.google.com/maps/contrib/112813970997516055635/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVKmSQCtjtRNdTOmra4tSyKyT9zGF-jzO8uoxrZLNgW-IUtioA=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2023-12-31T12:27:02Z"
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/reviews/ChdDSUhNMG9nS0VJQ0FnSURsN0xURDR3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A nice temple. Has a clean surrounding. Very calm and quiet. One can experience a peaceful and divine feeling.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A nice temple. Has a clean surrounding. Very calm and quiet. One can experience a peaceful and divine feeling.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prem Chandra KR",
+            "uri": "https://www.google.com/maps/contrib/102159997236320605481/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwIvr4tGIHTJMSjH1aqoHr7RE1exElr9z3rLjyDf6RaImNeQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-11-30T18:09:42Z"
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsbnZUSjl3RRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Use Google map to avoid recent changes on roads. Devalay has Bhakt Niwas. Rooms are spacious.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Use Google map to avoid recent changes on roads. Devalay has Bhakt Niwas. Rooms are spacious.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "koustubh tengshe",
+            "uri": "https://www.google.com/maps/contrib/106882061280281648341/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuRTOlwjBIozsq6N2kzEnuQhqTF_gMMXRszHyhj05hsN5p6_N4rw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-11-19T04:35:42Z"
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/reviews/ChdDSUhNMG9nS0VJQ0FnSURSb29pR3l3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Temple premises is cleanly maintained. Rooms are available for visitors as well as for kulavi. Sanitation is carried out properly. Someshwara temple is also located within the premises of this temple. A shop is located just at the entrance of the temple, you may get some fresh juices there.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Temple premises is cleanly maintained. Rooms are available for visitors as well as for kulavi. Sanitation is carried out properly. Someshwara temple is also located within the premises of this temple. A shop is located just at the entrance of the temple, you may get some fresh juices there.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Darshan Shet",
+            "uri": "https://www.google.com/maps/contrib/106121065939848769807/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnlgo4mvyOM_urkq2IeufaiWvwTtyNhcO3v9gMqShrTuGcfl_wIw=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-04-21T03:56:36Z"
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/reviews/ChZDSUhNMG9nS0VJQ0FnSURaLUtQWEtREAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This is always a beautiful visit for us. The peace and quiet is unmatched. Good provision for parking, washrooms and in general very clean. The approach road is narrow but not a problem for SUVs as well.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is always a beautiful visit for us. The peace and quiet is unmatched. Good provision for parking, washrooms and in general very clean. The approach road is narrow but not a problem for SUVs as well.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tanmay Wakankar",
+            "uri": "https://www.google.com/maps/contrib/107857018914537055299/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRbTf3sHDN4ZzjZUn1iKxOimN-9rMv866MFjD3WJnQxt-24Q=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-24T09:40:50Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJaW4Uf09h6JMgeqG_jzmV3VVOIJIryJl5xLC4SjBnI1vVcK3axp5zX7Q8LWsc_qoaLZHd_tgS38jOYqOf574DgsK-fylCAxUKJfOzu3z2qQCZeoMJlT4u2i7U-5GhDY_kdZFcpEsBZeI_dYsG_NQ4Deh-_tKQRWQUmU",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Sachin Shanbhag",
+              "uri": "//maps.google.com/maps/contrib/104704553109251940384",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUVSwnX8I9IVwSNljJNQbZa5ygqH6MOrtY0N5o1ApXVyMawGTsT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJZwEZMdnXRmstMjb7xORO-HgYEOrbaXER5QraPmFbtqnw230IdVBGnh8FFBOq92QEhlcPKYjrENDUJIceDKJMu6KG8us6J5bif_zCjy4X5VpKEBhr-5Qb85RBfw3AxCYMVTLRubdDmt13em9o3KMYYB4TlTC4JrrnEZ",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Adityaa SNU",
+              "uri": "//maps.google.com/maps/contrib/105519781270025872919",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW365n_8RIZAAInss0Yiw5F1et08DnVQn3e-WCY8DLh0CA-e3K9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJbD4Ls9CtltUDmm6hnJkS3-Dx8MsHoHLcdLXNO7ISVmDnUWfYfl0GR056JTZZw1yGZe9czbb4sBzxeXIGnZDDEnClmU_-Jfw9kDaksC293wE2hKctyVhcIIBHrNcmzhbY0tL7Ia_zS2p2HvZUkwjSp_BvnLvPdP2yOS",
+          "widthPx": 1456,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Dhawal Shah",
+              "uri": "//maps.google.com/maps/contrib/105586841695316109387",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW4_6JiVL5ctdgfTjGrYtRpDdGDbQMkbOB8aS1n-XItMat-QM4LFQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJbysL3Ua5wUfgaqIZhWyvFLpnjOrZZJtbb451DR5UrY6m_k92uoD3iJPt0zyBgxkxDckmKSAUN9mb_9IVoyfAEuDdCG-tJ3eE05pAI4qAwBd31BJwb3l1KNoU2441EA9kIUXMG2uguljDcQkJDghTlxxKMWLLGzOtLM",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Adityaa SNU",
+              "uri": "//maps.google.com/maps/contrib/105519781270025872919",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW365n_8RIZAAInss0Yiw5F1et08DnVQn3e-WCY8DLh0CA-e3K9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJa3iI5aqKsorNdPkusZyYN0EUK6Fe2qOo-yoO_O5mXvifvgRstHLURmbg1CHzlWsC0Du-aUr8iTSXl-MWhWZj26c8u8RujXV6RNp8MLVJui-MQGJZMM7AKAqRVX7-7_TaSbFLrDlnWI0y9a4mMHysk470K_JKmGCKhb",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Rajat Jyotishi",
+              "uri": "//maps.google.com/maps/contrib/115199414904063567307",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWrg5OxvTIOnVK2kaCWrZu9r832pxOQUIVmsoXHOxq20VInR1yU5g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJZsYxXJ4ylDqxUoFPEG9m8uSpp0GLGz9dHLLV-Mh5sHw49qq-32LSdBn44FZC4HevdAItR_E101s90YBBfA9VRzVZ0A0lDONPIcNQQhYVx2hNO45LbKHGtS20I9fkHiPcAKcZ3M6iI88JJfsxXGfgNFq5U7SvN_SNds",
+          "widthPx": 4080,
+          "heightPx": 3060,
+          "authorAttributions": [
+            {
+              "displayName": "Abhay Baliga",
+              "uri": "//maps.google.com/maps/contrib/114195033120969455197",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjULRmdSKuo7LBEKtVpE6zRrNguwmyds9W4y-9lRCGDv2Q6FSvjg6A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJadTDUa61MNulVl985BxphvtWEM2-VCzAVNES6EXPb24jMtjDmd-HH95AqICIn6DcD1oUeix8TOwSsRKr40XixUO5ZpYN3K74pIBEATMssJ32e4Rrpe0010seJHXYRVxfs-j0z_PcoL-rsuVzkoXa2C7IBFi2RRumWA",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Sachin Shanbhag",
+              "uri": "//maps.google.com/maps/contrib/104704553109251940384",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUVSwnX8I9IVwSNljJNQbZa5ygqH6MOrtY0N5o1ApXVyMawGTsT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJZgvnGB7-eUe7CLO6WGTO9bGwey9t9zn96ynfXpU52DiBobbIvWSAzOaRFX_QXyNvBZgnO5CRn6uHsvzGSGAgrkYKIHJOaZr1oj54PO3qmOtZ_KB1JPWdeXrHn29-naGjJC_nSk_CzpZxxVeq2NskFV_AslEVPFnLeC",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Sachin Shanbhag",
+              "uri": "//maps.google.com/maps/contrib/104704553109251940384",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUVSwnX8I9IVwSNljJNQbZa5ygqH6MOrtY0N5o1ApXVyMawGTsT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJaV07DuR09GW0ApOTZ3RuYV8VBD4ElxfOPs2QF-cVWvpfAuEkCXA4oX4mRcJmxJnu2phZ2NdZQcXmBf8ogabq7-F81hPuXkzlYlVosKHpTS6mkld2IXeRVKwyMz3TJ13mimPa_X8OoRpaLDFQkJqC6_Py376Nth2OnS",
+          "widthPx": 3456,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Prem Chandra KR",
+              "uri": "//maps.google.com/maps/contrib/102159997236320605481",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIwIvr4tGIHTJMSjH1aqoHr7RE1exElr9z3rLjyDf6RaImNeQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJF0gMyQqGvjsRdq44eXEToPA/photos/ATplDJZ85023ZoEdw1jltMxIBnRagX5xHeRXdP_urOo4aLU2Bz1hRLcPxdvB3faeYGt8NnhKnfyWWADjUrZ5XZNZm_DxL7rtXGMXxH7C-MioEW3LvsRNjuIcdSZnTRSw9eFk_XNuYzhS6OU0ykOfaAjrLk4mtjh8HoRaZ4pd",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Gautham Shanbhogue",
+              "uri": "//maps.google.com/maps/contrib/118271426929005861170",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUuCvQZHsnf96TAPoaKo69bx_hOHikz4SV9_UKCyzAe958eYNcOsg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8",
+      "id": "ChIJuZhhWXWGvjsRuALA0NtIHw8",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "083882 30222",
+      "internationalPhoneNumber": "+91 83882 30222",
+      "formattedAddress": "Post: Vandige, Hanumatta, Mathakeri Rd, Ankola, Karnataka 581357, India",
+      "addressComponents": [
+        {
+          "longText": "Hanumatta",
+          "shortText": "Hanumatta",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Mathakeri Road",
+          "shortText": "Mathakeri Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581357",
+          "shortText": "581357",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J6PM836+FM",
+        "compoundCode": "M836+FM Ankola, Karnataka, India"
+      },
+      "location": {
+        "latitude": 14.653691700000001,
+        "longitude": 74.3116926
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.652380319708499,
+          "longitude": 74.31035391970849
+        },
+        "high": {
+          "latitude": 14.655078280291503,
+          "longitude": 74.313051880291511
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=1089669743784231608",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Post: Vandige, \u003cspan class=\"street-address\"\u003eHanumatta, Mathakeri Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581357\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 939,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Lakshminarayana Mahamaya Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Post: Vandige, Hanumatta, Mathakeri Rd, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/reviews/ChZDSUhNMG9nS0VJQ0FnSUREMm91RFB3EAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Calm divine place. Beautiful and well maintained temple. Very close to the national highway and the bus stand. A small walk from NH to visit this glorious temple of uttara Kannada district.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Calm divine place. Beautiful and well maintained temple. Very close to the national highway and the bus stand. A small walk from NH to visit this glorious temple of uttara Kannada district.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Smitha Kamat",
+            "uri": "https://www.google.com/maps/contrib/110115940760216027196/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-1ll83hd92_63Vx84eIDy7EzgHDy6ga_Vc74qfZelWq_u8Ms=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-04-08T09:35:16Z"
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxdE5INk5REAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the most beautiful temples I have visited in a long time. There is a calm in this place that can't be explained in words. Located in a rural place that is godly with lovely people, great aura and the tastiest food that satiated my soul.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the most beautiful temples I have visited in a long time. There is a calm in this place that can't be explained in words. Located in a rural place that is godly with lovely people, great aura and the tastiest food that satiated my soul.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "anjali pai",
+            "uri": "https://www.google.com/maps/contrib/115212611141999170311/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXL3p8lhw_wKA_EIDYAek4F8s7KC8ULsmV8ZirL6nnoQPhGqcgQuw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-05T15:01:49Z"
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxdXU2TVRBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This temple is dedicated to Shri Lakshmi Narayana Mahamaya is very beautiful and peaceful. It is situated in a lovely town named Ankola of Uttarakannada (UK)district of Karnataka. You can feel the atmosphere in and around the temple like in the Malvani-Ratnagiri region of Maharashtra.\n\nParking area is not available for the visitors, have to park on the temple premises adjacent roads which are very narrow.\n\nThe goddess in the temple was shifted here from present day Goa land some five centuries ago, to avoid atrocities of then Portuguese rulers.\n\nThe temple is managed by the heirs of families of those who brought the goddess here from Goa then. Accommodation rooms present in the temple premises are also reserved for those families only.\n\nAlso a marriage hall is there in the premises of the temple.\n\nA separate beautiful temple belonging to Shri Bhagavati is present in the temple premises just to the back side of the main temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is dedicated to Shri Lakshmi Narayana Mahamaya is very beautiful and peaceful. It is situated in a lovely town named Ankola of Uttarakannada (UK)district of Karnataka. You can feel the atmosphere in and around the temple like in the Malvani-Ratnagiri region of Maharashtra.\n\nParking area is not available for the visitors, have to park on the temple premises adjacent roads which are very narrow.\n\nThe goddess in the temple was shifted here from present day Goa land some five centuries ago, to avoid atrocities of then Portuguese rulers.\n\nThe temple is managed by the heirs of families of those who brought the goddess here from Goa then. Accommodation rooms present in the temple premises are also reserved for those families only.\n\nAlso a marriage hall is there in the premises of the temple.\n\nA separate beautiful temple belonging to Shri Bhagavati is present in the temple premises just to the back side of the main temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kedaresh",
+            "uri": "https://www.google.com/maps/contrib/112813970997516055635/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVKmSQCtjtRNdTOmra4tSyKyT9zGF-jzO8uoxrZLNgW-IUtioA=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2023-12-31T12:39:04Z"
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxeXRlYzBBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A nice temple to visit if you are in the vicinity. Note that the temple closes at 12 noon and opens at 4 pm. For entering the temple you need to follow the temple dress code",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A nice temple to visit if you are in the vicinity. Note that the temple closes at 12 noon and opens at 4 pm. For entering the temple you need to follow the temple dress code",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ameet Narvekar",
+            "uri": "https://www.google.com/maps/contrib/110233656436801685873/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJiOR1kdtJDawml6cAawMfIo9qdrT2NeR6zdSwhilOSrE7rkg=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-01-06T14:14:12Z"
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/reviews/ChZDSUhNMG9nS0VJQ0FnSURweS03Nk9BEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This is a very beutiful temple. There are total 3 temples along with the main temple of Lord Laxminarayan Mahamaya.\n\nThe surrounding area is very peaceful. I often visit here.\n\nThere is also a canteen here. One should get a coupon at the office for food. Food is good and tasty.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is a very beutiful temple. There are total 3 temples along with the main temple of Lord Laxminarayan Mahamaya.\n\nThe surrounding area is very peaceful. I often visit here.\n\nThere is also a canteen here. One should get a coupon at the office for food. Food is good and tasty.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ankita Kamat",
+            "uri": "https://www.google.com/maps/contrib/101693252322400798532/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJiIX9eJeZ3QII8nV9eJNly5t2Ei46Bcptx1LM4v5BTENFhoQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-09T13:13:15Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJZxRukadyWNAxW_kIxwoQYzdsElUsi-xP4Fzot2lvXkn7gqbcn9YlCerglJBeeyj5RzWStki9yNQuen-0yYkwtBZMHSrx3c5_PNIIIaJgoCdzZGegE-c9kmEKmtKnnz-rQDF6N-oQ5U7w5nlh85mmRVv8c9NBg8xUSL",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Ganesh Shanbhag",
+              "uri": "//maps.google.com/maps/contrib/103392943611329508972",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVQORFoA-c747vOPujtT7OpKv0vK4oo-p18Bx4r0SzfLcHGx5WB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJY0Rwx-QZVhMsba9E6A-zxg-eBOBhu72q59Yf3BcjGWbdUpcP_3UXd8Nd98I2EDcEvab81k9Y4UV8y88Q3qVEtB5fdJ0rhcrU4MjPkl1qdDrhI-Bs7xU-XVca4dAzgSzfP9NlfrZCbWgJ4c12wuQL6p8cVzcprB07X9",
+          "widthPx": 3008,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Rashmi Mallya",
+              "uri": "//maps.google.com/maps/contrib/116268874005588759745",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXXEUWQIQBR4dki106WVI9jqx-gjqSuG7Y64m_IR0kBw6cnnzoU7A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJb0Q_ArIbzuIus_-MqLUlFbMcWdYVyA63tkgN_I0unp3poYES08b1W1OWfXApSbbWAdBoL2qq3nREpgWuqaPVkkcSa2inYWa1hpyKbgtf5Z9QtVmSp76DOh85YUs64ys1egvwLU2uHf6VL20U9h0XAQZSMJrqotEw8j",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Rashmi Mallya",
+              "uri": "//maps.google.com/maps/contrib/116268874005588759745",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXXEUWQIQBR4dki106WVI9jqx-gjqSuG7Y64m_IR0kBw6cnnzoU7A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJYeAZ1r0zCfT9lVj6N6WrByMEC6zn78DEyJUOzUWSEuETA6l1EPdgqf1yDfTvbfSmdFbMbNH_EqHnMYqr2Zyhu-BH5sivsggVyaO4JV55OcNxU6NVcbMNdYRxZqSWJlK81eftV_duT-DQzaIdPHDnMq-ZMw7zHLCTyK",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Venkat Shenoy",
+              "uri": "//maps.google.com/maps/contrib/103510526932125836169",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX2Cq9ddzRdGT4hD_1ehbLnY_1cbsR_ylq09JwVdX7Cn6m_iRU0ZA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJbp7ZGJpxz41VwvpVXaQAKuYsmUCBF-3c1STK_d55XhpR3wePB--ron203C7F1BPqS5rr5zSVibTwCdRGqZafhZGC9rvV8hCz5BDdZvNylehmTSeJYaL5sn39PUT6LMS49HCSl9g3U0PmePtPLNdGIR5fbsm3soV7d2",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Kiran Nayak",
+              "uri": "//maps.google.com/maps/contrib/108378858951000238194",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWW8Gn2gooQsgQmmZlSe58bsbCX8dau5ezl8W380T1HkGdM_nw8bA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJZZYic2Fi2ctfbAdy7Q8o3yoiB8InUD__RbNOu7e8Fy6z4LqQbTTI_e_kSRO-wZ6OWj0F_am-_On6LDf55xaK4NCIlfNJVfBziKrTGQ-mwTEPmPUsekTeXXp9MNv-nwFpAQ3F9ABCHLsLhGM3usWNbSZBWbtqqj1SKB",
+          "widthPx": 4624,
+          "heightPx": 2608,
+          "authorAttributions": [
+            {
+              "displayName": "Rajneesh Maller",
+              "uri": "//maps.google.com/maps/contrib/117155628262800231106",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkMh4RP2oXFQ4jhTlBxYLI5rS5R_SFJ_HqgiJ-T3EwJCOz4Xli=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJYJHEPnHD3Q63EEemImaG--E3X79t07I2nrNjVtACd9a-yjwVyGQtieEkTo0rr4imnM7ga7JvPOqd-dPSMCloP_sts5LsxK3gEfa3NMzKCq-q-06mFgLTPAURhCpHslNO2l6WXhN_OCbioRzi0FjtBKsQjxyZ90HEE",
+          "widthPx": 1080,
+          "heightPx": 1544,
+          "authorAttributions": [
+            {
+              "displayName": "Appayya Ramarao",
+              "uri": "//maps.google.com/maps/contrib/106856782577442025172",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjViGQf94msS3tH5TIDiEUKlE-UFXN4yCNEy6_rZQQ098c9IM8tV=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJbbDvEYW9tXJA3tLnqwftH9Q96gv6vTj3yMkIl9Yuj0WpzVePvKe3IExQrjxev6GguryJxPqJCCBSbcEnxg8ZcrkObq2DrcuYw5Ug8LtxBcPtZMh8JmVqMJoByzEfpDXWoogzAO3h_mU7atPyFegQi6weyTTcYhgy0k",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Nraj Pednekar",
+              "uri": "//maps.google.com/maps/contrib/110075546198385251093",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6wHxBN49vz2gPG_ASbtWJBfHxPpvuAqXXN2mcPsIHKSTnEzsS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJZaUaTMKOQOa0C_qrb17MLTvMn7hvr_TDt2IpNS_FAhIDFO0K7m67L-wc6T996Sszn2EHULVH-B2Z6XGK1cccPCwlhX45xHK_irjbIlbOfgPreMTCe2Si5_kkJCXxvGIycxbdVK2CCgoCrjByJLxC9QhC6GYFUkkH_K",
+          "widthPx": 4000,
+          "heightPx": 3008,
+          "authorAttributions": [
+            {
+              "displayName": "Rashmi Mallya",
+              "uri": "//maps.google.com/maps/contrib/116268874005588759745",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXXEUWQIQBR4dki106WVI9jqx-gjqSuG7Y64m_IR0kBw6cnnzoU7A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuZhhWXWGvjsRuALA0NtIHw8/photos/ATplDJYUK7pQSndpaIy-iQ88ysMslXjhYB6x0SYMuDRp_55pYlJNOCVUP4GAd9187AW6ITqADh4_JnJ2_XT1wZWjSxE-Dkge3yflgaCm7gwaBpApUEdLGQXBArkPIOwRYEMAAaoM87yfKICfPW2b3VXK_uHfUCGtwPgB3aPj",
+          "widthPx": 8160,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "TURNING POINT",
+              "uri": "//maps.google.com/maps/contrib/108297319658094975416",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWuarqJQhPc3JoCTDGq0QCKpo7sBu3E83rZi-aSkvtWVCYWr8i1=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM",
+      "id": "ChIJzQvln9GHvjsRSW5gPq64BIM",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "J7XM+45C, Ankola, Karnataka 581314, India",
+      "addressComponents": [
+        {
+          "longText": "J7XM+45C",
+          "shortText": "J7XM+45C",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581314",
+          "shortText": "581314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 14.6478248,
+        "longitude": 74.2828929
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.646313719708495,
+          "longitude": 74.281703169708479
+        },
+        "high": {
+          "latitude": 14.6490116802915,
+          "longitude": 74.2844011302915
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=9440873777385729609",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "J7XM+45C, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581314\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 18,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "NadiBag Beach",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "J7XM+45C, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOeGN1VHJBRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Small, neat and clean beach near to Ankola. Good for sunset. On weekend gets crowded, parking your vehicle may require sometime as there is space crunch near entrance. Hike to nearby hill gives stunning sunset views.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Small, neat and clean beach near to Ankola. Good for sunset. On weekend gets crowded, parking your vehicle may require sometime as there is space crunch near entrance. Hike to nearby hill gives stunning sunset views.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prasad Gohad",
+            "uri": "https://www.google.com/maps/contrib/108826046565402938617/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAdE_davgB3CTwYPs7bF20XVHwWVqNzHDwnuRq1L2F-oplX_LD=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-16T07:00:11Z"
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0MTdmV053EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "If you on way to coastal region around ankolo .it's a worthy cleanest sunset beach\nWhere u can enjoy a sunset with a scenic sky with  blissful tiny waves",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "If you on way to coastal region around ankolo .it's a worthy cleanest sunset beach\nWhere u can enjoy a sunset with a scenic sky with  blissful tiny waves",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shiv Mantesh",
+            "uri": "https://www.google.com/maps/contrib/111025662168541044407/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWA2tfYXEuapaQU0gz_nFGbBfDew9KHodc4fmJIlEDfnS9LKdI=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-01T12:07:55Z"
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/reviews/ChZDSUhNMG9nS0VJQ0FnSURsakpDd1BREAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Quite and calm beach...there is no crowd..beach side is not soo clean...good place to spend some peace time ...One view point is also there...This beach is not soo safe",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Quite and calm beach...there is no crowd..beach side is not soo clean...good place to spend some peace time ...One view point is also there...This beach is not soo safe",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Punya Bhat",
+            "uri": "https://www.google.com/maps/contrib/106748497854460399483/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBbsPQYUS8gEXJqwRRXNUdKPek_WjiWzV3aJMzX-cqoqtX-JBWTA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-30T15:04:56Z"
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/reviews/ChZDSUhNMG9nS0VJQ0FnSURObi0tNVJBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very calm ,serene and beautiful beach",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very calm ,serene and beautiful beach",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Namrata Bhat",
+            "uri": "https://www.google.com/maps/contrib/115056921742687758773/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlm3WkJJrCSiA7JQOfdFh54JBpSHSYKx8HIQe0OSiGqP1Gng=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-27T14:37:38Z"
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwajVxcF93RRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Clean beach ⛱️🏖️ safe beach , it's is in ankola city , not much crowded  from hubballi 3 hr ka distance hai road is very good , is route Mai Jada hotels nahi milenge",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Clean beach ⛱️🏖️ safe beach , it's is in ankola city , not much crowded  from hubballi 3 hr ka distance hai road is very good , is route Mai Jada hotels nahi milenge",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "shital jamdar",
+            "uri": "https://www.google.com/maps/contrib/101727721569540383551/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaPwsgjZe-2GaRTZD-HzM-hLBqrZo1aBEKU0JJeFTGvEPduvzGiw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-08-15T12:27:08Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJa5UaSUFCG_HjmynfEM5ggmAUuGnUzkJyYrO25QDe0gtvYIDRPxWr5pnIdVn7mT3-uoe8-iWwsWGslkjGKDVntdWD43uqnOLGADvXcmQZ2xfAeXpP3q7xSj3W8NVmwT9b4e8DD-UFHqXUhQJXSKZmrekaCmGMoNu58t",
+          "widthPx": 4624,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Ganesh R Shetty",
+              "uri": "//maps.google.com/maps/contrib/104683492901373195068",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUf-Mz944LS41i47sinGhX8ohsuPShuX77VWXONI_A7Wg-mPlfK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJZ958LbF6TDoCp5vAsu9shPqAu3LT6NA6bmh1KJL7led7uqANO5YaCbEmldO9K7aLEQ0Cxk4KVZVC0inej-Xn-maS-OQ1gqd7ecNCWsmjZ9PzWxjAFp0ME3umR-xckfmaHPy0rLZNKC3J8zkQIJbmVxzmMm_tilM-5L",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Shailesh Kumar",
+              "uri": "//maps.google.com/maps/contrib/100007419370263248251",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhAsGhUHqnvPBxltPn6MmD7qFRLgUieJfd4GMdIinqOWqqfv4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJbjFA6KgdHU2stcZo6sx-i8DSlip3AGrHUo8ikwzaL3zrhLvlgHSW2KPEcKrwe5JDcT-dZj8BC-qriAB-71FkcdAf2e9hPKoxZoT79jbGSJ3UQU9nHUVyl5LC2KwAE4Ne_xIMDVBaJkT0NqmjJo45rs5MKGngWclE3X",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "KN",
+              "uri": "//maps.google.com/maps/contrib/115663525583477827501",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU-ugL_xXgk19-sYg318p1Bft0kV3rxdAyN0ZmOeoZqoqacQWjJMQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJZmgzTyGyOvXAWVH6STB6a5V9M4LDubywVHHCgKoTv7xMgSpmP0ladlUBs3pP9c6xvTDOFmoR6pmeqS5GZ2vQOcfc4JLIjPZ2rAcnYkE735bx7RJej__E_8J85_TTA0evLxeToDgUrZCtsH-sgwgaU34YBpGNgXHJfz",
+          "widthPx": 3466,
+          "heightPx": 4616,
+          "authorAttributions": [
+            {
+              "displayName": "Ganesh R Shetty",
+              "uri": "//maps.google.com/maps/contrib/104683492901373195068",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUf-Mz944LS41i47sinGhX8ohsuPShuX77VWXONI_A7Wg-mPlfK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJb4MTlBLR7IC1nLSnZl6UOcWknC6GH43MrH44z4SABIZrAtP780Fikk1hVXghanaI6J8chOa1C01lZcPOYuqTvD4kHj4Z-X7EFHzQrgx53unfrzGTZFlxB9jbjX9RPwYdP8IYaeUxQjT3ZQBwmQLKSSilvGLqM8yQ6T",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Kiran Raiko",
+              "uri": "//maps.google.com/maps/contrib/106117849553876024490",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbdIx5eltDNgiKawyLWjarMSZn0ikrovczC1J7dCA3uitYA7DL=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJaW0MQF41JdvGD3IZd-VsTrAri6TUYoZdGPMeH8xPTng6hpe20_l7c4L6mMXOlZ8osGEy5ALV6O2Xm4quzcozSkc7m5BuzJq0QZt0YfLH6a4V3bZ345DzX9nf-O_4BwfSLZw7XsljrO8v6LZL9XHFc2i8s7CKnxL6SD",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "anand kumar",
+              "uri": "//maps.google.com/maps/contrib/105588138626198454664",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLc9WCcyfHowUnTzQ30PK-ouqxlkwBTQBSO9xZeTpS4-O9PS12E=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJYblXt6Ab-TGYSPDnA5IlSQu5K2s2x67zvg3CexSp6ziTXqZ1LLVHf91nLEqOozJXDMedXbK-nBxCGStbi3Zro5bQCe4o6LrZ0ZCKEI3OsDU110ISbqKqToCMZ208TF9cC-mIZQ7MdShjxEGXkeylBk0ra3nI9PmzjT",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "anand kumar",
+              "uri": "//maps.google.com/maps/contrib/105588138626198454664",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLc9WCcyfHowUnTzQ30PK-ouqxlkwBTQBSO9xZeTpS4-O9PS12E=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJbL5Ziw4UcuCdudKd60oYEI38JOOUJaoZ4rVlfHAskWSwUtraCwpm2Lg8jK8_ttzMIEOFj31Pf43NH_IBYLXyCGPWfxYmD9Y3DKuib4aL7lWdP_Rwcai0M6AxZCcrckSeFy_bux-fzFMW8UyPajhUrF6LqN7vNcZhPs",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Shiv Mantesh",
+              "uri": "//maps.google.com/maps/contrib/111025662168541044407",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWA2tfYXEuapaQU0gz_nFGbBfDew9KHodc4fmJIlEDfnS9LKdI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJbTIafXruLyLpWp7h0fxpeYuBJlgyAY5I6mAMN7K24kZyP5vtViDQS9rxsxxNfvpTZ5j_hZl9e44nya06DEnFwH5i9zC1uY9_jrkJrcMPE2VWUxkswZQeG-R-DSZttNM9-LZiZA-HR4mjFv2gV_Vw9C1gWVy5HIlW-1",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "anand kumar",
+              "uri": "//maps.google.com/maps/contrib/105588138626198454664",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLc9WCcyfHowUnTzQ30PK-ouqxlkwBTQBSO9xZeTpS4-O9PS12E=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJzQvln9GHvjsRSW5gPq64BIM/photos/ATplDJYDD_wqgDqI9IZt0MOVpN9qKKdOoHiA2w6yQDI_uUSxALtS8l-JOht8F8DRBz0rPZKZevWgq_SCrmhp4sgrMfX-Q-pNTKurv7fy1UHw8pGDU-cBO2N6B9rywIFEDPadvFF6EINAIrvm4NFr-Hmf490GXw4Yvj24Y2p3",
+          "widthPx": 13340,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Prasad Gohad",
+              "uri": "//maps.google.com/maps/contrib/108826046565402938617",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVAdE_davgB3CTwYPs7bF20XVHwWVqNzHDwnuRq1L2F-oplX_LD=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog",
+      "id": "ChIJS_XINA6GvjsR4a58eiS8vog",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "M862+VG3, Ankola, Karnataka 581314, India",
+      "addressComponents": [
+        {
+          "longText": "M862+VG3",
+          "shortText": "M862+VG3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581314",
+          "shortText": "581314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 14.6621466,
+        "longitude": 74.3013069
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.660769169708496,
+          "longitude": 74.299975719708485
+        },
+        "high": {
+          "latitude": 14.663467130291501,
+          "longitude": 74.302673680291491
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=9853519899593060065",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 8:30 PM",
+          "Tuesday: 9:00 AM – 8:30 PM",
+          "Wednesday: 9:00 AM – 8:30 PM",
+          "Thursday: 9:00 AM – 8:30 PM",
+          "Friday: 9:00 AM – 8:30 PM",
+          "Saturday: 9:00 AM – 8:30 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "M862+VG3, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581314\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 293,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Shantadurga Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 8:30 PM",
+          "Tuesday: 9:00 AM – 8:30 PM",
+          "Wednesday: 9:00 AM – 8:30 PM",
+          "Thursday: 9:00 AM – 8:30 PM",
+          "Friday: 9:00 AM – 8:30 PM",
+          "Saturday: 9:00 AM – 8:30 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "M862+VG3, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxdW9XUVNREAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Grama devate of the lovely town of Ankola.\nThe temple is very beautiful.\nAlong with the main temple belonging to Shri Shantadurga devi, there are some 7 or 8 small distinct temples of different deities inside the temple premises.\nVehicles have to be parked on the road in front of the temple premises.\nThe temple design is very peculiar resembling the temples in Goa and Malvan region in Maharashtra.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Grama devate of the lovely town of Ankola.\nThe temple is very beautiful.\nAlong with the main temple belonging to Shri Shantadurga devi, there are some 7 or 8 small distinct temples of different deities inside the temple premises.\nVehicles have to be parked on the road in front of the temple premises.\nThe temple design is very peculiar resembling the temples in Goa and Malvan region in Maharashtra.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kedaresh",
+            "uri": "https://www.google.com/maps/contrib/112813970997516055635/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVKmSQCtjtRNdTOmra4tSyKyT9zGF-jzO8uoxrZLNgW-IUtioA=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2023-12-31T13:13:18Z"
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/reviews/ChZDSUhNMG9nS0VJQ0FnSUNseS03MFpBEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A beautiful and old temple with a serene atmosphere. It is maintained well. Good place to visit.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A beautiful and old temple with a serene atmosphere. It is maintained well. Good place to visit.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prem Chandra KR",
+            "uri": "https://www.google.com/maps/contrib/102159997236320605481/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwIvr4tGIHTJMSjH1aqoHr7RE1exElr9z3rLjyDf6RaImNeQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-11-27T05:09:56Z"
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/reviews/ChdDSUhNMG9nS0VJQ0FnSURwdHVUWC1BRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "One of the popular and powerful temple of South Karnataka..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of the popular and powerful temple of South Karnataka..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "shama vishnu Naik",
+            "uri": "https://www.google.com/maps/contrib/103641848899619446753/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRSJA6by7ECEwA-alrK9ThWnanPvPelMgPu-8LDxz6SWaUoXo=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-07T03:11:20Z"
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyLTZMSGhRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice And Ancient temple must visit this place if you’re in Ankola",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice And Ancient temple must visit this place if you’re in Ankola",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Money Heist",
+            "uri": "https://www.google.com/maps/contrib/100232453511694420032/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWp-BT9Bamre7APDoTxGmTvcsNS4d-t-A42rxHuPLx6BR3wlTQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-04-29T02:44:21Z"
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5LWM2elJ3EAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice temple. Neat, clean and calm.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice temple. Neat, clean and calm.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Raghavendra Bhat",
+            "uri": "https://www.google.com/maps/contrib/111019053255758025454/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCsWKX9slmrfCQFiq2gwRnN4LZ9EtTkNCs5S8d9i9vVJ2WE_IG=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-03-13T09:04:53Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJZBzvmoofx5SyP6zsMqRG-yxJB4YSDugFE5tBi6WsqwP7hXQUVX0d5jzB9r5COXUDO5XkSkRNBV4mY-bhDxInhL2dYLh4u0Y8-cKPtgbO_A8GO1l2WfUXcvTNfAl4AXPh5U8S4iU1-KzQqQjptNScBfCLzDv6D_LcA_",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Shraddha Bhat",
+              "uri": "//maps.google.com/maps/contrib/117652349648371440906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVVSK9rD7WMR14uC_lWSudH6vPxic_qNkrdR124f2igNwEw525u=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJZFIBHbz_plC9CgkaJZNcVWw0f3KFx2MGvoJUFsu27EYzydzrOUadS3VjZzk_oE-nBYfP-RDTOpnouER-ub7NlAPy7NeLCwd-yLuPWw2UL9cbbI8-grMBfnk7_zRINKEszFht7gCtcfGfDKd3-Go9J4fh3aMEOTP4lK",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Narahari Shetti",
+              "uri": "//maps.google.com/maps/contrib/103964651763594550937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUzln5NgOSkh_aOQUHLuaQUkY5naJJLdf69lhYb4YY9mhdRSzYe=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJYxBtlFu5aLnBmnGlW5SoSktGh6L7EHUVIxhlZzU-wRRncu7TNQWhIwvztr9njED4NkRW7d6Pa-p3jeV0eAaXUcJjwc0XwC_0q1X01Afi8P_-7fv5K8oc29DNuzv0h4eCOBHtuTd2htT7jlI6e6GPOxne3xZxsim8Vz",
+          "widthPx": 2056,
+          "heightPx": 1524,
+          "authorAttributions": [
+            {
+              "displayName": "Pratham Naik",
+              "uri": "//maps.google.com/maps/contrib/104593257644261274785",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWDDMJP6gDEpnp4a3_Bv--XOYeRz4K3SQKxNmM6_5eZGFYxojMVRw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJYNvwloCtcUl607p0zMULRBF0D6gc6WhZgWmjfQ42nB500xxiYzx3I06x5V0gAC5yZK7I-g0Awimexf5I1TQJNPVgjVmBOh-NrmnTng5hBUlzG08mo2MSl5lzPbpQ7s8yLPWN0XPQmphbXjLai_sH_avYV--ruaAxrm",
+          "widthPx": 4000,
+          "heightPx": 2992,
+          "authorAttributions": [
+            {
+              "displayName": "Preetham Bhute",
+              "uri": "//maps.google.com/maps/contrib/115287691277872446282",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIjDfi4x93ANVwfF09l6DgOAhw8KLuW6SsAC4li3KRBHP4rD2s=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJax7YqJLNJnEvEiohb9uSwAD6lx5bL6T4wveNprsT6b8H-aWd6Ju5CzTZhHN-Vefqyc00U05EMTn4APMu9bSIhC7mblVRKCKRKrrPL81xXWKLK6QkmqhS2V6X1wSMmm6G-FudeEJdphQmwe_RkQW7MXCQYyf-LqoP4",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Raghavendra.A. Todur",
+              "uri": "//maps.google.com/maps/contrib/113573216721152741734",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjViipfcTC6K-C4UsMiZWxvn93eCyoqVAUh0lNPffw_xSSGclqi3=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJawbvl3pcCgh5xhUxofEJPE0vFXyIX4xI0poB5XXJPtib7QrG7-Z50elcez_sUM0f9pRT-ddmg0ITR9a30Zhx47IYTyxjsNPKprGaJgJWo3h3Khawj70xPd9w_eNgwjsueYJ1RZHEKb2_NRGFOH9GkeUr0kB-tevDgb",
+          "widthPx": 4080,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "Kedaresh",
+              "uri": "//maps.google.com/maps/contrib/112813970997516055635",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVKmSQCtjtRNdTOmra4tSyKyT9zGF-jzO8uoxrZLNgW-IUtioA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJYyvZDMDNKzmHEBgn6CMEYNZJ4lUwtdmNzdUuu4ESA60wyra992gu0N7xfjcdofUSWSjWqPbeyzN-zmklCfxLltjJin9Rralbqlz-6FM_CmFI5ViQX5Cqu1Z08y9CAtWQdKiJ112lGPkusqk-txqb0NuAOV7QdS4oOF",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Narahari Shetti",
+              "uri": "//maps.google.com/maps/contrib/103964651763594550937",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUzln5NgOSkh_aOQUHLuaQUkY5naJJLdf69lhYb4YY9mhdRSzYe=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJYF0Fbn-SNs3RL0kbZHwUpAo0FUgk-M_PjJf5PiC-Gv1yyfk4pb5BUDX5ZdgOr1syzkGOxTd3CbKxOBVFz6hK8yEqTKC4N_dPQclE3IJ7D0DGxgLSxb8Yl63XaLFVwmVWxVuY_BfbNbSLJRzbAIyerxNo_hsVxHS-Hk",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Shraddha Bhat",
+              "uri": "//maps.google.com/maps/contrib/117652349648371440906",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVVSK9rD7WMR14uC_lWSudH6vPxic_qNkrdR124f2igNwEw525u=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJZY9cRxFRil-DNJfhQ91xALIQ_UG9BRn5zvnjhHJ8Ekf11HNO4m1LkE0oiA-nDeJn7sGIGjokxhJQoHpo395_e7OWls16VpDl3ROqazJ8bg05cxyWY3x1yDQbRf3JYmnA4EmtZFWQlsEvk_wZ5leTGZ_wLjgXTUokYs",
+          "widthPx": 550,
+          "heightPx": 444,
+          "authorAttributions": [
+            {
+              "displayName": "Pramod Kamble",
+              "uri": "//maps.google.com/maps/contrib/108550077405934734253",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUE8KMPw-ijcPNxkF5KbvQe2jSh27XY2kcknpLMtzYpNMza21g7=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS_XINA6GvjsR4a58eiS8vog/photos/ATplDJZl9ZxTfiPoBAsJOQqbFnBXf5qElkOasgdJJPfcm8jnlCbzwhjUlv6Kk8H6tYqmCHxZtkhP9tmLsndEWcbjnJbedoGbwtit9rtKd6sfjNWyxueQly2RT-UkvqnF8PO7eQV3zqsazHKfdqUmmJ-BQ963S0c6xDRD-DkN",
+          "widthPx": 3456,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Prem Chandra KR",
+              "uri": "//maps.google.com/maps/contrib/102159997236320605481",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIwIvr4tGIHTJMSjH1aqoHr7RE1exElr9z3rLjyDf6RaImNeQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ",
+      "id": "ChIJ82SI4QqGvjsRDD9hzgQh0GQ",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "092421 10217",
+      "internationalPhoneNumber": "+91 92421 10217",
+      "formattedAddress": "M845+GFH, Tenkankeri, Ankola, Karnataka 581314, India",
+      "addressComponents": [
+        {
+          "longText": "M845+GFH",
+          "shortText": "M845+GFH",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Tenkankeri",
+          "shortText": "Tenkankeri",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581314",
+          "shortText": "581314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 14.656324399999999,
+        "longitude": 74.308719299999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.6550136197085,
+          "longitude": 74.307512569708493
+        },
+        "high": {
+          "latitude": 14.657711580291505,
+          "longitude": 74.3102105302915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=7264342503474675468",
+      "websiteUri": "https://www.shreekundodari.org/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "M845+GFH, \u003cspan class=\"extended-address\"\u003eTenkankeri\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581314\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 115,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shree Kundodari Temple Ankola",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "M845+GFH, Tenkankeri, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxdW9iUUtnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This temple is dedicated to Shri Kundodari Mahamaya Chamundeshwari devi. The temple is very beautiful and peaceful. It is situated in a lovely town named Ankola of Uttarakannada (UK)district of Karnataka.\nAnother temple belonging to Shri Vighneshwara Mahaganapati facing west is situated on another side of the road in front of the main temple.\nThe goddess in the temple was shifted here from present day Goa land some five centuries ago, to avoid atrocities of then Portuguese rulers.\nThe temple is managed by the heirs of families of those who brought the goddess here from Goa then.\nRooms are available for accommodations and are good with hot water facilities round the clock.\nThe temple's office staff Shri Rohidas Pai is a kind and helpful man.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is dedicated to Shri Kundodari Mahamaya Chamundeshwari devi. The temple is very beautiful and peaceful. It is situated in a lovely town named Ankola of Uttarakannada (UK)district of Karnataka.\nAnother temple belonging to Shri Vighneshwara Mahaganapati facing west is situated on another side of the road in front of the main temple.\nThe goddess in the temple was shifted here from present day Goa land some five centuries ago, to avoid atrocities of then Portuguese rulers.\nThe temple is managed by the heirs of families of those who brought the goddess here from Goa then.\nRooms are available for accommodations and are good with hot water facilities round the clock.\nThe temple's office staff Shri Rohidas Pai is a kind and helpful man.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kedaresh",
+            "uri": "https://www.google.com/maps/contrib/112813970997516055635/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVKmSQCtjtRNdTOmra4tSyKyT9zGF-jzO8uoxrZLNgW-IUtioA=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2023-12-31T12:22:59Z"
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSdTlqenZBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 3,
+          "text": {
+            "text": "A calm space. Temples are located on both sides - Kundodari temple and Mahaganapathi temple. This place has a lodging facility. Rooms are well maintained with proper hygiene. Rooms are spacious with good vibes. Water insufficiency is the major drawback here. Overall, the best place to stay.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A calm space. Temples are located on both sides - Kundodari temple and Mahaganapathi temple. This place has a lodging facility. Rooms are well maintained with proper hygiene. Rooms are spacious with good vibes. Water insufficiency is the major drawback here. Overall, the best place to stay.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Darshan Shet",
+            "uri": "https://www.google.com/maps/contrib/106121065939848769807/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnlgo4mvyOM_urkq2IeufaiWvwTtyNhcO3v9gMqShrTuGcfl_wIw=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-04-11T14:39:21Z"
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnLTV2QzFBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Positive vibes everywhere....10 min distance from bypass road if you come by travels...And same distance from busstand....hire auto ..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Positive vibes everywhere....10 min distance from bypass road if you come by travels...And same distance from busstand....hire auto ..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AkshaY KamaT",
+            "uri": "https://www.google.com/maps/contrib/116167171670447861168/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGzAE57so2Vcrjj5QxgqdPvjWtQBB2ndD2FSLetd7R5ZY_aHvI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-01-11T06:55:07Z"
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURXanF2RGxBRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful temple to visit in Ankola. Extremely well maintained and clean.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful temple to visit in Ankola. Extremely well maintained and clean.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arunava Pramanick",
+            "uri": "https://www.google.com/maps/contrib/113860228680947499000/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXId1W_NRDrb_W94ayvYKcS9QJndvEA3oXhFXy6Ek_fzIMMwcAgrg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2022-03-24T07:02:41Z"
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURHenJLMTBRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Peaceful environment & oldest temple 🙏🏼",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Peaceful environment & oldest temple 🙏🏼",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sachin Shanbhag",
+            "uri": "https://www.google.com/maps/contrib/104704553109251940384/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVSwnX8I9IVwSNljJNQbZa5ygqH6MOrtY0N5o1ApXVyMawGTsT=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2021-11-28T08:51:04Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJY2kvK1KhfvXLf-4Zf6lkqwOFrcmQy0SmPhayRbjbKINxZwiCPtBpJqUiEtR_U37vRiu-XgQQOEttohGzHpJZBoR9PnmoiIQ0rrzqOSo7ZyHly-8VAR6QP4C5oCRGAx0afSbDWBElYqTiFxjn_xK9LIP2ovi6nLvx9n",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Arunava Pramanick",
+              "uri": "//maps.google.com/maps/contrib/113860228680947499000",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXId1W_NRDrb_W94ayvYKcS9QJndvEA3oXhFXy6Ek_fzIMMwcAgrg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJYppw0_BjW9fult106wac5IL-ALeCnGfqMn0AocL3263R5TOknl4MB6IDUnqlwOpA6czmsR-Y38UhCznZLXmwC1uvZomemvSpggFal4Po0jb804svG6fENTNxRRkvlgBOu-7Y9wFlqqqeU5me2mMxjHffdK3ZzqjJn_",
+          "widthPx": 1846,
+          "heightPx": 2895,
+          "authorAttributions": [
+            {
+              "displayName": "Vrushal Chachad",
+              "uri": "//maps.google.com/maps/contrib/104033385574247692140",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUOk73mqUcPqw6pjjdNX6sSN1z8NXGFiYbvZkmzHMMRyByB0qev=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJbUXynLTPtvLNAbv-Uw6mZrXxF6A3VblD5JzMnm4Qw1KYJ9qZ2_Kcs7SzdyGXgoelULtHN3RDftICYgEC0_A--0nY5A_UdGfxUBovQi_BWbh7yVPvFTmGda_2gf5UbTDsXO6D96bDfM3iGp5KFP_upU2fem4jskLx05",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Hanamant Gurav",
+              "uri": "//maps.google.com/maps/contrib/107410338987916133772",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVXuTO_EV0c_dPe4ebDORx_YH9kuXOWixcxR5QdM3pwwXM9eOwH=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJb2atyB4EFG2TjkSnHIM_bGedhqTjyhH0NmOp-C3OrCROtU_iLOsS5bO4VoMki_2VyEKW7zuA2Mx7bhQUo7UtALjLGixTj-2VqwDQMEApC68owIG4Wg9LZo2F86G7GVIV7zrsJb4xEMEf3Bwl12wBe47fmEXGYyWd3s",
+          "widthPx": 1024,
+          "heightPx": 768,
+          "authorAttributions": [
+            {
+              "displayName": "Kartik Kamat",
+              "uri": "//maps.google.com/maps/contrib/108295253870153861124",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6Z0vwXuqPOKe_88NfjaXyrEHNDpbX4_QZSH1hB5KjH9M5lTwC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJbcF1dE44J7Pk0ZM_Hz5_PR9V2xNOP5Bt83aTkZNR_oplkpTInGB_VwTC-_UpJMs944cN8420o6VXjfH0m4kqAxdwxejNcsFuzL0JcAdVEjRa2s7DaqciTI7GmqrCK2VXbyYEXlrqd-Ba50PKILEB3GSnECcXoAldez",
+          "widthPx": 828,
+          "heightPx": 868,
+          "authorAttributions": [
+            {
+              "displayName": "Ansuman Mishra",
+              "uri": "//maps.google.com/maps/contrib/112590145555776974872",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWSs8ljp4cGlSpGfYWy6o6bPGGJSePXG5sD-ZrSyTHT182u2P_sA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJaUAQ_EZle87ghCeURkNqC8LGwOVA1ByC5fGzDyV-u1QRtU61IyYof3x9wC-Hi7mbWNvT70WYtx1_VjD-Q9NhkMc5A-X33UR23XQuleqA0sFbpC4XbfQhj8UqRFAUhXTM67vIcA6J3sXYB1UD6pd_ZlxCVqzfU-lj_W",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Vaman Bhat",
+              "uri": "//maps.google.com/maps/contrib/104898377359336727878",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIMST0vrJQdvbkw5LF9tI1ojzNyztBK6MoSf-53Z15PvV9HtQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJZCi7i7R0yJGpBrCV0Lf_rlosvfWh2ZNmRhuI7BIwFarOM-c478CFyKnCEz2Gclsu2Ha4X_WQquB2O1YqNumm75ppdoTHH8YUNEVUT1AnRFyxwdPiJFTg1nZ6zHPzywDNXXtOssWDZPir1hVBhdjeqhevH7dk2jlrCZ",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Prash Shet",
+              "uri": "//maps.google.com/maps/contrib/100208822799128530510",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL9gE72zcBDnVc4o5G8AsWGE1gL1CLy5EOscp-EH71x_UkqlA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJb8FDbDdT5MpVCVNM_2KM6-rHjwGngh27Uf6j4QN0Xrf8YBWe4hfMnC9gQVFhVvn5OV74uq1aVr68-XxGi0OIQdVyZSZvZIbzO_TnHTz19S15nSks2pvPIPFiY9_noYZ8irwipc2yaL9q6Uiw2PEyOxKf0qcaZSXIZn",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Takkada Abhinav",
+              "uri": "//maps.google.com/maps/contrib/113135190678344139579",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVyRnhBjqOf331HDUpsbhE5Lqrbn3TpxMPygpisdkN4FsWjYl44=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJaDX1gVIDHA8p7oYTUpfEiYbyaHM_hldymaROAN1MJmf4_Z8xD5cM7S4sO2QPn1XddZocL4cC3BCUf0IBeUNXPryAeq4C2by-DH6EzDsyk4CbO2AbwjTXwc8IsVNYcK5VhVw4B1Nr_7AC4pSATjqXjz7Sxhpko5FF5h",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Vaman Bhat",
+              "uri": "//maps.google.com/maps/contrib/104898377359336727878",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIMST0vrJQdvbkw5LF9tI1ojzNyztBK6MoSf-53Z15PvV9HtQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ82SI4QqGvjsRDD9hzgQh0GQ/photos/ATplDJYXybkqPJ-TbSvJQUcZAemflCh1hmOvoH3toXR3M30LZ6dHrqS9Q7tTAyQ1MwBuH_6ux43yNeeu5BCIjJ_DIU6cBaR43Lry6kdCWCAsCJxiQVUOkpUGABx4y7YIV-V_pLLziOQrTlGKuv74PCHmryw1udSP24JqKol1",
+          "widthPx": 1536,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "Vaman Bhat",
+              "uri": "//maps.google.com/maps/contrib/104898377359336727878",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIMST0vrJQdvbkw5LF9tI1ojzNyztBK6MoSf-53Z15PvV9HtQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g",
+      "id": "ChIJi6BNLrmJvjsRyV-9j4fSU1g",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "P72J+6RF, Teppadakere, Bhavikeri, Ankola, Karnataka 581321, India",
+      "addressComponents": [
+        {
+          "longText": "P72J+6RF",
+          "shortText": "P72J+6RF",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Teppadakere",
+          "shortText": "Teppadakere",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhavikeri",
+          "shortText": "Bhavikeri",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581321",
+          "shortText": "581321",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 14.700559000000002,
+        "longitude": 74.2820448
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.6991402697085,
+          "longitude": 74.280747619708478
+        },
+        "high": {
+          "latitude": 14.701838230291505,
+          "longitude": 74.2834455802915
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6364662178078613449",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Tuesday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Wednesday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Thursday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Friday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Saturday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Sunday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "P72J+6RF, \u003cspan class=\"extended-address\"\u003eTeppadakere\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhavikeri, Ankola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581321\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Kamakhya Devi Temple (Kamrup Kamakhya Devi)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Tuesday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Wednesday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Thursday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Friday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Saturday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM",
+          "Sunday: 8:00 AM – 1:00 PM, 6:00 – 8:30 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "P72J+6RF, Teppadakere, Bhavikeri, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4bTZEYzJnRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Had a devine experience visiting this temple. An ex-serviceman built this temple on his own land using his retirement benifits !! The temple came into being in March 2020. There is an aura of devine presence inside the temple. Though small in size the temple has Ma Kamakhya, Shiva, Vishnu, Brahma, Laxmi and Saraswati inside a cave like Sanctum Santorum. There is also a Sphatik Sri Chakra inside. The ex serviceman does daily puja himself and meditates inside the temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Had a devine experience visiting this temple. An ex-serviceman built this temple on his own land using his retirement benifits !! The temple came into being in March 2020. There is an aura of devine presence inside the temple. Though small in size the temple has Ma Kamakhya, Shiva, Vishnu, Brahma, Laxmi and Saraswati inside a cave like Sanctum Santorum. There is also a Sphatik Sri Chakra inside. The ex serviceman does daily puja himself and meditates inside the temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Naresh Kumar",
+            "uri": "https://www.google.com/maps/contrib/112632203269400625460/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLZFUVJZ60gb7uNUqPKzXejITC29FEGYg9nQqZmjFfveYz-2g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-07-30T15:16:25Z"
+        },
+        {
+          "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g/reviews/ChZDSUhNMG9nS0VJQ0FnSURaOGFqM1VnEAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anilkumareddy Anil",
+            "uri": "https://www.google.com/maps/contrib/113756454166354169348/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIIq4W3wauaL9NOUOYue5v5_NUrlwF44eQfrshVoWVinC1-Sg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-03T09:40:32Z"
+        },
+        {
+          "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHeThqdjRRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Naresh Kumar",
+            "uri": "https://www.google.com/maps/contrib/107757773346428567849/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfSLACVeMLRVih5qDFSKow1GY4a81bMMresC0_ZJG86kqVYy4=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-11-09T11:09:33Z"
+        },
+        {
+          "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1enE3cW1nRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Harsha jain M jain",
+            "uri": "https://www.google.com/maps/contrib/115283943626726207457/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2crdhpbPxreI3c6pMguQI9lBRu0pgkywTd7YqNAER6R8oag=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-10-13T13:16:25Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g/photos/ATplDJZwdx_l3dRC-zatvMYGhxjwLS4CXadRqdf2QN1RgJV-VtA-BmTyhZ9EMh2DoeCVp5PooPOhfMHlqZFjxF3duu3h1J2RFZ2kmpLtSl_CEMePlldwZjBW3sW3CmFaEgoeXqYETlNr6WWa0voZpNzXTww3LVMcXtLoDDki",
+          "widthPx": 807,
+          "heightPx": 784,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Kumar",
+              "uri": "//maps.google.com/maps/contrib/107757773346428567849",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVfSLACVeMLRVih5qDFSKow1GY4a81bMMresC0_ZJG86kqVYy4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g/photos/ATplDJZNTrRg7L3lUa1sEoilNZ_GzaYmsTKJ6ZiEj4P_HHGd-6wAmLm_SBapYV2t-s57ElQDtrIoY-Rl4BsbV8fAZ3lnQVJBkxMQLU0lKcqso5oAg9qNgKeyRmWaouaCkGhccmZ4bFTrjMEXs4kIf_ZAHIFr2K6e5deCg9dI",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Kumar",
+              "uri": "//maps.google.com/maps/contrib/107757773346428567849",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVfSLACVeMLRVih5qDFSKow1GY4a81bMMresC0_ZJG86kqVYy4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g/photos/ATplDJazoikcf507BK2DZlWDlr9UBJEia5Zwq7gBafLsSO2_ZO0Ygik1JKsk_rqrdiv_TEF_XBTwRI4_6iUSCAfAKYMGsotyGbBHEpQbUNftaWfLfjBueDF310fSDHlBMKKyCNpxegXgIOjFqI5Q0D-BomAfg2AKwdLs8UsA",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Kumar",
+              "uri": "//maps.google.com/maps/contrib/107757773346428567849",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVfSLACVeMLRVih5qDFSKow1GY4a81bMMresC0_ZJG86kqVYy4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJi6BNLrmJvjsRyV-9j4fSU1g/photos/ATplDJZZ2Kd-R01C0a5jTx43CtbJAY4axwCsrbPf03PEopkYHQYMvIN24xl6RPTbITyUNOPx1BhCH0bp-XGDtRd2sVHlgwpThAY3a7v6ltKx3cPC8H57EoXwVWz0eWLYoBUuc3bfcjiJPSPP0y8pomQBjhbJw0n6bO3TW7hF",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Naresh Kumar",
+              "uri": "//maps.google.com/maps/contrib/107757773346428567849",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVfSLACVeMLRVih5qDFSKow1GY4a81bMMresC0_ZJG86kqVYy4=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY",
+      "id": "ChIJd52bHSaGvjsRYfQi0pfrwCY",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "M7CG+4M3, Ankola, Karnataka, India",
+      "addressComponents": [
+        {
+          "longText": "M7CG+4M3",
+          "shortText": "M7CG+4M3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        }
+      ],
+      "location": {
+        "latitude": 14.670265800000001,
+        "longitude": 74.2766762
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.669202469708498,
+          "longitude": 74.276530569708484
+        },
+        "high": {
+          "latitude": 14.671900430291503,
+          "longitude": 74.279228530291491
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=2792490806267802721",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "M7CG+4M3, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 45,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Nandi Point",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "M7CG+4M3, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvNTZXYzhBRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Located outskirts of Ankola town, this is a beautiful place with a small, hidden beach amidst two hillocks. Going up these hillocks gives a very beautiful view of the surroundings that include Arabian Sea, nearby Keni beach, the Lakshminarayana Temple and fields around. Definitely worth a visit. One of the hillocks here is very rocky and one has to be careful if interested in going up.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Located outskirts of Ankola town, this is a beautiful place with a small, hidden beach amidst two hillocks. Going up these hillocks gives a very beautiful view of the surroundings that include Arabian Sea, nearby Keni beach, the Lakshminarayana Temple and fields around. Definitely worth a visit. One of the hillocks here is very rocky and one has to be careful if interested in going up.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravi Aparanji",
+            "uri": "https://www.google.com/maps/contrib/113259867301834686154/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwNRR2xoOKyrhg9PoIDi2lG2rk_LiP9bHuo6aC2Krv43tR4TloPg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2019-03-04T06:26:55Z"
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3bWFYcnd3RRAB",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "The view of the ocean from here is amazing. Virtually no crowd.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The view of the ocean from here is amazing. Virtually no crowd.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Punith",
+            "uri": "https://www.google.com/maps/contrib/112629150684725665535/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQfa7xMrJ0Fg5urMMK-P6zrnFZsCwm-qbKoQ9iQUpLmE0zzOZc=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2016-12-19T08:42:03Z"
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1aWNuWWlBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Best beach ever i seen",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best beach ever i seen",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bilal H K",
+            "uri": "https://www.google.com/maps/contrib/106180975358548632340/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwT2pzoVzmFLQYM-txJoug7gTSq_yY4vgYCc0K-aoBMV5DGeE=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2022-08-23T15:59:45Z"
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/reviews/ChZDSUhNMG9nS0VJQ0FnSURBd2FhRkFnEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice beach",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice beach",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "vaishali uppunda",
+            "uri": "https://www.google.com/maps/contrib/117647616225383766578/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGweZwAvAMPHycA7BqhxxLydAbsqlC8cIxvJfQRuntWxD0Ew=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-03-12T11:00:10Z"
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzaklUQ0pREAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This place is super excited 😍👌 I like the place 😊😍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This place is super excited 😍👌 I like the place 😊😍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Royal Gamers",
+            "uri": "https://www.google.com/maps/contrib/115392524818625132200/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_g9AT7_HbBiJJCcMQIQxtJhYNXuEQ7o_4G8Dm7s-MzOTWjH_C=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-01-24T03:59:48Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJZi4a-00A6zyhS07zTXRiCQi1yVvdxmX32ySo3K2QDDfwinAsns8IOQ2gXKxrOKnM4rvZ9CDyRekw327IeNo-uihNJreJMMD7wbZbMPpvSYx86rHO2CmBY4sHyNdv69r-JixU0O_yNQFKGMDf65jsp9VL1VPwKaDTPr",
+          "widthPx": 3000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Minch",
+              "uri": "//maps.google.com/maps/contrib/105672756556198444335",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXkP28LZ5jA0dqNP241s2cS_VB_1KHkXbZFrIlAeyi__8DaYRN9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJZiXHy8xNCRmoKTTQ1LzaCVeVPneA-EdH58mCYTzlw0sNiGN33AkPzvo2aVsmnfzy-v3Ro9TaUvLtlQfwnOuq94qvxwaKo1_ZldevKuElbBBOT8KEWWlMlWbNvhnDb1jm9b6jU-JkfE7Qu461kWl_-vOSKRtRyPQrfh",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Guru Aigal",
+              "uri": "//maps.google.com/maps/contrib/101278436616011106829",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMLslhmJZenQLlZPuSQsHJCFa1uryoiDS9mrUJTnZmBIKG1QGQfA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJY5rpB6ojYKE4DVP0ckbtkskraO1EjVynvpv5msZI9UDoGq921RRV4BGc0oH4PmFe7JRQ2HiB_mOiJ0UAnzDqcMmxCWDkcRNxyBbHRrqukdTqH-PUxgTIKfyE-3eyO0i0KG2FDWGT0e9PMyk3PiyYqKuA0ALxhrdpEN",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vikas Harikant",
+              "uri": "//maps.google.com/maps/contrib/111606844298648964871",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJny1f1WGOru3dL-2YBVqf4fdntWXgkZ05pCaK5iV5eBcmlew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJbJc7yM4Quw7Q7fWvnRTaC-7xiJKEFR7K_UoaxTE2cZqx2NnQqL78ysXtNzlqCJ0lYpoW3d7cm1IfBBF-rEofo3GBEzqBoGB1O1-ukz3gCAtKmTJuL4GJQsjg8leNUfnDC3ieeCm3ihsNY5zmhV-scRtlmq3WW9tSpV",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "VISHWESH KUMBAR",
+              "uri": "//maps.google.com/maps/contrib/102282754513598544781",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIJ2g4L5tFTKgBV_lKs0BRfFSFbyVMTzBylnVs_CS7SuA2Luuc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJbyjiEzHFjqV4f3JFTs4wHZCexCuQeT29sibP0ile_z04MaCiBLtOSlLFppzpe_Ngqbtv5d19k_uLRUhTM0AU3mb7Tq75WZYOIUqLWiSf5RlL2GnILidHIfyM_Kvv4dPrgyW40H-RXsJap6SQSWKY6idc70DlhtTEAH",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Guru Aigal",
+              "uri": "//maps.google.com/maps/contrib/101278436616011106829",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMLslhmJZenQLlZPuSQsHJCFa1uryoiDS9mrUJTnZmBIKG1QGQfA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJZzY_ZTmlz8CTTnc00Lm_OR2Sv2fgLCNjOeav7PLwAi0n5KQjmlxUIIo9gdjOZX3a5O4GOjHeiHHxximJYRaRRlN-L8H-B7dPhd81Q1m91QAOs_mptyISvoXgFv0kW4VbGQCDmrPxf1JovngWwMHFWVk04Yh8-4-zZ6",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "VISHWESH KUMBAR",
+              "uri": "//maps.google.com/maps/contrib/102282754513598544781",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIJ2g4L5tFTKgBV_lKs0BRfFSFbyVMTzBylnVs_CS7SuA2Luuc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJZrtPTpcgY5SrNhdtk3NkIwTo9aU7o8plTHnZ-JoQOi4VU9njfetx2-EJG-F_wefwfG2VgO1gVP9z_V5aVzbrHTShgvYX0DJXMdc73xWH4cHkp0wzSl9PSQ0qgo0xODePg94F7AEvKugpINJ0AKPe-nRsJx1kk9-dhQ",
+          "widthPx": 3456,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Minch",
+              "uri": "//maps.google.com/maps/contrib/105672756556198444335",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXkP28LZ5jA0dqNP241s2cS_VB_1KHkXbZFrIlAeyi__8DaYRN9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJZDt1RXyxi6CKOkslEk6w6yVn3m3rNNSyy5U-w01Anw6o534bsWfWZIez8Bj6xMYUNuMH25WN3GD_zQSjlRx30xUBvrcqc81UJK1doWTcA86oW6y2_Ommj_D6SxrYeN52dmcQGVX0YjAksc-LxKTLDFwKXi8tKkRdYs",
+          "widthPx": 3000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Minch",
+              "uri": "//maps.google.com/maps/contrib/105672756556198444335",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXkP28LZ5jA0dqNP241s2cS_VB_1KHkXbZFrIlAeyi__8DaYRN9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJaz4mY3jVCDw8Gp-4Mev1e-ZZMDlbQSecfze8gfpa7GftvqDHAlQOH2L6iPhnBI3c2NpFnMpT5XFLgjnpZjEjmmamPwXF71JAoUN8FHhrBsLHYJcgiaPmePfi3NNA1O6O9iW_jVaC_2OTraJccCYf3L9O9rc22ZpXPN",
+          "widthPx": 671,
+          "heightPx": 481,
+          "authorAttributions": [
+            {
+              "displayName": "vaishali uppunda",
+              "uri": "//maps.google.com/maps/contrib/117647616225383766578",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIGweZwAvAMPHycA7BqhxxLydAbsqlC8cIxvJfQRuntWxD0Ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJd52bHSaGvjsRYfQi0pfrwCY/photos/ATplDJY4tTMTIP3_K9f-EM3ZFEG5K3msI6Aow_NtikpVDqZ25w2VK5DcvEaYW0r_LLwFoBp4Ml2env7xGI9aZv6pTWAn9qyPPDWvTXgYT5dWG9rc2qBICckVmybZR_TfwLgcr3ofPdSfjDK_nVAa9tUXTI9rkH4dKXNVP6GM",
+          "widthPx": 681,
+          "heightPx": 363,
+          "authorAttributions": [
+            {
+              "displayName": "vaishali uppunda",
+              "uri": "//maps.google.com/maps/contrib/117647616225383766578",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIGweZwAvAMPHycA7BqhxxLydAbsqlC8cIxvJfQRuntWxD0Ew=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI",
+      "id": "ChIJL3awbOiFvjsRsSWr7EpUrCI",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "M84F+VR5, Ankola, Karnataka 581357, India",
+      "addressComponents": [
+        {
+          "longText": "M84F+VR5",
+          "shortText": "M84F+VR5",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581357",
+          "shortText": "581357",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 14.657132299999999,
+        "longitude": 74.3246002
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.655840919708497,
+          "longitude": 74.3232426697085
+        },
+        "high": {
+          "latitude": 14.6585388802915,
+          "longitude": 74.325940630291512
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=2498464574058735025",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 – 9:00 AM",
+          "Tuesday: 6:00 – 9:00 AM",
+          "Wednesday: 6:00 – 9:00 AM",
+          "Thursday: 6:00 – 9:00 AM",
+          "Friday: 6:00 – 9:00 AM",
+          "Saturday: 6:00 – 9:00 AM",
+          "Sunday: 6:00 – 9:00 AM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "M84F+VR5, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581357\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Mahaganapathi Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 – 9:00 AM",
+          "Tuesday: 6:00 – 9:00 AM",
+          "Wednesday: 6:00 – 9:00 AM",
+          "Thursday: 6:00 – 9:00 AM",
+          "Friday: 6:00 – 9:00 AM",
+          "Saturday: 6:00 – 9:00 AM",
+          "Sunday: 6:00 – 9:00 AM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "M84F+VR5, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI/reviews/ChdDSUhNMG9nS0VJQ0FnSURJOU5mUzhnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's my landmark",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's my landmark",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Harish Naik",
+            "uri": "https://www.google.com/maps/contrib/116131809836944965849/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPwcs_hTsEOkK4S4AM9XQt7FWzYU_00SKHIiRfYRbl1oAE6XHo=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-12-24T06:36:29Z"
+        },
+        {
+          "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwMEtXU2F3EAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jayarama Poojari",
+            "uri": "https://www.google.com/maps/contrib/103957370286493276622/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocId6b1vgdTrNuZToE-L9PE2Qov5InN3lKQJBsjT9Xk28w1ZiA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-10-19T06:31:22Z"
+        },
+        {
+          "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxaV9tRVR3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Namma uru",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Namma uru",
+            "languageCode": "kn"
+          },
+          "authorAttribution": {
+            "displayName": "A Vivek Ananda",
+            "uri": "https://www.google.com/maps/contrib/102317059656591714098/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXD6ANkInJnOprs9E9DzKJx2rxqL1JG8w3S2y7IRPSEHCw0sXU5=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-06-18T16:00:32Z"
+        },
+        {
+          "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI/reviews/ChdDSUhNMG9nS0VJQ0FnSURoc3VXZTVBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Sagar Naik",
+            "uri": "https://www.google.com/maps/contrib/101192983878481388779/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtVbKyyF0BihJeRmrP3gwZ2zIC5XTjaPZfgQcQLCrXUYXJQ9jMLg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-03-05T17:21:05Z"
+        },
+        {
+          "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI/reviews/ChdDSUhNMG9nS0VJQ0FnSUM0enBXOHR3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "nikhil bandekar",
+            "uri": "https://www.google.com/maps/contrib/105644611902593625463/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8p8Q0N0MMeE59GA_VV_SRpahH6EwGvG6TDhvUdNEJ5ZlOnF45=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-06-06T08:49:35Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI/photos/ATplDJZE7xP_nFks3T40USlNqtGpc1qaM6E2wL6c1101Jaik9u8_lfOOXQWenao5PuLPayYGBCc10jBq0WeWgCyUcE84Qihhyb8P-QoVrlb3qfEIRC97h8HnuUgbS_7KEX1TT8qYwpdHrCS-rBa6Jqo-TSApMPivvjwYcvW5",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Rohidhas Naik",
+              "uri": "//maps.google.com/maps/contrib/101829645184999656288",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIrmhVbf66Dpr_9q7jXRlJu2ssuDZFy2qbLfqEKV9WTHn7oJA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI/photos/ATplDJbCKVNrnoavmdY1bFRDJji2wCVP--M3SLSlhfjc-gwSwwBgdc7gBdq2mFCuhTb6BIuKjoxjk9KOSQb54qFWJjb849Ok5FF8HnAJkiacDNbSrAbAeLWOe77rg7y0eK19HqYyamLeH2lW1YgRxkiWeRWn9m3ykKr9LiQK",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "A Vivek Ananda",
+              "uri": "//maps.google.com/maps/contrib/102317059656591714098",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXD6ANkInJnOprs9E9DzKJx2rxqL1JG8w3S2y7IRPSEHCw0sXU5=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJL3awbOiFvjsRsSWr7EpUrCI/photos/ATplDJZk4fGt61wo9C38UPjF8G6kw4yF5rxZ8gXDhOu3TAtlI1PSuvUTtjxUsgRd_EH4Ic12lbFu4A9Nbf72_AwjcavZB4NDbh07EQlKlXb9iiO1JibfPatZ7K0FmYCSwC-YufHwjTBEecU9hcGGN0WmXeMh28M71TmJAFzx",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Rohidhas Naik",
+              "uri": "//maps.google.com/maps/contrib/101829645184999656288",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIrmhVbf66Dpr_9q7jXRlJu2ssuDZFy2qbLfqEKV9WTHn7oJA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg",
+      "id": "ChIJjV3uQmuGvjsRJRHQSpTf_rg",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Primary School, Near, Bobruwada Rd, Ankola, Karnataka 581314, India",
+      "addressComponents": [
+        {
+          "longText": "Primary School",
+          "shortText": "Primary School",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Near",
+          "shortText": "Near",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bobruwada Road",
+          "shortText": "Bobruwada Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581314",
+          "shortText": "581314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J6PM72V+V9",
+        "compoundCode": "M72V+V9 Ankola, Karnataka, India"
+      },
+      "location": {
+        "latitude": 14.652215399999998,
+        "longitude": 74.293432
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.650964669708497,
+          "longitude": 74.2921783697085
+        },
+        "high": {
+          "latitude": 14.653662630291501,
+          "longitude": 74.294876330291515
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=13330337775066550565",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Primary School, \u003cspan class=\"street-address\"\u003eNear, Bobruwada Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581314\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 31,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Fathullah al Qadiry Dargah",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "Primary School, Near, Bobruwada Rd, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNld3FPcGFREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Really peaceful for my mind",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Really peaceful for my mind",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohamed Umar Raafik",
+            "uri": "https://www.google.com/maps/contrib/102917728444102590432/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFMxMowdE-WOD4mOs61Om-1fnCb1DFWd2gCw4ZDBHa4c2cW0BC=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-09-09T14:48:06Z"
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/reviews/ChZDSUhNMG9nS0VJQ0FnSURXaFBLbEZBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "A place to visit for peace of mind",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A place to visit for peace of mind",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashraf kerody Aboobacker",
+            "uri": "https://www.google.com/maps/contrib/113135989489079338178/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlFdkLavACkrm6sDzusTfPnr9q0Lg1OsNvUGoCJlMFgmP0FTLN7A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-03-15T10:34:12Z"
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/reviews/ChdDSUhNMG9nS0VJQ0FnSURDODh1UDlBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good place .\nFathhullahil qadiri albagdadi is the grand son of the Shaikh Muhyadden Abdul Qadir jeelani and the grand father of the Shaikh Muhammed Qasim valiyullahi  raliyallahu anhum va nafa_anabihim fiddarayn.\nThe Shaikh known as ankola upapa among the qadiriya followers in india",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good place .\nFathhullahil qadiri albagdadi is the grand son of the Shaikh Muhyadden Abdul Qadir jeelani and the grand father of the Shaikh Muhammed Qasim valiyullahi  raliyallahu anhum va nafa_anabihim fiddarayn.\nThe Shaikh known as ankola upapa among the qadiriya followers in india",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashraf k Chelakad",
+            "uri": "https://www.google.com/maps/contrib/114977529381465221454/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJd0cLtXA6Zo1DuWZk2vzbaoTPUxCtS4OHB_NsKH6cbipYrSw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-10-11T10:29:53Z"
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/reviews/ChZDSUhNMG9nS0VJQ0FnSURDODhuOENnEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "The place in outskirt of city, sits between green.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The place in outskirt of city, sits between green.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "irfan abdullah",
+            "uri": "https://www.google.com/maps/contrib/114477417958651644516/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8SzTaSQxtiXhmdtWUdxtafxpsz3V4UPEZLczXb-cTbZV1l2SpXw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-10-11T08:18:57Z"
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/reviews/ChdDSUhNMG9nS0VJQ0FnSURpNk1Uc2p3RRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Best tour place for Muslims and\nMore peaceful place in the district",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best tour place for Muslims and\nMore peaceful place in the district",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohamed Ifthikar",
+            "uri": "https://www.google.com/maps/contrib/109100231207050484734/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4hkChBM3usB0mfE7qxffFG3-nQnAuhIoSl-UJF3LyIp3QJjNhZw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-11-23T19:03:45Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJZuULSeSfV-4WB2dKXLwVyQG0Azs8bnWHpF4-AHsOeoesBdXYwZqVMwh-Z2N1cIcS1RCdsohGnH5jnnsgVMlSFx083QDA_3513WtrTx_MU6SHbIgeGZLrAXSwVux4pGM_l-_t8a-Mc70A2W6ipmuOm8rxC7jspA8xQX",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Salahudheen Digital Marketer",
+              "uri": "//maps.google.com/maps/contrib/104569376162341689211",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVqe7t3aPZX-Bp4rgcZxa_AKn2YVvpaus2oJS9esTWe0dc0T7KN=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJZJ-qSi9V2QtAD1EKaOGIe4i3rgDBpDv789D9wPgkyILDvRgNND6V67WBiJr6YSdFOb6RCzZv9llaLAGU-tOe9BYt98k7ulelIOA9AP_oXiJ1zmbBvUDFkjZe8brHno8Szw2_lXugcoprBCw-2ioDEv4oSpkB5Trl6H",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Mohamed Umar Raafik",
+              "uri": "//maps.google.com/maps/contrib/102917728444102590432",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFMxMowdE-WOD4mOs61Om-1fnCb1DFWd2gCw4ZDBHa4c2cW0BC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJbMgFOp1ziLLuo6ablmVCmVNX_3VCg-145nhdMT5pLRN_BuwR4QqMQsD0ZZdxU41Iufde1jB6t2PS4tfRxq_XOE0K2MjrMpX2Ne00_HmOii_O0p-yOIIPdhSnORWoxJBlHKhaNcf39WYnFdLQVjQaauLg-qmeJwu4gP",
+          "widthPx": 4144,
+          "heightPx": 1968,
+          "authorAttributions": [
+            {
+              "displayName": "Hasnain sayed",
+              "uri": "//maps.google.com/maps/contrib/109889746796317119001",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocII5K6trO32b8ypBd3FV_p070b5XdcXM6ZyYk7fRR6JfhM5QQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJa9qo6p6jkHPLpYhhyMA6GVkrta6IdOM_gXoxsXDq8cZQIVal_65QkVimRJ3-DZt7ZmVIZTBbZORWSfIi89ldUTyFcUv5cw5QqwLfRzqV_R_HsbUtLZFBXYwTEUpuSb2XeqY2xyuy9XhaaFwuq_LCoeZwff4CJ3TVmh",
+          "widthPx": 4144,
+          "heightPx": 1968,
+          "authorAttributions": [
+            {
+              "displayName": "Hasnain sayed",
+              "uri": "//maps.google.com/maps/contrib/109889746796317119001",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocII5K6trO32b8ypBd3FV_p070b5XdcXM6ZyYk7fRR6JfhM5QQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJZK81hChjYPoxDIsFbWU2jYxJgKdaARFLciv3TRNRvn0smHSjd0eo5i_6zL7fJyrtNcgyVcU2Ceoh7d-54eudmWlVAlWXbHjzFB2oGFN1LSa_LggFb4G95ctUTs1f1ZS3Mgb51ODlwalr4LMiD8msWTxwvMAsxBk0E4",
+          "widthPx": 1968,
+          "heightPx": 4144,
+          "authorAttributions": [
+            {
+              "displayName": "Hasnain sayed",
+              "uri": "//maps.google.com/maps/contrib/109889746796317119001",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocII5K6trO32b8ypBd3FV_p070b5XdcXM6ZyYk7fRR6JfhM5QQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJYog5vOKXYRKL47iN2zHZn8Mxa6wF8YiG9GySp7gfGNAz5SwcLQc-fnQyaOl1ZNwbjAyiM2rXcrfRex55loiQHczap_e4Xu6Ee8JZpWnTuoj2fvmvDrDxiqVkeWsXSa6ZW5cZLnUr6dfPyhOaDws1C-t9ButCO-O9nM",
+          "widthPx": 4144,
+          "heightPx": 1968,
+          "authorAttributions": [
+            {
+              "displayName": "Hasnain sayed",
+              "uri": "//maps.google.com/maps/contrib/109889746796317119001",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocII5K6trO32b8ypBd3FV_p070b5XdcXM6ZyYk7fRR6JfhM5QQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJb1LF6u4LkA6r_Tmh220BWocbgE3vciEjDMzhn_941qIFiCnQflAOSh1CIoXk3tcgyd-Xk7DWFz7pKiuqiVG-0IU_caMtaeHvcDkY5aTW9oKGbYe7qWnUbO60LASct5xi5zx_jYkHhHe4Tw1-EC6z5vakqrc0pwtyAm",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Ashraf kerody Aboobacker",
+              "uri": "//maps.google.com/maps/contrib/113135989489079338178",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlFdkLavACkrm6sDzusTfPnr9q0Lg1OsNvUGoCJlMFgmP0FTLN7A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJZtJBjB90R97m7wnIMq5DnYcFhiqochHQttibIijJqQZ6XUf4ij5Ti9Ko-X1X8G-ccKcDNqYsnwaiNaOfIrFFh8InMr4s_HhOT0grPABh47KZI6nOJy6ZqFcR15zAgHJTKRpp0y8QW1_b91zC6_YLHDE_70AodUm_Q",
+          "widthPx": 720,
+          "heightPx": 540,
+          "authorAttributions": [
+            {
+              "displayName": "Tanveer Husien",
+              "uri": "//maps.google.com/maps/contrib/101913862929495001587",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZzNio2JtHij0tw3564fCjTJRzdoSoOrsEQ9tOzzx2RtklTw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJaxxo32X6o1oGNhWt_E4x1J41tqeI5YOnHJHE2IYACj9Eb_5Bg32xstmdnOPNOs4mSNskX4pfMJsYj7of_en0ykr1YiDZJI7tHflJLoeA3KO4rPxjhAlP6ANlR249JlqZYwXt1akc2E_UTQSX_dBNm3XfI3asCaHHn_",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "hassan thangal",
+              "uri": "//maps.google.com/maps/contrib/104587828754421695860",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWr1IU7FslMv_65eKI_zGjdn5twcI7Gsb7Jvw-WOoaxWCcA8SsN=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJjV3uQmuGvjsRJRHQSpTf_rg/photos/ATplDJY_-f30TbpcqtlsaQArgde_OoDtdWc62MKMhPd5Oe4aHF4xFFJ5aage2J7cEs8Lb5qfgRwJmw_zR8hQC8ZlfEJwJsT0bbDNpveNBTYhPYgmcsg20d7JA1TRLFpOCPI92YHQfz_-YNMI2792XP3Ty56lfMbwZOc1d3a-",
+          "widthPx": 3232,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Hasnain sayed",
+              "uri": "//maps.google.com/maps/contrib/109889746796317119001",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocII5K6trO32b8ypBd3FV_p070b5XdcXM6ZyYk7fRR6JfhM5QQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4",
+      "id": "ChIJJcrGcRKGvjsRNfpOuNIsmr4",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "M75X+3QM, Belambar Beach Road, Ankola, Karnataka 581314, India",
+      "addressComponents": [
+        {
+          "longText": "M75X+3QM",
+          "shortText": "M75X+3QM",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Belambar Beach Road",
+          "shortText": "Belambar Beach Road",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ankola",
+          "shortText": "Ankola",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Uttara Kannada",
+          "shortText": "Uttara Kannada",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belgaum Division",
+          "shortText": "Belgaum Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "581314",
+          "shortText": "581314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 14.657722300000001,
+        "longitude": 74.2994294
+      },
+      "viewport": {
+        "low": {
+          "latitude": 14.6562955697085,
+          "longitude": 74.298079219708484
+        },
+        "high": {
+          "latitude": 14.658993530291504,
+          "longitude": 74.3007771802915
+        }
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=13734339297166686773",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "M75X+3QM, \u003cspan class=\"street-address\"\u003eBelambar Beach Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnkola\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e581314\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 21,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Jumma Masjid",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Mosque",
+        "languageCode": "en-US"
+      },
+      "primaryType": "mosque",
+      "shortFormattedAddress": "M75X+3QM, Belambar Beach Road, Ankola",
+      "reviews": [
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNneTdfZkVBEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Decent place for prayers!!!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Decent place for prayers!!!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammed Afzal Mulla",
+            "uri": "https://www.google.com/maps/contrib/116421217504249072302/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-eMW1KkrQj4atAF4aYKkQ6o3wIZe8CMGIOmWUqaynZiA1iWk=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2017-10-28T15:46:24Z"
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzeHNPOHRRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It is the place were people pray with peace and respect every other religion 😀😀",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is the place were people pray with peace and respect every other religion 😀😀",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mohammed Zaid Shaikh",
+            "uri": "https://www.google.com/maps/contrib/115723642838320874039/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKoKqV191ijxyWPCsmGXyi24lBR0AsbwtLI7goeXudbtUj27A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-01-31T00:31:40Z"
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBMnBHZWR3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful and most popular jumma masjid",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful and most popular jumma masjid",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tanveer Husien",
+            "uri": "https://www.google.com/maps/contrib/101913862929495001587/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZzNio2JtHij0tw3564fCjTJRzdoSoOrsEQ9tOzzx2RtklTw=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2019-01-21T08:30:07Z"
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5OW9hMVhREAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very clean masjid",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very clean masjid",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jack Sparrow",
+            "uri": "https://www.google.com/maps/contrib/112580640008194253210/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6va9a2-jcOCAa7wqPT_xZMPUuKvWJBxsuj6fpBnBCju9SExc=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-03-07T04:20:21Z"
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnb3IyaGFREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful masjid",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful masjid",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abdul khader shaikh",
+            "uri": "https://www.google.com/maps/contrib/115147477480351763228/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSGRy-_l61KZkWr-Q_7ZiFxC2kReBWJom-JopYBGXdsTuMfll_1w=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-07-15T13:23:08Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJYsURfrXwz1qtuOU1qBm1XWVehyajui5Eevw1hinrnmR_F_dT1yTel8B0o7zOgZdKL4p9mYSn2PJS-jggq29VLOB1bf-d-sQNFWgn7pgSyK8f6DxGp4zMJtpmvmqwJnrNaGsJca6pGi5ZD1HvJq0cROF1x_8p8NEtT6",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "suleman shaikh",
+              "uri": "//maps.google.com/maps/contrib/116378253051569308903",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrnvyUvje0nbdul42O7XMEE22wKFNgk1pezJKQwOCwxC6T85w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJYm1ykPLYjiRN5Ao7rXXkBBuT0I6AM6SHkoOhdNHJzV6hYlqb4BPy391_i5cMzL6I71-OGupfXE1jYfOc1IGjsp_cpJRi-e6m8rMY5ke_4_Z37n4xE2Vmg0RjDOYxEuZD3nuq2cyTMCzKN7zfvxLMz8wWIhuLij7kjd",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "suleman shaikh",
+              "uri": "//maps.google.com/maps/contrib/116378253051569308903",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrnvyUvje0nbdul42O7XMEE22wKFNgk1pezJKQwOCwxC6T85w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJYBsrVlqIspGjeK3mhU-BQkOol7YxvAPOizk8x_J2K18rKtIF3d4nXk-4pJo_GnCHiG0cIRr1_wF57K5qVabK8MMwXPki0VkgR2uo9jRLYjjJxH7peEvJxGTAO99aGA3JK17Zk9sLmAbHdnCKrLLr-bjpeOJFrHUHad",
+          "widthPx": 1152,
+          "heightPx": 864,
+          "authorAttributions": [
+            {
+              "displayName": "Mustafa Shaikh",
+              "uri": "//maps.google.com/maps/contrib/118110655822005083647",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbxUr7ZlZR8ikXpI1bj3TshQzHj6ZjnWfNR7f0ilCzamLB5CI8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJbWp5NxXpjIuOi-sCvUjH867IRr6NsfHQaT9bDSSkJt9xW0kzYIUWhIyMMYOmNQTrfh9VwNwwuXojKjENc9wAuRVn2kZPQnmFgKg6Xc8iHyqZme4TZIoN6rQCo7cQIf7XolQo-oLTDxVGCvXfN7ysAGOhx74etcybEm",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "suleman shaikh",
+              "uri": "//maps.google.com/maps/contrib/116378253051569308903",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrnvyUvje0nbdul42O7XMEE22wKFNgk1pezJKQwOCwxC6T85w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJZEVE0FUIgw6ud6pEQRp8A4bRiWFfFLgU6MGpZolqboXhFqLN1UvH4jf54uTsG6ebKDn9BAapGJ6Hyf-fwXwN2rVSDkPgx6Mom2JZkbnTcpO14DPjNBrYKBdR0tRbwmW_6Y2AUBgJKl_-xBDRSO5VbgwUiXeeq8QGjd",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Mustafa Shaikh",
+              "uri": "//maps.google.com/maps/contrib/118110655822005083647",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbxUr7ZlZR8ikXpI1bj3TshQzHj6ZjnWfNR7f0ilCzamLB5CI8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJYfeg3_ciGrIVPqeSYq_KSuIsXEMPVmdXkW7jX5YVDeC_BwVN1v6Kvcie-IUdL2zfrOa_BMBEo-8UCoHUqcUYSrNjQ4ZJY-NqWidQcctyoDbay8lgep5paEmvMDnc4ZyJ3Zp94PqndvCPHkbMxhbxZuheyzGav2K3oN",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Mohammed Afzal Mulla",
+              "uri": "//maps.google.com/maps/contrib/116421217504249072302",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU-eMW1KkrQj4atAF4aYKkQ6o3wIZe8CMGIOmWUqaynZiA1iWk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJbNzruatrEwSOOTMrqecS57Wjo5MrgYSS9MBtbI1Cia7VJxdIRHoldgRLYSR5XGTxFsG2uFKvCPVZgSElmf93Be_64bcmUWB5eFyyNrlyGHcH2qoV7TIezS6EcBsV7wtPp4iJOreRa-oXgZcstYuxrn7is3B6y2hadM",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "suleman shaikh",
+              "uri": "//maps.google.com/maps/contrib/116378253051569308903",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrnvyUvje0nbdul42O7XMEE22wKFNgk1pezJKQwOCwxC6T85w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJaoo1bxNWm61fQ2vGoMPbC3jYbDdeuFnSgtfqsNYYwcO_EulIZE5szA3oa_zNOd90NPZdKNwCswq7FgZwK99pUJYBo1P_fhGc7rAEJ0vvBKLYzDEWJpBkpbeCos0_QfRZodfQ9OZYZZ37KVzVx-jJouL2jZAkMfUrom",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "suleman shaikh",
+              "uri": "//maps.google.com/maps/contrib/116378253051569308903",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrnvyUvje0nbdul42O7XMEE22wKFNgk1pezJKQwOCwxC6T85w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJaWs5JGarZH9K3nHKsDuCzdieFfSGlG_nyeNCrrG6WYVengv4ZRcGQDuCJNyeKVtv1xMKw7pApZIEUIRNQmpudZb4-9Chsc3Y3mZMzUqeNQPPp6nU1RP_SPRzffqT3-k-OiIwvZ4t_jrySDgIsB2KzAxVbYazyztp1s",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "suleman shaikh",
+              "uri": "//maps.google.com/maps/contrib/116378253051569308903",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrnvyUvje0nbdul42O7XMEE22wKFNgk1pezJKQwOCwxC6T85w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJcrGcRKGvjsRNfpOuNIsmr4/photos/ATplDJYg6B8BOB1YkI-xeAQktYMYfMitt0cnNmBj9Mb2f25QmyRnRyXhtm9ROCmDZecfwHRQyRH8zh7p5qElhE_g5V0ybwumtM2NrnfjZINA7ScMELP5xP4mgafDuuf1cF2ekhlJ-uP3LW_ZMCcdIuUHwL79pYexZOOh9ZE0",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Mustafa Shaikh",
+              "uri": "//maps.google.com/maps/contrib/118110655822005083647",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUbxUr7ZlZR8ikXpI1bj3TshQzHj6ZjnWfNR7f0ilCzamLB5CI8=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

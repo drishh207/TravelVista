@@ -1,0 +1,813 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJkySSTmcL_TgR6yqubltAThg",
+      "id": "ChIJkySSTmcL_TgR6yqubltAThg",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Srinagar - Leh Hwy, 194402",
+      "addressComponents": [
+        {
+          "longText": "Srinagar - Leh Highway",
+          "shortText": "Srinagar - Leh Hwy",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "194402",
+          "shortText": "194402",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2400701,
+        "longitude": 77.1477362
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2387385697085,
+          "longitude": 77.1463918697085
+        },
+        "high": {
+          "latitude": 34.2414365302915,
+          "longitude": 77.1490898302915
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=1751408066536811243",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eSrinagar - Leh Hwy\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e194402\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Indus View near Alchi Road",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "Srinagar - Leh Hwy",
+      "reviews": [
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOODZuOWx3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Nice vast view",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice vast view",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "thanawat boonpanyavut",
+            "uri": "https://www.google.com/maps/contrib/114455604814079698586/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIILtxdl4Xkz9zFYnpvyv3pfsfv6esjsGWBNiw_AbXnWTIQ-5Q=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-01-17T19:17:22Z"
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGM2FQcDRnRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Lovely view along with the dam",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lovely view along with the dam",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Tsewang Namgyal",
+            "uri": "https://www.google.com/maps/contrib/103155268265431052488/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKS4Kfc1aTB8mUy4C4qERyabQlYWyRcCicBS2Ma2Yc3Bq8P2g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-31T16:21:14Z"
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsdHBySUVnEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "👏👏💚",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "👏👏💚",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vikas Bishnoi",
+            "uri": "https://www.google.com/maps/contrib/112824421405882413029/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbacJo2sLRZBdoqOfCTdXriobGKhJNIVtotUQfir4MbrbOUOnK=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-11-18T03:50:41Z"
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/reviews/ChdDSUhNMG9nS0VJQ0FnSURkMUp2LTN3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Pushpendra Singh Chauhan",
+            "uri": "https://www.google.com/maps/contrib/104253450549751859657/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXolMsa38gHorqGXFG-KjsJ_7Y9gYqRaJj48TCI7VhsydLhx5lhEw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-21T08:12:27Z"
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNENmFYLVR3EAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "KRISHNA KUMAR ROY",
+            "uri": "https://www.google.com/maps/contrib/111983964723946445397/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWw9Zr6v4owU9je29QOxKXaPjgq--Czve3JLgz4nME0w8qLxM8=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-30T02:42:34Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJaBToni60nGShxNk1yC0JN6Fnm7Sbal4cOWpLiK4E4tlYBnqg4yl2R9BK8h6-_Clntn2B9YQSGDHFlhD6DEgIbwO5JUzQtSpx_0P6zZoYh_iEQFwYXrQNYE7Q4oDwdzxOKJFGfEMFph2P2qmxco6tmLTtPd2h3ZJ0KV",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJZMtOkjQtMX2vEIrrzn7iaQ4qr8yWz_iLyjzIrLZx46G2KgGrOxtsipcpXJfjMbPsF81GZKHKAk0VODOfPfcEkK40PTLUsj7LPH0vg1TO63ncrHSTh7QNPIl0GGws71dCN3UF2xbInsRzSawcWOv_XtxoXG8LcsBz3j",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJZlfCrFS_gooCqp7elc4TejmFPlOULa_G0aZvdnXtqh5jNN8wqVKhJWu2KouTpcqovwLBURvrVOJ8Mop8yjGxtFNhGG9c-efY_lDr7tS9WIz8pBR1gylapMnNkdZos8WsEzSyup5CyE9pxA7RiCKQgMEAwLMdBcaWi4",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJa1y-FtSQGykNJ9PPhYuZdqlZxVNpv9OqxG5nR1FGJ0KbFf9RJ1bUnCyhLy0G9PEgiZ8JM0kvqYn1AjkX5XUsUVPXQQNo80qedPwo277pK2kOJCLpKS59J7KYoNTgu-0MnygYq_oV5wudv3bXQ41AP9ZJrggxDuOsQS",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJZrhA130DKaGYWPY0VONsUCQC2m2GgYUQk8ExqWCe6VfJNlhArZ9qXCLr72w8KNRzsl0J_CLPXtCh_a8rcb0THixpIRkK2aEvVkMLZzFBRp7gk8WwQ2nTD2kUdQPElIttuqHEJrd3_mh95SOhCKxRe5mpjMnOoevohl",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "thanawat boonpanyavut",
+              "uri": "//maps.google.com/maps/contrib/114455604814079698586",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIILtxdl4Xkz9zFYnpvyv3pfsfv6esjsGWBNiw_AbXnWTIQ-5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJYQwBA5oPUEXidi8fwelv_1y7zdboPsUBzcOjVsyMlfqvo5H5uT9SSQ4aUEZ6RqEQLvhBuWSC4M9KACe6V-MKn67oSgYuEWJBioM2xmQIubbKrJL74HlcXTdaIDmorrWAVGErqfe7Lm5rOXx5yM88Ggf6pRoX7NV_Nc",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJZjygNs7_ZzAhBzVpdMFHiNBjcXT25XQulShC9mn57ZZMMdCHe7JL3lYNqm0vfOeSjZ3pGG2AsLH5j14LmJOa95YDivAsSqjJA7QIxUMIkBTbwROwKY_9QTWRvhQp0ojeWR7gVM21UsxgTqipbm6vK5JzhyqxnO472q",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJYxNTaljrLRxQ0ESjq1LzHK1M_sWDKOrKDA26J84Qe-YDQcV3mNiKAnM9DdgXPGDynD2uz8i5p0ulsConH_uch4E11TrT2792NB_1tUw6N8lVUduRKQo4mi-xWcf6DG_unHOmhHxW3TjTDbwy77fKWMX-En7e1-GuB3",
+          "widthPx": 3136,
+          "heightPx": 2352,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJZaqkdCwQBBu36Vs-tfn7DSWDSR1nt7ColhWxwcCYHeHBMJWObx5ulVQTrjC_D25xczEF_tGYpDB38UC96-QVKuL-tKr38ikrebA1ft1KFSzHrwHKUd7yOZDpxKYDDfTjdw9n95iAMoEAusfv_hc3JDAoLEC9GfeISI",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "thanawat boonpanyavut",
+              "uri": "//maps.google.com/maps/contrib/114455604814079698586",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIILtxdl4Xkz9zFYnpvyv3pfsfv6esjsGWBNiw_AbXnWTIQ-5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkySSTmcL_TgR6yqubltAThg/photos/ATplDJbJPJ2p53r2tqkuuPUvOBFGaaP-Lc6hroDJQgEc2FbylJz7iqieMIEJ271iuNVzX4gRSyvr6reA8AsN4_eJMsv3YkMwe45pRpZTZ70aME12aCVw9xVLrcUO715iu-XzYpBOGJsIkyCD2LPouGGYbW14ajuD6KqSQKzh",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJkUNOfDAL_TgRJBNhwIWgZSY",
+      "id": "ChIJkUNOfDAL_TgRJBNhwIWgZSY",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "65FG+F3F, Alchi, 194106",
+      "addressComponents": [
+        {
+          "longText": "65FG+F3F",
+          "shortText": "65FG+F3F",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Alchi",
+          "shortText": "Alchi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "194106",
+          "shortText": "194106",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.223942699999995,
+        "longitude": 77.1767352
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.222106419708496,
+          "longitude": 77.1732844
+        },
+        "high": {
+          "latitude": 34.224804380291495,
+          "longitude": 77.1767352
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=2766794042407719716",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "65FG+F3F, \u003cspan class=\"locality\"\u003eAlchi\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e194106\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Alchi Monastery Indus River View Point",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "65FG+F3F, Alchi",
+      "reviews": [
+        {
+          "name": "places/ChIJkUNOfDAL_TgRJBNhwIWgZSY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNadWRiYkV3EAE",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice view point of the Indus River, a few minutes walk from the Alchi Monastery.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice view point of the Indus River, a few minutes walk from the Alchi Monastery.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Roger Seganti",
+            "uri": "https://www.google.com/maps/contrib/115355899985667073696/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXco7TJlX-PeLvd55tuYzNkVzgtAcpEESiq58PT5wdUqf6XvUJF=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-09-13T20:18:49Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJkUNOfDAL_TgRJBNhwIWgZSY/photos/ATplDJYIzSxQuKT960N9vg71qdvmP7qhY7pF_Sa0_izXL1PUv1CsP9b87r_rHqyYbvFWuasARc3QTqvnGA2L52yU3Atpfd0U6Uv_JidDvcL7KFDIu-CT5EZu93f_NGqBpsG7PgaNTCE2cdwB_YwJoDiNu_qOD3R7-SZKSDF9",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Roger Seganti",
+              "uri": "//maps.google.com/maps/contrib/115355899985667073696",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXco7TJlX-PeLvd55tuYzNkVzgtAcpEESiq58PT5wdUqf6XvUJF=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkUNOfDAL_TgRJBNhwIWgZSY/photos/ATplDJZXlE2nsZ-SSivjkqphsIUCLOh0jppTaFXkY9djwVB0zLdvOf5NZeI32Upd7liWpPT1PCBgdatfJ02StrEHGfsJJ_jhk3yKVe625PW0q9gkC5YSo7pBn80JiDcv7heIxb7UDxEjRUM91HXtlf-HnwbT6veD6jaPDxrn",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Roger Seganti",
+              "uri": "//maps.google.com/maps/contrib/115355899985667073696",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXco7TJlX-PeLvd55tuYzNkVzgtAcpEESiq58PT5wdUqf6XvUJF=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkUNOfDAL_TgRJBNhwIWgZSY/photos/ATplDJa0c6wGAdcZ0d7-fBG5PSy9NQhxKsY-yAMvPHo-a9sAyEaKZjScJv71ymNhPcEfjHQH_mMUKzSk4PSBqgYaXlWjRhM8PrK6iq6DQWyXbxsWG1bHViu9HIbXCw9ShqmfZyEoI69ZF5CMCQn7MXQPnlztaNXuOEOK0UCB",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Roger Seganti",
+              "uri": "//maps.google.com/maps/contrib/115355899985667073696",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXco7TJlX-PeLvd55tuYzNkVzgtAcpEESiq58PT5wdUqf6XvUJF=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkUNOfDAL_TgRJBNhwIWgZSY/photos/ATplDJZGVoNHGcjpDiOicOSW4MmDtmHef11jB-ZvLXSght2sxH1kc41NBj8Ll2GLZyIeTGy_UvJ54IAXj-FYma0KOCPNClfBDQCHoTguQsf_97yTofzR085YTgLXCCKe35F_eqq8YUGGXbgx-qynbH1v7SILmP9ZNDi19WOv",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Roger Seganti",
+              "uri": "//maps.google.com/maps/contrib/115355899985667073696",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXco7TJlX-PeLvd55tuYzNkVzgtAcpEESiq58PT5wdUqf6XvUJF=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkUNOfDAL_TgRJBNhwIWgZSY/photos/ATplDJYPYpQrezxl7R10YOIVzirh8uPeniYYf5XLf0llnJI9w0ptD13CoeHOvSBlDE0QE3HedCpzd6LP_bLBzIMgwo8rLa3vxPAiy_IglGX-Hdhty_CEZ5T_B71fOv690W49KNW0mNoaDZUYOqLMaYbQojozLZFi502TvsZ0",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Urbanwear Trieste",
+              "uri": "//maps.google.com/maps/contrib/107141255699827532028",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWbGHzZ1ZaC3Gf_zslLYhXixF2vCaBxY1X45VnAA0BC_KlgKlR9=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw",
+      "id": "ChIJu8JnMGwL_TgR9m1hMePeSSw",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Alchi Rd, 194402",
+      "addressComponents": [
+        {
+          "longText": "Alchi Road",
+          "shortText": "Alchi Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "194402",
+          "shortText": "194402",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.241572,
+        "longitude": 77.155315
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2402208197085,
+          "longitude": 77.1539808197085
+        },
+        "high": {
+          "latitude": 34.2429187802915,
+          "longitude": 77.1566787802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=3191326878336118262",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eAlchi Rd\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e194402\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Alchi Petroglyphs",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Museum",
+        "languageCode": "en-US"
+      },
+      "primaryType": "museum",
+      "shortFormattedAddress": "Alchi Rd",
+      "reviews": [
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/reviews/ChZDSUhNMG9nS0VJQ0FnSURwcE1HVUd3EAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 4,
+          "text": {
+            "text": "It's beautiful to feel the iron age or 3000 years old engravings in the form of few animals that has been drawn on the polished rocks.Though the majority of drawings are from 11th century in the form of decorative stupas,we have to carefully search for the ancient animals as they are fading away slowly.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's beautiful to feel the iron age or 3000 years old engravings in the form of few animals that has been drawn on the polished rocks.Though the majority of drawings are from 11th century in the form of decorative stupas,we have to carefully search for the ancient animals as they are fading away slowly.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "PURUSHOTHAM SUNKU",
+            "uri": "https://www.google.com/maps/contrib/113367988559929594848/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpbob8lcJOzYKCqnHtiT34IrjfFLUeOjpNmPxv43ysrGaXnuL1FA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-08-16T12:37:11Z"
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0dVkyVkJREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Divya Pandey",
+            "uri": "https://www.google.com/maps/contrib/112801340423294079201/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDtj3rWXvvCHjzNvo4HDBatHuhEJRpqnTbubxXSZtCWDKHSA=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-02-05T16:44:02Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJZ779_y7pI-nTYkN2SJXa9kUIIQlMDziHnabyB3nSVAlDMAv_aQiiHIDT92Sb95zxkKrlal7yNbcVNCp41aDq7DFnl61Khf-IhLM7qwuPx9xaxVh5qkK9iiVQROcsg-TUFj3JOaZi7uTnaucLagINBJhnPxkCQBD87L",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Vishan Mohindra",
+              "uri": "//maps.google.com/maps/contrib/107923807065329243863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLqWCaEd8VLVk-hAo0X3gx0AuQzOoZT3qj2v2HDvy_gS3_pkA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJYYiNQ1LgUug-bDFAfGlFfxDSBBA2SYlTiiLTyV4Kd_Yk-H0kiPkmbuUvZWAGXjMy7kfgerZjcW3ydD0q8iHGHn3mv4jpWbXdjtxmziGMfR_6K3Soff43Rjtu56f6fx7HewLrS2QEhyenVkLHYFYEcJLnb_5dyQGdQ1",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Vishan Mohindra",
+              "uri": "//maps.google.com/maps/contrib/107923807065329243863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLqWCaEd8VLVk-hAo0X3gx0AuQzOoZT3qj2v2HDvy_gS3_pkA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJbjV9_v_KbPg7mbOkLQYk2iquqdd_1ZR2let9FjrPpsdHAgiLqcdU1vR5YgQeb-N_lE4Rza-mHhTRUGZCS8a_y9ZyFrkcrhg5lldYhM_srnv7l0hBprSxJZtC5dyY7p86Nq1TBvXU-jTIXtUpKJ6MpMs-GmNIi5Pzz1",
+          "widthPx": 2080,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Divya Pandey",
+              "uri": "//maps.google.com/maps/contrib/112801340423294079201",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLDtj3rWXvvCHjzNvo4HDBatHuhEJRpqnTbubxXSZtCWDKHSA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJZYBX_tHVcVpryXSlHbzKbyhK7FNbp1clhuwClq_n8TV-iRZvUCp7VG1bGjici4Nf4ciT_1Vx-KOb6jvF5tXlnimE0fdiwXOU9Cdrt220fyQusHvrqRo9i2AMptk2dvjcIaGgxQ7yw8ch0ByrLugcnyij5r1E74Yj0w",
+          "widthPx": 2080,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Divya Pandey",
+              "uri": "//maps.google.com/maps/contrib/112801340423294079201",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLDtj3rWXvvCHjzNvo4HDBatHuhEJRpqnTbubxXSZtCWDKHSA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJbmhZQzWMp4BqkYXbjetGgVrSy26z3UgilCht1w9qcNCueXgJkjq8qxYl7u8u29vvcXhnX3CmqNf-42Qf4Qa5B4hqIa_PKT0RAzXCsviFc_OpL8c00plxJqBfKRszKn0fzDV5dc2dF40-wuZHpeo8zDByPzCcDFHZk1",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Vishan Mohindra",
+              "uri": "//maps.google.com/maps/contrib/107923807065329243863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLqWCaEd8VLVk-hAo0X3gx0AuQzOoZT3qj2v2HDvy_gS3_pkA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJZaN5AE4XAHa1nOb29146pETU8f_PehhYUF7jqsIgoEQ2FwCgpizuFEbS7V_11_cBT5yZKATWhSszHYnrK4iak7CuyQbGm3tXilmTc3HckJOxk7QT5LoJxfeVKNgdz2By-GlHZ18CT5mXyEfBp7VSfur0ocztKs4h6G",
+          "widthPx": 2080,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Divya Pandey",
+              "uri": "//maps.google.com/maps/contrib/112801340423294079201",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLDtj3rWXvvCHjzNvo4HDBatHuhEJRpqnTbubxXSZtCWDKHSA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJazvegLUxjSOOehNCul-OSEBX7sf2hBp6nOS0cyRUMHdfWcSmVoyUQ7SXlm8CeuKPKfx4KG8VJ_GPZs-KFYlrga4EUT17Ol7fuOnn-IEjjMeYep-sISuDfYbSaZ5td32o7oMdsL2rTGC6FRi-rf-hgjLCxgGImgzdE9",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Vishan Mohindra",
+              "uri": "//maps.google.com/maps/contrib/107923807065329243863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLqWCaEd8VLVk-hAo0X3gx0AuQzOoZT3qj2v2HDvy_gS3_pkA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJZTkKSd2dxTIjX14xkRU0FdAyBViCg741Qeg971JvqefVhuRhnQh6K1kTc3RjLpdOIHJBpC5e73smQDh4hqnxpLfqOBRXipCfHXDraAi8K6Hyqo4ggdgyr0mxVMjdR9g114lxCw6iWsE7s70NoOoMHagt0jmP-EB3k5",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Vishan Mohindra",
+              "uri": "//maps.google.com/maps/contrib/107923807065329243863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLqWCaEd8VLVk-hAo0X3gx0AuQzOoZT3qj2v2HDvy_gS3_pkA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJbJmXLeqBpqwlSNTJXkEsLfUELDtsVdKL1JY7pcpCSJniWDJo2FPGJ5DgNSL6Q4ROzD0YUbbi0_NfxF07x7gfPDdSFE8Jwdqhz0wSBwwbQ_Ccfcv7cR-iwfwRmQ5pmkAYlaRN2Eg2KEQbE63IAyOQ9_ZAFw7Iuy_9MB",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Vishan Mohindra",
+              "uri": "//maps.google.com/maps/contrib/107923807065329243863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLqWCaEd8VLVk-hAo0X3gx0AuQzOoZT3qj2v2HDvy_gS3_pkA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJu8JnMGwL_TgR9m1hMePeSSw/photos/ATplDJZQrb6QEXRsA9XNOUGar4-GMnWNiSmOETmRsj3tnM3uW6Fx_F7gw-y1c8i8_dpr3HWdBoWA8oP-mFoNME_5wdo4SZSCT-TkqLRenUqpfN4tUDdn_dse31ZuCpe4vZOiaF2QS1dma35SWpz2XKEib9aoO4bdH71pxtzW",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Vishan Mohindra",
+              "uri": "//maps.google.com/maps/contrib/107923807065329243863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLqWCaEd8VLVk-hAo0X3gx0AuQzOoZT3qj2v2HDvy_gS3_pkA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJISt7_g4L_TgRecECmqM96eY",
+      "id": "ChIJISt7_g4L_TgRecECmqM96eY",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Alchi Rd, 194402",
+      "addressComponents": [
+        {
+          "longText": "Alchi Road",
+          "shortText": "Alchi Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "194402",
+          "shortText": "194402",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.2352574,
+        "longitude": 77.163586
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2339350697085,
+          "longitude": 77.162256769708492
+        },
+        "high": {
+          "latitude": 34.236633030291493,
+          "longitude": 77.1649547302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16638898071169843577",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eAlchi Rd\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e194402\u003c/span\u003e",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Alchi Bridge",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "Alchi Rd",
+      "photos": [
+        {
+          "name": "places/ChIJISt7_g4L_TgRecECmqM96eY/photos/ATplDJb3yCd7kQHS2VNvE9FlgzNYQJu7PR8VzLBhWrOrU8rwkx7xCegT-0Jkr3sF5UVJYN1WCYRgDO9IKjwuVamnSLhBdyXS2c4USK7cUVaJXUOFffWe6l-ghnR1FtDxC2QVaj1elWSvZYAsngdnED8JgVhz9S04x1mV17LZ",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJISt7_g4L_TgRecECmqM96eY/photos/ATplDJagpSBa3EfDi8_8DO_-M4XY9UtHXBOOZhBfh0vWsSYZuQ1ECf0NIQBVpaU-CU5MJVVzTf4BvDwJuR35qxNeTFZVJdzPH2ZiIB0r0IrVYZPX8apUhTQuAVX9LI7fXQ8FOy0cxsXnk-yCyfvbiw1mWit1114Edd8zlQdp",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJISt7_g4L_TgRecECmqM96eY/photos/ATplDJZ1gj-YHMorjjbDkFFA8RLSQMbK44lpWh-yH1sdufZzvp7UjG-cPyfOcLKYTRlemdrpiTD12bF0p5vF1ZCvVsppNuLx5UsqiBnMti2owe1lVJ7H5xejWgWgaAfQ2KiiKuDqEXN2UT_kvXmWw7K1_XW3shjsoO9KK0Dd",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJISt7_g4L_TgRecECmqM96eY/photos/ATplDJa6RrPWfXXs-csoa0nlULs1CxQTxXVFj3Mi8EFW0rB-oCRLzJP-Pjm6VkLqOiCvZJqITjsTlrkhiSsmuQF-FuijRB-fAV5zwUZ3hU8pgQ_3XFuvP1QKyoS_vBb0P8umcCmTcKPqfnGTQHrRmqh-CHKMbKZko4osWpag",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Jaikishore Sharma",
+              "uri": "//maps.google.com/maps/contrib/117918351526501738396",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgDsIOMJBksO8VaAEOkuJR0tddr8Msy2tQLypqrJtvAu-xLhq7kg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJV0d9jncL_TgR8-oglzZkGUg",
+      "id": "ChIJV0d9jncL_TgR8-oglzZkGUg",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "65J9+92, Alchi, 194402",
+      "addressComponents": [
+        {
+          "longText": "65J9+92",
+          "shortText": "65J9+92",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Alchi",
+          "shortText": "Alchi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "194402",
+          "shortText": "194402",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 34.230361099999996,
+        "longitude": 77.16854339999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 34.2288859697085,
+          "longitude": 77.166753819708489
+        },
+        "high": {
+          "latitude": 34.2315839302915,
+          "longitude": 77.1694517802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5195293830775106291",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "65J9+92, \u003cspan class=\"locality\"\u003eAlchi\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e194402\u003c/span\u003e",
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Alchi ruins",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "65J9+92, Alchi",
+      "goodForChildren": true
+    }
+  ]
+}
+

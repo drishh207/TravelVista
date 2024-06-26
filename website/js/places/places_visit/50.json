@@ -1,0 +1,4495 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE",
+      "id": "ChIJ1Sno8jWiiTkRhFheRAsiFpE",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "4687+VW3, near Mahamaya mandir, Bhagawan Pur, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "4687+VW3",
+          "shortText": "4687+VW3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Mahamaya mandir",
+          "shortText": "Mahamaya mandir",
+          "types": [
+            "point_of_interest",
+            "establishment",
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bhagawan Pur",
+          "shortText": "Bhagawan Pur",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.1182193,
+        "longitude": 83.2120005
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.116789969708492,
+          "longitude": 83.210744169708491
+        },
+        "high": {
+          "latitude": 23.1194879302915,
+          "longitude": 83.2134421302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=10454581016774203524",
+      "websiteUri": "https://instagram.com/mahamayamandir_ambikapur?igshid=NTc4MTIwNjQ2YQ==/https://www.facebook.com/profile.php?id=100062113287261&mibextid=LQQJ4d",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Tuesday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Wednesday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Thursday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Friday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Saturday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Sunday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "4687+VW3, near Mahamaya mandir, \u003cspan class=\"extended-address\"\u003eBhagawan Pur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1429,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Mahamaya Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Tuesday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Wednesday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Thursday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Friday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Saturday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM",
+          "Sunday: 6:00 AM – 1:00 PM, 3:00 – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "4687+VW3, Mahamaya mandir, Bhagawan Pur, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsX3NtdEV3EAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Mahamaya temple is located on Ambikapur city Chattisgarh… the temple is very famous and popular…\n\nThis is my 9 time visit in this temple I feel very peaceful and spent some good times in this temple … maa Mahamaya is very powerful so people come and take blessings from maa Mahamaya\nSome key factors about this temple……\n\n1- temple is located on middle of the city ( AMBIKAPUR)\n2- temple is very neet and clean\n3 - Mahamaya temple campus is very big and beautiful\nNOTE- if u visit Mahamaya temple after that plzz go samlaya temple is almost 1 km to Mahamaya temple 🙏🙏🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mahamaya temple is located on Ambikapur city Chattisgarh… the temple is very famous and popular…\n\nThis is my 9 time visit in this temple I feel very peaceful and spent some good times in this temple … maa Mahamaya is very powerful so people come and take blessings from maa Mahamaya\nSome key factors about this temple……\n\n1- temple is located on middle of the city ( AMBIKAPUR)\n2- temple is very neet and clean\n3 - Mahamaya temple campus is very big and beautiful\nNOTE- if u visit Mahamaya temple after that plzz go samlaya temple is almost 1 km to Mahamaya temple 🙏🙏🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sujit Singh",
+            "uri": "https://www.google.com/maps/contrib/114670767942957770094/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1Fyozo6kZPPYF26FeC4Dxcd2aEywbIwxT5lD13LL4DowDLjQk=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-19T18:02:30Z"
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWOHVtWE5nEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Mahamaya Temple is a serene oasis in the heart of the city. A peaceful haven offering tranquility and solace. Visiting this temple provides a sense of inner peace and spirituality amidst the city's hustle. A must-visit for those seeking a moment of calm and reflection.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mahamaya Temple is a serene oasis in the heart of the city. A peaceful haven offering tranquility and solace. Visiting this temple provides a sense of inner peace and spirituality amidst the city's hustle. A must-visit for those seeking a moment of calm and reflection.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AnisH SingH",
+            "uri": "https://www.google.com/maps/contrib/116554861950069628173/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViJdUCVvpQKdyNZ7fdRcHx-w0Y_IOsBqce6CXpclazAUdNsvk=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-12-06T12:55:47Z"
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwZzhiV1p3EAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The place which made Ambikapur famous. The temple is famous for Goddess Mahamaya Devi.\nIt's open from morning 5 am to evening 8 pm.\n\n(⭐out of 5)\nCleanliness- ⭐ ⭐ ⭐ ⭐\nPlace-⭐ ⭐ ⭐ ⭐\nRecommended-⭐ ⭐ ⭐ ⭐ ⭐\nFood Availability-  No\n\nSo, you can visit this place with your family or friends.\nThe photography is not allowed inside. So you can click all photos from outside.\n\nPrasads are available outside the temple, as there are few shops for that.\nAlso, parkings are available but mostly prefer 2-wheeler to visit there.\nThe temple is made so beautiful & amazing.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The place which made Ambikapur famous. The temple is famous for Goddess Mahamaya Devi.\nIt's open from morning 5 am to evening 8 pm.\n\n(⭐out of 5)\nCleanliness- ⭐ ⭐ ⭐ ⭐\nPlace-⭐ ⭐ ⭐ ⭐\nRecommended-⭐ ⭐ ⭐ ⭐ ⭐\nFood Availability-  No\n\nSo, you can visit this place with your family or friends.\nThe photography is not allowed inside. So you can click all photos from outside.\n\nPrasads are available outside the temple, as there are few shops for that.\nAlso, parkings are available but mostly prefer 2-wheeler to visit there.\nThe temple is made so beautiful & amazing.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Travel Freak",
+            "uri": "https://www.google.com/maps/contrib/106410252981779422454/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2UvxQJ2nEEwQz2xouv8u2RpXXtzoMfkeorIp0uGjzDctwrRIz=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-08-09T07:10:24Z"
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaeU1XZWx3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Mahamaya temple is situated in Ambika pur near about 2 kms from bus stand. This temple is made by maharaja sarguja Raghunathsharan . This is called mahamaya temple in the name of goddess ambika and this place Ambikapur is also called in the name of goddess ambika. This temple is very old and it is the time of kalchuri kal .This was built in between 1879 to 1917 in Nagar shaili .It’s shape is just like a mandap pattern. When we visit this  holy temple we feel very internal peace in mind.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mahamaya temple is situated in Ambika pur near about 2 kms from bus stand. This temple is made by maharaja sarguja Raghunathsharan . This is called mahamaya temple in the name of goddess ambika and this place Ambikapur is also called in the name of goddess ambika. This temple is very old and it is the time of kalchuri kal .This was built in between 1879 to 1917 in Nagar shaili .It’s shape is just like a mandap pattern. When we visit this  holy temple we feel very internal peace in mind.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "jasmine shrivastav",
+            "uri": "https://www.google.com/maps/contrib/106661332378747364716/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6icTtUye_mxcgmon3yB4oJ9tY2_pNJDU27381_rK4I6_giwV0=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-12-18T13:24:39Z"
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkMTdqcTBRRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 4,
+          "text": {
+            "text": "A very powerful place. The audacity of the temple is unparalleled.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A very powerful place. The audacity of the temple is unparalleled.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "anand sharma",
+            "uri": "https://www.google.com/maps/contrib/101824599563022632946/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMvJJY4dOTt6Otiwwvf7vLCwcZsgCWf4AZyrJc35rwNVsN2DY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-19T05:41:02Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJbrd-Tyk6LSL7karX3q31BkE9j0sothTQrjpjHnm-xE9zsWMTlmE-UlAVnUXSQ_VUszl-jvGR7SS5fqTrrM3jO0F9CdGQ1uWG32qCS86ptaQKmA10ER_JgQSSTwiK2_Aw116W8oa4lG5eH0ZT33vrJM0tohlng7sUA",
+          "widthPx": 2610,
+          "heightPx": 1470,
+          "authorAttributions": [
+            {
+              "displayName": "Mahamaya Temple",
+              "uri": "//maps.google.com/maps/contrib/117424838527187055819",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW5Qy-HP5hP1BJRm80015f6N34CiI34rEPk9taLzuSXgOHs3A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJbotQEZzk0QO6-YHYJUilv0UfEsWoV3WzZzgAi6z-SQMD95Y7B_5QgQQEw33yuMZWrCCEJfeCyNGl89BjInOa-82ihycM_PFtxFc7z11oomTMi9H17df74ihjiXcqb-hiiAciXYNHNyB9p-MpNcdu5peT6TJLwXNX5a",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "ManisH Sahu",
+              "uri": "//maps.google.com/maps/contrib/107525091839618417696",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX9SBqSiMwFJ1QURYMVbUb3t8ncDZWSLhcknn5kkya7kTMG3qrI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJb4XinZGTm7NIGeMyhhz_W96lIGrPPvB-mnczvuafyHwnSizu8L2t8S9Xl0PRbkjMTrwA3upZAtqaXp7EHbJZOuD4XggvHSvgup3UEtN4-e0otkRl2omAAam3mwjhPkIIHgxlzdrmm9sskE-cYe4ijl18hLYxwO-gCF",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Gautam Yadav",
+              "uri": "//maps.google.com/maps/contrib/100106758963795657163",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUMJmyN1q9frkNcd3uRhruQ4zSeVI74MfM0alJp48KMpJVtaMyE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJa3jpYmGW9NPSlczhn4MSPMC0-siSUzzBErlizFDP5caHUbQWUuSc2XNz3Iy1fbau1-WL17NXbFgsAPNevhnTuH7JCkUr1zAt5Gvu0VpD9Iw9rW4M-nZqCIcTo8q0Wo5aruP7U0CuCZnHJ9lYQ0ZHTY7un5rNTmOXfr",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "shashi kant dubay",
+              "uri": "//maps.google.com/maps/contrib/103844940941176912963",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSmpX8emxpewOM9PbhJj8Jm-f8yNKgJHSK0r3ipCkLlVcpnbdCcQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJZIjTWZGFiv00RCDK5axtyfyEcvErWfbVPgVOfOhemZapJohx3fYFA-ZA1AJ9664LsEGzyTionmmUzprRSlpvM4J2-_ziL_kVwHNv1BcO0QwstkFbGrlZEPLtGYaUnmySt4gPEqkGcmTr9KlZIyG9zdpdJYb2vfld42",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Vitto Kumar Gupta",
+              "uri": "//maps.google.com/maps/contrib/115755054968398778421",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVc815zRAls3lnCuXes5f-sMS_rBAfV-N9ssIgf-AiFkslhZqI9HQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJbgmh_m_65aKyjTgX1FruVP8y66VDyM7THP8blNLIHGIeXGJ8KQLfh6FGYyi3Eo_dHUmq5oQ-Xa_o85iwA7cWwB_BuDZ1pXk6cCIL9S1GDKjFWNdRIfHbUy8Su9RAppEMlndddVdxDMmSz0qVaNrfUT0V_da8S0WRPM",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Ankur Pandey",
+              "uri": "//maps.google.com/maps/contrib/116685804471610217627",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKQmsU0xePe-EL84mntNaZJCV-ByWCwbuGzl7N7AQW1zuxRhQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJYoXx_7g-sPyJeF7mO17xmbhCpoR_MgBwqTaZ2rsdVITcYlnYpHCMcGspyKRGtoSR5SF-lge1ZBOfRmzSHEuIGfoQ6VasAcnZ1NabYrQgLTv0kW2mt_Dt3yR6E95_5W1E2Q6-9LcZo-llz4ongU8i-RPshvH8v_oaPd",
+          "widthPx": 2604,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "yogarshi singh",
+              "uri": "//maps.google.com/maps/contrib/114547962650654110157",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMsd3gKTFD8NOetL30CAhL0kVArj3lYk9xvFNuEzsoaAURSJ7C=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJZxBbIPoqxAGzlT4eXOkkrqLyXtwuTkUq9iNqvV7kZ-TpDja353Wea9yZelzy3tG5JgSe-QqNW8UprH5ifb9IKD5QdRy7M3GhXZAFena495OLJwVKIw2-toRtbDg1Chh7IS7DjgW8u0Yv8uGENPo5eDX1tFGbKeLvgd",
+          "widthPx": 2112,
+          "heightPx": 3381,
+          "authorAttributions": [
+            {
+              "displayName": "Vivek Dubey",
+              "uri": "//maps.google.com/maps/contrib/108354152535002719437",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWzKeRRSggQBM0sCIjH6MBy03r7M5LCML8Z_Isol1qOWkKU0fNV=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJZ8R1bSWOpzedB35fnUq9pGJowlsjL9pvPYkUd-LRE4esQwISQbNKQKa0wvVmURO2D4XIbpKqAqYgmEm5SnSDxVPWwBJRBmacVWPRe2w8Ji942dZ8yhHz2K9GaRkk7_n52lkcI4qIAuEeyY8WLIYHDeNj8jGRaPIO3W",
+          "widthPx": 1024,
+          "heightPx": 768,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Om Prakash Pandit",
+              "uri": "//maps.google.com/maps/contrib/103838538876092067369",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUfzY87aUQlx0AISg1Ynm5_Bquo4U5GqIOaEx6BW0jjYjhb-4Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ1Sno8jWiiTkRhFheRAsiFpE/photos/ATplDJZ7eky3I2-l1mH1c8o4itPONDUXN039fepCxkHND_GJudRdy51ttuVKzYQYaAJTc2hKuZuBPJzeexhgEsDq3ZcpM4x-9s0l0gLabD-vRcU66_pnHBlRCbcf5iD07QkW7agOiJgiBPmHrOHxxhjBuADC34XlmNA9ZqTD",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi yadav",
+              "uri": "//maps.google.com/maps/contrib/106598289542191877193",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIlXzyCH3xuNwy_UqJB-Giqrun9gmkyeFSYDVzU9Y3jH37WNf4=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ",
+      "id": "ChIJtXfSWMmjiTkRsj20lhZ4KbQ",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "45HR+5VC, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "45HR+5VC",
+          "shortText": "45HR+5VC",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.1279438,
+        "longitude": 83.1921435
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.1265904697085,
+          "longitude": 83.190789519708488
+        },
+        "high": {
+          "latitude": 23.129288430291503,
+          "longitude": 83.193487480291509
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=12982039439285173682",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "45HR+5VC, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 19,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Hanuman Mandir ️ joda pipal chowk",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "45HR+5VC, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5NlB6bGdnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "The temple is meticulously maintained, reflecting the reverence with which devotees regard it. The marble floors gleam, and the fragrance of incense lingers in the air. It’s a place where you can connect with the divine without distractions....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The temple is meticulously maintained, reflecting the reverence with which devotees regard it. The marble floors gleam, and the fragrance of incense lingers in the air. It’s a place where you can connect with the divine without distractions....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashish S Sharma",
+            "uri": "https://www.google.com/maps/contrib/100110333368033170835/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBJUlgns_z9RIXs0EwQ9jOBNrmMi3gUhHs-WPI5YlXuhGhQBg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-03-01T03:40:37Z"
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5aWR1MDhRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Compect place, rush area, Hanuman and shiv temple both are stablish in side.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Compect place, rush area, Hanuman and shiv temple both are stablish in side.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravi yadav",
+            "uri": "https://www.google.com/maps/contrib/106598289542191877193/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIlXzyCH3xuNwy_UqJB-Giqrun9gmkyeFSYDVzU9Y3jH37WNf4=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-18T07:31:15Z"
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5Z2RpYmx3RRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Niraj Singh",
+            "uri": "https://www.google.com/maps/contrib/115737825354401774842/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyUQLYgX6hov3fN0gACDz5_i72_5UmqZe1lpqqJ9LsrnCWzQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-06T06:55:33Z"
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscW9ubW1BRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kushal Agrawal",
+            "uri": "https://www.google.com/maps/contrib/109260657502000127267/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLef-umGGimBf3l_aAk9G3_rLNFVnrlDsi2oNnPs2J-go4xXQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-16T02:29:42Z"
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNweTdyWkJnEAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Beutiful palace",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beutiful palace",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Roshan Keshri",
+            "uri": "https://www.google.com/maps/contrib/104532177671616228934/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrADUOL-IrepxIuo9DmKp5Ee8NNILakqqsMLZg7iMkWZ5a0Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-08-10T13:23:06Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJbBGDPOCFpPzJbnJuwD6plZxUut42IlJOLl2Gykh6MmPs4ZM_Qd6cWp86L5FtrXPTuacxMfcn_9GjX_iX3K85D2g9eFq5F96DlZh8LkQco3DL0Gn4k4Ulsl_6aKn07Od3BAGat69OJnvmefEYydzQqZjqBVuh-olNcz",
+          "widthPx": 4160,
+          "heightPx": 2352,
+          "authorAttributions": [
+            {
+              "displayName": "rajkumar painkra",
+              "uri": "//maps.google.com/maps/contrib/103145220799584397954",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVUMn8pp1VYkQRgWet_xV_Lrwz8uA_70VcQZ_tcFzGVcR0IVoU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJa61JKZpk14gYZ2Wv1E6rXp6IUKNNylK2IDKHWUWw3IUV8aepn_YOd32ZE_yh3WjTsB_oWSYdH_otTndjaU9dHJzrwFzBwmhNJ4K1IRFHSKg5g8SVqUk29ouTTpA_5n2FQEqPE6rOYOMrJKNKgqYFnJgnhp3Fb6m0vw",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJYcmxQ52sL0JqSl42EL9NQvoCCPSkRAIt2d8TRBDdDUlR5U182xUyxdQSyJyXxyFllIiOLMPxZJ1ysm_3Bs1N1JAEYkqjxsOOmOklYpYSTBtNH0CQmTsSYPCMijuVa7jjWAJRXj4E2Sp4lCa9gtGc-JRAMnt6jHuO2I",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJa39lvcxcWZx4eJF-kn7B-7bk4L3HuexMPyCEDKnTtYQo4JxXZSJ3SLLsPEUFlJW-mGqsRJ22LRnyCo1T6D4k3pR27co7EEfo_Zc4h4lhGSuVPEYHEnWKrwHcjGvTcGdrWbYAI_23gDW2wqf71LffFqzNb5kgqfOpXX",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJYPh-Ng7nwl5CXuPn9Q6kzxeKDWWXYsZkfbVvvZo8wo-T_cLmovM8dFqzHSDoAzDq-NyNkglpFxpje3xjYT9oryANG-DWqrTHyPbJ_u4epMPoozy1YkwRpQGpWG28R-zewq1ib2PDaHQqrAwVYTqeQIT3i3X1JTJhOd",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJaDyQNcxkzlSRnfgv3Q-08RmKY9GpIHvLp6j0yYhU0skWPCWbPoITW1qrTGRgzgujg1iqTCp9niIjZLuPlM3IUh3gacEgyXRHi_hpi9tBOIyIi3aFt_0b3rRlhfqXIdLK4r87MR-SrOzoTi4vtm4nt6IYb03KBg3bEl",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJbZmYirLvt6W_RkWyXrcHTmAhxPpmsXj6oUFRe2-oCPj1AIHb3EZk4HdAGiu2B-Dj0C34P9_H-yFUa4p-wyLUAy4CZQSVuzURUNF2t4jGyDZQQhXcyy7zR5wbrfP1acRCZlBLFF-tL7AGJ916zJ6ZWX5YYssHj_VWAF",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJYHcJt3hnpB_AGVVhZMAdff-DZPhn48t_MVXdimoXXt8bRjO3LhsQ0FaK7JHFfXblF7W3_yzSOzlIiofHuGted9aAZJncL01cZVB9leXWUk9Gv36isCHSjpb_SmbAwrscDD7_qowpU_XKPZYmpQ5D2g_WsHxjEtTGEc",
+          "widthPx": 4160,
+          "heightPx": 2352,
+          "authorAttributions": [
+            {
+              "displayName": "rajkumar painkra",
+              "uri": "//maps.google.com/maps/contrib/103145220799584397954",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVUMn8pp1VYkQRgWet_xV_Lrwz8uA_70VcQZ_tcFzGVcR0IVoU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJYabqd6x0I_B5kIxfd2kfEq-2qDgwkdFJVBrU9LzeCQarW7J7Y3ca8dE0Ep2uZ8zEIjZqhIeOBCVGiP9xnooNKlsz2PTXP9sWc7p9srVozUg3oZNiU8RNuCl5wNOGNf_KhLZg96UbqaG3nO5RbcFWObDCszTy2yfZV6",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Ashish S Sharma",
+              "uri": "//maps.google.com/maps/contrib/100110333368033170835",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIBJUlgns_z9RIXs0EwQ9jOBNrmMi3gUhHs-WPI5YlXuhGhQBg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJtXfSWMmjiTkRsj20lhZ4KbQ/photos/ATplDJZtcOgsM6iL4c_sAcjQgekxLp5h74HLXQXjgQI65llz9sYvzEqvIlW8BRWeoRd1CzNAfVX93uvDYHrnWmLH6u-KGIu0ix2YDUfwNzGwJjhIXxSjkoGiMPbB9DZLqo6gtsxgCQGjY-ZsfLnJl8agEPJg5-it8-ldjBvi",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Das",
+              "uri": "//maps.google.com/maps/contrib/106188910293338444432",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUXDKJNq3T8b7I-D_JGvfL0zxOQKEzB5yzZ7DKux9cStiRKFjgi=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8",
+      "id": "ChIJy5tsCxijiTkRdDEwUKrkUD8",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "45HQ+2J5, Ghadi Chowk, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "45HQ+2J5",
+          "shortText": "45HQ+2J5",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ghadi Chowk",
+          "shortText": "Ghadi Chowk",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.1275063,
+        "longitude": 83.1891055
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.126178519708496,
+          "longitude": 83.1877312697085
+        },
+        "high": {
+          "latitude": 23.128876480291503,
+          "longitude": 83.1904292302915
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=4562397842667221364",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "45HQ+2J5, \u003cspan class=\"street-address\"\u003eGhadi Chowk\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 21,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Ghadi Chowk, Ambikapur (घड़ी चौक अम्बिकापुर)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "45HQ+2J5, Ghadi Chowk, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwMFo2WXR3RRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best pre owned car dealership in chhattisgarh",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best pre owned car dealership in chhattisgarh",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vishal Agrawal",
+            "uri": "https://www.google.com/maps/contrib/103219183767377354280/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKxR2rEhEeZf9lyRyD7kZRSztPzwySEutOWn6F02KJOr63Jzw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-08-05T15:27:10Z"
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEM2NYVU53EAE",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rivaj Sidar",
+            "uri": "https://www.google.com/maps/contrib/115171913293501149601/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQ8v8syx1C7A40IOqkhkJZeFIHYbO_I1VyRIPe1S2WI2f-Vw=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-03-31T15:47:05Z"
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5NGE2M2VREAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "santosh sharma",
+            "uri": "https://www.google.com/maps/contrib/104358327505085562424/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUij60NA93zpBX8VzQdFj_p9YGVqyJCm1zhM4BZ0hBEwr2bclY=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-06T13:03:28Z"
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/reviews/ChdDSUhNMG9nS0VJQ0FnSURKeG9lU3BBRRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Be tq you",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Be tq you",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Karan Soni",
+            "uri": "https://www.google.com/maps/contrib/101802369724761161100/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCL6yDixpvfq4QnIKZQ7kP8L3p1AP8k1QP1sHDcMFkzqcSY4CX=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-07-16T00:37:04Z"
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/reviews/ChZDSUhNMG9nS0VJQ0FnSURkbDVueUZ3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Food",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Food",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "rajnish upadhyay",
+            "uri": "https://www.google.com/maps/contrib/107231276287052374970/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1zd-cwkSYfs2GFLkNNJMTdNR6M48tf3-AmKNBUAv2CFbIn0ie=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-28T08:10:27Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJah24GEcCr2lBgfK2zNrM9cgYyIB0JEsJcc7zfB8lmh67aY5c2gx7agjuTNGovSOyC2oTRsaqshWZCjGX6x5HzGLhNRPJcJKzLfXdr6bzbnrlUC9WvOtZ7Xaot_OPPeoiO4jVJPKGekCGhUsdBV9wz1gvu64N1_FjKd",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJbOy1aaIHGSKRh0nx74YUAr1WwrS8292rhxy-miAECthvOU_vFrRdKekvjXmm3lkmGOhjxiqS73iQM0Eo8wFSmJXMSPAtLO5Ef5_64fZNZmD_YUUsGxOf3zlCFm43tMsjeINPPMeI4E3JUwSt4gBExqAEygKYG2MZLW",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Ashvani Prajapati",
+              "uri": "//maps.google.com/maps/contrib/102872898621939614748",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkgcybmLucmEZef1qs0_pjTkQ6L8BiGdpJensQZa1SUKFEcD-h=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJaJQ1DV-3u9whSOaQCq3OdQgF143L2XFN_0ucgcWwP30ZlyouK9N43Ko1nzzQ4ljug7cS3PITGgwQapPjuvYpvGs35aJRZ0tcpAnjKhOHA_z3u4T-uWQVRTzfMkYuHjDaQO6DPf6ECZxwn6OZRKoTjT71yyfiYiKPTn",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJakLO54aQpsBwFGWV9JOxkAD4NX0DOlL2nM2ded8UhDxvyNkfdcFd3KaBQhb9LULQgamUBIko3LaRMUsPL7QGwwpzIFQPr1rzovgbZDdjNFQ5_cde7C7Cxi-DChZ2bWbodnT-CIuDAZa0_E_qQo1apqvZC1MEQqQLIB",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Ashvani Prajapati",
+              "uri": "//maps.google.com/maps/contrib/102872898621939614748",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkgcybmLucmEZef1qs0_pjTkQ6L8BiGdpJensQZa1SUKFEcD-h=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJYDyqEARFBE0xb7avI8ZL6W7UU5fZHN5C3noLwch5TsTviicUHeray1cwfeUFi1w6aFOQD0-y3GgTx1B7xpvmeMHw3jaDdoYxXpesGPmyfmle9dC7ApF4ikEttDjER6GLnbcl8V2fa2tZWaH49PqeJ-yWm3pcljQv12",
+          "widthPx": 4032,
+          "heightPx": 3016,
+          "authorAttributions": [
+            {
+              "displayName": "Ravindra Kumar Paikra",
+              "uri": "//maps.google.com/maps/contrib/106369291970027613648",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXN-dmvsj64KaJMGEKmaevMIsFxQ8l_01f-AkuO1U5eVo2q7AW-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJbjLgI_h3e_pOoI9z2bqzVaE6h1_dNSILjc6NrKUocRrk4sV5cc68U5ph-lEiZEtFG9Gnt--RKmHby07pKTyaOUXuPCBWgW1hvxMy1mRxzwAsnKEZzXLmYcul0MW0omUxXPzovivRXjTo3GkA_Izfl3Naj9c8LpELzu",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Ashvani Prajapati",
+              "uri": "//maps.google.com/maps/contrib/102872898621939614748",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkgcybmLucmEZef1qs0_pjTkQ6L8BiGdpJensQZa1SUKFEcD-h=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJaM9EWGXlPvxNpRqzA9s4axgLNZg2PMVqc-gmBAK2KubgZOVkbQV7Rbk7sZQ2q8F9OXOo_FvBY26KwmB7o8jkn2ldJt5TBbqUEWR7TzbnCFUkmbhn8YH3yQL9Sle5luJuCEfaTRanSou-sGNGWNKFccOeqqpKym-kg8",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Ashvani Prajapati",
+              "uri": "//maps.google.com/maps/contrib/102872898621939614748",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkgcybmLucmEZef1qs0_pjTkQ6L8BiGdpJensQZa1SUKFEcD-h=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJZ95GtsHXHQlwmoLJp0gpl-kMR_EBcwNYjCpUKWvgkDyFSshVo6fERdpQaU_knOMur8MyG9MHMS38sDCPBOuELrH23oKXKUTCY3yNCXBIsBb9P_BrNPOki6FZh9MWYYP3LbRvGLDudGXmN9TeUp6qdElPXhTeFKhHFx",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJaaSYpaT_2bqT8Fi8MOPyng62Ydo8ix5BNPbl7awKlxEkZ6BRzoPu3vdWGKlYwdeqsIurPLp3_dWhRQjY0lTwFaRuxqtMC49ckJ1OLBlGMJreBjl0i3ktijqmljdO7Hz1IvtcXFCjgRCCftGs7BOc-1jDPw3bGo84WR",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJy5tsCxijiTkRdDEwUKrkUD8/photos/ATplDJbHe-VO1OTOuj4ZfK-g4161GBdYtJ-r9_kDS_KWaXYWrdsiQQ5bX3GVb3mzVvBcdfLaLWq9TVeP9iNMz38ZxdQILWQhM4TKFgAo81b5Nn62-R7I0kqgDAvMtFbgk37hgcPD1ZxUZ2cidjaRfuwvDqpyY4x7vcgF9rko",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA",
+      "id": "ChIJuXLj7qqjiTkRLsW2PLvIVRA",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "45PX+Q5F, Shivdhari Colony, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "45PX+Q5F",
+          "shortText": "45PX+Q5F",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Shivdhari Colony",
+          "shortText": "Shivdhari Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.1369255,
+        "longitude": 83.1979199
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.135601169708497,
+          "longitude": 83.196563819708487
+        },
+        "high": {
+          "latitude": 23.1382991302915,
+          "longitude": 83.199261780291508
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=1177067584130303278",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "45PX+Q5F, \u003cspan class=\"extended-address\"\u003eShivdhari Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 90,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Maharana Pratap Chowk",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "45PX+Q5F, Shivdhari Colony, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/reviews/ChdDSUhNMG9nS0VJQ0FnSUREb2ZHZGlBRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Building construction",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Building construction",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shankar Chowdhury",
+            "uri": "https://www.google.com/maps/contrib/113043253472360090578/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWC2keqkRUTY2amg7G-zcfFBTT7NZMJtFeBui1vfYaRkwgXL6A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-10T14:44:44Z"
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/reviews/ChdDSUhNMG9nS0VJQ0FnSUREX2Y3WjRRRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Good 😊",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good 😊",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prakash Sahu",
+            "uri": "https://www.google.com/maps/contrib/117882804411053485662/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrfHhXewgr87ljtPxqJHHQ12thd-_DcBw6CtWtOifAzoPnYuqF=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-13T10:25:25Z"
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxNE5LTXFnRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful statue of Maharana ji , beautiful place to visit located near Marine Drive makes it more attractive 🤩😍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful statue of Maharana ji , beautiful place to visit located near Marine Drive makes it more attractive 🤩😍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shashank Ku Shrivastava.",
+            "uri": "https://www.google.com/maps/contrib/100436076852819903029/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCaCRxnvpyyM_YLUirGnt-il26QmaR7CPHqQsPvWPe-OF5Gw7Z=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-05-23T14:30:11Z"
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOMGFha0lREAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "❤️👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "❤️👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "NYGHTMRE WORLD",
+            "uri": "https://www.google.com/maps/contrib/115326153668688126561/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5p6zPeDUPdEVZMbL3HN68DK1xwN5hxw-tv5PSrf4ii-M6BoY=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-15T10:23:47Z"
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtNzUzd3NRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 1,
+          "text": {
+            "text": "So beautiful picture and plece",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "So beautiful picture and plece",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sonu Sidharth",
+            "uri": "https://www.google.com/maps/contrib/106541189173436228224/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXplT90Ar6wVgIV3D_VyG0j95zSsjGzgD6QfIPbvVRMypcNGTo=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-12-13T04:24:58Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJaK5S2NbttNML2HL6dbdiRFvERiAzkcE1ntk-3C6aCQ8Os-rKRc_0QwgOWh86mmeelLI92JGTWjtjt6sxhhIgnxMAH9BSQj1JD-FVuGWvvfxhbXncUYuG9fiAaZ9hphbnd6BXL10ymDpZaNUrk9pJmbcGgxZ2hWDkGE",
+          "widthPx": 4080,
+          "heightPx": 2296,
+          "authorAttributions": [
+            {
+              "displayName": "Abhinav Kumar ll Exploring The Universe",
+              "uri": "//maps.google.com/maps/contrib/117326283776001917921",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVTOxEJ9fGUy5_kYByZnmZVdouwokrNpEmI5iG4KgZlVa5kvnyJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJaQTARUr5_GNXirFzcMTy82-J34ayw9YSMk1eFDHJ5rVwUpqciv2vmDZVLfGU5vsjLsoSa0UtF_AbVayE0VtiXakS5a7KT9E3HxkeFhJZeil2FV16A3b10krp0VeRqP5ARg5vRttpHukw58YVrCGUtFwdn3C0rhzMez",
+          "widthPx": 2716,
+          "heightPx": 3508,
+          "authorAttributions": [
+            {
+              "displayName": "Rahul singh",
+              "uri": "//maps.google.com/maps/contrib/118177108867904801128",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW30E-8mgrLdI5y_meU5v0EvQrRGR3mvtbw80CdREc1K7OckLAM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJbPR5GNMEFrXbZEeKUWs_yDmw28LQgWxqi42dM_3KZhPoO-xSPz-GusLZUMNsTUc0ElqZ0kA5f-CfbCm6axPl0CLJjb03FicFeCSHP9ci3h1ypJLJ0DcOBeISfXWV1oWCp0kowuY0K4eoJzxJrfgyoRqCPYrd3Rsxp7",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Shashank Ku Shrivastava.",
+              "uri": "//maps.google.com/maps/contrib/100436076852819903029",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUCaCRxnvpyyM_YLUirGnt-il26QmaR7CPHqQsPvWPe-OF5Gw7Z=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJYOpzE5UflHiCrYFo1Pv3x1eNSziEvIVYxebbww1a9cy29un57dfMu0N6Vh92wgMYgQHzn4Wf-Pcwc_BfBWYG5iTa2LE2EOax6M4BUiN4yUcDvCXtj7LODutagu_GlC-6mSPWTsMIb9XIm6Y6nZKYiTLaJdOCmfLemJ",
+          "widthPx": 2160,
+          "heightPx": 3840,
+          "authorAttributions": [
+            {
+              "displayName": "Suraj Minj",
+              "uri": "//maps.google.com/maps/contrib/115776719589940486459",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKo-2IzbRr8Pd5mZh2jiuEkacNs72nAxh8sSBxda9J8XopFug=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJasGkOA3NMR2HUHbtqcj6mkEuZ2Ro2xKL9POwuVoWJnjTtakiK35YTTG43uddRkBVo6tf-NDUfZowl1CwndygetsbNIa6J_yOGKo760BXmQLOKMrBfLROWkm2NZOaKq0xUvLbB84hjzdiLb4bTjctNpQHbmrKMPODlE",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Surguja Deshi boy",
+              "uri": "//maps.google.com/maps/contrib/108185252101059367006",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBROGlD3XhjJX2C8k8XV8QRljhcMhuTBhmGIYKtq-526e2ir4b=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJZ60zqUz2Pgii569x5fT2C4usWA-5KghsEfF5jWzHo-DcHytVpdaaaHfi0IATV4IbU0zdue7v4dzSelnnfLoF793WyqjonHBwQuWtBg8908IaXf8Kmw_nB9qF4YbYWe8BA8bb2cWPnRn_2IwCqo0sYvds6sba-OnLr6",
+          "widthPx": 4000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Suraj Minj",
+              "uri": "//maps.google.com/maps/contrib/115776719589940486459",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKo-2IzbRr8Pd5mZh2jiuEkacNs72nAxh8sSBxda9J8XopFug=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJaPvda_MeBMjHt23_1CD11Z8-_UePUNdEDpY3UfQtGLK6MeW-0P1_lGsHKXiD--Nr4X-kOasyuwCMzswAIWjqhd9SpJjHJOHzUEL5U4xuXo3MakIDWen3MamB3ZriYjPjoIrqPhQC-spNijq6cqY6-K9w7R5EfsbkQI",
+          "widthPx": 579,
+          "heightPx": 290,
+          "authorAttributions": [
+            {
+              "displayName": "Shankar Chowdhury",
+              "uri": "//maps.google.com/maps/contrib/113043253472360090578",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWC2keqkRUTY2amg7G-zcfFBTT7NZMJtFeBui1vfYaRkwgXL6A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJamhsKRAeRxTQeeaY84vJXnwkegLIrQ5-gEPg-aUgfkJ5h9nxgEztpd9IcXi9PKZEJx1HzRYt3cmITFa2SpqhsX9TJjgwqvZ8CrENAw_ig25m7vAznWmJ3Of8E-8fUJI7ZmqrOseWWh5DdVpuTdUN7dch37DUANxX9j",
+          "widthPx": 720,
+          "heightPx": 839,
+          "authorAttributions": [
+            {
+              "displayName": "Sonu Sidharth",
+              "uri": "//maps.google.com/maps/contrib/106541189173436228224",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVXplT90Ar6wVgIV3D_VyG0j95zSsjGzgD6QfIPbvVRMypcNGTo=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJaI8FOIzuzDB832b5ZFn4hY6Tnu4UVZvhptKDZjMwTkC9HGraony_ia2vk4EmNwgOvpHMMjTbGdaqJcLaIPhIwMuLBOXZI1hBrOXHX819wChDu5RQ5zI6eP9tnNeMgaujEmw1pkd4hlR8wFhxIYYUpDcizjRZ-bKuLJ",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Santosh Ram",
+              "uri": "//maps.google.com/maps/contrib/117388273231959793031",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXKkG_EeeOOEaiZJxBYpcXsvSJZpKfbt0i4QYEkgn2sMKgLas4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJuXLj7qqjiTkRLsW2PLvIVRA/photos/ATplDJYW5Xhtq9YLrFmttRNLV9-ELEZ0RSifLzWy2B0nDufqNNsqBrQmfJ7OefkY_CZ9NbwnFyBlXUPU2gw0HXqR5TGEzWz7lFWQ1L4ff-TCM_-_Ma8V8Fqu1Z6NKHsveGsqf3Sm88KYKr1xvxNxLfgjcAsXySQdbgjKev2M",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "krishna",
+              "uri": "//maps.google.com/maps/contrib/111845700785612764522",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjULIxN8IC_dgKN8l5r3bKQocmYxgwC6Ar3C4jnlHAogSdEk3rTh=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU",
+      "id": "ChIJr3pXNs6jiTkRAvkCDiyVoqU",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "46G2+X38, near Government Multipurpose Higher Secondary School, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "46G2+X38",
+          "shortText": "46G2+X38",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Government Multipurpose Higher Secondary School",
+          "shortText": "Government Multipurpose Higher Secondary School",
+          "types": [
+            "point_of_interest",
+            "establishment",
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.1274107,
+        "longitude": 83.2001925
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.125990769708498,
+          "longitude": 83.1987888697085
+        },
+        "high": {
+          "latitude": 23.1286887302915,
+          "longitude": 83.201486830291515
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=11935265978931411202",
+      "websiteUri": "https://www.facebook.com/profile.php?id=61555818654113&mibextid=ZbWKwL",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:30 – 11:00 AM",
+          "Tuesday: 5:30 – 11:00 AM",
+          "Wednesday: 5:30 – 11:00 AM",
+          "Thursday: 5:30 – 11:00 AM",
+          "Friday: 5:30 – 11:00 AM",
+          "Saturday: 5:30 – 11:00 AM",
+          "Sunday: 5:30 – 11:00 AM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "46G2+X38, near Government Multipurpose Higher Secondary School, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 90,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Bada Hanuman Mandir School Road Ambikapur Surguja Chhattisgarh",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:30 – 11:00 AM",
+          "Tuesday: 5:30 – 11:00 AM",
+          "Wednesday: 5:30 – 11:00 AM",
+          "Thursday: 5:30 – 11:00 AM",
+          "Friday: 5:30 – 11:00 AM",
+          "Saturday: 5:30 – 11:00 AM",
+          "Sunday: 5:30 – 11:00 AM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "46G2+X38, Government Multipurpose Higher Secondary School, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscWJfcjRBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Oldest Hanuman ji mandir in Ambikapur. Peaceful place in the centre of the city. Old place but situated in good place.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Oldest Hanuman ji mandir in Ambikapur. Peaceful place in the centre of the city. Old place but situated in good place.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prashant Singh",
+            "uri": "https://www.google.com/maps/contrib/106732553433485889165/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnLdZ0W2la7G9kVDvPVx3JxBoNBskC3uU-i3KVBpsr8EM2V8_jpQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-21T16:46:50Z"
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5MFA3VF9BRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Hanuman mandir in good palace Mandir",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Hanuman mandir in good palace Mandir",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "prakash kumar paikra",
+            "uri": "https://www.google.com/maps/contrib/105788750783874608087/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXybNMHGeiS69GXOC4E8lNtMAn-MswJZUperxUGH55djiFUqWmf=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-12T11:38:01Z"
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/reviews/ChZDSUhNMG9nS0VJQ0FnSURkNEtuemJ3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Close temple after 12 o'clock pm.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Close temple after 12 o'clock pm.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravi yadav",
+            "uri": "https://www.google.com/maps/contrib/106598289542191877193/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIlXzyCH3xuNwy_UqJB-Giqrun9gmkyeFSYDVzU9Y3jH37WNf4=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-02-20T06:49:16Z"
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1aHBIVGxRRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good tampal well management Jay Shri Ram",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good tampal well management Jay Shri Ram",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rudra Pratap",
+            "uri": "https://www.google.com/maps/contrib/113533548090400879681/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQoZdRyZR5DYEu8CjNT6UMMZkOb5RIHQ4xg893ES_rct4OAg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-23T17:51:29Z"
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/reviews/ChdDSUhNMG9nS0VJQ0FnSURSeGZXMXN3RRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "text": {
+            "text": "very Nice Place Jai Shree Ram🙏Temple of Hanumanji🙏🐒🧡❤️👌✌️",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "very Nice Place Jai Shree Ram🙏Temple of Hanumanji🙏🐒🧡❤️👌✌️",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Paresh Cangi",
+            "uri": "https://www.google.com/maps/contrib/104798682625075782540/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNP1y3dWALxiPvVXu0n9ulZ5rjCuAwWEcWyRWKyqQ94Mrc2GqQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-04-29T19:08:13Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJalhPWmKfRLAyp-Ixxd906ElNhSSB8tLhe75Pe9EjGV0xguiyw3Ys72Ekl48UK5jIwVOwJQfPC4VZmpCnl3k0R_NOkFY-XNdjBiqf1iKzgvNJ4X9uYy_P0w8Ks9nggU5nh_HCt4oKECQLyAHPxmWuhI4827EDWYZ-Lt",
+          "widthPx": 593,
+          "heightPx": 371,
+          "authorAttributions": [
+            {
+              "displayName": "Babi Kumar Gupta (Boby)",
+              "uri": "//maps.google.com/maps/contrib/106973064197952236631",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVCVc5In4qWmCePPQ5abpsPSK4auqrSR-SzjFf39qTdCaCq79BQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJZyT5jmn3_AxuA4Hp8Uc2MWuGtq7QHpKTUKY3W-vUJYyQHnvuO6HSNpmN6ESWNDLmL4Kc5XR8fFGJpDo4kn9tqZZAwQW-sw7o4_VjbsRP3VgZluDo5AQT6pYxPqcpKenbqsE4k-d8gxcxh3yyFysbE20DI4YKG-GYfa",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Prashant Singh",
+              "uri": "//maps.google.com/maps/contrib/106732553433485889165",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXnLdZ0W2la7G9kVDvPVx3JxBoNBskC3uU-i3KVBpsr8EM2V8_jpQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJbwmOuW-H7tA1sVmpoYt0vH_Kl1zqjIZX79xI-UM_FgS2pmGlEFfeQv-N1h6QkspXej7-sBW4VWhvDb7CqdahThRz7bsJSYHTHfmLicPuVV5ae6FCXAOYCTZ-kMujxZoLBWjkIxos74FvIU019BSx9XvoJNG7kazslC",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Rudra Pratap",
+              "uri": "//maps.google.com/maps/contrib/113533548090400879681",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJQoZdRyZR5DYEu8CjNT6UMMZkOb5RIHQ4xg893ES_rct4OAg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJasw-a6UHE-NdRG_fUdjkrh3Y0yj0z4cN_Hk_VMdrV0iv2h74BFQTC4yLxlbBrdj4oyMeacCXlKI4Mh_kt0yrCJ9Gk3LOOZwIhjlUewOeHBiQgSqjEXez2abRzfHY3Ib7BEPCst6i9gfgCIfp8m6TrdzxbN4npLIPEV",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Nishant Keshri",
+              "uri": "//maps.google.com/maps/contrib/104141039877805188854",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTWqobEpKtth_q6ACy9NRsYAV32QFT7yY1SJNhlyrK7kv6YOw-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJZAINIvRDuj5MUazjNdi06AvusTTtz6sZVzp8rDBjTJPEY-uqE0ZPYR7RyD2JkQppAQc2-rVES_dl8sOMm9O978H1YaH_Vv_DU4ZYI-O1T-rpMR3j4SodRqX8mCJNx9gyMV3XtFqldjRh240RahKW3Jwz7qeKoBsBAQ",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Ankit Giri",
+              "uri": "//maps.google.com/maps/contrib/111021421373612929307",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUDho17Ek7TdjP9jkh9xZ5F4nDkOd7izW3hW3lOGhK2oroHVaNF=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJYJiHhhom0el8Tpx9tIbVxzkxOBuspK3QwohyD487Gz4PUme_J5nzqnr2dBS9fXLQ8WRICovg1Zlc_y918OeYF-tfVYs_5JsXqQVkQNc3l0dnDbTvDlXOjtWzg_bTPPL9GFPRRzrIG25RA2bLzXBkkHKdn8MIt_AlLV",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Nishant Keshri",
+              "uri": "//maps.google.com/maps/contrib/104141039877805188854",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTWqobEpKtth_q6ACy9NRsYAV32QFT7yY1SJNhlyrK7kv6YOw-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJbyRrxppZ6yfrsBNVzcHOdy4yyFEHLzWpsXOMRcpEup8FpCW6YSFp1Rv7j6Pd4P0Ez0-TydtK7OXMpKflBJegD3esnzPRyLl-HRx8wVVsb6z8vUFUobXDf5FCv8fdjOYLQj-GHER-RJDG5brYrf6YTBuVODt4C_8qT7",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Dinanath Ayam",
+              "uri": "//maps.google.com/maps/contrib/107110798055827808730",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWyHl7vgIMbbaoLnO94fAlBLybDknlQZFrfqRYkWcapflTn_6VU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJbwG_XjQGyREM-SDtYRxH2Fh581vvHs0tCoTBqmFEWCbgDX3tdBoMQwXPIFOpsgdVn5GgkKaJezc-CFyKZWjkTZrHWESvfkSBA6Dq2ajHi2GiPvhykKmE8KhIbScUpcc5HMTFovl1fRcJitGMiznHJxOJQrP0ee1uzl",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Nishant Keshri",
+              "uri": "//maps.google.com/maps/contrib/104141039877805188854",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTWqobEpKtth_q6ACy9NRsYAV32QFT7yY1SJNhlyrK7kv6YOw-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJbcI608YtuoYl4kzAUH8ev_FzQCLFloe1dL0aDBnBprHSXIFsBfss7CcaR31R7v0gbmkuzrtSGAUnSZ96k85_1-PDWCFgCyZi-U0OuOoCeP8x63F3jEpdZgBtGKxaGtKuwlLxAuKyd6r9RLEIwfV_Droc9D_Q0Kpq25",
+          "widthPx": 6000,
+          "heightPx": 8000,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi yadav",
+              "uri": "//maps.google.com/maps/contrib/106598289542191877193",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIlXzyCH3xuNwy_UqJB-Giqrun9gmkyeFSYDVzU9Y3jH37WNf4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr3pXNs6jiTkRAvkCDiyVoqU/photos/ATplDJbjVTFMjDAkD5R3m6ta0RwfamMW89lMo-vwvjzQ4KYmxzz_bVJwyB1iLzrBhGwEMLvXJxvjx7SpgMhTEBcI8LyNbYK45GcyeXtvCkEFhvDbv6sAXS1TUahg7KXE-PrQxngIifHOpxegbZMLAia64HmAuFtmmpXBZRkL",
+          "widthPx": 1200,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Nishant Keshri",
+              "uri": "//maps.google.com/maps/contrib/104141039877805188854",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTWqobEpKtth_q6ACy9NRsYAV32QFT7yY1SJNhlyrK7kv6YOw-=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJM67xekGhiTkR_mmVnM5iZWs",
+      "id": "ChIJM67xekGhiTkR_mmVnM5iZWs",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Subhash Nagar bhagwanpur, paranaw bhawan, samudayak bhawan, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "paranaw bhawan",
+          "shortText": "paranaw bhawan",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "samudayak bhawan",
+          "shortText": "samudayak bhawan",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MM545V9+HP",
+        "compoundCode": "45V9+HP Ambikapur, Chhattisgarh, India"
+      },
+      "location": {
+        "latitude": 23.1439193,
+        "longitude": 83.169351699999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.142559069708504,
+          "longitude": 83.167884369708489
+        },
+        "high": {
+          "latitude": 23.145257030291507,
+          "longitude": 83.1705823302915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7738700174235888126",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Subhash Nagar bhagwanpur, paranaw bhawan, samudayak bhawan, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Banaras rod ambikapur",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "paranaw bhawan, samudayak bhawan, Subhash Nagar bhagwanpur, Ambikapur",
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg",
+      "id": "ChIJj7hEocejiTkRV2C8HC0BINg",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "459V+9V7, Ram Mandir Rd, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "459V+9V7",
+          "shortText": "459V+9V7",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ram Mandir Road",
+          "shortText": "Ram Mandir Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.1184191,
+        "longitude": 83.194662
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.117079819708497,
+          "longitude": 83.193317019708488
+        },
+        "high": {
+          "latitude": 23.119777780291503,
+          "longitude": 83.1960149802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=15573448804714438743",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 4,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: 4:30 AM – 9:00 PM",
+          "Wednesday: 4:30 AM – 9:00 PM",
+          "Thursday: 4:30 AM – 9:00 PM",
+          "Friday: 4:30 AM – 9:00 PM",
+          "Saturday: 4:30 AM – 9:00 PM",
+          "Sunday: 4:30 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "459V+9V7, \u003cspan class=\"street-address\"\u003eRam Mandir Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 84,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Ram Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 4,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: 4:30 AM – 9:00 PM",
+          "Wednesday: 4:30 AM – 9:00 PM",
+          "Thursday: 4:30 AM – 9:00 PM",
+          "Friday: 4:30 AM – 9:00 PM",
+          "Saturday: 4:30 AM – 9:00 PM",
+          "Sunday: 4:30 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "459V+9V7, Ram Mandir Rd, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/reviews/ChdDSUhNMG9nS0VJQ0FnSURHOU1Ibm5nRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai shree Ram🙏🏻❤️ good place..good  vibes  here 🙏🏻",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jai shree Ram🙏🏻❤️ good place..good  vibes  here 🙏🏻",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Deepak Patel",
+            "uri": "https://www.google.com/maps/contrib/115809397410154271434/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf-USrp4xBZNSCZ3ckqhb_tMdZpUpN5TKK_7N9P8zRgEe0AggG=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-11-19T23:10:57Z"
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBeWZTM0dREAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful temple... And nice people",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful temple... And nice people",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nidhi Gautam",
+            "uri": "https://www.google.com/maps/contrib/115960350758982488805/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_B4atFFkn2xgntSlQchiZjNvU7Iwc-Lb2mNFM7Ey18F6Y5t_EeQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2017-12-03T01:29:33Z"
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/reviews/ChZDSUhNMG9nS0VJQ0FnSUROZ196V05BEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very peaceful place for devotees",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very peaceful place for devotees",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manish Gupta",
+            "uri": "https://www.google.com/maps/contrib/117477859101275820647/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImSLkLnNAEq0iQ-HJosUW6VWk-VNk2G8KXDXBi7GBIY45vMQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-25T10:23:06Z"
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwcmQtVjhnRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Very nice temple..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice temple..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Smriti Mishra",
+            "uri": "https://www.google.com/maps/contrib/111266821548055665938/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRbr0FKxjMAn9Eh-r_uTeh5GKn8eKvRXXUbm8zNWaT-v-lcmU=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-10-06T18:13:54Z"
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwbjlQenh3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice Temple of Lord Ram\nDharmshala provides minimum price residential facility.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice Temple of Lord Ram\nDharmshala provides minimum price residential facility.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aanand Bahore Mishra",
+            "uri": "https://www.google.com/maps/contrib/113038508522918509406/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfA86UobUOi55l2otUFdADE5_rjh7JXBz9m-dpopwKkFR2m11KuQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-10-16T04:58:48Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJZ2GsnCAi17OjeEk-uj2iCT4BSJv3dlTZLoVShatS5hc8CrcNajASaB3YorlDpJgzcMdJnOkg5Zh7Iloc1VRDVg0HqrfS89cfSkeLe2cI5Wy7rQHvAnqvG16z0gBZ86aXHzoYebgS-D9xh8AqHQ0J-0RDVaApFsLHYY",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJbm_M8qfrguyB-HR1Pal3ISfRGIeQCPyHYV4hChw97rzV0c_MGQmlRY2YN69-O_z4l6y-meFqn6P8XXSvyKb66txjM4bH2vrpXqUMwB7u5FhgpVLxBUcyZxMTObE175ZwRf5iXG1EiXI4d-2RTkXPPdsrz6QFq36E9O",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Patel",
+              "uri": "//maps.google.com/maps/contrib/115809397410154271434",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUf-USrp4xBZNSCZ3ckqhb_tMdZpUpN5TKK_7N9P8zRgEe0AggG=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJb7x2Slt8JOBJY_4Mtl9Vh2gJqDKtwIRP2qM41r-WRPEYA7Od2hXa1s_AdjoXkegQrquVR2WLu1sEQlAj0cdc7vYxwRRGD3LgnVjbsYjrU23hZZ5-bTZSY0btWZ11qEXIfyh7P5FXREm5uC7N_9___t7-dhtzRhUETq",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJYwHmaJrrDblzipOESOtoJscuCz7o5gHzMjUc0QMxNplYQlfTVYThqs1f8v0cNkUi6W_IMouOslWbY6H3DqoCKK2Etim6tEJRaj_UEYv0iXeTwu39Mp1OePS8Uyub_kk6Mw6-L6VrjaiHqA3EJqdAy3ejNrtWu87Nx4",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "harshita agrawal",
+              "uri": "//maps.google.com/maps/contrib/116899957019834690193",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhkTQOLovZlw-OpfehRsTN86booiFuJgGL9KqRTh6L0loidqOk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJbKTyugBU7LktImyxLAzjH1AUHtv-KNMVpFuamvgdm4tYClfmSfxIB1Ra7ngsvaIXcwVwupNT0-RtvR2mHaYWY8G-Xe-H23miNDRnOEbeIVqb0TWljycqMxGDugYWNN-JStOZvFbGygmpQte41uIULaPTfFMdS6B6WN",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Kamal Pandey",
+              "uri": "//maps.google.com/maps/contrib/116540047098344000362",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXy2_zHh2eNT0aWSr1lZKhC7jLEZLG1MvOdyMnn29HrE2pnuASxUw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJYaFDNJm_kU_MZWLVbAmNa3VBJToH6Bc_hkuBL7T27inSDBsRZ7A3aJAlcu7kHEKRhGArSIvnhxzs3aUbbWpLF5P7rvgKDJTFnT6Mxt3NWJm1eQvYUFZ8cj6sLgIovnl2t27lTi_qeHeu0UZCPau-nSP1O2ss7RGKI",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Beam of Hope",
+              "uri": "//maps.google.com/maps/contrib/106359966598513007254",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXH30sae0_iL3S9CxYyNedQDe4qW5rE_GCZH3eZ6wfVtw6PQIRJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJYMMZmVdqcwjfxnhUoUMclpFsSf0LVSAsruSAZrBODu5BNGvh5ZRxk7rxZvBSNS82G3DqWOCKXMnWnGdbS-nd1L-vUcH8_LlKBxcdpZA6Mj_pR_pXJVEw3vaGza-kZFYvndnMGkibAI8S64FcCdShdkjPhEUqNfqmQ1",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Amarnath Mittal",
+              "uri": "//maps.google.com/maps/contrib/104639432552958880350",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXS52-ZDUYIcwpr0qItbQ81xLqsIbtnbDOzQxPhzi0k8CZjzLc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJYGQHy82-TM8aqro1rgkiDLqAzZb5fdK_5h_e5dCttLhYLPvKZD_W2Mg-mfw2xnA7Qvt_vUK399xN6oVG3RcDWVTkfeffXtCp-e_-yKmOB3-tw-ngqgTHYytyfr5WsZP-3tNERF-90DAN3LKvw4VvUl11rNXBKgv2Zl",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJZc4V-KlIftlYWxJnJMIrsQNFfZXJYGsvkfOG9l3O1mwBS9QOxWJau_x1LrgD6RkvDj0WCKEn25CDeTwNgP4YDO7PgUTyQn_tsilhZqlUUkefcau1_P0zmU8U1WCPFfex-MovOAVb5-g3EU-fEy0dGDC6qUz1gpr3Zo",
+          "widthPx": 1468,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Manish Gupta",
+              "uri": "//maps.google.com/maps/contrib/117477859101275820647",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocImSLkLnNAEq0iQ-HJosUW6VWk-VNk2G8KXDXBi7GBIY45vMQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJj7hEocejiTkRV2C8HC0BINg/photos/ATplDJZxe_Q-Hh1ioo2-jXWC9GXvBbbsmMtn_gT4vSpA_SHPtqcMiqH8JGeQ1EUCbkn4SbXSt8WI8KW3z54eR2cAGZ-B9yq6P12e21AEoARV-H_RhMZm-KejJzBALAfKoI4CcvdTPpKAdmPFvNX1HBOcFegzlRn44GZcMqAp",
+          "widthPx": 4000,
+          "heightPx": 2256,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0",
+      "id": "ChIJ_xDyp-WjiTkRrsj88kxQIh0",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "shree shyam Temple, near ambedkar chowk, Ambikavani, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "shree shyam Temple",
+          "shortText": "shree shyam Temple",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "ambedkar chowk",
+          "shortText": "ambedkar chowk",
+          "types": [
+            "premise",
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikavani",
+          "shortText": "Ambikavani",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MM545HH+X8",
+        "compoundCode": "45HH+X8 Ambikapur, Chhattisgarh, India"
+      },
+      "location": {
+        "latitude": 23.1299276,
+        "longitude": 83.1783368
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.128633169708497,
+          "longitude": 83.176895819708491
+        },
+        "high": {
+          "latitude": 23.131331130291503,
+          "longitude": 83.179593780291512
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=2099328667732461742",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "shree shyam Temple, near ambedkar chowk, \u003cspan class=\"extended-address\"\u003eAmbikavani\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 50,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shree Shyam Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "shree shyam Temple, ambedkar chowk, Ambikavani, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1NE5xZTVBRRAB",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice 👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice 👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sumit kumar",
+            "uri": "https://www.google.com/maps/contrib/112724940068720983663/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmn0NogNwgKRKdyT4AsNsR-adVt6fwaNiS69UO6FKBX_QuroJq=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-18T15:17:54Z"
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzd2JiZ0RnEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice temple. Beautifully crafted and soothing atmosphere.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice temple. Beautifully crafted and soothing atmosphere.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anmol Agrawal",
+            "uri": "https://www.google.com/maps/contrib/100730734953299855395/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKk1tVth6vJQxtjrStaFY8mDcvSVjlV540wzM26Qb2K628-iRQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-02-04T06:45:17Z"
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/reviews/ChdDSUhNMG9nS0VJQ0FnSUREanNMMXdRRRAB",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Religious place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Religious place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abhay Maurya",
+            "uri": "https://www.google.com/maps/contrib/108051222541048533457/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPmqz5RXdnZNQkMZyDaFZEgdm8lW9ZijGV6qLUrtSxmRBUMA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-04-09T11:24:13Z"
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJdTVpdW9nRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai Shri Krishna",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jai Shri Krishna",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aman Soni",
+            "uri": "https://www.google.com/maps/contrib/100100560710849286610/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYxt_qxcqFAZOIBLURfEgJ61c5IKIi-OR8KkC1kCzCQkPd0_0G=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-12-09T05:13:42Z"
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBalBXNXZRRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very peaceful area",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very peaceful area",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "kunal Tayal",
+            "uri": "https://www.google.com/maps/contrib/116606521466660265652/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLK8vZglKV_h8eo8JkpdT0PQzUH_P5__t0qONN6TQXISI1S=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-08-21T09:35:59Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJY_iTvGzR9Q0NiJZUaRpRaLeYc-I4CzJdwN-KG2biYPlgb5cnVuWKQldGLi6uxdcdgX7GhtV4P28oruTwFy1U08WoqgfP3M-DjAHmpPU893j5FMMujuwYhlWdqOJsxnX2IhMH577GAsqTdIRvtjSRVQ2z4zNvI4fTvs",
+          "widthPx": 4000,
+          "heightPx": 2256,
+          "authorAttributions": [
+            {
+              "displayName": "kamal pandey",
+              "uri": "//maps.google.com/maps/contrib/118081683644661683054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXudHlG8xcIFak_QpENILv7kElz9c-XOXcSXaB7aWMelJOIQyI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJZZk9aLWkpoeWoS9eaGcupXoCCw7EVq0BqeFv_SeaB_7UNr0OQtSFpM79PSCFpG1kM2NoSkZODetMiSz6Q7WouMW4VyqxH4VFCoq0qQLbETODtNdGiGgLX3hufI9b4ZWJTfEeR_6qtQbEjxYF2o-XsE7B7RsWkaIDCu",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "K4bir Yadav",
+              "uri": "//maps.google.com/maps/contrib/106400398037295311845",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWY1ZYFrKixOiDAPY1N4c_cM4Z0VUtyqz0x_jDOXZDt55C_20U0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJYQLD9j4GwsF7UYLdSsTjmHsQvWqcf6iJkOxJXZ-O5WBvSugKuqUB01HNo0PdyjHcd8bQcIHbetfkpAYbXk921AmZ3eWGyu1ohj64J4KpdJKpKiOOfFDXoxABQ8qEX0mJ-3egMPR0yQ7WoWCngnSgU9tVnFNllUPSqE",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Ram ji Upadhay",
+              "uri": "//maps.google.com/maps/contrib/108317237968002878229",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJff4QEYj8L8EHt7hnSzUoWIKsWty7tEI6tSgW_iiAGcHU_jw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJas36teNOC0Ylsnjot8skvGUU9mtdny2VWCzw1594J1G-LmDY6xCICTNfe6vpJZ03jyzh4YGqWpqmfEqWkJ00-vsp-MBYtRAi8LfRmAhjOJfP9UI43m7bQML4M3bjlYhgKT5RjaZrH18snwvgga0SxajU_rYuaQwfDg",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Amit Nandy",
+              "uri": "//maps.google.com/maps/contrib/114512748210800838787",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRzYeDs1b_erKmIbPqNjEb3xe-e7nzx2R-za36JRQfWLNJLqSWPQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJaHgMffXqP58p6-ldpLBCYNYgIxUXB5UScaWUEBoYEurXxTdpL12nWnXMh58CTGEQEAPuKtM_YgtXfOm0puaY5lIAe1PPqybCLLYyHW8drI0ecP_qFQpKbZuvB_7Oz4JJakZMjOf5EOf0lR92hghHk__1ErF5GYzST4",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "K4bir Yadav",
+              "uri": "//maps.google.com/maps/contrib/106400398037295311845",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWY1ZYFrKixOiDAPY1N4c_cM4Z0VUtyqz0x_jDOXZDt55C_20U0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJaV0ntfBQWRJqXgPvbLV-TDo0j3-JaYco_8ufM0GiVQfqQvalDq6X1nsm-RY2QfqLpkFQ8sQ-zIV8JsaRSqz6y0ohFgTHFRu9-iCyS7oDM85rkp2JF00g89biCbmxaZQKo9YbUnlCCM3RqD8Edy1z8OHbzs5D8sCUds",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "123go story",
+              "uri": "//maps.google.com/maps/contrib/101224392815783328836",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWvFVwt9xwMhsYmm7Svl5ExRYWmgoF2plZRTa4n9SaJ0n6vJNId=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJYdwzvyhtkXVEamBWVCuFEUjcAL9afwQWUrlKUgnpgCCHetfodwG-4sIwfhz_qVrc_2Otj3OmXrCBmSwq3_IpxShsBfBVgDcKUfndkp9QPZdJtgjhCYQsmdOhqHbYK-UpKhVmVg4tbg7KswliYsmXr8baOOdd6WL_EY",
+          "widthPx": 707,
+          "heightPx": 859,
+          "authorAttributions": [
+            {
+              "displayName": "Santram Bhardwaj",
+              "uri": "//maps.google.com/maps/contrib/113962716981581932812",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ9w9yUbpy3jsxF6J6V2v7J8UfP5tPdOclK1DMRjTOdYxSs7A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJYrAPH079VIm1jv9HMxY2l-X6lwiwLYLs2mc3Ol4BXcCyk-hQ-0nxNWbTQJ0_pcjCsmDdSY0xaWpqIjSfK9adUaX7mtTc41_zZeyBPJG2_cMqkJjJMtE2JLRFP2EgDt9wBPy2043fKin_XXaMQHhOR_6MG5IJuk60vm",
+          "widthPx": 720,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Soni kumari",
+              "uri": "//maps.google.com/maps/contrib/108866746070549870708",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKYfZFCWGThkj5gJ_jc1o5g4vUzwZ68bfCxu3FwdemtBpzA5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJZLJ4CaRXIgXDunK81sEx-g84LNab1akeAfm-OVTOOnX393KduZwrbEAJY1TVFYt9IASb-Z7RuXBVdK9PgHOfXT25KNrOCPm36pnTFcp2IIVE5cKViBgAqDSv72vhuPr_UDW-Pp6xbwL7P8jouMZpBTtQVIjz-HQ2g6",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Amit Nandy",
+              "uri": "//maps.google.com/maps/contrib/114512748210800838787",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRzYeDs1b_erKmIbPqNjEb3xe-e7nzx2R-za36JRQfWLNJLqSWPQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_xDyp-WjiTkRrsj88kxQIh0/photos/ATplDJYZFKuzkqZNZTd2XlDE_49aHwxBKZ8wqbtOK0RIVei3IZuXfY45o3ExMzWhYtc2DdRcGTkK18VWLmUf_v9nC8AaB-og8jv_9KRZ-YCxJ_oUHGfPIem-a4JER8iAe2dgfde_5GvmTX6sgM3TuViwbVg5Z3vgAaRuHqgF",
+          "widthPx": 626,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Ashu Yaduwanshi",
+              "uri": "//maps.google.com/maps/contrib/113242503202567936192",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUhzhsmtD8mcs20IjiOaDuBIEQnmll6Hy1AH9hptrdTJivyv28=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ",
+      "id": "ChIJkXypfbijiTkRt01EGcYhhWQ",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "458V+CRJ, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "458V+CRJ",
+          "shortText": "458V+CRJ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.1160833,
+        "longitude": 83.1945178
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.114725369708495,
+          "longitude": 83.193164869708482
+        },
+        "high": {
+          "latitude": 23.117423330291498,
+          "longitude": 83.1958628302915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=7243232710406458807",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "458V+CRJ, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 117,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Maharaja Palace (Raghunath Palace), Ambikapur, Surguja",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "458V+CRJ, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoNDh1bG9nRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Locally known as Raghunath Palace, it is the palace of royal dynasty of Ambikapur. The palace still stands on its firm ground due to its marvellous architectural design. The palace has rich historical importance in Chhattisgarh context. One must visit this place when in Ambikapur. The palace also has hotel attached which is owned by the his majesty the king himself- Shri T.S. Singh Deo.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Locally known as Raghunath Palace, it is the palace of royal dynasty of Ambikapur. The palace still stands on its firm ground due to its marvellous architectural design. The palace has rich historical importance in Chhattisgarh context. One must visit this place when in Ambikapur. The palace also has hotel attached which is owned by the his majesty the king himself- Shri T.S. Singh Deo.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sarabjeet Singh",
+            "uri": "https://www.google.com/maps/contrib/107773018194943429614/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFQkLISoIUnWLS9Rd20wjzQCF7J12iGh9gwzqv3b3KUXGiYkAl=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-02-21T08:34:07Z"
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBcEx2S09REAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Surguja Palace named Raghunath Palace is one of the palaces of India which have rich history and a great legacy behind them to explore and be informed about.\nWith a unique architecture it attracts and radiates it's glory of past ages. It has a very rich museum which is full of historical artifacts.\nDussehra (दसहरा) is still observed with much fanfare in the precincts of this magnificent Palace building. Pooja (पूजा) for the specific day is observed by the present Maharaja Shri Tribhuvaneshwar Saran Singh Deo, popularly called as T.S.Baba by the masses.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Surguja Palace named Raghunath Palace is one of the palaces of India which have rich history and a great legacy behind them to explore and be informed about.\nWith a unique architecture it attracts and radiates it's glory of past ages. It has a very rich museum which is full of historical artifacts.\nDussehra (दसहरा) is still observed with much fanfare in the precincts of this magnificent Palace building. Pooja (पूजा) for the specific day is observed by the present Maharaja Shri Tribhuvaneshwar Saran Singh Deo, popularly called as T.S.Baba by the masses.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anjani Kumar Tripathi",
+            "uri": "https://www.google.com/maps/contrib/113052429629532053852/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLZywwJlFWvvU1HyHvfkJ-7M0dzRWq59FO75EC47fXGE7AnkIU=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-02-24T16:50:36Z"
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZ2RiUGZ3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "The Maharaja Palace is the historical palace of Ambikapur, the history of the princely state of surguja has been very glorious.  What makes this history even richer is the Raghunath Palace, the palace here.  This palace has seen the golden period of the princely state of Surguja.  Whose testimony gives its rate and wall.  But with time, this palace has now become a palace to cherish the old memories. This palace was built long before 1895.  But in 1895, facing north, it was given a complete shape and this palace was named Raghunath Palace after the then Maharaja of Surguja, Raghunath Sharan Singhdeo.  This palace holds thousands of memories.  With the passing time, the palace has also become old.  The walls are cracked but it's amazing nonetheless.  A wonderful heritage can be felt on seeing it. The credit of making this palace and the best decoration in it goes to Maharani Vijayeshwari.  Maharani Vijeshwari was from the Nepal royal family.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The Maharaja Palace is the historical palace of Ambikapur, the history of the princely state of surguja has been very glorious.  What makes this history even richer is the Raghunath Palace, the palace here.  This palace has seen the golden period of the princely state of Surguja.  Whose testimony gives its rate and wall.  But with time, this palace has now become a palace to cherish the old memories. This palace was built long before 1895.  But in 1895, facing north, it was given a complete shape and this palace was named Raghunath Palace after the then Maharaja of Surguja, Raghunath Sharan Singhdeo.  This palace holds thousands of memories.  With the passing time, the palace has also become old.  The walls are cracked but it's amazing nonetheless.  A wonderful heritage can be felt on seeing it. The credit of making this palace and the best decoration in it goes to Maharani Vijayeshwari.  Maharani Vijeshwari was from the Nepal royal family.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shivanku Tz",
+            "uri": "https://www.google.com/maps/contrib/106139164071160478907/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCbStzLnsBz3e11q3YPqF9C3hcJiBbSA-zuTbRT62626LR7AYS=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-07-06T20:11:09Z"
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwOTlydl9nRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice place , ancient Royal palace",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice place , ancient Royal palace",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Agri scan",
+            "uri": "https://www.google.com/maps/contrib/116280274778344100064/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9nItova2vZXW8HnqBYcPlUD6YYudvj2s6Mwr7-ghONtYkK5Z7hw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-10-14T11:37:09Z"
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURld3NhSEtnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "It's incredible to visit the place .\nPrefer visiting their on dashara eve so that the King Shri T.S. Singh Deo presence can be expected.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's incredible to visit the place .\nPrefer visiting their on dashara eve so that the King Shri T.S. Singh Deo presence can be expected.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vish Gupt",
+            "uri": "https://www.google.com/maps/contrib/113406737585132750560/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlXA56i1lqABmQZl1n-yTk6jfIdR1HpS_lZsDGfgkE7UqbDtT2=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-10-05T17:41:01Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJawqGQ5yv0zoINmG_XrU7_Ff2t4d_GSMKfNdCH3_Pf5IJYV7Uiqo89n1hraLe09qgCG3xMnKQNpESinRJ-pE1CR2AelUB7sSbuaeGTCFYCehaCcMpJJXgQQwFMmG1d5prmBGXLgYqsbAp6QzxLdkExarh0scGEpDDq7",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "MechoSlovakia",
+              "uri": "//maps.google.com/maps/contrib/111010439912910993019",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXkWHIT0h9SkfYXdAXm82qNxx4qkmENKoaWEqVaxqrp3mxxlMom=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJbHldO3oM2DjAyiPPv544YvhSglJprgxg93Jp2mSDrgRXC5dHCVgkhmM-a0ZKjljVqax8x_lDhjSaVoLjeAwRBSGzZ1nMu6gDL1hEdHgGooUXL5rQ1VF48R-avj4yKdmV-Q2Zg_vtqWRPue8Nk3wYanXAKuxxmLr-x8",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "bharat bhaskar",
+              "uri": "//maps.google.com/maps/contrib/101776362734851817956",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZZobJcp0qRk8_SNdXVCF9HgWZ8dntu8LXx65H7FsZgEuH_iqC=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJaWecYchdVd1a1RwQSszZjIZc_vIWY0-BJaYeBg7aKMC5bxoRU0PVCe-ZQhQm2hXsv1ImyuwU5UypkG-8Gr6j1rbeuqLNumDDjCobIEsLwapA6m2LOOnH8LhKqAySO9rkjlQuflO2oGCLEJcwWf5v3pgxfRh2VGrNkJ",
+          "widthPx": 2250,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Kumar Singh",
+              "uri": "//maps.google.com/maps/contrib/113507375533583727180",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUm-sEzTg6_OiqFgK4jnG1N5yT8x3Dc5Ps3O6qIho8KK9K-It4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJa4dpg7TwFbKxs2jEjqH33b_NROvJGwgD_WoV23OMoB1CLKklv9_AfwNv3TdqCqpLKflCcJ2e1NHOOKWG6f04H0QAdulBdIddJ1btkk21bGmYBzUQta9GDxFe1wL2mh62yBNxhYXc5dz9TrrwwX6fZlco6XmvMA9Qz-",
+          "widthPx": 2048,
+          "heightPx": 1371,
+          "authorAttributions": [
+            {
+              "displayName": "Anjani Kumar Tripathi",
+              "uri": "//maps.google.com/maps/contrib/113052429629532053852",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLZywwJlFWvvU1HyHvfkJ-7M0dzRWq59FO75EC47fXGE7AnkIU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJYaTitCKn8AM5cWrKXNkcFfawpPX5TXOU7EcJLwd5bNr6HZ4QhFgIKsORXs7tSKB-ZjLv0pysZVT3qXuCfAz1D6O_As8Csl0DHv0Lj-7tP2eHkyGTaw_LLlttNieBi2Xc24dYyrCJF6JMjls_Zlp2Pj3GdJ-JXpKxnz",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Shubham Gupta",
+              "uri": "//maps.google.com/maps/contrib/106508749260370552568",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRktVKAbp8G5mX6RIvbIzTaW7HgC64_oHkC3DIZmTDe_1GPQaFXw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJbJrkYnz8-y8c9-wZAuKo5LI2vSBWr2cqSyuahTqzyNjBIBSE1qs9L417_j0MIx45fYjfAh2H__15ahwhGNQeRZW7raBFpeXvZgvKjJb4xhk59wGpvdIrtnNMNlfoXxwTLDBTxEW0Rud-F-Sh70ErrCRdREy9tyoPdy",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Deepak Gupta",
+              "uri": "//maps.google.com/maps/contrib/104127717351042068478",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWlbgyhKk1pcCi0GjUYuVEoBtE3N88lmyIFP4qZIp5Fncc4uiqr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJbkqxv5fxEzBqvWx40CamBNz82Oeb_6PSr78TW2X6FquGcXVuCcg48VWAz4J1ogBqPH5mo4Ihcj3b1muaqfJ6MEbHPTuJsG9-ORQS1bFGrBbvVp0gI4Cpr6AwAPcmyC1OZt54FkY8H0x9iJBwP-XD_m6m8-Nul7TqTM",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "MechoSlovakia",
+              "uri": "//maps.google.com/maps/contrib/111010439912910993019",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXkWHIT0h9SkfYXdAXm82qNxx4qkmENKoaWEqVaxqrp3mxxlMom=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJbXEHjBf2LN37S0jDlaOcBafn-hq6ps1IbFMOcPDF9SseHMPFhBkv2uLyPWiYASSiSB9_1dH-oyDURcmTz7oJH70Bp5NxRX0fsiCyD6f5IFcexkcRq-dqNaMMinaez_RbX7qwsNujGfNeIP-iddWphtxBMR3U4e8_jO",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi yadav",
+              "uri": "//maps.google.com/maps/contrib/106598289542191877193",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIlXzyCH3xuNwy_UqJB-Giqrun9gmkyeFSYDVzU9Y3jH37WNf4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJaZPIS30JgILJFwteVnGzawL-EoQKvETQKvFcWO7KPozXjI5vaKHgaH2NtJ31NPe3CwH3Ag6DbuQSGlT3drlK1Z7qjD4JYf0k8Sh4OJMPizBG2Q1zTTqO947a3EudNrsEbST6wNmVC98X-URylKGb238Y2CnObDxQ64",
+          "widthPx": 843,
+          "heightPx": 468,
+          "authorAttributions": [
+            {
+              "displayName": "anuschka sahoo",
+              "uri": "//maps.google.com/maps/contrib/103974771270456253702",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWcaTO7ZTwD1LHpZun2Ql0yV1YUfFxJ_r5M5S6ftU2FKACdEiXw0A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkXypfbijiTkRt01EGcYhhWQ/photos/ATplDJZKiEl-hGTHQVjGrLVnBmH-cLzRa3Qav9Rwv3Q07YfddbrQ8YB0CrtHwqdtJAyBBt8mW85r37j1vN9mE9hPDsWn8u6tKcxkkxqSfr-yC4KLo7VARGFZX0EU0nM9Rz5WX1pZosj2K17SJcMxM8M3MhmqMGICCgQVLvOf",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "bharat bhaskar",
+              "uri": "//maps.google.com/maps/contrib/101776362734851817956",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZZobJcp0qRk8_SNdXVCF9HgWZ8dntu8LXx65H7FsZgEuH_iqC=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms",
+      "id": "ChIJHcZe8cGjiTkRKOXBwdluRms",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "497001, Ambikavani, Ambikapur, Chhattisgarh 497001, India",
+      "addressComponents": [
+        {
+          "longText": "Ambikapur",
+          "shortText": "Ambikapur",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambikavani",
+          "shortText": "Ambikavani",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja",
+          "shortText": "Surguja",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Surguja Division",
+          "shortText": "Surguja Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Chhattisgarh",
+          "shortText": "CG",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "497001",
+          "shortText": "497001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7MM545CP+PW",
+        "compoundCode": "45CP+PW Ambikapur, Chhattisgarh, India"
+      },
+      "location": {
+        "latitude": 23.121798000000002,
+        "longitude": 83.18732589999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.120422019708496,
+          "longitude": 83.186051869708493
+        },
+        "high": {
+          "latitude": 23.123119980291502,
+          "longitude": 83.1887498302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=7729987691965703464",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "497001, \u003cspan class=\"extended-address\"\u003eAmbikavani\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmbikapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eChhattisgarh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e497001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 51,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "रानी सती मंदिर",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "497001, Ambikapur",
+      "reviews": [
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1cXZ1R09nEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Dadi Rani Sati Temple Ambikapur,\nThe temple is a symbol of history of Rajasthan where there was a lady known as Narayani Devi (Dadi Rani Sati) who committed Sati on her husband's death with some more lady who lost her husband in a war,\nThe story was between the 13th to the 17th century.\nThere are many temples in Northwest India but one is very famous for Dadi Rani Sati temple was in Jhunjhunu Rajasthan.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Dadi Rani Sati Temple Ambikapur,\nThe temple is a symbol of history of Rajasthan where there was a lady known as Narayani Devi (Dadi Rani Sati) who committed Sati on her husband's death with some more lady who lost her husband in a war,\nThe story was between the 13th to the 17th century.\nThere are many temples in Northwest India but one is very famous for Dadi Rani Sati temple was in Jhunjhunu Rajasthan.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravi Kant Agrawal",
+            "uri": "https://www.google.com/maps/contrib/105015963952292136468/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhKlb48Kk2u3qgWYb1QnhGGt7vzrM-NKgO86mdMF9VBiNKvK3DFA=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2022-08-18T09:23:14Z"
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBcEtfdXFRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 2,
+          "text": {
+            "text": "A Hindu 'Devi' (देवी) temple, added in recent year. Impressive look with spacious interior.\n[Note: We in India adopt dual standards, as we have not allowed to get bill passed in Parliament for promised 33% representation for women yet. Instances from ‘Mahabharat’ (महाभारत), and recent happenings prove that we have regarded this 50% population as ‘object’ (वस्तु). We have glorified her for forced barbarian ritual of yesterdays as ‘Sati’ (सती) over the years and living still in same mental set up.\nWe are the people of a land of contrast & contradictions. One can find 'time warp'. Many different centuries exist at the same time in this land of extremes.]",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A Hindu 'Devi' (देवी) temple, added in recent year. Impressive look with spacious interior.\n[Note: We in India adopt dual standards, as we have not allowed to get bill passed in Parliament for promised 33% representation for women yet. Instances from ‘Mahabharat’ (महाभारत), and recent happenings prove that we have regarded this 50% population as ‘object’ (वस्तु). We have glorified her for forced barbarian ritual of yesterdays as ‘Sati’ (सती) over the years and living still in same mental set up.\nWe are the people of a land of contrast & contradictions. One can find 'time warp'. Many different centuries exist at the same time in this land of extremes.]",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anjani Kumar Tripathi",
+            "uri": "https://www.google.com/maps/contrib/113052429629532053852/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLZywwJlFWvvU1HyHvfkJ-7M0dzRWq59FO75EC47fXGE7AnkIU=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-03-17T17:43:28Z"
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKdk15Tkd3EAE",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very peaceful place 😃",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very peaceful place 😃",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vishal Raj Bhardwaj",
+            "uri": "https://www.google.com/maps/contrib/108117016168934224745/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLF9UfnnoJ608nNN5TODxkv43WHqL-HNmal4OEpEOYihRkbnZMo=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-06-23T01:58:36Z"
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzaG9qcGR3EAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Very good place, it is mind soothing for people..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good place, it is mind soothing for people..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jigyashu Gupta",
+            "uri": "https://www.google.com/maps/contrib/114412184410053756998/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBd3FG9HARgNWUI9-dgx-m6gHiCUQSIR6FAc25sF5NNAvL1EA4=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-01-30T13:48:50Z"
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/reviews/ChdDSUhNMG9nS0VJQ0FnSURvazhyODVRRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "This is out of city.but you can enjoy here",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is out of city.but you can enjoy here",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dinesh Kumar singh",
+            "uri": "https://www.google.com/maps/contrib/101161028498970171769/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnsnC6OTAxPNVxW2iQKiCE580k46SVFEYajME6BsgE-OuYXP4=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-03-20T14:36:10Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJawobRlaTf2nuUKmPJVSWFALZG2bZZ2MPaAPseb9IvR3hztVIxHjzzsBUfHe-ks3X2DKKoovtaGPpTvftIjvVkbkEpj8zZSpXiLv3gUTrv51d1qKZ-31RjLz3V5U3GIqLvW1D3JfHmaC9O48WV_kJKoGi1WlVo9Ulpu",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Subhankar Hauli",
+              "uri": "//maps.google.com/maps/contrib/113849049288230967910",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWZcbfcV6XIh0f7S66d0fkmp73k0x2NtCO9UIQtS7yO1cOG_tk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJYZZVCwEOnnggGT6Nz9mkv_7o1jPyJ_9Xzy-jakCyxp6Cht5jThDAvXsfAlZ3sQ-i49T8JZ0vof9lT5YCrfSy9Mi6e4Uf3Rl2HmUfyl0TifAM6doXKa2SiTVYkAbxvWPelhAnNteyDwyK997HbT9lBAUw10KtIcmEOd",
+          "widthPx": 4080,
+          "heightPx": 3060,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Kant Agrawal",
+              "uri": "//maps.google.com/maps/contrib/105015963952292136468",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhKlb48Kk2u3qgWYb1QnhGGt7vzrM-NKgO86mdMF9VBiNKvK3DFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJaTLMmRU5sQ5zHtxiN3f0WpaKjMbeshh5hj_AAfl9p5seRsQeCgRSCM5JZhAp3aS9SBLDqbOlCq7laXhyGpgcPaQjFdEeFlp_W0amrfcPdHZ-BK_LSVIs8cSDYAWl-4EHvaofxpp6zTd3HH2RtSTel4rkqe-C0ru91B",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Anjani Kumar Tripathi",
+              "uri": "//maps.google.com/maps/contrib/113052429629532053852",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWLZywwJlFWvvU1HyHvfkJ-7M0dzRWq59FO75EC47fXGE7AnkIU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJbcfczgFOYr9-6qA6ECu74yQisc1V9U8urBzs5Pi2oqdb2mdYL-l-0mMoqv-x9_GTPAEnhx1tnHBoqM7Wj1rCjfDd_34N-2nhVi7R4opYW7FF6BalomuvJ4pU28O1uEy5KNZxuGSUv0B5ITwEcZHj1RfG3rf0OaNTMp",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Kant Agrawal",
+              "uri": "//maps.google.com/maps/contrib/105015963952292136468",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhKlb48Kk2u3qgWYb1QnhGGt7vzrM-NKgO86mdMF9VBiNKvK3DFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJY5gN2DG-sniKDRMgppBIbaVJmIw2e3HH5CaV6TaJ3YzsML8Avp7sC6Ff1GeJgaA--IxsNv-ArESAREB3AQrZoSaVVf80lc_2A0rN3ZmCFjjzIiy7BYTI3i2W-sx1z1G-_b5-csHWqM4CpQk5KFpxsuur9xFKG-6LoR",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Kant Agrawal",
+              "uri": "//maps.google.com/maps/contrib/105015963952292136468",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhKlb48Kk2u3qgWYb1QnhGGt7vzrM-NKgO86mdMF9VBiNKvK3DFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJa6XhMr-__ZYaJwWgdbpRqgFn9Jb72E75nY0ChCNyqrvQ_mXXCUL65b666aDjdQaEMSVfpigI2i2c8uD33WdAgY6SyzYRiImc3ufjmiGYyQCmzp9erJScpKyYa1tDtJa-6fM3SoTpBn3S1KSK30qvlWhYmaU8tUb2pj",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Amit Kumar Sahu",
+              "uri": "//maps.google.com/maps/contrib/101432457849679541718",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUzw4LCzAlga7XA4D179Hho_oscdrk646rmACA30yFi3iDFkiez=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJbOiXnXTl1ekNHa6xyD6SjcuCPUzDXsHsh0nIminFJUh_dY5rz5UehZ0OF13tWh8ZH6QYYWj4OpBeX-4dwTcJu3RYSkVemmUd5PWyRb4n5gH6gn64iJR5VgPiwOYuZXoaDrMJuphn9i3l13a_6IT6pK-EKI1K9TC2SL",
+          "widthPx": 4080,
+          "heightPx": 3060,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Kant Agrawal",
+              "uri": "//maps.google.com/maps/contrib/105015963952292136468",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhKlb48Kk2u3qgWYb1QnhGGt7vzrM-NKgO86mdMF9VBiNKvK3DFA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJaE8hADxnt33L9xKpRyEQUG7neX93mHhdoU65RjfLvbY1QGxZV-Y1ZA785XZncfkzpATPNKOiU-mROSjRRHwbZSZrTItY2HfI78OWtIjTJBi5GrTXCs51mBBbh_x3WnMFz4iNXRvp3MZ8F4PjaZReeA5MZrLKw4YjJq",
+          "widthPx": 1816,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Dinesh Agrawal",
+              "uri": "//maps.google.com/maps/contrib/105961266929116490162",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUjBxl_0w7OHwV0SCw7VRw47_CubFTHu4CfjhwWyvHApsv0-dG87Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJaazhnKmmxkicv-9QVWBo4Pw4mje1i6BxYsOs5KI32KvnV7RHFJaf2xtYt9brnTE9MkjVAxuS5oJS1NhRGXa1-UGxxpWMvdyvVyb9VhfjxWzhfH1DB4UT4NpbdrIGwrbL6V7kx_5GhM4IoB1iQLzDu4Uf6Eoej1FJ4R",
+          "widthPx": 4608,
+          "heightPx": 2128,
+          "authorAttributions": [
+            {
+              "displayName": "Pooja Yadav",
+              "uri": "//maps.google.com/maps/contrib/116338807147123841801",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKGLTHM8ggXFZhmfl1bdppIL6zPoVjkwK0ohkMKiyuXgwtV4Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJHcZe8cGjiTkRKOXBwdluRms/photos/ATplDJat-CkIE5qSev8GVWH_JVt-2nAEoHdAnsRTClWgPwvfUHB73F-F_qLsZSCNbTAwc-yaaVCpOGzEZoPnll8zBKlP0X8wdVr7V1X3BrNl0AkdywGQzrfMyjTnsAk455068-Omz1YLdwFflkiGU1jf2fJfkDBx_1FXgZJb",
+          "widthPx": 1135,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Rishabh Singh",
+              "uri": "//maps.google.com/maps/contrib/103325942334932014995",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMSTZlpUaC0yEnPPTjHahAbK2-B73CW1AVnJzPr-IlCiSQiTw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    }
+  ]
+}
+

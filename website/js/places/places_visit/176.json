@@ -1,0 +1,4077 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI",
+      "id": "ChIJsz6bVN7h1TsRg3MY9zIAktI",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "093007 87332",
+      "internationalPhoneNumber": "+91 93007 87332",
+      "formattedAddress": "National Highway 19B, Balajipuram, Betul Bazar, Madhya Pradesh 460004, India",
+      "addressComponents": [
+        {
+          "longText": "National Highway 19B",
+          "shortText": "National Highway 19B",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Balajipuram",
+          "shortText": "Balajipuram",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul Bazar",
+          "shortText": "Betul Bazar",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460004",
+          "shortText": "460004",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JHVVW6J+7M",
+        "compoundCode": "VW6J+7M Betul Bazar, Madhya Pradesh, India"
+      },
+      "location": {
+        "latitude": 21.8607473,
+        "longitude": 77.9316587
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.8593400697085,
+          "longitude": 77.930290619708487
+        },
+        "high": {
+          "latitude": 21.862038030291504,
+          "longitude": 77.9329885802915
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15173190313458561923",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Tuesday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Wednesday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Thursday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Friday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Saturday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Sunday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eNational Highway 19B\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBalajipuram\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBetul Bazar\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4722,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Rukmani Balaji Temple Balajipuram Betulbazar",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Tuesday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Wednesday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Thursday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Friday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Saturday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM",
+          "Sunday: 6:00 AM – 12:00 PM, 3:00 – 9:30 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "National Highway 19B, Balajipuram, Betul Bazar",
+      "editorialSummary": {
+        "text": "Palatial Hindu temple dedicated to Balaji featuring ornate carvings, a garden & a fountain.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxazU3NEdBEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The Rukmani Balaji Temple is an architectural marvel that captivated me from the moment I stepped in. The intricate design details and craftsmanship showcased in every nook and cranny were simply breathtaking. The serene ambiance of the temple instantly calmed my mind, making it a truly soothing experience. The caves surrounding the temple added an adventurous touch, creating a unique and memorable visit. Overall, it's a must-visit for anyone seeking a blend of architectural beauty, tranquility, and a touch of exploration. We visited the temple when we were travelling to nagpur from Bhopal.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The Rukmani Balaji Temple is an architectural marvel that captivated me from the moment I stepped in. The intricate design details and craftsmanship showcased in every nook and cranny were simply breathtaking. The serene ambiance of the temple instantly calmed my mind, making it a truly soothing experience. The caves surrounding the temple added an adventurous touch, creating a unique and memorable visit. Overall, it's a must-visit for anyone seeking a blend of architectural beauty, tranquility, and a touch of exploration. We visited the temple when we were travelling to nagpur from Bhopal.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Soma Dutta",
+            "uri": "https://www.google.com/maps/contrib/112000918001092747745/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKagm4Qd7avys6fBwvrOaEitRsGBgpNUXVPVNBz7HNPsT8OVGc=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-01-03T03:17:05Z"
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbTVEVm9RRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "It is around 150 km from Nagpur. Temple is well maintained. It is on Nagpur Bhopal road. The complex has various temple. Some free access temple and some are ticketed temple. One Vaishno Devi darshan temple is there, where you need to climb some heights(75 foots), but needs more safety measure. Hope temple authority take care about it. Overall experience is good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is around 150 km from Nagpur. Temple is well maintained. It is on Nagpur Bhopal road. The complex has various temple. Some free access temple and some are ticketed temple. One Vaishno Devi darshan temple is there, where you need to climb some heights(75 foots), but needs more safety measure. Hope temple authority take care about it. Overall experience is good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "shantanu vaidya",
+            "uri": "https://www.google.com/maps/contrib/110389369202343253040/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuFHY5mAb4totPwTKf2G90e18o5M7xugCw25iwpYJxJre5DrXvoQ=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2024-02-18T12:58:55Z"
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOc0xXc2hnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Architectural Marvel at Rukmani Balaji Temple\n\nThe Rukmani Balaji Temple in Betul is a splendid tribute to Lord Vishnu and Rukmani, marvelously reflecting great architectural prowess.\n\nMeticulously maintained, the temple grounds are serene, adorned with natural lawns and vibrant flower beds that create a peaceful ambiance. This temple isn't just a place of worship; it's an artistic masterpiece that deserves to be visited at least once for its divine beauty and tranquil surroundings.\n\nA visit here offers a spiritual and visual feast, leaving visitors in awe of its grandeur and elegance.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Architectural Marvel at Rukmani Balaji Temple\n\nThe Rukmani Balaji Temple in Betul is a splendid tribute to Lord Vishnu and Rukmani, marvelously reflecting great architectural prowess.\n\nMeticulously maintained, the temple grounds are serene, adorned with natural lawns and vibrant flower beds that create a peaceful ambiance. This temple isn't just a place of worship; it's an artistic masterpiece that deserves to be visited at least once for its divine beauty and tranquil surroundings.\n\nA visit here offers a spiritual and visual feast, leaving visitors in awe of its grandeur and elegance.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yashhraaj Barman",
+            "uri": "https://www.google.com/maps/contrib/116547002528491559883/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDGuAR4xY-jUZ8C-kJni1pi4YDfq9pHs98oKArXDMyef4P0ZUp=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-01-11T13:31:48Z"
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/reviews/ChdDSUhNMG9nS0VJQ0FnSURGX2YzN3pnRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Balajipuram stands as a contemporary temple devoted to Lord Balaji, emerging as a significant tourist attraction and pilgrimage center near Betul. A must-visit for those journeying between Bhopal and Nagpur, the temple offers a serene and spiritually enriching experience. Overall, Balajipuram is undeniably a great place to explore.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Balajipuram stands as a contemporary temple devoted to Lord Balaji, emerging as a significant tourist attraction and pilgrimage center near Betul. A must-visit for those journeying between Bhopal and Nagpur, the temple offers a serene and spiritually enriching experience. Overall, Balajipuram is undeniably a great place to explore.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aditya Barange",
+            "uri": "https://www.google.com/maps/contrib/106760457567047668418/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3J2WfBpSDhITVjDi3iRYErCBaxpcH8fwejzvHTKpykSU-0VrnOQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-11-09T15:08:28Z"
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/reviews/ChdDSUhNMG9nS0VJQ0FnSURWNjZqejZRRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nicest place we ever visited.. feel so energetic and fresh we you visit here.. Place is good all facilities including stay and parking is available for family. We shot a small vlog on our Youtube channel so please also watch it at Jyoti Prashant Vlogs",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nicest place we ever visited.. feel so energetic and fresh we you visit here.. Place is good all facilities including stay and parking is available for family. We shot a small vlog on our Youtube channel so please also watch it at Jyoti Prashant Vlogs",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jyoti Shukla",
+            "uri": "https://www.google.com/maps/contrib/113243512194585316910/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7ZHOHTytqbF5DfpXSY_bo8WcIqTZHgoXngVUSdt0YD_9uLQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-16T10:04:03Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJbocE7N_3DKqAOIhd7Zsy1OhlYi10OoAm1j7o0XWExUV30aemRNcYerOpAcWLGb0ntX9rIaJfIAY4FlIeoV-zEVMBYB8vrRpA4pRucmPV4zwFMrhk3AR2Su0fO1rT_QAK3sJE_3uE78JweiOZq9EA7fBNsQJWZU-TQT",
+          "widthPx": 869,
+          "heightPx": 394,
+          "authorAttributions": [
+            {
+              "displayName": "Rukmani Balaji Temple Balajipuram Betulbazar",
+              "uri": "//maps.google.com/maps/contrib/113990353259862408863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJLEwxbZtBMVpZ6IzgK7pxRzHH2B7Au1OSR_Veman-EDAu8yA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJa-fOIXBU-ugXntFH7Y-LWOWHHGAOIXN8H0X3-wpOmGNatvYviUjpdkJHdlY7LlwLlujPmcjY7XdewrYoVZrG5o_u245qgiF1GIgq9_vvNXKWoL35DUvm-iKc45n0PaIbVemMSDZMMemIKG9A2rluzXHQ5OSDRJDEj6",
+          "widthPx": 12000,
+          "heightPx": 9000,
+          "authorAttributions": [
+            {
+              "displayName": "Sagar Bharti",
+              "uri": "//maps.google.com/maps/contrib/106476442463285511907",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVa9uUZl9M_c_dB3vxd65y1Tx2Tp_uzjhyLH_Op72tbWFGbicYn=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJbktsbl75iCCFTR64QVOuAxnliGVdQxrYsVDGE1B5IX1GxJ08u95QVgP3DZloUtO4Nyq134dZFebBjVK2RqdF-lAUUmlXvzEt86DN7ecn1058q0pOs0k8WPtcTX0kU1SaGjG3uigL_b6waOMdGGfMRQl9yth2wdWVjc",
+          "widthPx": 4160,
+          "heightPx": 2340,
+          "authorAttributions": [
+            {
+              "displayName": "Golu Kumar",
+              "uri": "//maps.google.com/maps/contrib/102600756659024573742",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKLhrdSVYXJNcCzP2dS_f0nw68vWAyvsOUMp1SqhwTDhl5QKA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJYu0-Sh9hKWmm7S9kDyZnKHmrKBe22hPNjT2k5MqkMGS6_1mJq_CVhXcE9AiiuDg_zrN2D8Tt5kvUQvthWsfV5GSXw_0OhoYHlprk54lSs5K5osJ0RPZ-BMWzp79sFOCiuAjXMRM14oRcxADvD0lLQoTZKglCWg_bx-",
+          "widthPx": 867,
+          "heightPx": 1156,
+          "authorAttributions": [
+            {
+              "displayName": "Ankita Shrirao",
+              "uri": "//maps.google.com/maps/contrib/113049619110254379579",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLyoSlBZe2hlUECj74ZieyaEe5hK6sNLVzQlX4aL86Ax1BWWA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJba6mc1wP45zliRWnlB-Ofc49x509F62iUbwwrOxpDVpAH2TJkLIQrzAV9aDfWzkRw8vZTtxVroPugAG2ocC7aTcBTAqlhmtUjtT5H1lTceRv_zHOXGDZzKHI-FMj0SWi4zA8i2tnwHLdY34f-YDy68eLwhclQ9Tkt5",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Sagar Dhamnani",
+              "uri": "//maps.google.com/maps/contrib/114081027727963213578",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIvQdzblijEtp3DN8Ui2dJZ_uX3IE-Y7YCKf_ahDQN5C7TsEQk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJZNQ9sDb1ciDVBskCGmQNIsDUF3GmtzIkPiWPLBK22APmAG8KbHPyUb6_XUaOk1SmzYsrjMtt567eBTW9g5d2dLV6THmmR0P5Wdd1UKMqwWNgYD64BSkST9Hn4BxvE5ITtf39pPCk-Izj5F3RkfKMvBjmm3CvDqhKxP",
+          "widthPx": 3472,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "Dr. Harshit Kamlakar",
+              "uri": "//maps.google.com/maps/contrib/105800561015426897459",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU29c7PLS9VDX54zN5SvJzC-vxnjY8Jqnw0BBq_DmxzvcG1KVvifA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJbLcnIh_JYociXVNCHvsB02DALje18Nbp0Du3ZM2DRaCEJCmv8oRN4D-UQP-ANNrPy0dnf4Mlpb5ype8_53gvtpmRC-EZ58NZIVfExlNYKxRq3WEI9ca8rX4dlU0DBqGxAt4thiLK3FR_sLTvDbkbgg8WWAQ05aO2uC",
+          "widthPx": 4898,
+          "heightPx": 3265,
+          "authorAttributions": [
+            {
+              "displayName": "Rushabh Ramteke",
+              "uri": "//maps.google.com/maps/contrib/104670833895540491883",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXE1rLk74CFBNn3kYWAVRgQeltyKl3ceXfCZTB0Z0TwBifsZbZs=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJYfHAXje5a5Q94MNoCBFq_-EhvjPjwuGIbc_b-FfEc0-XEieiW0ROu9OvDetAiQD7K7LLr2hL9GF4fQ_04V2klFscoaG_R4IGhIw_etmsooRcegcdakntw14SKLK6aFZpHrw9X3Aq2UJa6SK2zQFfW8Z61HoSK5WuTO",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Pravesh Jain",
+              "uri": "//maps.google.com/maps/contrib/110716651436349654180",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCtJwj0sJry7sX15gv3Tg59I1jW0D70dvGswk09tV60vmSSMo1=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJY3LBHESCowLmKU2bPInDSu4jt3LBmsMJEew0G92G-3qlId3KAI4Y__dQJaVcy3O0Ck4bymP_v3xBI9M22h8YehLhTrT6THuW8nJoSdK5Nz4hunlukQ1Ag0JgCXB-cejsPHJvzOkQj_rq7jtXDTtUohDxUKMy6pK4Nc",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Shraddha Soni",
+              "uri": "//maps.google.com/maps/contrib/116785100927218895754",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWxCpaZnRiofe2N_6_XkKY2hKaNQbA2dcH177nrD49RWZZ5i8g4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJsz6bVN7h1TsRg3MY9zIAktI/photos/ATplDJYWSJM-EWSLnN-CWUTTTArVZR0MJBZ-SC4jj8Mzh_S9uInNdXmlqxljvUc-W3dftahk--EI_I7Se43WtLB0-nuXLitWUcAYagpDTQVFEA-BnK_eH7BZmDSTRSJlKw0XBKn9T3UqZ_nAnRHZ-oRLpHZ_Wbbf7YgNKjZj",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Samresh Biswas",
+              "uri": "//maps.google.com/maps/contrib/101193541720942743126",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXHMlJMT8SlQ2s5QtdETp1QkDGvYJJf6wRFGhDU0Ol-dI5qqd13=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc",
+      "id": "ChIJeQWq997h1TsRXJdH3su9CFc",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "07141 268 236",
+      "internationalPhoneNumber": "+91 7141 268 236",
+      "formattedAddress": "VW6J+8J6, Betul Bazar, Madhya Pradesh 460004, India",
+      "addressComponents": [
+        {
+          "longText": "VW6J+8J6",
+          "shortText": "VW6J+8J6",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Betul Bazar",
+          "shortText": "Betul Bazar",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460004",
+          "shortText": "460004",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.8607983,
+        "longitude": 77.9315281
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.859384619708496,
+          "longitude": 77.930157919708492
+        },
+        "high": {
+          "latitude": 21.862082580291503,
+          "longitude": 77.9328558802915
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=6271471164418660188",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "VW6J+8J6, \u003cspan class=\"locality\"\u003eBetul Bazar\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 132,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Balajipuram Temple Aeroplane Point",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "VW6J+8J6, Betul Bazar",
+      "reviews": [
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5cE1DdElBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Betul is district of madhya pradesh\nBalajipuram temple is here in this temple lord vishnu and temple area is very nice neat and clean there is a one vatika vihar to dedicate to lord ram life about 14 year journey of lord ram in forest area\nThere is a one artificial snake you can enter in snake in mouth and visit inside of snake and exit point is tail\nYou can reach betul by rail is well connected by itarsi bhopal nagpur etc\nBy road also",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Betul is district of madhya pradesh\nBalajipuram temple is here in this temple lord vishnu and temple area is very nice neat and clean there is a one vatika vihar to dedicate to lord ram life about 14 year journey of lord ram in forest area\nThere is a one artificial snake you can enter in snake in mouth and visit inside of snake and exit point is tail\nYou can reach betul by rail is well connected by itarsi bhopal nagpur etc\nBy road also",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "VISHAL RAGHUWANSHI",
+            "uri": "https://www.google.com/maps/contrib/100945506170486808621/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIr59a0SLoIx-HRdQsbMKODfrHSVJMjKyHb61aGCgZ20s2ksQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-02T08:27:54Z"
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsalpUWV9RRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice environment around this temple. Best enjoying place in BETUL city. Please visit and enjoy your trip with friends and families.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice environment around this temple. Best enjoying place in BETUL city. Please visit and enjoy your trip with friends and families.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manoj Choudhary",
+            "uri": "https://www.google.com/maps/contrib/114920742034854166270/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzPYBjiRl1nBLfRnkNmjfY76p_5uaeoZTaGi9qyzTVmTJN3_0=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-28T09:39:09Z"
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEcGVMZi1RRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Best place to meditate , relax, and 2 kilometres walking in between trees. 25 ₹ charge for walking tour, 70₹ for boating. Don't choose boating.  Please go Once, this is one of a kind",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place to meditate , relax, and 2 kilometres walking in between trees. 25 ₹ charge for walking tour, 70₹ for boating. Don't choose boating.  Please go Once, this is one of a kind",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prashant Mehta",
+            "uri": "https://www.google.com/maps/contrib/107134369959006623755/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtf0oJXQoRf_oMzM8foVuLKzwY7_eoRp9dQoknnMVpGfyfLxYZ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-30T16:00:11Z"
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxazg2UXNRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "So graceful temple to come with family...you would love it.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "So graceful temple to come with family...you would love it.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ENGLISH TUTOR Vinod Gyas",
+            "uri": "https://www.google.com/maps/contrib/112552030485079937883/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRxpTPrbKCXYoazxPxudQ7BC-pkeatoPyhD9gk608aDjCDd474MA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-03T03:06:00Z"
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4d3A3Vk53EAE",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 4,
+          "text": {
+            "text": "ARCHITECTURE DESIGN OF THIS TEMPLE IS EXCELLENT & AMBIENCE IS VERY NICE & COOL...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "ARCHITECTURE DESIGN OF THIS TEMPLE IS EXCELLENT & AMBIENCE IS VERY NICE & COOL...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RUPAK BISWAS",
+            "uri": "https://www.google.com/maps/contrib/117823890610766784656/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWREjMhMDuHR1iIWcvdTNq3qL0m-5FqSxPQv2Ao8FDaRiUMI5Q=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-05-13T16:25:53Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJa43eiUtmnINFknxsu1fCCsyyAE19nHr1biH3A91IyrNokeNj3DXcc9IUD0JoGKiTOEDr1POTxdnbhbALJ7CxjoQWVm-qiPjPOkZ0X4EcJapS2jaZrRui-trfnR743W1VsnRUxzh7ieZD-j7tf9nos9M7tnxwKEmXTV",
+          "widthPx": 720,
+          "heightPx": 1002,
+          "authorAttributions": [
+            {
+              "displayName": "LALIT UIKEY",
+              "uri": "//maps.google.com/maps/contrib/112782949792355250256",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUwpUJXSkdFoPsB9mXWfDcYB0A_q9vqUNYLa58sjSuUaVMJReDS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJaAlBDgO_uZpPjl6rkW2klsYxHlTHw5IuMvIwpYuQ6UGzQKZRzZEoZRrWg3E3OlKa2-4HKu4aLZaVsJPTLcYjEBDXJmPx6w_RxHFeo3Ym8pkZgPtCeoE1MTUduZT5I1a4cVXRTZD9HwLPTCYYrf0X7aiIAseN6eU0EL",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "satyen rathore",
+              "uri": "//maps.google.com/maps/contrib/100856096579453470606",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUDpzwUHaBx-RIApHYQLkXX1wyBeR93SEjRxulm-bV_GWuhwf_M=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJbj0GQUnQvdXAXjdmR7a4V0505f6TYKbl9NjyQMT16G8k40y3ie84XMjhXH_SmdTihEggvyx-oltJ0LnErpTFqqinCDZ00u83G7kH8h9haqsG7HROT_SKZeCSpxV5ljbb-NVoHNBTgrCf4sjkbJLa0Ap0nNsY8rJdd-",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Vidyut Prakash Maurya",
+              "uri": "//maps.google.com/maps/contrib/104920018536122204328",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWlC_ESR00ZuP2W6ruQQsGO1q_j03zmU77HCmcWgXnzKvRMAhL9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJbBpFd39mIG7DSQ4ibrJCHl2mL9NHyvxkINEO1G76tfN-_G7dNeVpNlTjQSVuFAE4YQEEgUQ_r-0HeWKqIaKXg05tcXQkDbZsACRhURGhqL0DEhINm4oSMFQMbrFOAQNvHgxTpuJeEH8hwMRV0xSBMLOeCdTSlfFF85",
+          "widthPx": 4624,
+          "heightPx": 2604,
+          "authorAttributions": [
+            {
+              "displayName": "Lalit Babure",
+              "uri": "//maps.google.com/maps/contrib/102975856493653847549",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXEnGcD5v3pXc6eYaFR59LiDjmpX30lrsLez-J-Xy1sNDDmqDbvMg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJZ-a-xp8UWufw4dGpWFXuWbqw0Ca-FCUGSt4DYqu_64qjoKJWrNQnxDkT24SkHY3JQQwYKY0nPnK8Ff8aLPCfCB9WF7oPiGnmFbb46iOkMtslWAQTkYWL0Og7oJmGzhBo-vuS8YFbIfkI04XhrQRqVwsuxmg8n_IflQ",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "RUPAK BISWAS",
+              "uri": "//maps.google.com/maps/contrib/117823890610766784656",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWREjMhMDuHR1iIWcvdTNq3qL0m-5FqSxPQv2Ao8FDaRiUMI5Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJZm5xiID1Xpn8kfx_Ik6ja8xawr-sL2_uidzwHlKndkb7WPGflrkMMl4ja6hw91sRVfIm3uSmWKrBnPc9FXOSy3qx__Q53ndGmLiP46aQeBY5xjI4SpzQ1P-G509wjgJejRUNtdT1O8vx9H_0adpI8yP4L6Osc3d99h",
+          "widthPx": 3072,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Akash Pardhe",
+              "uri": "//maps.google.com/maps/contrib/117753450555090852807",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI1xLqUI7oRKek84oDL4nQsFlMCmRyh3NlgHljuxYwj7aUwuKI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJaHYR0Rh9TGF3IFernpM1gksQJZykWS_RVX1If7G6YYWhPyjGwrIaXBrhhDtpkuRGqXjxz7r5HBCTcgSe2EjvR0wTVq8ff5LxN1fS-uN0tEMMnXkJ7fEZPUnGeBzxvtrvjViIwjYV6sL4v0Me4kZV16NqjFhxsSWWjK",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "MAYUR WARATHE",
+              "uri": "//maps.google.com/maps/contrib/101620231568977774370",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWASCrP-TuB3p0NzFpsI359zN56iU2N8Tw5J9kRLcrTsq5Zceke=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJaN2ZUikoECCpoPnUW3QTG4iwDJMwPyG8c7TwXJ7d1-BT8QvIQZSTxwIjAb1IeylkV1VNqXjVslZlSJVJFBgetWyj2Bjo38VvIn52m0RA6taotXRNetoJu23uGzIVZggpOOovNoMx9lASNojcRkIdhgdIaptEXbDooK",
+          "widthPx": 640,
+          "heightPx": 480,
+          "authorAttributions": [
+            {
+              "displayName": "Vidyut Prakash Maurya",
+              "uri": "//maps.google.com/maps/contrib/104920018536122204328",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWlC_ESR00ZuP2W6ruQQsGO1q_j03zmU77HCmcWgXnzKvRMAhL9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJbNAglZ09rTtFGY2a7Hgn0kw3O4RM09xzqNB7LZAkjyol5UFPITV3szjLHf-UV-ZWgB4bHTs8bCH2d17p6kCc8qUASGJ7_LIDdf0CRRy-XiOupqxk4MD3kINdz4GoqQZJ7G49IGOI5tQqVVZtJoUdQVTd9yQ0FubJYJ",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "gulshan gangwani",
+              "uri": "//maps.google.com/maps/contrib/116196174265760239519",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLuTiIK96D0tMKl8dBud68KIGGOm1wt-0xvCgKlB59rSy51Sw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJeQWq997h1TsRXJdH3su9CFc/photos/ATplDJb4L5oCddAMb_WeO4h0DPdOyp--loGnhTM6SXk-87-uNmNGfbVuR77WaA6BZRLvI6hPMWJBQIoTgOfpj1t6zvuGC3HmUztELomQTgr6TddjE6fm0rUUjGROlc4SS1mVVgRCeomSacoDB214Kvyv6sZ9FFw563UCLiOR",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "satyen rathore",
+              "uri": "//maps.google.com/maps/contrib/100856096579453470606",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUDpzwUHaBx-RIApHYQLkXX1wyBeR93SEjRxulm-bV_GWuhwf_M=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk",
+      "id": "ChIJS8Q325AJ1jsRo0ERI_U6_Vk",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WV2W+P96, Genda Chowk Sadar Betul, bazaar, Betul, Madhya Pradesh 460001, India",
+      "addressComponents": [
+        {
+          "longText": "WV2W+P96",
+          "shortText": "WV2W+P96",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Genda Chowk Sadar Betul",
+          "shortText": "Genda Chowk Sadar Betul",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "bazaar",
+          "shortText": "bazaar",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460001",
+          "shortText": "460001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.901775,
+        "longitude": 77.895895799999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.900402919708498,
+          "longitude": 77.894472569708483
+        },
+        "high": {
+          "latitude": 21.903100880291504,
+          "longitude": 77.8971705302915
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=6484403863013114275",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WV2W+P96, \u003cspan class=\"street-address\"\u003eGenda Chowk Sadar Betul\u003c/span\u003e, \u003cspan class=\"locality\"\u003ebazaar, Betul\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1595,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Kargil chowk",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "WV2W+P96, Genda Chowk Sadar Betul, bazaar, Betul",
+      "reviews": [
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1N2F6akZnEAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Main center place of betul. Near by you will find fresh vegetable market. Kothi bazar, cinemas, restaurants all places are very reachable from here.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Main center place of betul. Near by you will find fresh vegetable market. Kothi bazar, cinemas, restaurants all places are very reachable from here.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "vasundhara shrivastava",
+            "uri": "https://www.google.com/maps/contrib/102747227123887110778/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVD2ZE0r41kMeKHiySzrKT1DXfQCu_gzmkkKl4E9kLiF4bDDf2W=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-16T11:44:38Z"
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXZ01XcWl3RRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Main attraction of our city. known for kargil war memorial",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Main attraction of our city. known for kargil war memorial",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prashant Sonare",
+            "uri": "https://www.google.com/maps/contrib/109593756623955198083/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRQ86Ebu69MaTK3E8kj0-0JgpDXL3zZnkXHexKFOb3JFwZeIOUIw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-07-31T16:44:11Z"
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGZ2JTNWZREAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice Place Near To Main Bus Stop Near To Railway Station And Many More Things",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice Place Near To Main Bus Stop Near To Railway Station And Many More Things",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Avinash Gayakwad",
+            "uri": "https://www.google.com/maps/contrib/117716188128447917814/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdFx3YO4yfgfbeISp07ueOhxRP_u4gnMhFTM3Eri4NeQwkNyNvbQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-10-28T11:56:18Z"
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/reviews/ChdDSUhNMG9nS0VJQ0FnSURaNE9yRGhBRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 4,
+          "text": {
+            "text": "This is a square from where one can go to the railway station, bus stand and Sadar and also has a very beautiful view.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is a square from where one can go to the railway station, bus stand and Sadar and also has a very beautiful view.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "krishnakant satankar",
+            "uri": "https://www.google.com/maps/contrib/112739334066143219943/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFuXkc53onkpy9GmWtFn4dZlGTQYNlF7g22INEqlpO64yc2uukKg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-09-22T08:45:05Z"
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0anM2Z29nRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Woolf king's",
+            "uri": "https://www.google.com/maps/contrib/106246743535003750830/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgXVuEcLFYK6dbDHzthYXE_IRxRaZoE02yZhDy7kXiANEY6i7J=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-30T09:15:48Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJbKhK75XJBUhErNW_JvmwQHGkEfZBnWg-Am98UuGqGE2rZ9DUDcsn51Q_aOoyxeZFm0O17wg6OQYSyqDZItqXJBDrelBnu9XwjgMmrOineDELo411e9A2Dh4UNgP1G4uhGH37D5xyg4cPrHPQDCU-HbTuVKTWwS38zT",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Yadav Ramawadh",
+              "uri": "//maps.google.com/maps/contrib/117123387466875286569",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXDtNVyevxziKK_StUJn4VEE1am19r61DEVVUony77V41MdnBP7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJYeOHbXixccW8I0thuzdi6nFCPvXrv_EA5gTlR98I1SqOW5qZPN2C91vFBRl8rSskXDLna3fDNvSZAkDah7LJ-bP-0ZXwTtElYRW0cBFG2h1MONKJTk1xu1BAn_8MKIysQ9dRmZgpB3cLdaKC1-86PBzZXAF9hs1sPe",
+          "widthPx": 2256,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "akshay sariyam",
+              "uri": "//maps.google.com/maps/contrib/106087844804283240243",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlXdpAdCA4LV-FLnRiJvORohicN7KMOz8q0RuMcdaaEndjg9CK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJaLkGUmLIE78s7S5b_cHamAWdQ-p5J7QZgh6iEPKUv7uUTa6GyzlLpjIaOmqS18QNalm0_tc5AtzyHOvMapKJ6fyFMvbkqmqP80TrQXjVrRIVeIpqnTYEG5NhYVg2kYQ-777pUIAqChk1_lJsakbGXsJnrYQ9YC7C_2",
+          "widthPx": 1201,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "vikas barde",
+              "uri": "//maps.google.com/maps/contrib/112286458013395433643",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVllMjp2yAn2rnq0rSrqqBZUV2LTj86l5f3JYGzygEOfBVFYkMm=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJbeMWhmj3kVk6X4AjN6oKHHxoPcAtAeRSNJEcu5kdja5LFkWkofvie18YCp9AJ-z2CkFQkxuCsq8plkeiyLpcH_JwofQWvNRfT3E4ufUsoCpBSeUoRGUStbl2H5iUcp1HmBLhM96K9yign-b0Z7m65tBJoxjZO4GYe-",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Yadav Ramawadh",
+              "uri": "//maps.google.com/maps/contrib/117123387466875286569",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXDtNVyevxziKK_StUJn4VEE1am19r61DEVVUony77V41MdnBP7ew=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJbaBlb8jA7XSxDogqDg_7FKD2yUAVSpi1bSkC0qzfcwzlwOrxTRw2y0uzqN9zl9c9SCL5Zilus0U35L7yZWD1sYtHFiysEjdsq8bFVSqWRqW9_rHU4WBd-5iA5q6pJeEBxHiT6mLQOJEoDhLrezniFFC-XqA5YVYvn_",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Ayush Majumdar",
+              "uri": "//maps.google.com/maps/contrib/104454550559427136335",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUwF8rjfUWDseK6o96H3KhJdiAdRdH57QqzdfCR_dS5pxKmnSpT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJYMgTjFedMmFZ_21mwJ2YhCj5QBJLEfBoU_6wmEZEc9m5ggsKmrHX_RULiUYF14LAi2SpMbyzcRp7_ef31W0VJ7wsSvHSfjIBPGwpSwoIBT-dKX38LgGkshK22RRKWBzgjROxzlloiskzBvfTZ9ZfveGugm20Qa2hAm",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "RAHUL Narware",
+              "uri": "//maps.google.com/maps/contrib/102046666356781837226",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTlqA5yzGZz7gvxaBY4457TfKthK7Os32s7RV5CKFywDm8jXYs=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJbdPkRNJiZa2R9SpaTp7in_uiGQhPKeAWZ7v7rXb-ydCpiMVrbjj3j-z3-5pfZACBQi5wJN4mxpa8ewdahBG2Av3pD8lggpaP9Hl8pQu4XhHUTd2L5-2kM5bt9AaKUpPOcT381X3ESufNRblhIp010vczHvsFBcnDk5",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Ayush Majumdar",
+              "uri": "//maps.google.com/maps/contrib/104454550559427136335",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUwF8rjfUWDseK6o96H3KhJdiAdRdH57QqzdfCR_dS5pxKmnSpT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJZ8scwXMBZiIqaqDW0Ajavf0mHJBe_hd7gO2RSMR_lgNpBPT67eX4U6Bi1by12U2o6BIwkRb6i8nUvfkWE9ocbZcTOmDkcRUw6vK0sjsLRdQ1R6KM5N7xNpULIE9X8-W2TMq5Yr7dsA1j6iirh6qp2j8jf1jodH_Tbb",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Ayush Majumdar",
+              "uri": "//maps.google.com/maps/contrib/104454550559427136335",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUwF8rjfUWDseK6o96H3KhJdiAdRdH57QqzdfCR_dS5pxKmnSpT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJakJ7eps-gIMnGdBS3QL0RDUxUJxI4vszHZYrfU_qrqe6NtF_CwLO_T3-P0uoq72tU80tfrRrcUSPZthklRgnMqbcXgvyqbk9ZBVyU1bT9bROrt24Etx3fDcOQtaQouM9ivckIsuA03NiTgB6l3kCYpQI6WVtydJo72",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Mukesh Jat",
+              "uri": "//maps.google.com/maps/contrib/102606892220918874837",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVAPEVGk3NKMB1uaYqHBZbUC69Vw-y1dQv7Op30lE-N1VyyUjJk=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJS8Q325AJ1jsRo0ERI_U6_Vk/photos/ATplDJY0cqO16gC-5xQ2IRK-c6O2I66q0vqGeNJ0I5vQRU0yvGMd5B3GI4Z65654kVv9-Eg4aPc0GXncc_DGpxMiwYJcpjPaJT6a7rAf5L-JzmhXyETqdizxtTW3c1CO7V_nhWyyHNfmfawuKTFL6jTMvaelJ7WHCiSe8hEX",
+          "widthPx": 1840,
+          "heightPx": 2301,
+          "authorAttributions": [
+            {
+              "displayName": "akshay sariyam",
+              "uri": "//maps.google.com/maps/contrib/106087844804283240243",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlXdpAdCA4LV-FLnRiJvORohicN7KMOz8q0RuMcdaaEndjg9CK=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM",
+      "id": "ChIJlx2GtrsJ1jsRkXlYV-Tx9BM",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WV8X+H5V, maa chandi darbar, Gondu Mandai Chicholi, Tikari, Rojhada, Betul, Madhya Pradesh 460001, India",
+      "addressComponents": [
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tikari",
+          "shortText": "Tikari",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rojhada",
+          "shortText": "Rojhada",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460001",
+          "shortText": "460001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JHVWV8X+H5",
+        "compoundCode": "WV8X+H5 Betul, Madhya Pradesh, India"
+      },
+      "location": {
+        "latitude": 21.91649,
+        "longitude": 77.8979293
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.9152577197085,
+          "longitude": 77.8965178697085
+        },
+        "high": {
+          "latitude": 21.917955680291502,
+          "longitude": 77.89921583029151
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=1438040144058284433",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WV8X+H5V, maa chandi darbar, Gondu Mandai Chicholi, \u003cspan class=\"extended-address\"\u003eTikari, Rojhada\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBetul\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 44,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Maa Chandi Darbar.",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "WV8X+H5V, maa chandi darbar, Gondu Mandai Chicholi, Betul",
+      "reviews": [
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMTgzUlRnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Hindu Devi Maa Chandi Devi temple. Temple  is newly constructed.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Hindu Devi Maa Chandi Devi temple. Temple  is newly constructed.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manoj Dubey",
+            "uri": "https://www.google.com/maps/contrib/115918213869712627857/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVo1svpDKuhvPCCCCvgymJWq7vuOGD92LiCf67Q38VLlXX5s83G=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2022-02-12T05:29:07Z"
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/reviews/ChdDSUhNMG9nS0VJQ0FnSURkb3JHZ3JnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rahul Thakre",
+            "uri": "https://www.google.com/maps/contrib/102493828590543673694/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbn9qfqsvtvi-QBeHHcHN7qBBI8uD3cXtdGsb4mor7b24m9KM=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-02-22T03:05:57Z"
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/reviews/ChZDSUhNMG9nS0VJQ0FnSURkOGI3UVJ3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Good place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "kamal marskole",
+            "uri": "https://www.google.com/maps/contrib/102647825374144983353/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVS4RwdQCsRQ_jC_xJVyquYEe2zsrce2DKZVL9V1mGBhu2sOGH5TQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-24T17:10:31Z"
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtOV9YSFJ3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Akash Choudhary",
+            "uri": "https://www.google.com/maps/contrib/102924152359436644797/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVthE4whP2WHtoMQb5oLNBRTIGNeP78nagmHZVTSIxCLUS6JRd9=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-12-12T10:34:49Z"
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/reviews/ChdDSUhNMG9nS0VJQ0FnSURRcjdtN3h3RRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Kalka mandir",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Kalka mandir",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rudransh Tiwari",
+            "uri": "https://www.google.com/maps/contrib/117796715473586509564/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWl53326CnxykNBLWJTgUrjE1XH4LhkC0F7BLoEgHt_-g0siBFE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-04-29T07:19:33Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJbDQCaxBbLcFJ05XtIExt4iZ2T6ZRZl0_9lSuoVS2P929t-1LOZ7nPKp_oT9F9eGNIuGSZqilcXePGkLWUayPQHafpjyit1NTdINDA4I-3j0uvOIvF30neSE9eXInU55S0E6iCnRfTHUn1vYQKTleVDuKvdG3uFk7UZ",
+          "widthPx": 1840,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sarjerao Kumre",
+              "uri": "//maps.google.com/maps/contrib/113951326103520364716",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVEDgDMjLgxPJzNhUsCjiMSib7JgTTn0yAEnc8lBvkN1Jh-JsNi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJZ6Tttm4CfxKuldd1Q-wsFre6xPlIDp32nhjHx3_Wj-kVYiVzSD9IdUdyz5R2-CiFqtDMspbPQGmP4Yzq4B0J3QUdM00PyAtrDDgZm0Fv2Llej5SY3Pfa5F9mTb4-mAGdMVg07lba2jgALBUN5F3N1o_vhU4f7masob",
+          "widthPx": 960,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "मोनू यादव",
+              "uri": "//maps.google.com/maps/contrib/110551164386303079986",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocINCRwLUYbb5UrOloYLaBSOx0nS7Jsot4Cx8B8g0N6qQWB4eg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJYxd8UGblIgLca2hwyOiDldV_-z1wVsS3P1H0MfU8IUAS1jBhX-OGEFo2ox4At8QvCt8FtnzHQhimnNs1-2aKhi--MVTHt9224mHZ3tCLjHvktdpUAfX5B9MX0EKO_kLXGd76QSM9PNH3olb-kZysiKfDG1Mf3Mack0",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Ashalata Shrivastava",
+              "uri": "//maps.google.com/maps/contrib/114691842479035489035",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIljsTBXGHgFPAoe33oioFH-NJscv1dUhwu3AEYMPMxz2xurA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJbfY0ciJi7XKMl9wf7fKjFOR32I1inPlcFkP8wvzjA2AMml27YH82OTwJFrvn5kBDVIuIV5j6O6fi9wjNiWIV82Yto2yOhXFba7p70Duzj-RNpzgKwx_WqjhJhywDUzmINjEu_tMAWJIvBwLCMLcPanzuVJVuHfkmmi",
+          "widthPx": 1836,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Ashalata Shrivastava",
+              "uri": "//maps.google.com/maps/contrib/114691842479035489035",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIljsTBXGHgFPAoe33oioFH-NJscv1dUhwu3AEYMPMxz2xurA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJbRZq_J-yate7gt-mQkg4Uy0NaJte1xINOwPrdcATwT2CFoCFyz4QzW1_e4tXgtLfuAUvRxB-PBNdW_v2X6JtWzmKQFDquZu0tXzyvBPcidBRWZxUZJ9JCjEGbteewZeskQ9LRDl_A_bljitfhigrvJEaJQK0A0xFH4",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Kamlesh Chawla boy",
+              "uri": "//maps.google.com/maps/contrib/107955132878467751429",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIC3sRxqMtBXo-Sv1vZdtlemhOni0HYSv0Ut61F0Qatnqt9hwf=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJacgr9lFUXvFw7Ht6KWJS6MWP3pimApCuLiVcOChogD-c6KrPu5tUp7EH6KSy1JsD_4UIA_jAE3XAMv36ShCuQayjQerTf4sWFU-O9MDmWY3xjRlxBRJp4AyFR9F1F3mnv5oj0f_PtHC9E_igRtZ4dBx472_734wzV8",
+          "widthPx": 4000,
+          "heightPx": 1840,
+          "authorAttributions": [
+            {
+              "displayName": "Sarjerao Kumre",
+              "uri": "//maps.google.com/maps/contrib/113951326103520364716",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVEDgDMjLgxPJzNhUsCjiMSib7JgTTn0yAEnc8lBvkN1Jh-JsNi=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJYaoDZ1Z-cc71UMVVULTPz-6QFFSsxUmCb_MEcqU3Naa27AFbpVygZJ7TPGH4aS8I6m6BeyLrG1UBnuyjmBkYiwzh7b0xpWF45LHRKS7m0OpVxjc8L1RYvvAwMwJyKPfRnBr6iOFlZfPOyQYKcHzHqfHitoaLy-0cy0",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Krishna evane",
+              "uri": "//maps.google.com/maps/contrib/118348601921910988763",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKXT5Qj02j9fITKdsExts7ZeX-jnfstmVHPhuYV45mD4uZJLQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJZ3EVI4JHZ7IlVjqEhrPUrkrDObpOtypizOag9hwoPifKuYV0LkHMbov4dpy-rSX31A3L0nlrPd2GcOHvwneb8FNvZpGXllE2xNP7SUz_tg9nHxZaObvoFKbrPYOOt8oEjiyU0J1iGdD74FKmz4ew1Xi4d_vn6BHeaF",
+          "widthPx": 1932,
+          "heightPx": 2576,
+          "authorAttributions": [
+            {
+              "displayName": "Ramesh kumar malviya",
+              "uri": "//maps.google.com/maps/contrib/108758741808120749719",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJSVG9PakDqt61xO-6GYVbCDbsxWPapfZ06ZvqtTF5KHF9qNA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJYOaMDyacHu_guFaMp2x4ejFQtYM3Z5oeB598Zh4phwCRlTkB-P74jWq0eeamUYxbB6hnKG4upUq9wGMQsziToaFtVN5yXuYXWcadlFI0AjDkffbs4zyJeNpoanYIPGx3oikPka5kgNiIul1EmugrOXYzaeIDyQ_nl_",
+          "widthPx": 960,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "मोनू यादव",
+              "uri": "//maps.google.com/maps/contrib/110551164386303079986",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocINCRwLUYbb5UrOloYLaBSOx0nS7Jsot4Cx8B8g0N6qQWB4eg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJlx2GtrsJ1jsRkXlYV-Tx9BM/photos/ATplDJaCZlj3RYVgQPVb-taWhbjgcBYpn7MxbQlo8bNzShmApxGsj1rY8QvIgYwAwaSt6V8Ind0UcT_gXDE9e13wA_DY7rUJ_RsB-RWCPQ-g330kX6cuJDDxPO1pmtXRj5vr_tfShK-lpsJL-2FNevPsdG9s2PsHKPvWRSiQ",
+          "widthPx": 1932,
+          "heightPx": 2576,
+          "authorAttributions": [
+            {
+              "displayName": "Ramesh kumar malviya",
+              "uri": "//maps.google.com/maps/contrib/108758741808120749719",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJSVG9PakDqt61xO-6GYVbCDbsxWPapfZ06ZvqtTF5KHF9qNA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJz8ZZxq4J1jsRzJAGDGa0xok",
+      "id": "ChIJz8ZZxq4J1jsRzJAGDGa0xok",
+      "types": [
+        "historical_landmark",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "VVQX+VJ8, Bajpur, Badora, Betul, Madhya Pradesh 460001, India",
+      "addressComponents": [
+        {
+          "longText": "VVQX+VJ8",
+          "shortText": "VVQX+VJ8",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Bajpur",
+          "shortText": "Bajpur",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Badora",
+          "shortText": "Badora",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460001",
+          "shortText": "460001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.8896577,
+        "longitude": 77.8990712
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.888291419708498,
+          "longitude": 77.8977017197085
+        },
+        "high": {
+          "latitude": 21.8909893802915,
+          "longitude": 77.9003996802915
+        }
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=9927820778966257868",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "VVQX+VJ8, \u003cspan class=\"extended-address\"\u003eBajpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBadora, Betul\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 13,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Badora chouk, badora betul",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Historical Landmark",
+        "languageCode": "en-US"
+      },
+      "primaryType": "historical_landmark",
+      "shortFormattedAddress": "VVQX+VJ8, Bajpur, Badora, Betul",
+      "reviews": [
+        {
+          "name": "places/ChIJz8ZZxq4J1jsRzJAGDGa0xok/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxLXRmV3JnRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Despite having a very good road and intersection, the municipality does not pay attention to this intersection. Despite having a police post, a big vegetable market, a petrol pump and roads leading to three places, there are no traffic signals, dividers on the road, better roads, and vehicles.  There is no parking facility 😒",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Despite having a very good road and intersection, the municipality does not pay attention to this intersection. Despite having a police post, a big vegetable market, a petrol pump and roads leading to three places, there are no traffic signals, dividers on the road, better roads, and vehicles.  There is no parking facility 😒",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aman pawar (Ammuu)",
+            "uri": "https://www.google.com/maps/contrib/106317251098341728366/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXhMHvVGVXLy_g-Qo-Uxd1n2Nt1o5GHi1zDtk5hdCbfdAJKYw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-06T17:15:00Z"
+        },
+        {
+          "name": "places/ChIJz8ZZxq4J1jsRzJAGDGa0xok/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGMmVTckNREAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "very busy area but the hub of farmers and agricultural stores\nanaj mandi is also located here",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "very busy area but the hub of farmers and agricultural stores\nanaj mandi is also located here",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Komal Sahu",
+            "uri": "https://www.google.com/maps/contrib/101275875996524471771/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHMNtAvliXFOhxm93oSYGtWaMiRqxuGYEZrj6Q8YPPtFVsyeVE=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-10-29T08:45:15Z"
+        },
+        {
+          "name": "places/ChIJz8ZZxq4J1jsRzJAGDGa0xok/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxanFuRkF3EAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 3,
+          "text": {
+            "text": "It's like ok ok",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's like ok ok",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "G K ....",
+            "uri": "https://www.google.com/maps/contrib/108528415366024589056/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ19HUcq7m4dmSIZpFlVpqJU9NkyGioIstAYMr3U15KD6jDxw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-29T18:59:46Z"
+        },
+        {
+          "name": "places/ChIJz8ZZxq4J1jsRzJAGDGa0xok/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxb1BlajR3RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Rahul singh Chouhan",
+            "uri": "https://www.google.com/maps/contrib/116183631454955054739/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1gXIQmZXN1SeefzTHYoJR6RYVtfW1AD-z4dawM6ho9J_Xmtk5zw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-20T11:46:39Z"
+        },
+        {
+          "name": "places/ChIJz8ZZxq4J1jsRzJAGDGa0xok/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkaUw2a2pRRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Suresh Lokhande",
+            "uri": "https://www.google.com/maps/contrib/113539408739263970278/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI_MHyGdzq6auDLH2yyqWEQE5RyxlE7BjmtRWgcsKXaMFlyclE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-10T15:04:01Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJz8ZZxq4J1jsRzJAGDGa0xok/photos/ATplDJbIflJn_tGNWdVsLcDd8zPMcQLvGfWngjFZajbEl89BvE3vbpWEBI7x5nyNDgdUUVuNE7bK9VtFC3u_iMPybJ2TMC5v2ihv883K5hRVB2Hmck_KKVCIIZyefci9zE_J7-Rj862K3c7GdAfi74BPUyOypy2X7cNGl5ej",
+          "widthPx": 1080,
+          "heightPx": 2400,
+          "authorAttributions": [
+            {
+              "displayName": "durgesh baraskar",
+              "uri": "//maps.google.com/maps/contrib/114123449965860353051",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWW_Rzsfsj3kxOUv8Enysz79VDOalgSd9dFEgYhVMuEBMq2_Qov=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJz8ZZxq4J1jsRzJAGDGa0xok/photos/ATplDJYUmw7ZbK2rtKKx2qUUfGybTdF2Gk4iM39faVBS7Dgwlagk3o4pRGGsUER08iUgSTiJdsvau4sEeoHyGX5p2WY14eiHmRkt3XvZsJoDZdDMBzYtsXDwXifNy4PCuRdPDpXZQWPVPkZhpVysqhDncFjPElmGQCPd7wn8",
+          "widthPx": 1440,
+          "heightPx": 1440,
+          "authorAttributions": [
+            {
+              "displayName": "durgesh baraskar",
+              "uri": "//maps.google.com/maps/contrib/114123449965860353051",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWW_Rzsfsj3kxOUv8Enysz79VDOalgSd9dFEgYhVMuEBMq2_Qov=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA",
+      "id": "ChIJxfZ2O-sJ1jsR03qZhpw0hgA",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WV2W+FC6, Betul, Madhya Pradesh 460001, India",
+      "addressComponents": [
+        {
+          "longText": "WV2W+FC6",
+          "shortText": "WV2W+FC6",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460001",
+          "shortText": "460001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.901160100000002,
+        "longitude": 77.8960201
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.899805119708496,
+          "longitude": 77.8946781197085
+        },
+        "high": {
+          "latitude": 21.902503080291503,
+          "longitude": 77.897376080291508
+        }
+      },
+      "rating": 3.3,
+      "googleMapsUri": "https://maps.google.com/?cid=37775493756975827",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WV2W+FC6, \u003cspan class=\"locality\"\u003eBetul\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "WV2W+FC6, Betul",
+      "reviews": [
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtdnFLc2NBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr. Sagar Binjhade",
+            "uri": "https://www.google.com/maps/contrib/106059766791989617816/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzy-UxlKVpz1Ir997_ZpZbs0IHnpDuDvwFp8qkaJHzgBHrrTaN=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-11-05T06:03:05Z"
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNockwybnBBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 2,
+          "authorAttribution": {
+            "displayName": "Naveen dhote",
+            "uri": "https://www.google.com/maps/contrib/113551227645145780037/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfVE8P8mdTGgdzyU88yeNiY4FHb9m2Vv6-VEP_Sdi_11MYkMI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-02-07T08:20:07Z"
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqM3JiWF93RRAB",
+          "relativePublishTimeDescription": "in the last week",
+          "rating": 3,
+          "text": {
+            "text": "Gahym",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Gahym",
+            "languageCode": "mg"
+          },
+          "authorAttribution": {
+            "displayName": "ghansyam kavade",
+            "uri": "https://www.google.com/maps/contrib/107198005284984956218/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocISDMxjQtsmGUbqCXI9Adb2W00GX24ARTPmmcZ3JSj89FE96A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-22T03:32:35Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJbBNFzXfPNTw5fHJjLnOHoySZ3JGinlCtHnVs4OuwcIdHbBqsFEByF3oGnZ9bhLWze3DIypENlDm1as59X9eBtklAOrRQI3M6vwEllULfid10Tr3LhEl6ioIKAalkEdABl9TjMcI87lCDqCWGM1C0yiMr9RMIjPC8rJ",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Krishna Verma",
+              "uri": "//maps.google.com/maps/contrib/116511129526372526490",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUS9kEGZBMtEBj9wFfRPxOf-s2Vg0UceRZ1JQjbkkK2NYI05t78=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJY5UAtGaffdIjkTHhkMuTthtBmGaC4t--hh5n-f-3YEup5tSitudfhWR4vLwaEeBGC5jWlfnOY_cMbL0pzVBdsZHk8Y_AvxuynR_Kz2MrfVEFaIuVqgpIq08ll8XzfYOJMIyPe7aGdPXYRP6Gy_EgUEFH1kCJNvdvgO",
+          "widthPx": 720,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Krishna Verma",
+              "uri": "//maps.google.com/maps/contrib/116511129526372526490",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUS9kEGZBMtEBj9wFfRPxOf-s2Vg0UceRZ1JQjbkkK2NYI05t78=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJZiNLaf-eKgNwNThdP1grUMGASdI-V4VyH8f-Arkbf07g0nfc7_eUuzeikuy4ZVIQPX56sMaRed3JJfQRdm57tdJmcTBGOFtZ9bjC-C5NYtYCKRaasnWMEmMDVq3qXZ_9R70AdpzFBrkLodIA50rqXfWSxOGKewTg30",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Krishna Verma",
+              "uri": "//maps.google.com/maps/contrib/116511129526372526490",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUS9kEGZBMtEBj9wFfRPxOf-s2Vg0UceRZ1JQjbkkK2NYI05t78=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJYEDU7bbx7bhBrke_7giJifb6F3iA4TSbw1sGqwdVE3TGzkZCvy4k0yCmjsqKoNa49O8Mx2chHCS_dPdT90DRFzpyVE1SHPDnLgI7LLY8pH6akdzgvxQSqcWibo7ObnSO_QukbPCcFCn_HahQs8U-3QGmGm_aE_mFvm",
+          "widthPx": 720,
+          "heightPx": 1600,
+          "authorAttributions": [
+            {
+              "displayName": "Krishna Verma",
+              "uri": "//maps.google.com/maps/contrib/116511129526372526490",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUS9kEGZBMtEBj9wFfRPxOf-s2Vg0UceRZ1JQjbkkK2NYI05t78=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJY7T-9cS2ZPPWF6MykQX_lbftf2gZS0FFUOnBAjCcgUTXyOw4Kcep0KMZ3YLx6KSIaOYL49LpT-9RzIaA0K6qjyDML_g3knz-QfjNAYybmuU537mXTg3tXZRq6t8kwW2zwK4vwEawgvukmUp9z16b5MVrVXdON2m-E_",
+          "widthPx": 4160,
+          "heightPx": 2352,
+          "authorAttributions": [
+            {
+              "displayName": "Naveen dhote",
+              "uri": "//maps.google.com/maps/contrib/113551227645145780037",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVfVE8P8mdTGgdzyU88yeNiY4FHb9m2Vv6-VEP_Sdi_11MYkMI=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJZJH1jlKIIAyhunWCyMjMLKg_ZjfsnOl8o__qztp_q7OUGLpLLHNKlZc3-dAg0iDh3KDdbMNpLsBAhcexr3wajeuztn7MozepBh7be1R8xhq21QrJdq2ScZRduarqzy_sb-shLy1q6GzRUt-KfJ3AbjSUIYiG05gxpj",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Krishna Verma",
+              "uri": "//maps.google.com/maps/contrib/116511129526372526490",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUS9kEGZBMtEBj9wFfRPxOf-s2Vg0UceRZ1JQjbkkK2NYI05t78=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJaHfIrG6jhQrfykWz2xTwyPLJafMiDyhwWEal640u4bfW54v3hRYdb_WujQ1vG4Fl6p5ysaMkNr8APgjhRfd5HsAI6CRc2e_kS7GLi8Ybh_e4ldDBiKT44UAa4gV7JmgjloXaffVyc8CMR_OK6riW3s6p6YuWKeKg8R",
+          "widthPx": 2592,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "akshay sariyam",
+              "uri": "//maps.google.com/maps/contrib/106087844804283240243",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlXdpAdCA4LV-FLnRiJvORohicN7KMOz8q0RuMcdaaEndjg9CK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJYPhSiRL5czgg0Rw8ScSP9mozCEdIc6qqaOMKB_p8tgWde-pdPh-NA8x8OjeQdg2SRQlTkkIgM8CrJrCvt9vkXuhwaaIcbWRP_x9wjZfRNpdtgIszXWl9YSsdSXv-uuHQFkslQmtb16cQq6mMFkQZdmTBk_Ye7GNv0E",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Krishna Verma",
+              "uri": "//maps.google.com/maps/contrib/116511129526372526490",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUS9kEGZBMtEBj9wFfRPxOf-s2Vg0UceRZ1JQjbkkK2NYI05t78=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJZEaHHmfk0VVSxldFD0IXJ2pL7k8sc_jltUiS3l5PwoF9Oqu9YTekezcKvb8aujyqY8R9KLct9a31kmOZQC0uEGdfU81lG-h5mCbbBRXo2FHMiwWVai1O_qlCCv3GO5LUk4v1jl1SfNwN_vBr2i-8J8ywDHQdzCNeuM",
+          "widthPx": 720,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Vicky Dhote",
+              "uri": "//maps.google.com/maps/contrib/107892153101226994510",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLpFL1Dnae9WQrZ4trETKFwjXsTie_EgzEB1ySO9AdYzJP1qw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJxfZ2O-sJ1jsR03qZhpw0hgA/photos/ATplDJbX0MpcMb1HHjAeYELKKBCIGHnLE03mP7nGVf9uaJBzsFLj7Cs8A4_6b0ygIHUyPk_CUc0-JcB0PLbmdPo9sPsFUjmdWNwvPJj3-EhKcGAvpj4U8D4d8twYBuhGC2YVZZyXQlb_LdAujpTMXz5tFtU7CD6ntxxnvrle",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Abid Qureshi",
+              "uri": "//maps.google.com/maps/contrib/112422946907263902054",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXl_sLaznSP0T92C2HdGGMsy-BD88vzFif-aS4H4LT7AJuUPl0DwA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA",
+      "id": "ChIJ2al255gJ1jsRuSDlrHudmKA",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "091653 31394",
+      "internationalPhoneNumber": "+91 91653 31394",
+      "formattedAddress": "WV4Q+4V7, Sadar, Agnihotri Colony, Badora, Betul, Madhya Pradesh 460001, India",
+      "addressComponents": [
+        {
+          "longText": "WV4Q+4V7",
+          "shortText": "WV4Q+4V7",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Sadar",
+          "shortText": "Sadar",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Agnihotri Colony",
+          "shortText": "Agnihotri Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Badora",
+          "shortText": "Badora",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460001",
+          "shortText": "460001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.9052957,
+        "longitude": 77.889682499999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.9040244197085,
+          "longitude": 77.8883521697085
+        },
+        "high": {
+          "latitude": 21.906722380291505,
+          "longitude": 77.8910501302915
+        }
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=11572172397035724985",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WV4Q+4V7, \u003cspan class=\"extended-address\"\u003eSadar, Agnihotri Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBadora, Betul\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 52,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shri Hans kirti ashram betul",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "WV4Q+4V7, Sadar, Agnihotri Colony, Badora, Betul",
+      "reviews": [
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/reviews/ChdDSUhNMG9nS0VJQ0FnSURZdXBXOHdRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 2,
+          "text": {
+            "text": "Limited religious activities. Whois the finential contributor?.lohat is the motive?",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Limited religious activities. Whois the finential contributor?.lohat is the motive?",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dcc own chouhan",
+            "uri": "https://www.google.com/maps/contrib/112161984291596035518/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWpxCL7Sa9ZAts7yU0wMHJYxfnupj2cYX__pkDAvoEkUSTiQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-05-09T04:15:41Z"
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNHJTRnFnRRAB",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Well maintained and doing activities for social work",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Well maintained and doing activities for social work",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "lalit kumar pawar",
+            "uri": "https://www.google.com/maps/contrib/113807994422258238550/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmvB4vhPPL-BX7g312J8fEyD9k2EPRsaXf4e8F_9zj2vrpkXyL=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2017-01-07T03:09:20Z"
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/reviews/ChZDSUhNMG9nS0VJQ0FnSURJMlB6Wk1REAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's a religious place of Satpal Maharaj ashram",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a religious place of Satpal Maharaj ashram",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravi Vishwakarma",
+            "uri": "https://www.google.com/maps/contrib/110459701230938006179/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLBN1UogPW2-2miEXAS3YZ2ggHUL9MN1sztWRuze4Y3NnCrFA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2018-12-20T07:09:50Z"
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3azRMeXNRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It organises PHILOSIPHICAL & spiritual sessions as",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It organises PHILOSIPHICAL & spiritual sessions as",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prema Arvind",
+            "uri": "https://www.google.com/maps/contrib/109775680013378626938/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKIgLUi5DL2GYrkl8y5Djz5bxhGrdSJ5dvTA3U_hfg1c_H8Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2017-10-22T16:24:45Z"
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/reviews/ChZDSUhNMG9nS0VJQ0FnSURBdjk3WlhBEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Nice and spirituality area or place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice and spirituality area or place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashwin Mathankar",
+            "uri": "https://www.google.com/maps/contrib/114179384378481444401/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXITqGuoIof4rOPthZ9G1wIPRViOpXioE6X9bi4DTVaEgquYsMj=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-06-17T02:51:40Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJa8Y3GPL9sfGaz_SlAJD9ISsZmmlqTOBjO6dHOM4U2vnah0jeQSM7bE1m6t7XNKa1Fd5yLUs4PEehjGHd-jr3XV2g0xALHR7KZMQ2-3yYWa9ymA28HtgXgbCcmesBJGxklwFaQxw_sGIl4vJAXc_eFZLHFmECR6B8Ge",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Ashok Kt",
+              "uri": "//maps.google.com/maps/contrib/100112173342724322968",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbcjvhE-N2VBaVjogRww6aw-h52dTaeS4EOOVOkEvv5ixWA70e=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJaefseFXfOkC_oR081yQG-JZBQEgbIKsFCjBn3mirh8isyX160R0iNogPGC05fOU0lNOWB2x2AeLE-kWtNgFgN_NxEqlKvcMopdHf9uDMTr2txp2M6JVi736-X5NQ9XoB2toZgu3nhPB1TCo5dElbxCIqayLPaQ5fH7",
+          "widthPx": 4160,
+          "heightPx": 1952,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaneshwar Singh",
+              "uri": "//maps.google.com/maps/contrib/108413363822587660490",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIpsAsUdQ1tqtMmldc6v4PbPCT8rW84zZa06TPbzDAh35cMcA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJZee9e5zR2QMFyNAQYubpptihS-BCUZXrppUjkCpRuH4rTmtAmNKxCv4o8R0OaAujpIZrvkm4q71J0E1UYmvEetuYIgzBu6GUVQyMD26jMiCAbmnZRhl0kVzK4OnSXiHRrZOgj1NaKojRwV2xEvSvHdgVAaTQ7V_Q-z",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Ashok Kt",
+              "uri": "//maps.google.com/maps/contrib/100112173342724322968",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbcjvhE-N2VBaVjogRww6aw-h52dTaeS4EOOVOkEvv5ixWA70e=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJY4vHqYAygkdzMcq7q-NSPzUogvOE0Hjp3EQLoETF9O9ZLZSqWqyPko0RpKgrseUHlFLwgNWixJyw8IeO7maGPOLdFBgDXECIt_dj8ACr-FQPSOuE9ilkpLe_W-YUFC_zs4QRVyzhhZj9jRg9_Keaphk5ON-zJmg1I8",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaneshwar Singh",
+              "uri": "//maps.google.com/maps/contrib/108413363822587660490",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIpsAsUdQ1tqtMmldc6v4PbPCT8rW84zZa06TPbzDAh35cMcA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJZQHz8NpBquFe7rH2E1prT396vIK83Odx9QALc4Qwrc0VfwMvR391cn4vk1tjzHnpWIGd6wyWvj2ixuk8viFLIaiVKVTRXdNzrTj8IefBnErtukaCVmjz1NlyQYj92X0mUVVbKY6mgHCa5p4kbMoXWuFqxdE-Oa6Di4",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Ashok Kt",
+              "uri": "//maps.google.com/maps/contrib/100112173342724322968",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbcjvhE-N2VBaVjogRww6aw-h52dTaeS4EOOVOkEvv5ixWA70e=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJYJYU2qyViIgjFyBdR8w3hyKv1K0FadjlrXWNNTI7ZaKIkfIkokhXXsDx1phQhdU-DodJ3Nt_oOlD1QSf3FvFtcpt0W124_5fp2QvAEt3Vb1SBG3aCVe5OD6fFLdQhmosiO4WCy8sus2z7I4--18HN4nLMvLssSv2w4",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Dhaneshwar Singh",
+              "uri": "//maps.google.com/maps/contrib/108413363822587660490",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIpsAsUdQ1tqtMmldc6v4PbPCT8rW84zZa06TPbzDAh35cMcA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJYYRLdHcQqyPGvisbCekq4HIfJ8Ia9PnM6IGjwEUI_Gq26u-0p9Jz5oP-u5vkP8l3_VNZ2CFiGxWTpttfe_hC3jQkDP7MYL9vgKxHACeTzJJy8EucNxCRCZBEm52cIgpb_wrgUeKe2pojfmsuMJOdM09NXcNxttkLrQ",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Ashok Kt",
+              "uri": "//maps.google.com/maps/contrib/100112173342724322968",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbcjvhE-N2VBaVjogRww6aw-h52dTaeS4EOOVOkEvv5ixWA70e=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJat_dkfZTyV-OlIV0NjywkGdKy7y4g6JFJRgz4wgVumQ-26QolPqQhYeqtBwehcRwDdrkUATbBkIi0uZ5X2i5ORyThKf_lxaZzlX4uuj4XLCtUKpjYG9XSKAyhIf2x09hEPa23TIkt7cAcnbKCLwErRFi-fnRD69rAw",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Ashok Kt",
+              "uri": "//maps.google.com/maps/contrib/100112173342724322968",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbcjvhE-N2VBaVjogRww6aw-h52dTaeS4EOOVOkEvv5ixWA70e=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJawbOv2QwOS0GnFRW5H00s6Dj-jCLvepgo5vIlg1yN_oTvvaUrOFHBGHdnXpAv89Fdb-SSm1-qwPnFZ9f30wxEfM9xYbjkIZP7mok3ENH0yPrALyNF4Mo11V2bcVbI4gTqYMkmbgs7JeLxuA-6_LDmtWPhrBYc6Bw3Y",
+          "widthPx": 720,
+          "heightPx": 645,
+          "authorAttributions": [
+            {
+              "displayName": "Ashok Kt",
+              "uri": "//maps.google.com/maps/contrib/100112173342724322968",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbcjvhE-N2VBaVjogRww6aw-h52dTaeS4EOOVOkEvv5ixWA70e=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ2al255gJ1jsRuSDlrHudmKA/photos/ATplDJa28_Xl9hhh4nNZDuVP4DFnQk4zPu0MEFjYixrTGPMQnZoj2_L5UaftTALQDVmzfPl0qx6vhhKiTgyObaq3r6sQC_WAeZmp8HwNiXhYjVjv4TS3WrX9FnCwUDyXx2W6JjUYQ0BazfuxLybR5SEenIe1_4_aQ6M5caiI",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Ashok Kt",
+              "uri": "//maps.google.com/maps/contrib/100112173342724322968",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXbcjvhE-N2VBaVjogRww6aw-h52dTaeS4EOOVOkEvv5ixWA70e=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ",
+      "id": "ChIJAx4iP-0J1jsRTTV5onUJxFQ",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "VWX4+FHV, Housing Board Colony, Ganj, Betul, Madhya Pradesh 460001, India",
+      "addressComponents": [
+        {
+          "longText": "VWX4+FHV",
+          "shortText": "VWX4+FHV",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Housing Board Colony",
+          "shortText": "Housing Board Colony",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ganj",
+          "shortText": "Ganj",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460001",
+          "shortText": "460001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.89873,
+        "longitude": 77.906416499999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.897314319708496,
+          "longitude": 77.905176869708484
+        },
+        "high": {
+          "latitude": 21.900012280291502,
+          "longitude": 77.9078748302915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=6108017395462911309",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "VWX4+FHV, \u003cspan class=\"extended-address\"\u003eHousing Board Colony, Ganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBetul\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 18,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shani Mandir Betul",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "VWX4+FHV, Housing Board Colony, Ganj, Betul",
+      "reviews": [
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVLTdUSkFnEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very old Hindu temple situated in Ganj,very spiritual atmosphere every saturday many people from even far places come here for the special Aarti. Prasaad here is very tasty really!!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very old Hindu temple situated in Ganj,very spiritual atmosphere every saturday many people from even far places come here for the special Aarti. Prasaad here is very tasty really!!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Apple Thakur",
+            "uri": "https://www.google.com/maps/contrib/103961283430759884985/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf6IiZRQwAKkzN-Cnk8c2JYwNBani11yAQnnBIlN2uhrZRb64=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-08-06T11:30:52Z"
+        },
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5MjVPOHJnRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "...... Special\nOli Here For Shani Lord\nand Pytm accpt here",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "...... Special\nOli Here For Shani Lord\nand Pytm accpt here",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rahul Dhote",
+            "uri": "https://www.google.com/maps/contrib/102509647308311342105/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCpHwuj_An1-6GzvDbBoHeU6kGI9YBkShQpx0ydZtxt78ynkFOkQ=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-03-18T17:58:18Z"
+        },
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURaX2NpTEtBEAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai Sanidev Maharaj",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Jai sanidev Maharaj",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "AASHUTOSH GHOSH LL.B",
+            "uri": "https://www.google.com/maps/contrib/108029666218725960946/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6dcMrIUsvFLBJlPqnjT8nESOzZPvPHStQUzCo8hFKyxOToTqz=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-10-07T06:40:37Z"
+        },
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3anNPNGRBEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai Shani Maharaj\n\nDon't forget to come to Aarti every Saturday at 7 pm.",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "जय शनि महाराज\n\nहर शनिवार शाम 7 बजे आरती में आना न भूले ।",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Dheeraj Marskole",
+            "uri": "https://www.google.com/maps/contrib/100981111241241855244/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpfSw4HFWWuJjlWoywqzP92rgSkMRMhLACZuv9dd-uhWRmP_tW=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2017-07-18T06:31:33Z"
+        },
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRakpUcHJnRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Jai shanidev",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Jai shanidev",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "gulshan gangwani",
+            "uri": "https://www.google.com/maps/contrib/116196174265760239519/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuTiIK96D0tMKl8dBud68KIGGOm1wt-0xvCgKlB59rSy51Sw=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2018-03-04T17:11:35Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/photos/ATplDJYbBRKoUh4vLqvkKw9PumN3D1QAZw0rxgWJ7m7AdWVucov9j4oBIHbfHj1E05Y3PsLKW5hG_elyn8NTeKO7OtSkC_w_hgSLu7ui_tj5RueM_eqaH4BmGHKLEu5gN5pYlbr34BY-Xr8ehM9dcfj5RevJfkJuh2205zxu",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "gulshan gangwani",
+              "uri": "//maps.google.com/maps/contrib/116196174265760239519",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLuTiIK96D0tMKl8dBud68KIGGOm1wt-0xvCgKlB59rSy51Sw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/photos/ATplDJbyyOqPY1NOqH4UCaaEJ75_u4DlhSaL6Mkyu_P1w0SaOmSRuH43BbPTf76oLhwr_QMoJJbPQjCaCji-z-2XOUh1gcPFPW2B9IJo58xS0grrb2-b9EzZCgbb0iUphf_Rn4y8qku8W7jPBDh_gZU7HgYyYVf6qNyC5BQn",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "gulshan gangwani",
+              "uri": "//maps.google.com/maps/contrib/116196174265760239519",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLuTiIK96D0tMKl8dBud68KIGGOm1wt-0xvCgKlB59rSy51Sw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/photos/ATplDJYeH4rm9CusQGCYpkZkVp8kiG7MfLNbSBPMXhQnb9AEp5uzOMLDLfcvZvKUW0YsPo5MaWXEk1e4xDb8yPR6pOW0x9VxhEBiVDFq7c_Zl-MTQO1h5CyblRGclI_Vb8ywXsUdpLa9_HVjE2n8Ofsm5TqnSJOWAngKSyQu",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "gulshan gangwani",
+              "uri": "//maps.google.com/maps/contrib/116196174265760239519",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLuTiIK96D0tMKl8dBud68KIGGOm1wt-0xvCgKlB59rSy51Sw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/photos/ATplDJYiNfVkWYQb2RYlzMaCSbPhSAWEqfhiRWTYBzzjTira2WKJ7rSMh4DnIttQZ1VqgaM9lcd-miL8SM81e5RQhcZSqteQktQUbqqBSM5OQ85h8JiQl1eJYhCtpwibmKlf7RJFYcN-WeMNwf9JUP3lJ3tlI17wsxRq4TR1",
+          "widthPx": 2608,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "AASHUTOSH GHOSH LL.B",
+              "uri": "//maps.google.com/maps/contrib/108029666218725960946",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX6dcMrIUsvFLBJlPqnjT8nESOzZPvPHStQUzCo8hFKyxOToTqz=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJAx4iP-0J1jsRTTV5onUJxFQ/photos/ATplDJbB0-Cmrr7npVpIsaYd2vKFCKQBDx5J4LmX72YRULFpdmrD5INT70y8BCRYtS6p6jm685kPLaGEDXqdzrbNaf6B2waZg7WGyFToZSeK4hJYRqPZz1Y8QCv48fhLXRB4lB-2YYUNrqfeh2voBUkzJBoVtykWht9RoqKV",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "gulshan gangwani",
+              "uri": "//maps.google.com/maps/contrib/116196174265760239519",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLuTiIK96D0tMKl8dBud68KIGGOm1wt-0xvCgKlB59rSy51Sw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8",
+      "id": "ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "WV2C+R9X, Kosmi, Madhya Pradesh 460001, India",
+      "addressComponents": [
+        {
+          "longText": "WV2C+R9X",
+          "shortText": "WV2C+R9X",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Kosmi",
+          "shortText": "Kosmi",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460001",
+          "shortText": "460001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 21.9028164,
+        "longitude": 77.870852
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.901110669708498,
+          "longitude": 77.869620869708484
+        },
+        "high": {
+          "latitude": 21.903808630291504,
+          "longitude": 77.872318830291491
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=2261186817347532391",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "WV2C+R9X, \u003cspan class=\"locality\"\u003eKosmi\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 17,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "KOSAMI DAM VIEW POINT",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "WV2C+R9X, Kosmi",
+      "reviews": [
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4bVlmODd3RRAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Kosmi Dam is a prominent water reservoir located in the district of Betul, Madhya Pradesh. It is a man-made structure constructed across the Kosmi River, which is a tributary of the Tapti River. The dam serves multiple purposes, including irrigation, water supply, and hydroelectric power generation.\n\nVisiting Kosmi Dam offers a serene and picturesque experience amidst the natural beauty of the region. The dam is surrounded by lush greenery and provides a tranquil atmosphere for relaxation and recreation. The expansive water body created by the dam offers opportunities for boating and fishing activities.\n\nNature enthusiasts can explore the scenic surroundings, which often include hilly terrain and forested areas. The area around the dam is also known for its diverse flora and fauna, making it a potential spot for birdwatching and wildlife observation.\n\nIt's important to note that while Kosmi Dam is a beautiful destination, it's always advisable to follow safety guidelines and local regulations when visiting such sites.\n\nAdditionally, availability of specific amenities like boating facilities, viewing points, and accommodations may vary, so it's recommended to check local resources or contact authorities for the most up-to-date information before planning a visit to Kosmi Dam in Betul, Madhya Pradesh.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Kosmi Dam is a prominent water reservoir located in the district of Betul, Madhya Pradesh. It is a man-made structure constructed across the Kosmi River, which is a tributary of the Tapti River. The dam serves multiple purposes, including irrigation, water supply, and hydroelectric power generation.\n\nVisiting Kosmi Dam offers a serene and picturesque experience amidst the natural beauty of the region. The dam is surrounded by lush greenery and provides a tranquil atmosphere for relaxation and recreation. The expansive water body created by the dam offers opportunities for boating and fishing activities.\n\nNature enthusiasts can explore the scenic surroundings, which often include hilly terrain and forested areas. The area around the dam is also known for its diverse flora and fauna, making it a potential spot for birdwatching and wildlife observation.\n\nIt's important to note that while Kosmi Dam is a beautiful destination, it's always advisable to follow safety guidelines and local regulations when visiting such sites.\n\nAdditionally, availability of specific amenities like boating facilities, viewing points, and accommodations may vary, so it's recommended to check local resources or contact authorities for the most up-to-date information before planning a visit to Kosmi Dam in Betul, Madhya Pradesh.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Devansh Narayan Srivastava",
+            "uri": "https://www.google.com/maps/contrib/109333315937172019166/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUr6eQe3BGV7QJPQWfJ9Hn_L72iECsRuLRdS5_hYoX4F2CkLJH7-g=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-05-21T05:35:15Z"
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWeThyejFBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Best place for outdoor visit and recreational area in betul where you can go to picnic with your family",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place for outdoor visit and recreational area in betul where you can go to picnic with your family",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Harshit Pawar",
+            "uri": "https://www.google.com/maps/contrib/107039278209865141422/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtVjlduI03w6heS1EhFVwGg0qgoSs8DX_G2cKGsJGVQuRomQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2023-12-09T10:08:10Z"
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5dTktTUlREAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "That's my own place my farm is beside the Dam.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "That's my own place my farm is beside the Dam.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "PRANSHU CHOUDHARY",
+            "uri": "https://www.google.com/maps/contrib/110934299128324111008/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlTZtm2kZEsUU5xOzlFK_yVYJRa9r7X0vsoMXxbS13YyeEfTpZ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-21T15:08:13Z"
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWN0ppUC1RRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Lovely view",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lovely view",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "hemant yadav",
+            "uri": "https://www.google.com/maps/contrib/112766678233003870920/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqyYq-qN9sfOid3Gol2Fo4ov7i_Pzyl7mzwPzHSvvkXEH2GA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-06T00:44:33Z"
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/reviews/ChZDSUhNMG9nS0VJQ0FnSUROOVpYSURREAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Every animal",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Every animal",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sinu dhurve",
+            "uri": "https://www.google.com/maps/contrib/115447341068370650169/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmKkMg5nKpuN1yaBq-bDWBMCEcq9Ki2gOqwINKxexijGUx-4oa0Q=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-24T18:03:41Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJbaQSCPWny8uR50SFc62QzfTsME1STg7AJKgOSOdvKthmbsiwnGFdv51TouwKLxw_euG2M5ZM-neRULDnk_Z2_phuv10_VdJ1c-z2WjGWgnMK0cyI10RfQlMi0uFDkozVd64nCpVu30n0HhNH2xWdcSP0kxivR-ayxO",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "HELP FOR YOU",
+              "uri": "//maps.google.com/maps/contrib/106293588052759792096",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVrUvabpUhcb4QIrsFiZEvEzvfHuOvywh_Ch-6Ae0uQLPWVG1me=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJYmbTr5ZgO0RuTXZkgWbK65N-NfO4UikHvRElh0SEwLo_FqhuYUCy07ncGbdKWfJclBde9RugDfxBgVG310baANJrQY-JF04nIC2bk2a6pw6dRiorHAQ8fWVjuwyWgLp3NAHi0FpREeJ7Hs_Fyu4rUOIoaHlxUFmveI",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Parul Gawhade",
+              "uri": "//maps.google.com/maps/contrib/110855416112269987916",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUMMhiDPPdO6XeXQuqyXokN8idoHYi8Vx1f5H-oHGGMFos8h0CdKQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJb-R8ryn4sUBx6zHqVjbAgDpc5hWRAT7CGYHpqIsj03xfPhmCTKqDN1itrudxYglLy8YFga2vQJes4zhqlkD7ME18OnAqTWZUiTnVUxF20mH2r5q8q_gk6NPt_f8ip-sjaaD8LoNs4-kywgduT6dzSdiniuwlbhVmXb",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Sonu Meena",
+              "uri": "//maps.google.com/maps/contrib/103426360923111201718",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVHEXP-e1HM7I9D5hDlmLA5rLnd1-G7CzTHvNxymPp8fbNJmMT4hA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJbVwa9saylg33DTC7GqlFo9gD4ptiBmQzwA4adAa5AN_jZo8HjnpU-eW5BEIaD53xh-oS7R7kVtQAY54WUfd0Pgknafdy5a2upALF8ywAyeKdII7DMXfj3g0dSbIuamTrkvZIDx0-jPu04eISmtVgts9E7OmwszaB-7",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "sumit likhar",
+              "uri": "//maps.google.com/maps/contrib/115996237204430005972",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLhhgFrif8P1RsSyMMZudv7MBcy9cksWkK9MhJjUWgH7wgRCA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJaLImjDSYV9CW_gkPQVTCOPMSwkOk994e_1X3T8666p1dd7C6EYhcwoUP6xw4Ohz1Y_s-1wo5O8ac7H7t6VpSU86fM49DTZcJdQJ07JPuKIooUwkOJ0CHwuYApQlKh1z6yLvDA-i6u_yHmKHepNmwavAuzpcsEbh1b3",
+          "widthPx": 4096,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Sufiyan Khan",
+              "uri": "//maps.google.com/maps/contrib/109332558516762518233",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXunoBfK7VDDCZXzR4ptOA1gebUZLIi8q6VSP6IJVkGGIMPPKk9=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJbF-x3aptrW_APw8mq_npbZzY41pzB6mOmbdVxhY3DimLNASJ_vMMErFpKq5-e3V6BAn0tVAgkkSoT-kYu3TURDi1qaDaSGo-5aTnK6UgVp6VM6NEJ7nbowntw6dXPhQlRot5F1WOJ95UOrngDlVQi9zoRtyjYLTrYL",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Kiran Dhote",
+              "uri": "//maps.google.com/maps/contrib/103344591182163288208",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU-UiALWS1QObNhMVWyrClLVlLWWXWaQVICFOvt3_ojs3phHS4V=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJYp2QHUrEt0EtGRiSNbI9GLIR1ApKphsztw528YBiVQrztH8TKTkj_KKNf-iEQvIaU7ZFWxmBsRttNYs2LwwAzLx-gCaRAj05f1Vxp2JDdD5bjrMQityV70YNkOjWEE9B9pLCPEd7brfgIqVG96KIv7aWFWUWX0nFMF",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "hemant yadav",
+              "uri": "//maps.google.com/maps/contrib/112766678233003870920",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJqyYq-qN9sfOid3Gol2Fo4ov7i_Pzyl7mzwPzHSvvkXEH2GA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJYoiL_JNeC1qw4gkdF3bzZlQd4LKOmLMq-oypp1dR6rTTRET3Ql8y4TyQaYMLrUFWrRYvKTBxlANqoMaTN1629Z_1BCp6DY5oPHguf6IA1NacbV3eus5iYOVC3ZWIw--AoHa6b2pMmg9gUwB9Wmp0IK7khfBQIeisUv",
+          "widthPx": 2592,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Ishan Karare",
+              "uri": "//maps.google.com/maps/contrib/100109507496252943705",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVayrwHgaTMKJ67wJoCqRkADQV2-XIfLag3JdZ9_XnEiSH464uB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJaQgcIpyygR-BUu6y0HPLABHtBPBlgd9LdCSLVBTleVPLJiwwqMWPw19feoZF3IXL8SfLbvfUB6JqFAv57HsMDtX8u-XigDy3o1-x8sgEsy_MzfUwwkKmfvzL8ktwPmzu5GlZ1D07hrDevBj0nbWk6om6sgPdqY5U4C",
+          "widthPx": 6144,
+          "heightPx": 8160,
+          "authorAttributions": [
+            {
+              "displayName": "Vicky Pawar",
+              "uri": "//maps.google.com/maps/contrib/104363840826841737782",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhvvfhN8Kw0O5cpNwv20PDgYm31x8D1nXIunybPdAOkV1ueMzc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ04AfaAQJ1jsRZ7bLGm5ZYR8/photos/ATplDJaNcbT5uFNjbm6dh6VIGHvc-EWAB_ZGvArVd8bWebQRIpBJvvhrft6uQ031mG78Me-9EosqTaYO2899-vLPPStXUdbw1d18oYaxNKL056kQxfWFRf3Myljjl3GyKfWzVaZ6MTxx9AXVHaT-mN3iEyMOpeMJfdP3wrfr",
+          "widthPx": 2252,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "The Madphotographer",
+              "uri": "//maps.google.com/maps/contrib/105027137860304415027",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXE8Io_GUtL8XWNmEabUUswJpXCwMHwVRFHr8Nnw7QpZL7QAVJK=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true
+    },
+    {
+      "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ",
+      "id": "ChIJGbRVJf4J1jsRqtsKk-sH0UQ",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Hanuman Mandir, Akhda chowk, Tikari, Rojhada, Betul, Madhya Pradesh 460001, India",
+      "addressComponents": [
+        {
+          "longText": "Hanuman Mandir",
+          "shortText": "Hanuman Mandir",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Akhda chowk",
+          "shortText": "Akhda chowk",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Tikari",
+          "shortText": "Tikari",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rojhada",
+          "shortText": "Rojhada",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Betul",
+          "shortText": "Betul",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Narmadapuram Division",
+          "shortText": "Narmadapuram Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Madhya Pradesh",
+          "shortText": "MP",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "460001",
+          "shortText": "460001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JHVWV7R+3Q",
+        "compoundCode": "WV7R+3Q Betul, Madhya Pradesh, India"
+      },
+      "location": {
+        "latitude": 21.9126934,
+        "longitude": 77.8919853
+      },
+      "viewport": {
+        "low": {
+          "latitude": 21.9113705697085,
+          "longitude": 77.8905943697085
+        },
+        "high": {
+          "latitude": 21.9140685302915,
+          "longitude": 77.893292330291516
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=4958753373077298090",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 15
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 15
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 11:15 PM",
+          "Tuesday: 6:00 AM – 11:15 PM",
+          "Wednesday: 6:00 AM – 11:15 PM",
+          "Thursday: 6:00 AM – 11:15 PM",
+          "Friday: 6:00 AM – 11:15 PM",
+          "Saturday: 6:00 AM – 11:15 PM",
+          "Sunday: 6:00 AM – 11:15 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Hanuman Mandir, \u003cspan class=\"street-address\"\u003eAkhda chowk\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTikari, Rojhada\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBetul\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e460001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 81,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Hanuman AKHADA MANDIR, TIKARI",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 15,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 11:15 PM",
+          "Tuesday: 6:00 AM – 11:15 PM",
+          "Wednesday: 6:00 AM – 11:15 PM",
+          "Thursday: 6:00 AM – 11:15 PM",
+          "Friday: 6:00 AM – 11:15 PM",
+          "Saturday: 6:00 AM – 11:15 PM",
+          "Sunday: 6:00 AM – 11:15 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Hanuman Mandir, Akhda chowk, Tikari, Rojhada, Betul",
+      "reviews": [
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0NzhISGp3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The hanuman mandir mantain cleanness and etc",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The hanuman mandir mantain cleanness and etc",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhavesh Nagle",
+            "uri": "https://www.google.com/maps/contrib/109715983906789651760/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSCA4K03HPV-3oO5pPjZd-CRU5oxqp-oKEnPaeZWQoQFyJ07jS=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-08T18:46:48Z"
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNFdTV1Nl9BRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This temple is very old .but in this temple dakshin mukhi Hanuman ji Maharaj very powerful and they are completed all wish for everyone.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is very old .but in this temple dakshin mukhi Hanuman ji Maharaj very powerful and they are completed all wish for everyone.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "AMIT SONI",
+            "uri": "https://www.google.com/maps/contrib/111608769467044131988/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7b7mlMa6A43iqoyzEpvElzS9OyMecKyBtZLpcjdBT174oig=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-06-17T18:26:46Z"
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNX2Vxd3FnRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very famous temple in betul you will feel very positive and strong after blessings of loard Shree Hanuman ji ....The peoples of betul have very kind in nature you really like them so must visit this temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very famous temple in betul you will feel very positive and strong after blessings of loard Shree Hanuman ji ....The peoples of betul have very kind in nature you really like them so must visit this temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rahul",
+            "uri": "https://www.google.com/maps/contrib/103541613713354765396/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZfC0_QpbB3-j4aGxDx4sNpo5LjPEiHzMLqXdMsWTJ8kdEEw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-12-02T10:33:10Z"
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURJdmY2ZGp3RRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Simple bt it's very beautiful nd spacial temple.. 👌👍🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Simple bt it's very beautiful nd spacial temple.. 👌👍🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashutosh soni",
+            "uri": "https://www.google.com/maps/contrib/105676146632766963761/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbxrFHDPrDBJmxL4r5dlg559PSDKTeDfSJ-QJO_A0x8HQJYcQ3=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-01-17T19:22:49Z"
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURpZ0lESDNnRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Shree Hanuman temple, oldest and popular place of Betul",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Shree Hanuman temple, oldest and popular place of Betul",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mayur Sawarkar",
+            "uri": "https://www.google.com/maps/contrib/111596222463992863498/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJRY35IU-ZH0fCW_Zi3Y7bPbR9g07i6EAxa2G0JvrN4iIKrR0=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-11-20T18:38:43Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJapprDSNx96gMbY3P-xHSV2cEXfiC31lP4kqVJ4rj8vkQtFjk7557DqA8hIKKDz329_1aSJ4pmUHAr6l2qaKHA_tp9NM35h9hSc5CWnakBPw9PZmDR6AkGELyJEL53RzDE_IR7L_RKZ-cBtGL8OWPHvI_IKBFtI0Uv3",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Ujjwala Shivare",
+              "uri": "//maps.google.com/maps/contrib/104057827106605986047",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuRtbADrxpiP-wmwQLHI8xgXgCVEkpYkV_BcFfhyGvfBWEqgmB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJYpJ3ka3onuuUqv8lU8g0aXODo1nqXlsiPWHVwmYgc7t9iK4Y1OHnbbf4mpPx0H8lZEchmqoFoA4vu6u8th8tf5g9p_bYaGxn767u3ob7rjqIVEki1j1QbOqR9x9REzi-48Djssp9Mq9QV63dUq20iclJxOCFFlHTeK",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Mohit Madre",
+              "uri": "//maps.google.com/maps/contrib/110228512934371012277",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVTIs2o5GNZYxdWeJ8FfhS1QFZHsWCCZsIGqR5OJYUE7czZn3d7=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJYKcfug6p239N2g3oUmI2BR43TUJsNWm8r5BHIZ-tgauyiltAXQ9bnBcyKjC8xky1dM2uG1Hth20ZYwz2-9jodx128JCSNQhQXquc-jEzohUJqyqhSQZmpuuqfl4nDCpfD0ieIGIaKW9mMGlASdzyvsNWfiUrwSSk90",
+          "widthPx": 1836,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Ujjwala Shivare",
+              "uri": "//maps.google.com/maps/contrib/104057827106605986047",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuRtbADrxpiP-wmwQLHI8xgXgCVEkpYkV_BcFfhyGvfBWEqgmB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJZNlRA9seZnFQwbLlTcHM703Gryc0f-pBQqTyhRbJxW2OqWXNRSDcKZfPedzi31Q8jRBwOiexS2l5kaWHr5ZQGTW36h-44HnoCq1QXw4T6ZgWT5mZhj0gPoUaXk1eZhvsDOuIuTAip-oGr9rbKIROd9UC0UkaT9_798",
+          "widthPx": 739,
+          "heightPx": 415,
+          "authorAttributions": [
+            {
+              "displayName": "Rahyl Arya",
+              "uri": "//maps.google.com/maps/contrib/101662762528670467369",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJd_LMp1fcFWN_cqVafaZdD01pidMBG4okTy5eTY8BH4arsHg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJZ7-wHuensBk77hYLT_IRb_D22voIzoyV7uyewfhLMOqVG4DYX-bGhaWzGAMShtA---Z64GeFMEbtMtNN5YUMcSgUdGu3FFKj7StcO59Z8EGVMXyg_15x9nPR2q2XpOyd41xzv47VDilqEmb4a0JNFPZeupZv1dDEoI",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Ujjwala Shivare",
+              "uri": "//maps.google.com/maps/contrib/104057827106605986047",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuRtbADrxpiP-wmwQLHI8xgXgCVEkpYkV_BcFfhyGvfBWEqgmB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJYdq7mCYJ4hGJ7PTvHyDQvLhsvhErPf2uLV7adLRu5jmHS5B3S_FoMmJ_dyG7YpH3YNBF8PojWtNHnB0GmOixOW_S0xyjJtZTySsADduW_P4v1_Bj9MTaFa1WmOcx_jwm_K_QrPuup9l6jrMSK3DVof5CQM9069Vqgc",
+          "widthPx": 492,
+          "heightPx": 1040,
+          "authorAttributions": [
+            {
+              "displayName": "Rani Pal",
+              "uri": "//maps.google.com/maps/contrib/117170212072370890291",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXl247dlGYQSwGzE_QtA5oBLxKh4ALzn87kYwNmfPZRxJ7iPsY=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJZc_sAXgjGY6zk58fx1uE3uzEtKDeBFFhTY7d9Rmb6ebvy9SUDQWfKRhkoQAscSy-1-HfsRE2StJfegXguWKGKVoHHZ1dYCPsYltW-95fmlvLg9idJrSNDnXzmHek1jLcLMv3AUPQahOvzQrsrQQVxPH7eHk52D4D0z",
+          "widthPx": 1836,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Ujjwala Shivare",
+              "uri": "//maps.google.com/maps/contrib/104057827106605986047",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuRtbADrxpiP-wmwQLHI8xgXgCVEkpYkV_BcFfhyGvfBWEqgmB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJbtptDoQzEVeqhWDn_doQBvyhsZ_MN8QWElIP9MkwjLVCvsEsLBteja53sTkkj5MxmCnWq3sL5H1KdlgxuqdQVF7Q0SKKkly5FpWIgj3PrSaAzpG-LgHj0SoBS1RJMi7B3Lswa3P7NYeiRZajotjJhq02NYddl84CoN",
+          "widthPx": 3264,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "Ujjwala Shivare",
+              "uri": "//maps.google.com/maps/contrib/104057827106605986047",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuRtbADrxpiP-wmwQLHI8xgXgCVEkpYkV_BcFfhyGvfBWEqgmB=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJYV5d1NtV-oXWbBdPy3Qt6RcjVROneqbAXYhBi8Nb_qHM40-S8nS0ppGLFYFgXl7PnDclyawS98_rIWHgy2TYSv2Kg3Bt7pvKs-w1LCPsmjyj3VBL2dfaP0bOXAA0QioStI7RdQ6bTSpKCw0IuxGApUvYVazcqHQ-o6",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "The Madphotographer",
+              "uri": "//maps.google.com/maps/contrib/105027137860304415027",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXE8Io_GUtL8XWNmEabUUswJpXCwMHwVRFHr8Nnw7QpZL7QAVJK=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJGbRVJf4J1jsRqtsKk-sH0UQ/photos/ATplDJZCgIHiOk4pxwWsSN1mJVGUBElj9-DaBd49CkvQKNm9Cz6HsUIeu1rNWK4yJ3kN_20xGFpaGg6G8wLTxVlnVtmvx6v2QgcT8puaqH1t_qGHOwT-rq_q0MtLAJ5-voPkjKhTJDq88lEjsJbD4A1x7ltsc8awGv4TX4Vl",
+          "widthPx": 2340,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Shubham Koprekar",
+              "uri": "//maps.google.com/maps/contrib/113429395865764767514",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJwxdvFT6HM0UdyTbSOS_ULBpL8xXicZIlWMC4JXjL977ygyw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    }
+  ]
+}
+

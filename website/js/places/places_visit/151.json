@@ -1,0 +1,4444 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ",
+      "id": "ChIJo-q5NLs6RDkR3ZGpaUCOPzQ",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "094141 06359",
+      "internationalPhoneNumber": "+91 94141 06359",
+      "formattedAddress": "Agrawal Bhawan ki gali backside of National Handloom, P9WV+GW9, near Sagar Hospital, Kothwali, Barmer, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "P9WV+GW9",
+          "shortText": "P9WV+GW9",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Sagar Hospital",
+          "shortText": "Sagar Hospital",
+          "types": [
+            "point_of_interest",
+            "establishment",
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kothwali",
+          "shortText": "Kothwali",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.7462936,
+        "longitude": 71.394859799999992
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.7450101697085,
+          "longitude": 71.393486569708486
+        },
+        "high": {
+          "latitude": 25.747708130291507,
+          "longitude": 71.3961845302915
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=3764884220806795741",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 10:00 PM",
+          "Tuesday: 5:00 AM – 10:00 PM",
+          "Wednesday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM",
+          "Thursday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM",
+          "Friday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM",
+          "Saturday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM",
+          "Sunday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Agrawal Bhawan ki gali backside of National Handloom, P9WV+GW9, near Sagar Hospital, \u003cspan class=\"extended-address\"\u003eKothwali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarmer\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1111,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Viratra Vankal Mata Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 10:00 PM",
+          "Tuesday: 5:00 AM – 10:00 PM",
+          "Wednesday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM",
+          "Thursday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM",
+          "Friday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM",
+          "Saturday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM",
+          "Sunday: 5:30 AM – 12:00 PM, 5:00 – 10:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "P9WV+GW9, Agrawal Bhawan ki gali backside of National Handloom, Sagar Hospital",
+      "reviews": [
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPakpqQmxRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Scared place...very neat and clean..on the top of the hill the magnificent view of Thar desert can be seen.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Scared place...very neat and clean..on the top of the hill the magnificent view of Thar desert can be seen.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nitin Dangwal",
+            "uri": "https://www.google.com/maps/contrib/115651312809718659931/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdjoaDKdkoCSCnXR_2ChAuT5jepXijphQPcs6k2Qa5UEwg-I9w=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-06-03T08:41:51Z"
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURKaFpMSEdREAE",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "This temple is situated in Tehsil Chohtan of Barmer, this temple is mother Viratra Vankal Mata, there is arrangement for the passengers to sit and sleep and there are many scenic temples and the mountains here are very beautiful, there is arrangement for food.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is situated in Tehsil Chohtan of Barmer, this temple is mother Viratra Vankal Mata, there is arrangement for the passengers to sit and sleep and there are many scenic temples and the mountains here are very beautiful, there is arrangement for food.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kanu Choudhary",
+            "uri": "https://www.google.com/maps/contrib/100323285759687887744/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXubp4kUJFuBiZcGC30CVuKJ6Yx9pHqkaR4YyGVBn6sgr7ZAm4=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-07-20T13:56:43Z"
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1dXE2RENBEAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Best place tp visit in hear of Aravalli parvatmala",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best place tp visit in hear of Aravalli parvatmala",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Registaani Thoughts & information",
+            "uri": "https://www.google.com/maps/contrib/100444334026830959535/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIQwPVGdl56_34s_Wsxti0pTLo5QY7MbzEs691cT1Cwjo2pgdC=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-10-23T11:42:24Z"
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdTVQYVZ3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I enjoyed it too very much... It's something very mesmerizing..... Cannot take my eyes of it, such a beautiful architecture.. mountains.. too beautiful to be discribed👌👌💞🙏🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I enjoyed it too very much... It's something very mesmerizing..... Cannot take my eyes of it, such a beautiful architecture.. mountains.. too beautiful to be discribed👌👌💞🙏🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Han Soo Young",
+            "uri": "https://www.google.com/maps/contrib/110703218723860924013/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUS6zVIAO-Al9N4Y-uDtLHFByB4Jkn8TDYxe51DVuONwsho8BSwrQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-01-23T14:51:21Z"
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGLV9DWkxnEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "The Place where I find the Indian Vulture which is near the viratra mata temple in the hills. Through trekking I reached the top of the hills so where you can see all the  hills and biodiversity.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The Place where I find the Indian Vulture which is near the viratra mata temple in the hills. Through trekking I reached the top of the hills so where you can see all the  hills and biodiversity.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "DINESH KUMAR (Dinesh Ahampa)",
+            "uri": "https://www.google.com/maps/contrib/108619631949185979601/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyNmtiF79VrsIEhA9DOt8ZOPR33VnMUdlrlpK8ITj7qgYMeGUt=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-11-03T06:40:14Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJZB6Co3143T9jPpYk21xoYq_Xu0yKu8C__v1IMt3fpekgzLgaPZypCU9gdDqoUNfpUVOC8a9-kxznpDzdVdK66SN4FlTm1OTDtyot5TqeQTj9PbEPuTkOlqOTclFmT1WVoQEWIzEMuH_qVMhrKCzIzcQk81z1Gi7zI",
+          "widthPx": 720,
+          "heightPx": 962,
+          "authorAttributions": [
+            {
+              "displayName": "Vasudev Kumawat",
+              "uri": "//maps.google.com/maps/contrib/113591347042701247478",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9SSL730GI5NDzb58TKq2ih_XAybx51HAbERBgpYyOkVnn_4I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJYYkGpytRAwk-718ueUEZEtvDfIItavZ8hci6HeoYwwhYntnRK_RiyC7CTkodL9afN-IqaVO5ycNm3cVhpAAclSmXjdiIkRWss726KKVWhEq6CUGgMhxpZM3_8p10psghUoeTCBFUx_hPzGpfKTfQv7WDAnVo8poQLD",
+          "widthPx": 719,
+          "heightPx": 549,
+          "authorAttributions": [
+            {
+              "displayName": "Babu Jalipa Barmer",
+              "uri": "//maps.google.com/maps/contrib/113223072025267322728",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUh1q8liQpWK6i-BwocF8gwdtAF5NZsmOmZXwJsfCnYBZaw-PcD=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJbfY73oOVVtqdrrlK7_uwT3rJurlt5ZqYEoJNV77k0QTTaCSB48chz5TfU0xKt1riTp6fBvH3XGyTimIE45vviwDJNM0pu-ta8xx_4ozC9KWlwThHoRtCtokmAy5-2i0qwanjRhewdS_oyha1FoiurasYLygo_Ks9MJ",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "DINESH KUMAR (Dinesh Ahampa)",
+              "uri": "//maps.google.com/maps/contrib/108619631949185979601",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXyNmtiF79VrsIEhA9DOt8ZOPR33VnMUdlrlpK8ITj7qgYMeGUt=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJYLTscuTBJETEDWodx2G3wigFNrbvD5-wJBHUhq1D19hVGg-iIf2YGBho-DzQLTEAmNQrMqJFY67FSQPqFYxS924o5qotHd4f2RuOwft_4dqcG82wTwqgYn0jgJFKpjtnvuAx813xcT5VtYcOA-o07dccRHI4qXPAA",
+          "widthPx": 720,
+          "heightPx": 522,
+          "authorAttributions": [
+            {
+              "displayName": "Vasudev Kumawat",
+              "uri": "//maps.google.com/maps/contrib/113591347042701247478",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW9SSL730GI5NDzb58TKq2ih_XAybx51HAbERBgpYyOkVnn_4I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJYBklDwrQ9JHoHSGMRmvlBnIhI2sQK4hflqIAvnPIhxhqds-LrH_U-Vc7nEWvTp2WRdfuB-kmCmLlzVOTDHIvw3Z9S92nr0UOgtKnmwi_hh5Y0J7GD-CBtHH1r_IU_1SIs9GiNRb3mBcf_xHhbI1r9fqll8AyRcn2_h",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Kailash Suthar",
+              "uri": "//maps.google.com/maps/contrib/115764378972375965552",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW2SbZCaivQ7aLj0Q9m8wTijG9gI9vBqNZWY6sseigqF13XjfhL=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJbmTPSulCywjf5pCjLlY3c6gk1T4HWvq2igrcNNvh0pDYVruKYDC-_k6WT6YNDmsOFKODbOMyJtXP2jwNeAAO43AfGr37nEBGjs_EPDuGJOPkBkzcpp99EVeddzC6-VM46WI9Inhzgkdyr-4L4CBW4T43y-ab8LWF7I",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Harish Rayika",
+              "uri": "//maps.google.com/maps/contrib/103736701389978649428",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVG3KfWn8rXPeWqOxTGPMSflT9lG9Mppb7tUyAzyR5C0-X0pP4x=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJYvDWEFjB8LpefMMQG3vXGMUMejPPQs9n78oUAirHIpz4bJLmP4tJ-DQ865jhpYolQmIcuwyMY8QFN6mEx-_1y4ZTuaKijMkJBDiQUaOs2KGnfHkYtKeNzcfcGaT3NG8VaSkKvRcN80KQeiNBvTV_d4fbWYNOLuK6wt",
+          "widthPx": 2252,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Hansraj Parmar",
+              "uri": "//maps.google.com/maps/contrib/103413353955787595005",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIboIORalE5iOhW-R-85CeRQ3BdOrDLrNvM4GFVp9ZsiDLldQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJYg1Whh0xXrt46eIzuy9IZZQsqGnKWk5ZjaX6_21RRxdlO9Zin8tH0iFm5Tv5y4Xnk1omcdt-nQEfqWc5cU94lm35BFRI6lW30xyWLwgSjsGDndwpcfzjABkdd5Nm5hmGkMossuHIGSkdiwVCM3Bk0a9SNzjqHCcA6U",
+          "widthPx": 720,
+          "heightPx": 544,
+          "authorAttributions": [
+            {
+              "displayName": "Harsh Rathore",
+              "uri": "//maps.google.com/maps/contrib/101009519654312991113",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKDO0Ag72vG9Q1z3LMNfYaNU90U2sOgd4KW6O1OFTCHqOndjg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJbSzTecC6RkeXkYmMu5yqupFeUR4MO3Ti-WOSk9RpaqOTMttLV_0s5-5JcMteTRcKm1CWRYX1rKPyhuJxYT7hJUxhyCkQMS0-lZcVwToDX3uaOXg4K70qGHsGYG4ADcGnuLRGtvzQ70HiYRM8ruqq8195Gw7rZ3ug-u",
+          "widthPx": 2736,
+          "heightPx": 3648,
+          "authorAttributions": [
+            {
+              "displayName": "kishore karuppaswamy",
+              "uri": "//maps.google.com/maps/contrib/110025861099505103690",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU9PBJWW1agqIz_S8Z-91-nxXztiUPvNmr7Srlq83VGg8y3ER0-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJo-q5NLs6RDkR3ZGpaUCOPzQ/photos/ATplDJapBPf4pYaxbxwrKQPkl_wfEiw6UMKrmoJBkqHwRSv2tHX8HiEG983g69PnQt3l6rEepUwkHfaEkkXsPeaQiGNHaH1IdbyJ_X4SCQZJH6w48iokpQlvFP0I3gib5kXYtEdfGf-gPD5MdYeOqyxeSaS2TR1CUFyB9Gj0",
+          "widthPx": 1800,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Kumar",
+              "uri": "//maps.google.com/maps/contrib/112497554020990836355",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVty2zehVoYV_Psi32vc1o3tjpIIx1DiPyaN2guSUdz8iCmPBY=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ",
+      "id": "ChIJXdJWWtsvRDkRB4DuFJgJJCQ",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Inside Mahaveer Park, Q93X+78X, Madhuban Colony, P S Parisar Colony, Barmer, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "Q93X+78X",
+          "shortText": "Q93X+78X",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Madhuban Colony",
+          "shortText": "Madhuban Colony",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "P S Parisar Colony",
+          "shortText": "P S Parisar Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.7532349,
+        "longitude": 71.3983568
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.751913419708497,
+          "longitude": 71.39694536970849
+        },
+        "high": {
+          "latitude": 25.754611380291504,
+          "longitude": 71.399643330291511
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=2604217033317842951",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Inside Mahaveer Park, Q93X+78X, \u003cspan class=\"extended-address\"\u003eMadhuban Colony, P S Parisar Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarmer\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2432,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Mahaveer Park Selfie Point",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "Q93X+78X, Inside Mahaveer Park",
+      "reviews": [
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURwNjVpTF9RRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Small & beautiful garden  in barmer city well maintained toy train is good for children's. Mini Toy train service for children's is pocket friendly cost only 10 rupees per child till 9 years old child.Administration should be strict for adults those who are playing cards in public places where children, families coming for little atmosphere change but absolute disappointed due to adult groups retired persons groups playing cards in public places which feels awkward for families.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Small & beautiful garden  in barmer city well maintained toy train is good for children's. Mini Toy train service for children's is pocket friendly cost only 10 rupees per child till 9 years old child.Administration should be strict for adults those who are playing cards in public places where children, families coming for little atmosphere change but absolute disappointed due to adult groups retired persons groups playing cards in public places which feels awkward for families.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sagar Teke",
+            "uri": "https://www.google.com/maps/contrib/115699908806116214334/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoTo2Pnt6Tt1wUwAVckkE5UlJDIa42ZpPwWjE-aOxGCtbm5glsNA=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-09-02T05:34:21Z"
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4aWIzTXBRRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "A very nice park for kids. Slides and other swings available here. The toy train is there which charges Rs 50. Trees and plants there bring serenity in this park which gives relaxation and enjoyment with family. Selfie point is there with ' I love Barmer'. Gym related equipment installed for warm-ups. Outside you will get refreshments of sugarcane juice, paani puri and other snacks.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "A very nice park for kids. Slides and other swings available here. The toy train is there which charges Rs 50. Trees and plants there bring serenity in this park which gives relaxation and enjoyment with family. Selfie point is there with ' I love Barmer'. Gym related equipment installed for warm-ups. Outside you will get refreshments of sugarcane juice, paani puri and other snacks.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shibliyar Pasha",
+            "uri": "https://www.google.com/maps/contrib/101775449935572207499/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjL3vyh3JPQZAWeceqJ31UAcvmxnRM7GBf59Ns4Zu2iwgPH2l5=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-06-10T19:37:26Z"
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURaM01LMXlBRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 1,
+          "text": {
+            "text": "There is no cleanliness and the water fountain is running low  There is nothing here except garbage, paan picks are spit everywhere. @nagar parisad Barmer",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "There is no cleanliness and the water fountain is running low  There is nothing here except garbage, paan picks are spit everywhere. @nagar parisad Barmer",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "5star bishnoi",
+            "uri": "https://www.google.com/maps/contrib/110116085230926100748/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKy_b61CRlLMm_Ltah3qdDbJtq_Xj-BUUn887YWLwRg_tJsjGaz=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-26T13:51:14Z"
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdG92OE9REAE",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice Park .. There Are Jhula For Kids..\nThere Are Grass On The Backside Of Park..\nAnd Also Grass In Front Side..\nThere Were Fountain 2-3 Years Ago..But Now No Fountain..\nVery Good Park For Walkers And Joggers..\nWomen's Used To Come here.. Because It Is In The Middle Of The City.. And It Is Safe Till 10 Pm",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice Park .. There Are Jhula For Kids..\nThere Are Grass On The Backside Of Park..\nAnd Also Grass In Front Side..\nThere Were Fountain 2-3 Years Ago..But Now No Fountain..\nVery Good Park For Walkers And Joggers..\nWomen's Used To Come here.. Because It Is In The Middle Of The City.. And It Is Safe Till 10 Pm",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jayesh Khatri",
+            "uri": "https://www.google.com/maps/contrib/110244487303203640958/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8eKI095lL4LMCWZIeEEjH8K2tLyTTEcGltWPdYycKgBR2_wzD=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2017-03-25T16:02:15Z"
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlbDlfMExnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Mahaveer park naturally managed and many flowers and plant 🌱 growed in the park here a selfie point where many people take selfie and enjoying ❤❤ there day...........\nMany instruments for playing and gym.........\nAt the early morning and night 🌙⏰💤💤 time many peoples gathering there and enjoying ❤❤❤❤....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Mahaveer park naturally managed and many flowers and plant 🌱 growed in the park here a selfie point where many people take selfie and enjoying ❤❤ there day...........\nMany instruments for playing and gym.........\nAt the early morning and night 🌙⏰💤💤 time many peoples gathering there and enjoying ❤❤❤❤....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "jaideep Kumar",
+            "uri": "https://www.google.com/maps/contrib/100222737519694854179/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQf-tyWUTtsfIwNMvHZJK9YouZTT6kD0iiSvjq3P4aoMQ6ze0X=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-09-26T09:41:58Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJam51ld3cqcXoKrMzpkoSTToq39jsAOqD4UvsHL69zvDfRcKotfmT9J9qBvy9rzZmoAG8O2BZVyVeyf-l20T0JEfIQGTg9uspZ_d8GTj-IAlhdBhsYfpG4J4BYAqFcjZB3go5FEQcfpVeWxxerQSXgYXzbSBc5sjR-T",
+          "widthPx": 8160,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Arvind Kumar",
+              "uri": "//maps.google.com/maps/contrib/102850172082014555437",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWQ7-cdSvJaLJWPAE1V7RMEWRHYAQvYBDr3OlLiDTWw6VVgzF3B=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJZn8umwGVBvI6jQlE3I-Fxxi0MRDKvRgkMFGSDyPAWEHUdGpD61CE0iEeX-6W1rm145jHo4dYQz6RDSNkvfWrYFE8fGj-lBvW0DKH2x9ibs3auAVgmow6EAHUQ5e4uOAZIpKXuFnZLm-z9MWy-7PkZrWA-vpqh2hNMt",
+          "widthPx": 6944,
+          "heightPx": 9248,
+          "authorAttributions": [
+            {
+              "displayName": "Vinah Kumar",
+              "uri": "//maps.google.com/maps/contrib/108377477091034711183",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXAR5oomRSa5quKiTWwpMsVaEnRXCmRWMB6I0tVOoV4vegF3Jpw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJYcUYXXl0mw9G2xJLPsbe3l87haywpiLfdAd5BPQo3dQHbRkH8d61Yew30enN-ptiNS52O3qZHWjRqImlTMS_8p0ln_NnbZJ2_BmKfSs0IXeSKarCG5TR4vDEWBa2j5NgAZgzXvutfkYa-h6fIMrYDPbJt3OuLe9bLh",
+          "widthPx": 5568,
+          "heightPx": 3712,
+          "authorAttributions": [
+            {
+              "displayName": "Poonma ram Beniwal (Jat king)",
+              "uri": "//maps.google.com/maps/contrib/109519365928599131526",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsNWq0pCVtfjKwoutJMgZQGjtimwHjwsyig9F6IdLQBn_Ck3Md=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJaGeBdRYslMCCzNX7J6jBgBk88yUWfWiIaX97QUkwUSwz8TOhE3XBo82mMqF7jj17pRpH92IZnfnu-9bsbFGZzBjjgzw3rKM7LCvW0AUNXOM_0NNUqmoXuOUojeMvxEp4J95q0ghtD_gL4clT0lUBCDsTggXQgr74Vi",
+          "widthPx": 9248,
+          "heightPx": 6944,
+          "authorAttributions": [
+            {
+              "displayName": "Rams Dwiz",
+              "uri": "//maps.google.com/maps/contrib/106825424502757156809",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXtJPrejwVCd5WDsvdsLeUvb-L9GE-GOO3voPYQnzIRSd5yPQ6Y6Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJYw-d6D2zT1m3SlOJKb-PvdVf3h3nCfR9_M-wI31LGmnaV4rv4oGB6DHoqlEKa7rA0-DWyNS6f2LYrKsD6Bt6qx_i_YBIzykkXdkaXS_H6oqP-wsYNvAGExUzoTCiuwxdkmz5iqraS16rcirqco8pl7bBHaOwAwEOn7",
+          "widthPx": 3466,
+          "heightPx": 4616,
+          "authorAttributions": [
+            {
+              "displayName": "vinay mandloi",
+              "uri": "//maps.google.com/maps/contrib/109391418935525762459",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXd7EkSs57FrnlIUnrFVLkuIiFzzOcMcb-knJwX3DpB8PKI3Lc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJaK1gnAnGbP8RBB6bQP6SC8LDlo4LFnJZLWvcYbkmV7GJRRH-EqtZoGGQ4AKkLuW0T7I-rX_KKdruw7ztDDNl0FRGaubCH0D8vspENCOkN3uY-wj_JSoydcYzjgP3YxCaPSFzFs6mSoe3UREvVVJoULFXEQgLqzDrac",
+          "widthPx": 9000,
+          "heightPx": 12000,
+          "authorAttributions": [
+            {
+              "displayName": "Goma Ram",
+              "uri": "//maps.google.com/maps/contrib/111142405781962611706",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUb1NwO1KhwYWWMjXDQu_DmrSCM_EqiPnuwg2sVDgtw5szwftc=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJaoa7IaUFI1ISjewuzovoI1owmpbMU7cpFe_VaMChsiYuEAK6HGN2bKfoAGxyTJkaxQ_vKda3TyaZrpaseeJB78oRh-yUmBcCSFgFJqUQM6EkAHWk0adzL71R68gdMoCJySFzqFMmGGIcw4a9h5UD64YV4BkR0IitrN",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Mohan pooniya",
+              "uri": "//maps.google.com/maps/contrib/109870809937866164908",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVbF3lfx35F73rSSGD_3BELXu6ID_crKuqZ8LFIRqJwD9ioJbBRAA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJbTCSO0wmyTc4sTzQFUELEk7JAk9PU_tgVgA9O5XUNpUbJccHpUkINjJ6LC_B6kwi_AhxlU6MCd6MP4azBJ-jjmLByBdKWjvCzFFDjYm6wYzihStZRWtOT4kdk_aLafwL9Sf_OkVIe_xfqnQ0-c2PolifPKSQzbRDbu",
+          "widthPx": 1080,
+          "heightPx": 739,
+          "authorAttributions": [
+            {
+              "displayName": "Oppo Phone",
+              "uri": "//maps.google.com/maps/contrib/118095639123439713874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV_OxoPRpm0UysGhDUdi0NdZJXVlpTF4VnPcnpPYrm4p8Eis9I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJakxWIPfMHttvTdZDhOKhRzwQPnngEJmSKfWyiQD-tGsAxvH5zjYjOKgF_QcJxnzqwNV192LSfnqDDL52rcmp0HByL15kk2AIwojEPH0Ml2ylFOMx51JhEGid8cDnuNd3MROPlPJvgGhhZHi6y23zSg9QCrt39mQqm4",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "nirnkari samagam Jaisalmer Mali",
+              "uri": "//maps.google.com/maps/contrib/118202401163877003145",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVKmEdRQKA0ObRfphiddGBCb1c8U2KYj0J-x0PBQ7syIYvRp_J3=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXdJWWtsvRDkRB4DuFJgJJCQ/photos/ATplDJbXCd0NbLOjBV1L1fEpQGHJLw66llW80LiI47_533XsPN7RQsyUiL_Y_QIxOMghoYMtlMt__yQCovP5rns0Bu2YWpOst_ZJ_-VT2wS3svETsjShU66cA2SYSHaMRDUbbOsHJ7Lr5Q6iUpIZWrbsgfxC0Eo_hSHekMA9",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "MARWAR STATE",
+              "uri": "//maps.google.com/maps/contrib/109285568498047581568",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVGnr8zbkjHuCSEPFZHviPhmUofMJrMR8rmhYknzsdHp0N9DDIc=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE",
+      "id": "ChIJP6YIlKQ7RDkRoZljO5DmhJE",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Q92W+VM3, Madhuban Colony, Railway Colony, Barmer, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "Q92W+VM3",
+          "shortText": "Q92W+VM3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Madhuban Colony",
+          "shortText": "Madhuban Colony",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Railway Colony",
+          "shortText": "Railway Colony",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.752146699999997,
+        "longitude": 71.3966865
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.7508268197085,
+          "longitude": 71.3953384197085
+        },
+        "high": {
+          "latitude": 25.753524780291507,
+          "longitude": 71.3980363802915
+        }
+      },
+      "rating": 3.2,
+      "googleMapsUri": "https://maps.google.com/?cid=10485759339571419553",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Q92W+VM3, \u003cspan class=\"extended-address\"\u003eMadhuban Colony, Railway Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarmer\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Chotan",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Q92W+VM3, Madhuban Colony, Railway Colony, Barmer",
+      "reviews": [
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5a1B2bjhRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 1,
+          "text": {
+            "text": "Harji Ram",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Harji ram",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Haresh kumar Rana",
+            "uri": "https://www.google.com/maps/contrib/104524956575457449806/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeVrPipeNkjRggYcPFoCPSxeBIGR7MfYL2GWpWksKWQzqo1J0=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-29T11:43:53Z"
+        },
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/reviews/ChZDSUhNMG9nS0VJQ0FnSURSeXRfV0NBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Choton",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "छोटन",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "Ram Ji",
+            "uri": "https://www.google.com/maps/contrib/103353747153545843426/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJTlqvMlbp1mAgmiyFTiu2WsPnz505pJQCOUHVvQFlEz9C5XQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-04-22T16:12:33Z"
+        },
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/reviews/ChdDSUhNMG9nS0VJQ0FnSURkNlk3cGd3RRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 2,
+          "authorAttribution": {
+            "displayName": "rahul ahari",
+            "uri": "https://www.google.com/maps/contrib/116809169893930847407/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0yrPELqG-0uQ6G2jNpYmx1hbc2WaobhxomvvAfcnUHO1IDSc9=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-24T23:58:38Z"
+        },
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4aE42TWNnEAE",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 4,
+          "authorAttribution": {
+            "displayName": "Vishnu Ram Patel",
+            "uri": "https://www.google.com/maps/contrib/114411516588320715628/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQt0AIs9BtMqPSa-W_yQEgMMoSfWXzgvPRR8_KjJdqgN0e=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-05-10T15:11:23Z"
+        },
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5aE5fOFJnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Vvk Verma",
+            "uri": "https://www.google.com/maps/contrib/105822611498731849543/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICaoncJ-8UJ_RdJuehZI7LVreDUK5M7x0PalX-mBdUbHszLQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-02T03:40:11Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/photos/ATplDJY_q5DVsRXmIEMw6eJVqqdHPTnTObWZc1gxLIGDp1rEGPwK8tJX5UXSPvT7Hoi1d7LpKKyGZ-Ct4SGhkZj63WoFwkMhMyrGSEOZUZnqmPa2QIsgylNaNlJITJGZWQ4VRpkcD6fstIhb0lel4zFBnOqSHtoer3K4ItzE",
+          "widthPx": 1936,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Chotan Sa",
+              "uri": "//maps.google.com/maps/contrib/118304425113342156208",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKLi0qV30rOoY6rwbuNsBtAAxYG6lJugQ1TLJLIt74rG5_GKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/photos/ATplDJZOe83EO7OCohqdBTTZ73crXoiFsn46II_Quby-WlhnY2q_x-OqBa0G99RUCUVWQssO9OgA2gOm8Bqh_vjVAh5jHMJkF4iwzVyonHsPDmu2IdYLYCFtRp48AuVtr-y_5EltKmpsBs7steukPE75WSDspnoM_xm6un2b",
+          "widthPx": 1936,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Chotan Sa",
+              "uri": "//maps.google.com/maps/contrib/118304425113342156208",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKLi0qV30rOoY6rwbuNsBtAAxYG6lJugQ1TLJLIt74rG5_GKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/photos/ATplDJYkkwx7RGf6O-e8IvGI6MZVDpUfjvNh-1kWF8VZN8gx7AN6tASe5GSFBRBKKlbvXl3zwal3SBRO2Kp7M2OaJaz5hIblsiWKFQpQ3r-9x2_QqFnbJFQaz3-sP8VLsGhSH8bg51rFjcuKioJvJW4b7Z6R3RfLNW0fUWCD",
+          "widthPx": 1936,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Chotan Sa",
+              "uri": "//maps.google.com/maps/contrib/118304425113342156208",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKLi0qV30rOoY6rwbuNsBtAAxYG6lJugQ1TLJLIt74rG5_GKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/photos/ATplDJY3hxI7OwU44pwJZpSxYAE44BIX2adetCaFMNp2S5cgZZ8YPEYpEhLHOzLKvBT6XpaIiuvQgQbpoxdJh4j_jKKflEk79RGVw-4lacmCjpcz5-wUtvpJoAFKJWBUXPmyjS28mVOLARXEeCn7kWi7dOhJ9Mpha3q3vCJn",
+          "widthPx": 1936,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Chotan Sa",
+              "uri": "//maps.google.com/maps/contrib/118304425113342156208",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKLi0qV30rOoY6rwbuNsBtAAxYG6lJugQ1TLJLIt74rG5_GKg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJP6YIlKQ7RDkRoZljO5DmhJE/photos/ATplDJbKbFtu0OHoPhQzMNu_fwtDohBeGpb_x7tHllNJjPKyoakoveKW7n1nECIFYLDHjzTeBx20ifaQZn7I6sEuawnEaNPCDAcbOQmbajtGZLTSCp4PI_2uwq7joTg9AjjX4qQecRbBvnuEtc0E265jukd_2_O6aFu_IHof",
+          "widthPx": 960,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "Chotan Sa",
+              "uri": "//maps.google.com/maps/contrib/118304425113342156208",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKLi0qV30rOoY6rwbuNsBtAAxYG6lJugQ1TLJLIt74rG5_GKg=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA",
+      "id": "ChIJr1sA_KA6RDkRG4jRW4ugXhA",
+      "types": [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Azad Chowk, Jogiyon ka Vass, Barmer, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "Azad Chowk",
+          "shortText": "Azad Chowk",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jogiyon ka Vass",
+          "shortText": "Jogiyon ka Vass",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JQHP9RM+6X",
+        "compoundCode": "P9RM+6X Barmer, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 25.740600699999998,
+        "longitude": 71.38498899999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.739225369708496,
+          "longitude": 71.383713669708484
+        },
+        "high": {
+          "latitude": 25.741923330291502,
+          "longitude": 71.386411630291491
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=1179556672819005467",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Azad Chowk, \u003cspan class=\"extended-address\"\u003eJogiyon ka Vass\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarmer\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 394,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Jogmaya Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00 AM – 9:00 PM",
+          "Tuesday: 6:00 AM – 9:00 PM",
+          "Wednesday: 6:00 AM – 9:00 PM",
+          "Thursday: 6:00 AM – 9:00 PM",
+          "Friday: 6:00 AM – 9:00 PM",
+          "Saturday: 6:00 AM – 9:00 PM",
+          "Sunday: 6:00 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Azad Chowk, Jogiyon ka Vass, Barmer",
+      "reviews": [
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtejl6NkNnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "text": {
+            "text": "1) It's a temple of jogmaya mata.\n2) It's a second highest temple in Barmer, after sujesvar temple (temple of shiv bhagwan).\n3) I got peace of mind after reaching this temple, you would also get.\n4) I got the whole view of Barmer at the top of this temple.\n5) Facility of drinking water was also available.\n6) I got Prasad nearby to temple.\n\n************************",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "1) It's a temple of jogmaya mata.\n2) It's a second highest temple in Barmer, after sujesvar temple (temple of shiv bhagwan).\n3) I got peace of mind after reaching this temple, you would also get.\n4) I got the whole view of Barmer at the top of this temple.\n5) Facility of drinking water was also available.\n6) I got Prasad nearby to temple.\n\n************************",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rahul Charan",
+            "uri": "https://www.google.com/maps/contrib/107140683167716455982/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHX1sZdXalDFcrMADJaz4UpisjO0v9uZMTJKhbNSNNTAfuwbcD=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-01-13T10:58:58Z"
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSMFo3OFVnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Barmer Fort occupies an unrivalled place as Rajasthan’s oldest fort. Located on a steep hill, this fort was built by Rawat Bhima in 1552 AD after he moved to this place from Juna. The hill over which the fort is located is as high as 1383 feet. However, Rawat Bhima got Barmer Garh established at a height of 676 feet to make it safer. The road to the fort is quite narrow; nonetheless, it offers rewarding sights of the region.\nThe main entrance gate of Barmer Fort is from north gate, whereas the safety walls are made towards the east and west gate. Next to the fort is Jogmaya Devi temple which is also known as Garh Mandir. Another shrine located on the same hill is Nagnechi Mata Mandir. Both the temples exude peace and positive vibes, and a mela is held every year at these shrines during the nine holy nights of Navratri. A nominal fee has to be paid to reach Barmer Garh.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Barmer Fort occupies an unrivalled place as Rajasthan’s oldest fort. Located on a steep hill, this fort was built by Rawat Bhima in 1552 AD after he moved to this place from Juna. The hill over which the fort is located is as high as 1383 feet. However, Rawat Bhima got Barmer Garh established at a height of 676 feet to make it safer. The road to the fort is quite narrow; nonetheless, it offers rewarding sights of the region.\nThe main entrance gate of Barmer Fort is from north gate, whereas the safety walls are made towards the east and west gate. Next to the fort is Jogmaya Devi temple which is also known as Garh Mandir. Another shrine located on the same hill is Nagnechi Mata Mandir. Both the temples exude peace and positive vibes, and a mela is held every year at these shrines during the nine holy nights of Navratri. A nominal fee has to be paid to reach Barmer Garh.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vijay pannu",
+            "uri": "https://www.google.com/maps/contrib/100750836042277595285/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhdbsVO7JWnxFSpUpxvKMj6ITFN8NBcwDURLcUzHWETJvdp6M=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-04-04T09:51:22Z"
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/reviews/ChZDSUhNMG9nS0VJQ0FnSURPcTlxOUZ3EAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Whenever I Come too barmer I everyday visit this temple In the early morning you will find your inner Peace here the temple have A very peaceful environment\nJay Maa Hinglaj Jay Maa Vankal",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Whenever I Come too barmer I everyday visit this temple In the early morning you will find your inner Peace here the temple have A very peaceful environment\nJay Maa Hinglaj Jay Maa Vankal",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Haresh Khatri",
+            "uri": "https://www.google.com/maps/contrib/104083707159490674718/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlYyrf8S1EC-2jw79n1IoMyBl6H60cTbaBlhtqKivznPCgWg_acA=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-07-14T10:23:16Z"
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkM3NIMmx3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Just wonderful place with a lot of peace",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Just wonderful place with a lot of peace",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kalyan K Vishnoi",
+            "uri": "https://www.google.com/maps/contrib/118215519790637158888/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfzvz-9SCV8DnNCrWI--KNWhr_Gz-vZGZmKK1wXcy-PfSGhKpq=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-15T13:05:18Z"
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/reviews/ChZDSUhNMG9nS0VJQ0FnSURtb3VXbVp3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "its more than just a place, heaven.. decades passed but everytime we visit here the freshnen and calm place nearby. the peak of it sees whole barmer at glance 💜",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "its more than just a place, heaven.. decades passed but everytime we visit here the freshnen and calm place nearby. the peak of it sees whole barmer at glance 💜",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "32 Rathore Narendra",
+            "uri": "https://www.google.com/maps/contrib/104757771984908786645/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUu15Zjw0Na1Nzys3d4AEDI3ZwrS3Er18JpFMQJDsWwxX4S7Ao2=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-01-23T07:33:38Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJb8yjias9F6UIZRn3biXACvcA5L0PDtZJHz_rKoLzhmKgntfWbGnHKPoXEqae4iSsaY4foRUO6KNd-mNTvBWJ953brTTRw5PeTg4InM2GK8Y502t-vAIt5Cy8sjv15CxNW3May4e8EJ6qgPrGMQNfHMavqRsom06CKS",
+          "widthPx": 5170,
+          "heightPx": 3447,
+          "authorAttributions": [
+            {
+              "displayName": "shrenik dhariwal",
+              "uri": "//maps.google.com/maps/contrib/104095195885227816715",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ1IxCRN6s_GgpWTgYNefZhxDJ4x6lKD3138S0ni4h3bmB32A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJYgQQAIwR1HQrv-Wa6ncdqPQIQWofVZQHXHmEYJgVstgWWg1Ku-ZTkkGOBt58hnf2uJw2M3Cmq7qXibHY7LCQogPC-TM4u8F1QCsDROkialJCJXF5a8qmwVrlicJjT9keCopIKdkkIFyil3RRwjfcs_8EmVb4JIR_BG",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "arunsushant pv",
+              "uri": "//maps.google.com/maps/contrib/110325635350714383531",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3xJd6rMUqChnXk7h9ApNGbYy2Yewrt_aMH04WsfkhtFRHs677=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJYWJWwv2LdEGgpvHDVnKDkAL3Eu6qCh2tAC5NT6FL6jPyjqvpqyeSPU2G9FLF1cG2IL5EUTPcLRVgEoeRayl2aMWehyBkyt6W9ARISZHA-JtXSR92TZRHBW9tZ9X2xTIDUj0FQmViTGTqd5MxGGM_1kJt1XgfhBiYhU",
+          "widthPx": 1080,
+          "heightPx": 705,
+          "authorAttributions": [
+            {
+              "displayName": "Oppo Phone",
+              "uri": "//maps.google.com/maps/contrib/118095639123439713874",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV_OxoPRpm0UysGhDUdi0NdZJXVlpTF4VnPcnpPYrm4p8Eis9I=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJaowY5v5z57C9qYIDXMGNJ97nMCnKufE07loTSfo05xaY7Mocu9HCXBAonDfZUFRfiX7OkTAQ5aWbqFL3OQJxiDzkgIzzf_8K6hkeEVC69h-k0beWu12ZXYGQ_OMmd5hQapVOj-RAuZ3c7VtpcYeUM7h1rY5ZpkscoQ",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Manohar Singh chouhan",
+              "uri": "//maps.google.com/maps/contrib/104167454238334818979",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX10um4hyzm_GZgs1-ZD64c3ATkmo4tG0PnAFQzYIdwUzds8UjWFg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJaSocqiY2ujylvhJhXotDTnH43e681nDR4AJEgbY0T0RZtoMHFoovatRzvdpJzhkpULO4XEJDMgDk9tlKJP7w5sppb7oZ50IompPA4LNw0GEJlgYenk-tEiQ2bpCW2uZi4Sqfz_qyY0yYLabTgGQ8_-IeQWQEywBkYe",
+          "widthPx": 4080,
+          "heightPx": 3072,
+          "authorAttributions": [
+            {
+              "displayName": "Art & crazy craft",
+              "uri": "//maps.google.com/maps/contrib/105499364682369089315",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVdT3fSZh12N81bMljN7Xl6SHnrlvEe0M5ESlJXX7FmQyPNWBDI2g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJZj66__3qq6FkE6RYEQC39BXl-ktmqt6q6SyzbCoD-GQ1YpXkuJ2-jvBiLum2G8ucDJ6thAzTke2n3WsZbAJjIS43tTPh9NvwnFakXvooCVHors3UL_HO_rYmB2AfZ6YUKDyDGJcwLDMF7ndLYR10Xe-7bJAPOprANC",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "arunsushant pv",
+              "uri": "//maps.google.com/maps/contrib/110325635350714383531",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3xJd6rMUqChnXk7h9ApNGbYy2Yewrt_aMH04WsfkhtFRHs677=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJbiIM7k-ZK3rIHIyMrYyd7x-UMGnVVh2wHm0lF1GKxeKvPucOPb97odWcHfge9ooGtzMW8F_lvSemVcI63JwF3wx5LpVLPlqZlMAWgPW53DoZ3vw7Y9cYx21eCapyAn5i4DLK06Nr9c-xLOywwHR_86sAZUbBrw3liu",
+          "widthPx": 1080,
+          "heightPx": 804,
+          "authorAttributions": [
+            {
+              "displayName": "Raaj jogu samani",
+              "uri": "//maps.google.com/maps/contrib/115217959931880816101",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWnz2JjNYVb95bkdcmfwP9qbmgozf_3F1j0pOh6BOKrrUW_EpZj=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJZcTEi4-RXQgKJ5ZYKlV9QNv7i8OqCqmbsEnTvD-FL02cwhOKoc9M4-hdXnRUjWPBrkkpt5VF9ZreDjgwQx1LVpNz3sBD4Rf89v5qX0CWEdzTRUTLTLWN3SurlRHuiTttru2ymB1MetzrY9yk96DCNqQrkhppoEMv9a",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "ardhanarishvaram",
+              "uri": "//maps.google.com/maps/contrib/106314628173892835626",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVDmSASnxeBtJDoic-0dBNpmR8aYqImf8rVwdAHWe4dlOrRV9U=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJZLO7c61IkK7jQhkPgF1vmioWPQpInIAbCQrICZ9ZFVhqAQWL9abIqqTDHlta7POaBlq9XQde6E4mUWDcmY-npsMAjOdqSVKzoF69mUh5_o-bWgCDfKwEclNf7RcKG8kvtyFcUGae9KRPfVnb7nf7B7SWmthbJwqe2z",
+          "widthPx": 3048,
+          "heightPx": 4064,
+          "authorAttributions": [
+            {
+              "displayName": "Asim patra",
+              "uri": "//maps.google.com/maps/contrib/108000367208378718934",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVe-jPdqQMoDaakDYblSEoEJf3GWueE1jdv8cHq5Qa2Ami1BmmHqA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJr1sA_KA6RDkRG4jRW4ugXhA/photos/ATplDJZbWjZy4colImIbcs4-KfUv2bTgxf76JiQlTLSMFIBYjPKVOWwdu2r0CQGBQaDj3enbBxOuJu1A0ztI3HvNvCiMZKQ92cAA8s_Tdvoef0-BIbnO446YfjKwMK-sZoGuktcctA1LB4bb0Xu74NC64-hjd-E5YJ4UfO8v",
+          "widthPx": 3072,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Rahul Charan",
+              "uri": "//maps.google.com/maps/contrib/107140683167716455982",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWHX1sZdXalDFcrMADJaz4UpisjO0v9uZMTJKhbNSNNTAfuwbcD=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false
+      }
+    },
+    {
+      "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg",
+      "id": "ChIJEeviKwslRDkRt6B8FmuoeIg",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Q98V+WPV, Hinglaj Nagar, Barmer, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "Q98V+WPV",
+          "shortText": "Q98V+WPV",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Hinglaj Nagar",
+          "shortText": "Hinglaj Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.767370200000002,
+        "longitude": 71.394301300000009
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.7660153697085,
+          "longitude": 71.3929396697085
+        },
+        "high": {
+          "latitude": 25.768713330291504,
+          "longitude": 71.395637630291517
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=9833794964255711415",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Closed"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Q98V+WPV, \u003cspan class=\"extended-address\"\u003eHinglaj Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarmer\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 14,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Naganaray Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Closed"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Q98V+WPV, Hinglaj Nagar, Barmer",
+      "reviews": [
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4MXNXaHJnRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Beautiful and very clean area.....",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful and very clean area.....",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Digvijay Singh",
+            "uri": "https://www.google.com/maps/contrib/104603235723154684240/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1VqAFsvomy3X9cPTX271rWhb0My49VWDdA4Zpw_meLZMEMog=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2023-06-07T16:51:09Z"
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/reviews/ChdDSUhNMG9nS0VJQ0FnSURkcmMzUnJRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ashok kumar",
+            "uri": "https://www.google.com/maps/contrib/107924511890744003964/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK00n5gZJT5A9S5yphMfwRP_gEJ5ZH_GwFeJBIff4tlXjxnsg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-26T07:58:03Z"
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsNnVqWUVREAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good 👍👍👍",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good 👍👍👍",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RAJPUTANA COURIER",
+            "uri": "https://www.google.com/maps/contrib/103684289100085793438/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW61e7S9VvCzEfUwaIWVqJCsi9RjAGH0dQ94vZBdfH6PRSQTgs=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-16T05:18:29Z"
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyek5IeWV3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Devotional peacefully place for our soul",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Devotional peacefully place for our soul",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Anand yasraaj",
+            "uri": "https://www.google.com/maps/contrib/112521838765577875414/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaOlbKFBprImkcb4a-AJGAnLk52-PYBJEf_dl0fZXMfx7vH9hs=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2022-04-14T13:28:02Z"
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHM292bjNRRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "🚩🙏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "🚩🙏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kalyan singh Rathore",
+            "uri": "https://www.google.com/maps/contrib/113838384926355793877/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2FmLKCSEZr4QDU8gwcTu3ScD8ixA79z8scwAe4yVQGYKHRpU=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2021-10-30T15:22:17Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJYPY7ZSbFyG3h5eMFDgpFMdpcojg0Soj7hBW9IkxbAfN9LaxGXOSQFnE85UNU_yBOhX6Ca5I6PwlMAGc_y1iP_KsMGJuxX0UVotxkI9VvYnVw97UJMDzK2qH1eycUEysoG0lwbXlyzZ4SQezyio0SfEi6K3Hay4ULnI",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Laduram Seervi",
+              "uri": "//maps.google.com/maps/contrib/114139959684119145132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVS4-YIQyUffHkDZ1Xd7ghQLDnUDnqxIxgQYmBVtI9XXcx1i7ZMaw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJaO3cs_-YF7Zcm1d0_ho2m_sWidgWKuGRmZ7TQzuFlLnGBCJwemEEmbypOPqL_dOuzzV-5kj6ehIxkut5mSdjgx5g4Oy6dbMPecyh1-r9F9b3wME3khjegB-M1E_ZFLy2mDQSwZx2woXte3Ww4RSD5i0DfZHeNXU3IY",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Pankaj Borana",
+              "uri": "//maps.google.com/maps/contrib/107372035228015001022",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJgFjYKYkwTPcf2AZGCH3Lp7-RGLasbcmAv-Hi_XaUT44O6sZw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJYKMOZxJUTACuK181yysoh4uL2i2bxAr6FTiU56z0_ApPl-raaiCuJRgJatOYG_Lw0vRbG12TJgd4PK0xG7Km4eJ-U0CWlU6eMoBE08FhcqRgXx7lQe1UfOljQFA238cI6JPrNgd8rkkwFNvykZpVDrWsZtRohMQfJn",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Laduram Seervi",
+              "uri": "//maps.google.com/maps/contrib/114139959684119145132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVS4-YIQyUffHkDZ1Xd7ghQLDnUDnqxIxgQYmBVtI9XXcx1i7ZMaw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJaQfBLO9VNOwxLtTnYze5JfjUFLPxVV4v2J8hnw1MGotuIBZvOCRxvWaIq2t_yQRk7SLPeT0mTVCOx2eB78jT09_IpPCyXEY3TWVh9mYIpMCzBXcd9jWhw4120O31dOoT1-cNrV9nyujFJpH8kSYJYoQIAXPYRaS7KR",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Laduram Seervi",
+              "uri": "//maps.google.com/maps/contrib/114139959684119145132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVS4-YIQyUffHkDZ1Xd7ghQLDnUDnqxIxgQYmBVtI9XXcx1i7ZMaw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJbP5Lru7eYTjWzTdRZ9mkAL_bGh0TdhoseBWCybQaqFgPsTs6-YbcF_CUK7ZN33z5e9kqB2780ES1pyo9PWepOLfGOlBNwZQCfqy7QwqxgrXVxSw5spS16N0uH8r_KS7TPZDkefDEqt-__5fGeCcGpI9amuxACMNwrD",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Laduram Seervi",
+              "uri": "//maps.google.com/maps/contrib/114139959684119145132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVS4-YIQyUffHkDZ1Xd7ghQLDnUDnqxIxgQYmBVtI9XXcx1i7ZMaw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJaI50NpwQ_yf3fqq73A_8hewguC6VACSmly3xSwAM6H7-eSC_uYTFGOhNf2WTrJS-ztlccC7XPBKRkmsBX4ERtsW75cXNjKr-Z4j9VdHsjqAQGDu7Yc4ouhHKCldw2_XKfMv_7ttwFIoypoTXqWaaadvR-Ae24WFBFa",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Laduram Seervi",
+              "uri": "//maps.google.com/maps/contrib/114139959684119145132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVS4-YIQyUffHkDZ1Xd7ghQLDnUDnqxIxgQYmBVtI9XXcx1i7ZMaw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJYglRqW0LSlPilyNngL7qLe9cQHh9tdNMLnSEl1w4FZe96_139L49kIQ6LOX2uCq1UWgIn9qdEGr_nt3p331ZnkCcaXAcUrU8K7xRs-RDOupSLe9jyZL2dZm85BBqZ6j00muWijVKowocVmLNGInTUNpvMDIBH0YPxi",
+          "widthPx": 4640,
+          "heightPx": 3472,
+          "authorAttributions": [
+            {
+              "displayName": "Laduram Seervi",
+              "uri": "//maps.google.com/maps/contrib/114139959684119145132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVS4-YIQyUffHkDZ1Xd7ghQLDnUDnqxIxgQYmBVtI9XXcx1i7ZMaw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJZBWvqIxfZGVqseDDpruTHqvT9QtboXOvS_2ZPsamaj8PtqsjZO5rY4WdYyhb0IlayhJ67d24-ysMKN9vwgOG9jw3v2t31mzF5MmnoM9jzwZATwAg96oyhidGl9QS1bnAkVA0fHxCUeAAQMxAC3ZkbtdTzbCFrQUJ1h",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Pankaj Borana",
+              "uri": "//maps.google.com/maps/contrib/107372035228015001022",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJgFjYKYkwTPcf2AZGCH3Lp7-RGLasbcmAv-Hi_XaUT44O6sZw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJZwJ6LgoHe9-LvKrerrWcqKyYaExwoZLpUJ7Oa-k7YUSCuK4oHrJuTsIZfVY8ocNqJDNsjczQZQVgwkAGmrpNGhuoQPnTlE-s07IQx3cLduhJGCeIz3F-9Mtbvl5bZ3vMeJ6PG87DJ8LVVtVeOuZGmcueZgz7shFifk",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Pankaj Borana",
+              "uri": "//maps.google.com/maps/contrib/107372035228015001022",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJgFjYKYkwTPcf2AZGCH3Lp7-RGLasbcmAv-Hi_XaUT44O6sZw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJEeviKwslRDkRt6B8FmuoeIg/photos/ATplDJYRt05OsUuWlTTUYpUGfpsHUDDzJOU6Ywg9D3zPXdO88V6P0CeQ5HMJQaidWDpEgbXfW6uUe1AupHzfTbl54N9Ma_MmvTY17Uj-hn3Abe1RLOfCTB9Ut6MS2mm-h3TD1vEtmOfJSjiXugPxviXeMhAmBo1rcbDSvE7r",
+          "widthPx": 3472,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "Laduram Seervi",
+              "uri": "//maps.google.com/maps/contrib/114139959684119145132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVS4-YIQyUffHkDZ1Xd7ghQLDnUDnqxIxgQYmBVtI9XXcx1i7ZMaw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g",
+      "id": "ChIJXygzviklRDkRyKnlOP1eF2g",
+      "types": [
+        "hindu_temple",
+        "park",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "QCFH+68C, Magra, Barmer Magra, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "QCFH+68C",
+          "shortText": "QCFH+68C",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Magra",
+          "shortText": "Magra",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer Magra",
+          "shortText": "Barmer Magra",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.773074299999998,
+        "longitude": 71.428264099999993
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.7715408197085,
+          "longitude": 71.4271581197085
+        },
+        "high": {
+          "latitude": 25.7742387802915,
+          "longitude": 71.4298560802915
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=7500568146083162568",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "QCFH+68C, \u003cspan class=\"extended-address\"\u003eMagra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarmer Magra\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 920,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "iconBackgroundColor": "#4DB546",
+      "displayName": {
+        "text": "Jasder Dham Park",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Park",
+        "languageCode": "en-US"
+      },
+      "primaryType": "park",
+      "shortFormattedAddress": "QCFH+68C Jasder Nadi, जसदेर नाड़ी, Magra, Barmer Magra, Barmer",
+      "reviews": [
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5dzRUOVRnEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 4,
+          "text": {
+            "text": "This is the first time I'm visiting this temple of lord Siva.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is the first time I'm visiting this temple of lord Siva.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ARUNACHALAM S",
+            "uri": "https://www.google.com/maps/contrib/102352846877350679514/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsGWbVZD2GqerP-pvT2AGjEzqq2GmZW36TZKi_CsE11LI9wR4b=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2024-03-09T01:14:21Z"
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNdnEzejRBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Amazing palce nearby Barmer city area.\nThis place is so soulful and peaceful.\nAnd one thing is also fascinating that's greenery around here. And the small pond is also very awesome. You can find a lot off lotas in mid water. here's a temple and a garden also. So this place is perfect for family picnic and hangout with friends.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Amazing palce nearby Barmer city area.\nThis place is so soulful and peaceful.\nAnd one thing is also fascinating that's greenery around here. And the small pond is also very awesome. You can find a lot off lotas in mid water. here's a temple and a garden also. So this place is perfect for family picnic and hangout with friends.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prakash Chouhan",
+            "uri": "https://www.google.com/maps/contrib/115250364828953328030/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU061J2JjIof-eN5t9GU_r3OT6JN1FXyrouy4z5KpnmmIFOKbpM=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-11-21T13:31:42Z"
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4ai1fMzZBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Its a hidden treasure in Barmer. It is unbelievable to find such a beautiful pond filled with lotus and variety of fish in Barmer. People often visit here performing rituals, feed the fish in the pond or to enjoy the sunset view from here.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Its a hidden treasure in Barmer. It is unbelievable to find such a beautiful pond filled with lotus and variety of fish in Barmer. People often visit here performing rituals, feed the fish in the pond or to enjoy the sunset view from here.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shweta Rose",
+            "uri": "https://www.google.com/maps/contrib/117701866834087291261/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpQHliTccmyhKcn73IgDFvtE22CcAiXx-ExkPw8u-hdlmKDY4QKQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2020-08-03T16:36:57Z"
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNTNjY3N3R3RRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Jasder dham is situated on badmer jodhpur highway near dto office badmer. hare built many temples but main temple is of lord shiva. here a big pond also.number of fishes,bagulas, lives here. there is a park also. peaple visit there for worship lord shiva. and enjoying in park. this is a good picnic spot near barmer city.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jasder dham is situated on badmer jodhpur highway near dto office badmer. hare built many temples but main temple is of lord shiva. here a big pond also.number of fishes,bagulas, lives here. there is a park also. peaple visit there for worship lord shiva. and enjoying in park. this is a good picnic spot near barmer city.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "mularam Machra",
+            "uri": "https://www.google.com/maps/contrib/111289175452224764756/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAz9dfqe25eZTQxuxHjS3v4sUP2xcjPwEseMOBpeLmbJZGFzaP=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-02-23T02:35:26Z"
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/reviews/ChZDSUhNMG9nS0VJQ0FnSUREd2NfZER3EAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 4,
+          "text": {
+            "text": "Park is well maintained and can enjoy in this summer season",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Park is well maintained and can enjoy in this summer season",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dr. Rupesh m Patel",
+            "uri": "https://www.google.com/maps/contrib/101466567433522546498/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl2mE0lOLzgomMNJtFjXDhW44OaW_u2-5ZX4Ag_Wkfd189QirY=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-04-10T13:23:31Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJYVXNiC0QkZDtWIeDCc3KhBnGaZgLoB7CpV3P4CrNCIbjjd9nFKFSatU68J9jeuGzYuV8RtyAriAQJTeFkC9jf2yXzFNg5uDDTbOWKXZDq8-7gtyGX8i7QGS6FtdQl_0UopEvd913oCCiwtj_woLBzKmOZuvparSazM",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Vinay Yadav",
+              "uri": "//maps.google.com/maps/contrib/100302347744971000192",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV_GKkYqAh36iD0882_QGtgVxon08hgrkxgdE6TGUNdmLZdqnnzYQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJY0IadEy7Mx8RYRwkHqRgY1PgNsUapzAlYHqJgmdL3xvyzl5lvSHVTEVKynOff4WyMCzfh-SdBohMS7TOpEE0gr-ideelmIAKRQgY7bSV-UZn672EmZQ5OW2OsWU75CK8dO5KGuy9fpckYIv-0E-7oQRwpqf2_Yyd0",
+          "widthPx": 2448,
+          "heightPx": 3264,
+          "authorAttributions": [
+            {
+              "displayName": "Choudhary",
+              "uri": "//maps.google.com/maps/contrib/117763192412428788204",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWJBYizN27kV5l2uSX7c0fvLAgpnJNIsursZQb2IS9XyZxdO0c=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJYlRMRTv1FGlfx02MeljvznJE1k1CrOSOFceYZo03mpjm8_fBh3CZZgi9nrR-9P-w-kCaXZ1tHEgySMCcy4RYKB9M91tZel0BpyiSGodP0sUayyWUs8XcTITMVeegWRYX6ZvLlE-ZrcdeXf-wYPuM1kCsWLmkUVZgHd",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "VEERAM DAN",
+              "uri": "//maps.google.com/maps/contrib/108491816788062566481",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW6CAxVGDo2abcN-Jd2cLAxWnTV3jKjTeA87lUUO5XxRp8Y6XZ6=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJbzqCBIDz0zio88RjvM3dj8_bT5io3UdEiyI2W9f0iFGw3mw2BJuQP5c8pLO-Yy6c7TfTjjlSZjK_BLIF3OL9fN-hUR7j91SSMbsdZtLjuQXpH-dM1cTBlNZ6J4KqSCvpsFfuNHtaUUcHxtHsetgITAOZCLKlWlwsm8",
+          "widthPx": 9248,
+          "heightPx": 6936,
+          "authorAttributions": [
+            {
+              "displayName": "Moola Ram Moondh",
+              "uri": "//maps.google.com/maps/contrib/104090020153482815533",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0ac6nX-n0zY7PuSWXNp34diHzIRheOSEch0fYi0DG4JGaDjj_=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJa6-iTiKgwe6qHUcFNWVtjMqExEj6vhadOcp7Oml48UNIoo3uQLBENzc-jNJ8Ea7MZmt7eWT2_vZP6C8-IqUCkPz_0b4B3mYrr-QZWa6CUDoFhrgRWyH5Y3NvQ9-fVEspcPosuDj8Cg09gEPoPtbY0e8shcn1YHQkrT",
+          "widthPx": 3840,
+          "heightPx": 2160,
+          "authorAttributions": [
+            {
+              "displayName": "Indian Culture",
+              "uri": "//maps.google.com/maps/contrib/107679188524562000182",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXNTfnsTbUyKlHeFrmPUO_ZoyWAOofcpmz8XFs5H3YzidvsJMsh=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJZmut7U3U7dC-zIAFR4DCt_tUW76ck1syv2bXvKjlG7MS1FIdFizp1t3do1KtOqUFGMNqINxQZBKPkiCELK374pU1_CXX5Yj9bTQY-AitYs7FVKJ5iefeD7Y3egoBuX0WLNsoo_aXq7hPz5xqRFhs5OZ1GtJ32UaFxa",
+          "widthPx": 8000,
+          "heightPx": 6000,
+          "authorAttributions": [
+            {
+              "displayName": "Junja ram Bhambhu",
+              "uri": "//maps.google.com/maps/contrib/116769531272482252928",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXv_fsCu_QFZLqtTgjK1a-8kB6X48admj_B0dA_DkjATIZ1EoM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJbTqfa1Lb1COU9LZiNoeI7DqOUush5IktcHsABaZebZ2JyZDC64H_5c0PoL_cs1-xptQuSd--uI3xtiPM4IV7iggbumyLrhjC-HfOX0-cRQ1f93u3i2Je87yT0BCfMV0kJmgXYAD1oM6kCQAywwKwzmRTBuk4Wl007f",
+          "widthPx": 9248,
+          "heightPx": 6944,
+          "authorAttributions": [
+            {
+              "displayName": "Vinah Kumar",
+              "uri": "//maps.google.com/maps/contrib/108377477091034711183",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXAR5oomRSa5quKiTWwpMsVaEnRXCmRWMB6I0tVOoV4vegF3Jpw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJbw3xIvsW97_zHrjA6RmxeYh5k0h4BCPDXAHRWc-L0UbaLhcK7uT5t-RXRdtpVuLtyxfope72Y8eqkNOHpoFl3rZvZnzr2xonMZKYiS62_XrSBQabxsFBMCKprKJE6k5qe187DGXh9_DzQ7On46XcCMmtY1IgtOT18",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Choudhary",
+              "uri": "//maps.google.com/maps/contrib/117763192412428788204",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWJBYizN27kV5l2uSX7c0fvLAgpnJNIsursZQb2IS9XyZxdO0c=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJYgI7T4WmZDITXaFU7jHcdEZswCkJ4H1fiL9EkFu7gLkcVd7GNd9veJsSjMjzCjo_Au1YxurDrtrrvGXeQjVMtDczbhquMbjElg0hhCWYSuC2dwcWj3YPqFLOmOhULizeMDittGwu9CkCoBliKQP7jlh9grGkvZk582",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Devaram Sai",
+              "uri": "//maps.google.com/maps/contrib/116391595630230835982",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXmQgzaq7UeZUq3-JxWiKYs5IbVQ3UCVoyv4qYj8VWoweHFYR19aQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJXygzviklRDkRyKnlOP1eF2g/photos/ATplDJbU4QMvQ2bY8KzpbGjDuBuDXgrKkb6FogAAvGGiXvktoYhJ_dHkw7t7CA3iyjT9ZGZwkflQkOOtPF4wq3KqudlU3b2vbj6l4DCgUf-1qbobcl_NbB1qNaJMeZCLf1bEn1ekUhy1FwONrUR9XHSX8UYCJbBnYwSbiBDk",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Vikram Singh Chouhan Badhana",
+              "uri": "//maps.google.com/maps/contrib/100547698375928370299",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU2HaseHElNYO4iDF9J3ri9mMOAyY3oSaNG2R_GdatGmKTJ1-8oXA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I",
+      "id": "ChIJ0aHlPcA6RDkRgskDlMeRT9I",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Chamunda Chauraha, NH-15, Shastri Nagar, Barmer, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "Chamunda Chauraha",
+          "shortText": "Chamunda Chauraha",
+          "types": [
+            "premise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "NH-15",
+          "shortText": "NH-15",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Shastri Nagar",
+          "shortText": "Shastri Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JQHPCR5+H3",
+        "compoundCode": "PCR5+H3 Barmer, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 25.741425699999997,
+        "longitude": 71.4077308
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.740087369708498,
+          "longitude": 71.4063602197085
+        },
+        "high": {
+          "latitude": 25.742785330291504,
+          "longitude": 71.40905818029151
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=15154491557492803970",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Chamunda Chauraha, \u003cspan class=\"street-address\"\u003eNH-15\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShastri Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarmer\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 119,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Chamunda Mata Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "Chamunda Chauraha, NH-15, Shastri Nagar, Barmer",
+      "reviews": [
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/reviews/ChdDSUhNMG9nS0VJQ0FnSURkajR2SHpRRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RAKESH KUMAR MEGHWAL",
+            "uri": "https://www.google.com/maps/contrib/108311680231082644104/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGLBxhAA4XidHCs74DoMW-Qa0s2rKUHcD9NWUbyddqwYTE_j-5=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-28T14:28:38Z"
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvdDlXZ1JnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 3,
+          "text": {
+            "text": "The only temple in barmer which is around is surrounded by dirty water whole year\n\nTRAN",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The only temple in barmer which is around is surrounded by dirty water whole year\n\nTRAN",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ganpat Daukiya",
+            "uri": "https://www.google.com/maps/contrib/110886147128766813430/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVANw2bQz3wPWz2K7gAZEObcQgYJbo-LOZnkIiMEhxu0gjeBQE_=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-03-05T04:01:18Z"
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVc19LeEhREAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It's a nyc temple and there is circle chamunda choraha\nIt's named after it",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's a nyc temple and there is circle chamunda choraha\nIt's named after it",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lalit Jangid",
+            "uri": "https://www.google.com/maps/contrib/103098705595784189647/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs4F6546hdChawK0HssuNTvWtToihdFbOX687HVvS_rVgjFpYl=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-08-04T05:45:48Z"
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/reviews/ChZDSUhNMG9nS0VJQ0FnSURJb2JYWGNnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very nice palace hindu devi mandir",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very nice palace hindu devi mandir",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sarup gour",
+            "uri": "https://www.google.com/maps/contrib/106049808104817698937/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiIuHeBsncgKrdVg3JMDR6GVJIld06vohXBMKAv57ClAiqo7V9=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-01-08T07:20:57Z"
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/reviews/ChZDSUhNMG9nS0VJQ0FnSURkaGVHbFBBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 1,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "OP Gour",
+            "uri": "https://www.google.com/maps/contrib/102216759205015077848/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVviN81GMVt4jKFCiLROmPcWxvoX5UoeEr-u_XtJV5euy1Mg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-02-25T10:32:42Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/photos/ATplDJY5LSYzxCWWMAcIgPoxwQDIhCeVoqv4Axth3AIgoTXqUbB_97Vuep9S6ukwUHSe8ez6Orw6RtX-17e-aJxnGLWWdYNUYmeZ4SVRMrj0UnIR_yYqHE27Mnu9B-P-hK_I2IC3BvuXTrQoK9Eu_eCh_ch8sBoAuQ3QNwP5",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Dhokhla Ram Siyol",
+              "uri": "//maps.google.com/maps/contrib/105336494369167127899",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWpcahEnyzRXI4L6Vlmd74L_y4Lmrpoa_wRJ_z1rlQeKzdfmvg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/photos/ATplDJYPMoUPqhSSo6zUmO64o8HR0Wr2Kkv5ux5uw_Y9SyFMccAnRbdpdbPtDX_J8uv3D7TSWPewQk_ZbgxyrA8dRf-Uo3zbsb1yUm1yYFMAZeKPXgDua9owz0Pb23SMvwdMws1iRztnRomUQv8ky4pkWjwZd38Xq7ACt4xF",
+          "widthPx": 750,
+          "heightPx": 937,
+          "authorAttributions": [
+            {
+              "displayName": "Moola Ram Moondh",
+              "uri": "//maps.google.com/maps/contrib/104090020153482815533",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0ac6nX-n0zY7PuSWXNp34diHzIRheOSEch0fYi0DG4JGaDjj_=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/photos/ATplDJaVWUgpIRku7U6FQYmQJxbrIMlZsyLps9OysOt6LcSt3Hmqe-i3xqXsMQTkmOISeqyg-N8XJoUyt26AlCY6lCxvXMCygTlOjcpx99tGQfpi3JzSyZGOpfKZ_BXUWyZirMrc8XBCJ296Q3LCxp1pbeXxZtkSoZ1va7l7",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Chandan D. Goyal",
+              "uri": "//maps.google.com/maps/contrib/102567094227196957709",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVIeYPePvUZsIODmq7bxBlkZAghPHtgV7D3jvxId5grfJsInN5j=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/photos/ATplDJbafYk9u46fBLobagyTBPvpo6lhn-_qAZWDX8t6L4C2obOL-ZHSfQ1SogtZ6eCiyL-cD3H6q3wNbcJxIgTJtMvtPION_42WDAnFxVy7pHJB_YpvDlSYWUmYHgsXLfrGC_QrddFw9lnTOsQUDP4Xsvr8uixspVa7_JFm",
+          "widthPx": 3016,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Hari Singh",
+              "uri": "//maps.google.com/maps/contrib/113778889849502592720",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIybvrbstywPXIV1ykaqlCwqTt3PNjy4XH9euvC4I_GVSVm5w=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/photos/ATplDJZwocbF-BaZ0F_Kb7jduoW6SVakM2myXWgMn43HlrSyuMQmvljnoTKwkBjtJzV8hSIXj282uuXyCN5Cm5BMJcvuBDx4qi1oprSMBqZp7wYK2mNwbtPU0pNSw6EFMVP4F6dBJ2imhpGrKCd7XlAaKDOpuBidGCDok1A9",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Dhokhla Ram Siyol",
+              "uri": "//maps.google.com/maps/contrib/105336494369167127899",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWpcahEnyzRXI4L6Vlmd74L_y4Lmrpoa_wRJ_z1rlQeKzdfmvg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/photos/ATplDJasgBHIksFMysMm-SwVXMZ_d6t96z6Dt043XNR8BlrmIodf1DFaLEetePsLl8Etigpkts9M3UVrlasu2vhHxJOVmgfNoZDxR6sMN6KIXRS3geCncpe47q3y3-bs_CRfNEawRLRkXDMOT23r1MV_TpBTmlQzN1lpo6mh",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Dhokhla Ram Siyol",
+              "uri": "//maps.google.com/maps/contrib/105336494369167127899",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWpcahEnyzRXI4L6Vlmd74L_y4Lmrpoa_wRJ_z1rlQeKzdfmvg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ0aHlPcA6RDkRgskDlMeRT9I/photos/ATplDJa3Tgwu2Z6euM-fVK4aTNWs8fWB5YjXHMhpAehK8feGQpiTM3eP-rbZ-Ivi32XV0Wg_km-jJPlJq8xBdnSIFlKknfwChKGf5UFOf1MYuuSQldS2d7u0RvTAaDUGRBZuVUiUeTSqDxlLCtaIj7l-4Qv1cMmPk1gMUv5C",
+          "widthPx": 1856,
+          "heightPx": 2784,
+          "authorAttributions": [
+            {
+              "displayName": "Ranjeet Singh Bhati dudhora",
+              "uri": "//maps.google.com/maps/contrib/104302287000664671195",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJxWxahRsOwPpi1u3cXyfaKCSFT5-1BtZwG8iNTlcAVW-3koA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJkQB_NK87RDkRcTOfunmULew",
+      "id": "ChIJkQB_NK87RDkRcTOfunmULew",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "JAT COLONY, डंगरिया, बाड़मेर, राजस्थान 344001, India",
+      "addressComponents": [
+        {
+          "longText": "JAT COLONY",
+          "shortText": "JAT COLONY",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "hi"
+        },
+        {
+          "longText": "डंगरिया",
+          "shortText": "डंगरिया",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "hi"
+        },
+        {
+          "longText": "बाड़मेर",
+          "shortText": "बाड़मेर",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "hi"
+        },
+        {
+          "longText": "बाड़मेर",
+          "shortText": "बाड़मेर",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "hi"
+        },
+        {
+          "longText": "जोधपुर डिवीजन",
+          "shortText": "जोधपुर डिवीजन",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "hi"
+        },
+        {
+          "longText": "राजस्थान",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "hi"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JQHPCP4+W6",
+        "compoundCode": "PCP4+W6 Barmer, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 25.737312499999998,
+        "longitude": 71.4055625
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.7359591197085,
+          "longitude": 71.404222819708508
+        },
+        "high": {
+          "latitude": 25.738657080291503,
+          "longitude": 71.406920780291514
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=17018421817445921649",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 7:00 PM",
+          "Tuesday: 7:00 AM – 7:00 PM",
+          "Wednesday: 7:00 AM – 7:00 PM",
+          "Thursday: 7:00 AM – 7:00 PM",
+          "Friday: 7:00 AM – 7:00 PM",
+          "Saturday: 7:00 AM – 7:00 PM",
+          "Sunday: 7:00 AM – 7:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"extended-address\"\u003eJAT COLONY, डंगरिया\u003c/span\u003e, \u003cspan class=\"locality\"\u003eबाड़मेर\u003c/span\u003e, \u003cspan class=\"region\"\u003eराजस्थान\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 460,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Barmer Rajasthan",
+        "languageCode": "hi"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 7:00 PM",
+          "Tuesday: 7:00 AM – 7:00 PM",
+          "Wednesday: 7:00 AM – 7:00 PM",
+          "Thursday: 7:00 AM – 7:00 PM",
+          "Friday: 7:00 AM – 7:00 PM",
+          "Saturday: 7:00 AM – 7:00 PM",
+          "Sunday: 7:00 AM – 7:00 PM"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "JAT COLONY, Dangriya, Barmer",
+      "reviews": [
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/reviews/ChdDSUhNMG9nS0VJQ0FnSUNELUpQOG5nRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Barmer is a soothing city of Rajasthan.\nA pollution free city ranked in world wide category.\nHelpful behaviour of everyone.\nEvening's are still natural there.\nThere is no need of any fan or cooler in night life if you are sleeping in open sky under star's ⭐⭐✨✨.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Barmer is a soothing city of Rajasthan.\nA pollution free city ranked in world wide category.\nHelpful behaviour of everyone.\nEvening's are still natural there.\nThere is no need of any fan or cooler in night life if you are sleeping in open sky under star's ⭐⭐✨✨.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JAYPAL SINGH",
+            "uri": "https://www.google.com/maps/contrib/113709313901410206572/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKDcaudjGJAuJwkSiNazTq-CgkwBK9KmcN7rdNkKMMIfJjJ5w4=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-24T10:51:12Z"
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxaHF5dTZ3RRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Barmer is a district located in the western state of Rajasthan, India. It is known for its rich cultural heritage, vibrant folk music, and colorful festivals. The district is also home to some of the most beautiful and historic places in Rajasthan.\n\nOne of the most popular tourist attractions in Barmer is the Barmer Fort. Built in the 16th century, the fort is a stunning example of Rajasthani architecture and offers breathtaking views of the surrounding desert landscape. Another must-visit destination in Barmer is the Kiradu Temples. These ancient temples are dedicated to Lord Shiva and are believed to have been built in the 11th century.\n\nBarmer is also famous for its rich and vibrant culture. The district is home to several traditional folk music forms such as the Ghoomar and Kalbeliya dance forms. The district also hosts several colorful festivals throughout the year, including the Barmer Thar Festival, which celebrates the rich cultural heritage of the region.\n\nIn addition to its cultural attractions, Barmer also offers visitors a chance to experience the beauty of Rajasthan's natural landscape. The district is home to several wildlife sanctuaries and national parks, including the Desert National Park and the Jawai Leopard Safari. These parks offer visitors a chance to see some of Rajasthan's most iconic wildlife, including leopards, desert foxes, and chinkaras.\n\nOverall, Barmer is a must-visit destination for anyone looking to experience the rich culture and natural beauty of Rajasthan. With its stunning historical sites, vibrant culture, and breathtaking natural landscapes, Barmer is truly a gem of Rajasthan.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Barmer is a district located in the western state of Rajasthan, India. It is known for its rich cultural heritage, vibrant folk music, and colorful festivals. The district is also home to some of the most beautiful and historic places in Rajasthan.\n\nOne of the most popular tourist attractions in Barmer is the Barmer Fort. Built in the 16th century, the fort is a stunning example of Rajasthani architecture and offers breathtaking views of the surrounding desert landscape. Another must-visit destination in Barmer is the Kiradu Temples. These ancient temples are dedicated to Lord Shiva and are believed to have been built in the 11th century.\n\nBarmer is also famous for its rich and vibrant culture. The district is home to several traditional folk music forms such as the Ghoomar and Kalbeliya dance forms. The district also hosts several colorful festivals throughout the year, including the Barmer Thar Festival, which celebrates the rich cultural heritage of the region.\n\nIn addition to its cultural attractions, Barmer also offers visitors a chance to experience the beauty of Rajasthan's natural landscape. The district is home to several wildlife sanctuaries and national parks, including the Desert National Park and the Jawai Leopard Safari. These parks offer visitors a chance to see some of Rajasthan's most iconic wildlife, including leopards, desert foxes, and chinkaras.\n\nOverall, Barmer is a must-visit destination for anyone looking to experience the rich culture and natural beauty of Rajasthan. With its stunning historical sites, vibrant culture, and breathtaking natural landscapes, Barmer is truly a gem of Rajasthan.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhajanlal Godara",
+            "uri": "https://www.google.com/maps/contrib/111389828588696623251/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKeRJznZs62vmRyUqRlvFKVC8V_a_4sBAihrn-MSvT-akbsoLw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-12-28T14:15:59Z"
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkekpMT2hRRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Barmer member is different, the people here are very nice and there is a very good location worth seeing here.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Barmer member is different, the people here are very nice and there is a very good location worth seeing here.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RanU_ JanGiD",
+            "uri": "https://www.google.com/maps/contrib/103442702040375271963/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLBb-ejEpld3OE5fQVHeE3yx1m_Xtei12fStJN-I0N6jT_4iH0=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-02-13T07:25:55Z"
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGOVl2b3lBRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Barmer is a developing town, it has the luxury of life with huge growth potential.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Barmer is a developing town, it has the luxury of life with huge growth potential.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ishaan Designs",
+            "uri": "https://www.google.com/maps/contrib/102709890268476027815/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsUkm7HLzCCrz38kCIo40hci1OniBDnC6mzIjJ9jkYgm70b1RI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-30T17:59:04Z"
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/reviews/ChZDSUhNMG9nS0VJQ0FnSURweU1IeURBEAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Barmer is a district of Rajasthan\nIt's the end of west India touch with Pakistan border\nThere are many types of travelling locations where we travel at a cheap rates",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Barmer is a district of Rajasthan\nIt's the end of west India touch with Pakistan border\nThere are many types of travelling locations where we travel at a cheap rates",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "sher mohammad",
+            "uri": "https://www.google.com/maps/contrib/102000394756419982854/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHDgmM19t-CED5dBeh3Pp7fkzerqlapxj9dcbht-yDT-uifR4sqA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-10-16T02:48:41Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJbveqfPBCEHvXYeaEVYtUJ5CO4_7Lr4HM-Neak4Nc1cdvJOnI49pyhJioohZsz4-GkpFttN9wyO8vfcX-ywYFpwgQuEbVJMbotB07eLzOhQP4Lw4ZMetia6dfH_1PUHg-5v5k36_RsZ-jSu5P2uG3Klh4t47WvTQ5uB",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "BALWANT SINGH",
+              "uri": "//maps.google.com/maps/contrib/111985985407636925321",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV74uBlBkVJ7ax-2qGLkpdAOMd2vs0IjIYfYGVe9XO7Bsr2XHX6ng=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJaFd6SR5UY3N0b3uPqI3sQ8QeTZ2KQzDqtQKimiK4Zyv7e84cxM51NeTpTJeJlSSEF-MvTQH7oQTY8pigBRanOFlqJYKe-HW8NP4Qet71BoWVGCM3ssfeqZkCV4jm4M_yUJTs3CSOhpjYEulYItFIu16U7yVXlDfiL-",
+          "widthPx": 4080,
+          "heightPx": 3060,
+          "authorAttributions": [
+            {
+              "displayName": "Prem Godara",
+              "uri": "//maps.google.com/maps/contrib/111579583857621587689",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWNZOZYllbWV76WGGNpbwHEBvftzc7qK69wC6NXYnmbFovZrl_q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJZxvzr_HJFZtf64KrjMAc-UrJkTT0ZpExblfFOelIqa7M8CcRlL0HzzUYOGOWph8WX28-PadakrcL5iKaauRI9bv5t69MeVkOFjYjG8Pv1DVPXGj8T2TqkFsUV9qsAJB-pt2iyyqEplmg3_TJSc9Y_cf0KHqEi_hA50",
+          "widthPx": 2296,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Barmer Rajasthan",
+              "uri": "//maps.google.com/maps/contrib/105732128276269289360",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJX5CfO_Yi4-yD0tAQPr0ywV2Wi8L63oH2cG_bRShWohbmCRA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJa1yvwzivV_RlcB37uuBn4VYZDL6M6M3TaIrEIAzKef7lV1wDSQV6fnPmiIQlyQit28A7bwcncpY1UQELdQNR3ra99nfFsMc8WrY0wj0BIiTdOlxtCkZpnT7Un704KeeRvmyMM3bNt87cqnjqL3WWgyf1JmAWZZ7GEE",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Kalyan Singh",
+              "uri": "//maps.google.com/maps/contrib/101550409295569724066",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWeN9uiHZEfFdX8Bg4Pm-G6YS_igTsDVX1b0chA-TLrfnqB1jZm=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJbdVBc6khgJOND0snQDIW9ZYxo5tO2fK-LTYUHycsCHsmSxwqlk_IVWRD1BYb6m1t52dwyz9ziXgVogRQs9NIpXuXa6aMH7m5zA-9TH5ZIghwKM-zP88k8ywqQpsZxwJj85-9Rd8vBEGC3iBuCMGOcuGadMLOncftPr",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "KUMBHARAM SARAN",
+              "uri": "//maps.google.com/maps/contrib/108499048598996756045",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU24qzHdiMAGTSzguJ-aGJLiojUrFZ2cODW1azf1D-LYwYHd9aW=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJbtTX-i7MTPjKrQfk4RwSIdnzC-cL34iNK861mtGXtZ29Aa-bXpUF0bW1tuVS8H7XQawsnowfBPfptqsr109ZzRjX5R_mCR26wwjqmjsB0Jc_xQgrpqoMhRQi7w7bmeUwjdgBelgsWNn5nH4ecAfqhML2WCAwP61zIU",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Prakash Chandra",
+              "uri": "//maps.google.com/maps/contrib/100484505818530710817",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV1tAtnSeTmajGFdAyIQqZMGC17Z_2wQDv3u6K63OzIzr5UAOuZhA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJYwtqVGi_fkLjFY5ZzmIDiK1BGJZ9CKwmySTwNBuQdLLUvzQoWTs-0mni14uc-nkHPmdbZZnVv-48exnyYcFxpAT2JLXapWpSWXc_4JJWGvhgsCIdMxpeNb8ZYIBBFssyo4wfOGsqFGiNzBrbV3MOkx_MSnvU8lB0Qp",
+          "widthPx": 3060,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Mrs Mall",
+              "uri": "//maps.google.com/maps/contrib/112791117346032582000",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV9YUOqgenrXT7BLY0uSJkG41fTxYbizFN0-CBJ44cr6LCMyud77g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJaxR3vUaiERAjyNaW-TyCvOwvOmqvElv7Oafaiz6H6_EeDCufG_wdVczcAJB4_Vtj-fR5X25lpCVlxqG0t2weNvPmrPutu617uIHYOF3UNfMRBGAPB3NL6cc9rBZZgdNNr1xiQTgEKGWoCN-bK_JlkBnbh-Wu4hQPiW",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "BALWANT SINGH",
+              "uri": "//maps.google.com/maps/contrib/111985985407636925321",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV74uBlBkVJ7ax-2qGLkpdAOMd2vs0IjIYfYGVe9XO7Bsr2XHX6ng=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJYIYRT6g5piJsP6qs1I_mWSIDnO6A6kIj2x3P-mKvakXyD2noMVeDzS2MO_fyrFWel8VMhE4b8ByLzMcZs8MFELzPJ-iPuYvJ3ZC-mMmahK62yvwpY-Rug5NDwKtKvdWYvRCMhEMR-Z4-647CJywEyfRXTTdHRkcX9m",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "BALWANT SINGH",
+              "uri": "//maps.google.com/maps/contrib/111985985407636925321",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV74uBlBkVJ7ax-2qGLkpdAOMd2vs0IjIYfYGVe9XO7Bsr2XHX6ng=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkQB_NK87RDkRcTOfunmULew/photos/ATplDJYA6eRoOfIr8eUNuJxdI_7fLTB_VgSbJUUXXhAdrsMncSL9uSkwzngz3h90bTzVMtgEPb8r__hpkt9xz4ZwlAXViFmH4ck6h6F3W0YX8Q2wNDT2vaNyG_cgyE-nZHeRgk4dBhdEHll9S5SnbPOlb77SZ_npiVaNQDpT",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "BALWANT SINGH",
+              "uri": "//maps.google.com/maps/contrib/111985985407636925321",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV74uBlBkVJ7ax-2qGLkpdAOMd2vs0IjIYfYGVe9XO7Bsr2XHX6ng=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA",
+      "id": "ChIJkYQexpM7RDkRy3KUftXAqpA",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Ambedkar Colony, Mahaveer Nagar, Barmer, Barmer Magra, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "Ambedkar Colony",
+          "shortText": "Ambedkar Colony",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mahaveer Nagar",
+          "shortText": "Mahaveer Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JQHQC78+55",
+        "compoundCode": "QC78+55 Barmer, Rajasthan, India"
+      },
+      "location": {
+        "latitude": 25.7629181,
+        "longitude": 71.4154002
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.761623019708498,
+          "longitude": 71.41400801970849
+        },
+        "high": {
+          "latitude": 25.7643209802915,
+          "longitude": 71.4167059802915
+        }
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=10424356310686659275",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"extended-address\"\u003eAmbedkar Colony, Mahaveer Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarmer, Barmer Magra\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 472,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#13B5C7",
+      "displayName": {
+        "text": "Barmer Selfie Point",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Tourist Attraction",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "tourist_attraction",
+      "shortFormattedAddress": "Ambedkar Colony, Mahaveer Nagar, Barmer, Barmer Magra",
+      "reviews": [
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtX29uOVVnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Things which one can do here :-\n\n1) exercise in an Indira Gandhi circle during morning time.\n2) selfie point to take memorable photos.\n3) one can drink tea and eat something by nearby stalls.\n4) It's a good point to view sunrise and sunset 😀.\n\nBus stand is nearby to this place.\n\n**********************",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Things which one can do here :-\n\n1) exercise in an Indira Gandhi circle during morning time.\n2) selfie point to take memorable photos.\n3) one can drink tea and eat something by nearby stalls.\n4) It's a good point to view sunrise and sunset 😀.\n\nBus stand is nearby to this place.\n\n**********************",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rahul Charan",
+            "uri": "https://www.google.com/maps/contrib/107140683167716455982/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHX1sZdXalDFcrMADJaz4UpisjO0v9uZMTJKhbNSNNTAfuwbcD=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-01-03T05:48:00Z"
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/reviews/ChdDSUhNMG9nS0VJQ0FnSUREcTdybmlBRRAB",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Good humble and very kind person and good doctor for stomach related problems",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good humble and very kind person and good doctor for stomach related problems",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "biology concept by KC Sir.",
+            "uri": "https://www.google.com/maps/contrib/106480677217566393569/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxl6oQpnVZghbcVJAo0r1wXig0W-cs-wdPCN5FRrF5zVxQOe0H=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-14T09:58:12Z"
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGbzZ2VjdRRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "There is a very beautiful garden where you can capture memories by making photos and videos.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "There is a very beautiful garden where you can capture memories by making photos and videos.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ravi Lakha",
+            "uri": "https://www.google.com/maps/contrib/110125664138174322449/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPxkHiueeBf82xrVy6veN_e_Bl5yFEWHV9Rz4AajhHOQnCZkw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-01T12:45:19Z"
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdDl5VUxREAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Barmer's first selfie point is being made near the Mallinath Circle of Barmer.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Barmer's first selfie point is being made near the Mallinath Circle of Barmer.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ranu Panwar",
+            "uri": "https://www.google.com/maps/contrib/110270345627029604094/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxY74CC0DGwNPkK_6isZ55UoCGhn74AjNwNS4Cz-N6kEqfF45j=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-01-26T16:29:18Z"
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSZ3FlNEFREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "There is a Garden named is Mahaveer public Park. There are many plants and flowers  daisy",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "There is a Garden named is Mahaveer public Park. There are many plants and flowers  daisy",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "RAVENT SINGH",
+            "uri": "https://www.google.com/maps/contrib/102444435584330263507/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTWkJ3svsF9UgGF1nCwWWuMgdGzRDf38JR-C3fH2c0PD8roFjl=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-03-28T10:13:17Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJaHDLp1-PYNvs9_Eg3ybsEahu5bY-bE0123UYt9kzVHqJj3lWxUfm4Kj26odgdEggQKfwEkwiOFzzgSTwt3Wo2pnOxQzHAOeycWiEPU7q6vaO3BOQ7-MWcj9xRDTqv1CIL-rT4p1N7nqC5qKaaqeHSTuXRv5K6lZQJy",
+          "widthPx": 1118,
+          "heightPx": 838,
+          "authorAttributions": [
+            {
+              "displayName": "Moola Ram Moondh",
+              "uri": "//maps.google.com/maps/contrib/104090020153482815533",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0ac6nX-n0zY7PuSWXNp34diHzIRheOSEch0fYi0DG4JGaDjj_=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJaHUlbNfC68IBovpyzYefA13xfjNIRJTlR9Lphr5h6lJvQqpYvox95u3sxi7l85-2_QpF7RG9sXWmWlb1fEvonE6cu3nKGTathMqFrH7bJteCVNrYctFZNh5zd29XEh7EUfry5yxHi7982PeAvPf3oWv7dlgPWRCP1l",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Mushtaq Ali BMR",
+              "uri": "//maps.google.com/maps/contrib/117078651128577707928",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWwij9Fkq5FPLyzjCSyyLUttndFCH9jFDweTZTpS88wVAOz2Mn70Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJYV4F1WfPvt7dUa-aTUX45QhrVFytcK_T754iMKAbvoTvMIGtjP-M_VOtcjSNgWRLf4lwK1NjZaNL_XdMb6yIevZBxFANvp2hBdq4RDMnXHKs4HlN1qZn87ZlCET03omSf5PJj72IiezD0-6UElexoKjloe8Iqz2xKL",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Mushtaq Ali BMR",
+              "uri": "//maps.google.com/maps/contrib/117078651128577707928",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWwij9Fkq5FPLyzjCSyyLUttndFCH9jFDweTZTpS88wVAOz2Mn70Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJYAuWV2T18J_7rhZL1LuPx5NqBMNelJSSH8nSfcru9CO2Bpx6kec1IAv9TafSON3P-ckW8IwXGUyklQarpXV4a52P88XRmzHmXgnHag-xmhyggiRnAWnLIE7vf9ndnIJ4E04h6cXuQzSXr2WfWOGzPyBmz6CU9N3Gm6",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Mushtaq Ali BMR",
+              "uri": "//maps.google.com/maps/contrib/117078651128577707928",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWwij9Fkq5FPLyzjCSyyLUttndFCH9jFDweTZTpS88wVAOz2Mn70Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJbsFi3oJ4OV1dG6IQDegIEBgoGoqU-wM0Cs3GM8gFULqynwdvz7Ld0bu6VjoLl1ydHNwh3VncTNj49633yF5XaT47bG_ngUVz94OP6txvcqTUq22izzFZIEalj82teMkqiAcwiFoTRcEDmKRS3jAxf1D8kz0ylZW0ZL",
+          "widthPx": 3072,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Rahul Charan",
+              "uri": "//maps.google.com/maps/contrib/107140683167716455982",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWHX1sZdXalDFcrMADJaz4UpisjO0v9uZMTJKhbNSNNTAfuwbcD=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJauQHSOz8wbcGINr3GX19Pz1gEZH6QDlB_oHklzQ08WZKcmPHKxcZkV1Cj7VFg7LB8gNeOYS6AMQT29Uad1RaSR3nkJ4It9eO0dv2W3dXvkvb7RUTiL3P3zDp-B7yUQaGLeh0stMg7upjYRblvg2MfzVc29IcYLncFx",
+          "widthPx": 640,
+          "heightPx": 1259,
+          "authorAttributions": [
+            {
+              "displayName": "Shiv sharma Shiv sharma",
+              "uri": "//maps.google.com/maps/contrib/111871726613201232819",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUNe55mC4a_e7FJmLSJ9q4eU480WaXWy4vBL64tJqQzex6fUgZD=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJZfnCCQTPruLNc10ZOIxOfiGfgg-nx2gHWj3PLguZQI8jjvvmGws5COktjylV47FoMspmnYZm1KiRcFORQ_nzwsfVuGgyoeIkQA4gqz7d-Tyv6AwyDHmYWi4dX2ZgFBfVWOCaQu6R-B25p_ka6TlmZPsp7bQ9AWkUGk",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "NEMI CHAND Kashyap",
+              "uri": "//maps.google.com/maps/contrib/116103961052883509721",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUZevcYCFYcn__aOHetEm3tQgVjA7qJ5WEV9ToojoiaGZ87J8uw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJbb6DlWCbJvD_WiRMxsXaOQ3flqioY7yXT5N_wXbodCfaj8DkkIqmz6BfMP2PydThHfe2H_0LwXsF1Vy5X6Ds0N08ZCwaCG8s8zmXaeBvaE4TXwcaqeYGsjBlW616JuNeJh-BiQxRRjrcpp4iYGrpVb0RplsF7JSJE5",
+          "widthPx": 3472,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Dhan Raj",
+              "uri": "//maps.google.com/maps/contrib/117724564489330369547",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUGzpZrdq1OC92ToiziRiCPecR1RIyX1wIK9Rw1fTfK9yQiGGPT=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJZTf_ACbEipyj5oAs7W9B3KDBeGO3BM4R4ifVaajfhInrkH_DoXORNr7YYGC4qlTK-GWd96LN-0C_BgKFIJvL-Th7k-pAmUFbpPb25DrEjiwoFiDUwnbWEIGq33Ano7gJ4oDoinGKCS3yg7XTwkcudBPosm5RDDY6z7",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Devaram Chodhery",
+              "uri": "//maps.google.com/maps/contrib/111019959363600412827",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUR5bx50toU6sbqF51Yv1zKqaY5gKLlwUABgLP7qxlmKkEyZrzp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJkYQexpM7RDkRy3KUftXAqpA/photos/ATplDJZfqlpm-o2q6jlvPNnBJHnJ0oreY7vn3tDua1YZ_OScsd6ApcRHFRGpB-rAE4mHe2eUFwUmX0iGyGhWJ-IP-wDe7bgCSCn1Esy0-XHKRWW98gQW79u0Rc8Y-89wt4KDKbdV2rxTSVZVo8FhtCs7OmNQRcs0VpCPaT4",
+          "widthPx": 1280,
+          "heightPx": 960,
+          "authorAttributions": [
+            {
+              "displayName": "Op Godara",
+              "uri": "//maps.google.com/maps/contrib/106867392546033334696",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV4_W1HyoZrTc7OVtXZ9ujeCcVjJy-dsE791nOiOBZZQYr9BAM=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU",
+      "id": "ChIJSZp-aVo7RDkR5NoiaJ71gVU",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "PCJC+RMF, Barmer Agor, Rajasthan 344001, India",
+      "addressComponents": [
+        {
+          "longText": "PCJC+RMF",
+          "shortText": "PCJC+RMF",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Barmer Agor",
+          "shortText": "Barmer Agor",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Barmer",
+          "shortText": "Barmer",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Jodhpur Division",
+          "shortText": "Jodhpur Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Rajasthan",
+          "shortText": "RJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "344001",
+          "shortText": "344001",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 25.732060500000003,
+        "longitude": 71.4216636
+      },
+      "viewport": {
+        "low": {
+          "latitude": 25.730717569708496,
+          "longitude": 71.4203203697085
+        },
+        "high": {
+          "latitude": 25.733415530291502,
+          "longitude": 71.423018330291512
+        }
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6161475825920301796",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "PCJC+RMF, \u003cspan class=\"locality\"\u003eBarmer Agor\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e344001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "विरात्रा माता मंदिर एवं विरात्रा नगर खेल मैदान",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "PCJC+RMF, Barmer Agor",
+      "reviews": [
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/reviews/ChZDSUhNMG9nS0VJQ0FnSURtemFqZWJ3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Arman Choudhary",
+            "uri": "https://www.google.com/maps/contrib/109466452550743663842/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEaDhgnEA58VALsgVZN47lL067DcW7PGpWz77ENMKcSLEpZdXd=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-02-05T13:24:21Z"
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwdW9qdUJBEAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "super area",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "supar eriya",
+            "languageCode": "hi"
+          },
+          "authorAttribution": {
+            "displayName": "B.R.JANGID OFFLINE",
+            "uri": "https://www.google.com/maps/contrib/104579928786942898429/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3rzDPoFt7NPoj1PEo2optzRBYXCXLSCQnN7VOwP68H0WmSWQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-08-02T06:33:41Z"
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWNUxhOTZBRRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "savita nandwana",
+            "uri": "https://www.google.com/maps/contrib/117969191559599976174/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_TxE5dd2ljDbkL9h0av3ph6Hvf0jla-Iey93_RAXr8ENO1P4=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-05T15:17:31Z"
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/reviews/ChdDSUhNMG9nS0VJQ0FnSURaN05uZzF3RRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Hanu Bhai",
+            "uri": "https://www.google.com/maps/contrib/104121601691948271617/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK1Ye5wmxLrTT_S8Rgf1YUCjNrlkSN1SrMVJZssPs2MDZXxpA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-26T09:02:46Z"
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNabExtanhBRRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "ASU RAM VISHNOI",
+            "uri": "https://www.google.com/maps/contrib/115605320761834946755/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJfVi3zi8rOlC7j7v-Rd6CGzwViEjU5gM-CFfj8w3y2LE5viuFjw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-04T22:49:21Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/photos/ATplDJbaXwkbGHX3K0n1YxEdbS8U0qFb6byRxS5SoRtdEVwTVe4Hvr5yuFuu4vgmRHMKv2EHtY346ThaNgQXb3l8rjOSI2f5agvrWROn1TP90868kUcXAnXrZ_50jRX1t4AEjA36v6AnMS6OiC34x-7TysfhwpudPan3LiPn",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "B.R.JANGID OFFLINE",
+              "uri": "//maps.google.com/maps/contrib/104579928786942898429",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3rzDPoFt7NPoj1PEo2optzRBYXCXLSCQnN7VOwP68H0WmSWQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/photos/ATplDJb_9oA-o1p4jgDsT9xotZfkgLdV87Ddj3GfXkfuAZm-0v4rw_A2Z4lxTtmRhGEelGBjYjVtL3Lc5XFzvounOr_d2lp48Mmd3nBDeEpQiKIsCt86iKGAoSYd_fc8E1GaKSmL_Okn6dUV4JPOoMs1FMqFdmi4HUeBnYyd",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "B.R.JANGID OFFLINE",
+              "uri": "//maps.google.com/maps/contrib/104579928786942898429",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3rzDPoFt7NPoj1PEo2optzRBYXCXLSCQnN7VOwP68H0WmSWQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/photos/ATplDJZo3PKFM_VaOrqJ4uvODpNept_wNg2DqY2qFg2weNvmDBZ59yYmosmY6MPSUH-tIMKW1AUxuk7GY5sIYJi8r0-IJWGahuvqUFb2NFJLK6JuvIPENglPkyrzOFl7WBY1GAyU9xDZ7et1yRg0FPU6usnFrq3lOFEUQgaa",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "B.R.JANGID OFFLINE",
+              "uri": "//maps.google.com/maps/contrib/104579928786942898429",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV3rzDPoFt7NPoj1PEo2optzRBYXCXLSCQnN7VOwP68H0WmSWQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/photos/ATplDJb_ehskVWDIOxDZDGBPBY_WWWtqyCY0KDyWO90-dGgsgys5AmJLjyX0RYkUpmBydxyveNu0mD_jEbqbggVmr4TEkkap0iGCGe1emr-1Q_aSfI05Y9reIyBJxKOKLZb0t1GaVV6Y7cUPOvTPAM_SMPWi-aTWfUomIksc",
+          "widthPx": 1079,
+          "heightPx": 1442,
+          "authorAttributions": [
+            {
+              "displayName": "Madankumar Madankumar",
+              "uri": "//maps.google.com/maps/contrib/100979982611145841863",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKAnHnDPpzR2rF9PNjOiU5lZvJnUnTGTwAgKQEHzHk4KTPAiQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/photos/ATplDJYD2mzoX7QhvSRJylWOfJXUOksM9QNCCwJSavfoLzZd1rFSyXWzRRbABXS5FP0nScRGq50D7DUd4Mm5GnGvS3A9znCiaCb7JMuAOU01dNaIyHPwfHXVvLsHeE5f7BHcICVky-h1al9gRaGvPnrw-3VRDnoZl99myGk4",
+          "widthPx": 1280,
+          "heightPx": 982,
+          "authorAttributions": [
+            {
+              "displayName": "ASU RAM VISHNOI",
+              "uri": "//maps.google.com/maps/contrib/115605320761834946755",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXJfVi3zi8rOlC7j7v-Rd6CGzwViEjU5gM-CFfj8w3y2LE5viuFjw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/photos/ATplDJYtfbGH_39nieOZywgEfvr0eyMgWSiZ-QeadlLJAnhoL5Z5RO-hzMr70l_suxJy4_sPz7R4zeICoCzQiSpZc8PJ-7MztZ-lowDtu6E4avT8dENaMrEwwZpCjqhCMEAGplbdoX6Ot41a4C0G1rHPY9fWbYx6E10b5p1g",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "ASU RAM VISHNOI",
+              "uri": "//maps.google.com/maps/contrib/115605320761834946755",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXJfVi3zi8rOlC7j7v-Rd6CGzwViEjU5gM-CFfj8w3y2LE5viuFjw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/photos/ATplDJa_lwkFB1x7YdYHWFtjrEOcma22daazBnmhZHzaWCp-Tit1iUOSd4ucY6R08krEHGFpWuEwsVy8NqVE7V6fQNMLqtxgYd9YYMbSM16wW4f1XW22yBXuuJTIR4_5QPY0yvGptiPno49Cdx-MwOoUzVeRZX5k_YuHO_Lk",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "ASU RAM VISHNOI",
+              "uri": "//maps.google.com/maps/contrib/115605320761834946755",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXJfVi3zi8rOlC7j7v-Rd6CGzwViEjU5gM-CFfj8w3y2LE5viuFjw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJSZp-aVo7RDkR5NoiaJ71gVU/photos/ATplDJYGDz5deHUts0OumofVe3O7bgWZH35Mt0gqulLxzlbX77-_hKb5JmId9nxh3fQ07t221HkavrtjVZ6MNsZCkXUmm-j7GWgFusy_yTRFbHcOs_0c_BcPTT8CpYYByxbQfC4ZgzLB-QROdXuI0iwSo3wx5NZwEnBo4o_w",
+          "widthPx": 4032,
+          "heightPx": 2268,
+          "authorAttributions": [
+            {
+              "displayName": "ASU RAM VISHNOI",
+              "uri": "//maps.google.com/maps/contrib/115605320761834946755",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXJfVi3zi8rOlC7j7v-Rd6CGzwViEjU5gM-CFfj8w3y2LE5viuFjw=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    }
+  ]
+}
+

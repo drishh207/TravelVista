@@ -1,0 +1,4705 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM",
+      "id": "ChIJ5fymhNolXDkRDIfxtCAsntM",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "098258 49980",
+      "internationalPhoneNumber": "+91 98258 49980",
+      "formattedAddress": "6FWP+G45, Pratap Pura Village, Kalol, Gujarat 382721, India",
+      "addressComponents": [
+        {
+          "longText": "6FWP+G45",
+          "shortText": "6FWP+G45",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Pratap Pura Village",
+          "shortText": "Pratap Pura Village",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382721",
+          "shortText": "382721",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.2462554,
+        "longitude": 72.48536829999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.2448574197085,
+          "longitude": 72.483930419708486
+        },
+        "high": {
+          "latitude": 23.2475553802915,
+          "longitude": 72.4866283802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=15248673907309381388",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Tuesday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Wednesday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Thursday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Friday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Saturday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Sunday: 8:00 – 11:00 AM, 4:00 – 7:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6FWP+G45, \u003cspan class=\"extended-address\"\u003ePratap Pura Village\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382721\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 301,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Shree Gayatri Mataji Temple Kalol",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Tuesday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Wednesday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Thursday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Friday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Saturday: 8:00 – 11:00 AM, 4:00 – 7:00 PM",
+          "Sunday: 8:00 – 11:00 AM, 4:00 – 7:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6FWP+G45, Pratap Pura Village, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMEsyVmx3RRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This is a temple of Mother Gayatri and a temple of Mahadev near this temple.\nThere is also a garden here.\nThere is also available parking facility.\nThis place is very beautiful.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is a temple of Mother Gayatri and a temple of Mahadev near this temple.\nThere is also a garden here.\nThere is also available parking facility.\nThis place is very beautiful.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Krunal Prajapati",
+            "uri": "https://www.google.com/maps/contrib/117558172277791336333/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqBRulo3-rzvXfrJ__jwzAy_1oVWOQ-TPwrO8ryFfgZlKVFUK0=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-03-09T04:17:54Z"
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkcExXcXB3RRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Gayatri Mata mandir kalol super please and visit for your family and friends",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Gayatri Mata mandir kalol super please and visit for your family and friends",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mitesh Nayee",
+            "uri": "https://www.google.com/maps/contrib/115151168250730287240/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxNNbWgPNx0drGmzEJV6ktbep4k2Tj-728qJnPPrBOSiP5UmrGBA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-12T07:00:12Z"
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRZ2ZXVzVnRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very Peaceful Temple ...and awesome one.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very Peaceful Temple ...and awesome one.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manish singh",
+            "uri": "https://www.google.com/maps/contrib/101887234380715360589/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNg5um4gMPSKTaa-bc-NI7nQCuxj_41Mvi8PnYloevK_oa3Nwg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2018-01-15T04:08:35Z"
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkdTZfRzBBRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice temple and places",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice temple and places",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Prakash Valand",
+            "uri": "https://www.google.com/maps/contrib/104817199509636085861/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgxiL0XaE6-N7GeFWJLswWzwHjEq1PZsKBxvhvPRz9Z282qS8=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-18T17:49:17Z"
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5bnN2dXJBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "In this premise you can arrange your holly Havan and manage Marriage, Ring ceremony and many more family functions.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "In this premise you can arrange your holly Havan and manage Marriage, Ring ceremony and many more family functions.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Patel 121",
+            "uri": "https://www.google.com/maps/contrib/112591214235746992053/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEezlzjfAeCRBGpjQKy7baX27hReLylRWEtHOrAvtLBwcnnIMPTw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2021-01-31T16:14:12Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJYTfAfCGIEfmiIWgH5GJYRvj7O2ZxdBSRZwlgSOoXsTDXuDyM40bJKP2gETqeHOOf4j3_rMiQS8GxKVcmLgwQ9ii6_FO8szOD3nuktzPoTm4ge81hhRdzzPpuEOfx55YEMi5lc7oORQl9oZydL8fQPaBZLetxKpvxUE",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Ajit Mishra",
+              "uri": "//maps.google.com/maps/contrib/108029901163963759540",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIvqqjI3WwSm4EvvgoQB-hEh6K4YiJk9xSih5H9BwcKhb1LGQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJYIVXxVfd6tsa44jg5zhuQUI79_PZHhGeyIM2h2b2j35mCXdKtHzEnqgwiMvPD3dVrWYWng8A3K9Oary_VcCvRj3u4S0zNgn2IEFt_9KJEf-cVQKBIs2IKIqOiDc947wnDVJb1GBhmzGzvgL1D9R_kihqFLjPUUayMQ",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Krishna",
+              "uri": "//maps.google.com/maps/contrib/114339145911290156151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3-3UeyPT4A-0y4aSdDwEezEWoHW1SjA88ysxNt-dLvxhJ2agtdA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJY_Rgk1GvSGdrvPveZtxy_k4Oy6lWPIyKzfdK9sbPtJG6BVSHhcsV135Bh5rP0v29c2wQWXbOt6mOVv4axBmcJW7_uR4m9un3qr47UTC0vDpR4azQf5WyHPiStvT63LvT2hL8SvH6p60zCsOeKKeuOOzm9EIqmv34B4",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Anil Gajjar",
+              "uri": "//maps.google.com/maps/contrib/109023651397395536729",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX7gzduUzyPkNbKi9Jo7tNkCh-TVdFXsHrXURQq7HRFSacC1Ezp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJZzjcOypnQ_yapWb5dEGtDG2ZJY3ds0ZVw8QSN8JpVWuMVChba6BDtz_rMvYc0v90Wc4RKAAya7uH1A0BIjSIvpHjVorAsLd66UyJ9c0-GUIwlT1_h_bidbH95Sb44BYtyMqmH1lDc7OPmFCam31DXpkSErAJ1QWhO1",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Pragnesh Prajapati",
+              "uri": "//maps.google.com/maps/contrib/109447599712902804503",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVrt_jNnQMNU3JwDauIXYlMS-u4q1BYPqfht2TvUnyMe0y8E1RE0A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJZE-X3Y11Vfy_vsm-r9SPUf-A-TvKfQQ-iEi7qANFZeYHzsFXvv2V83tdxqb9wdhoSXdHYEpqXx6Qcrt6DshgQ1bU0l_UuwlrVcji-n44wREs048tWkal2BBmPKvJrMNWuOBx350lEeTLftWsKb878HEcTbtZI1BCAy",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "Bhaumik P Chaudhari",
+              "uri": "//maps.google.com/maps/contrib/104839209481014518806",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKR2r6X5jD1W92VFGuO_JtF2jwZzx7ljOQXHZXOSXr3lMXWGKu=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJZ26ELcx-BOdh2UAZH696OQB_2WLMHnAnz8YbLuIAUAdvLJ8iHHIIEIzInE8MLiolapZQBCVqcrqzF8ryyuD-rDPnI0lmnzUjDwG5idnLBLuDsOfK6vxxWl0d3L-wjtk92PQnKkpVHGzvNt614vXMmkMxeUOMgvk93R",
+          "widthPx": 1920,
+          "heightPx": 2560,
+          "authorAttributions": [
+            {
+              "displayName": "Balaji Thakor",
+              "uri": "//maps.google.com/maps/contrib/102606139198640050770",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK7TkfaHTfxfzz60vwiGLo9wRsXVST2gbNtBhFuYt-0lqg-oQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJZUyKnixaaGeUzxn9Xs70Yk1oQeWDMX1DWnrhTo6bvP8pOvr523h4vwLPvdkfNlZ4Yq4BupoZo0NLdC1bqBBOqkgqJ6atSFnqMJ2OjBPeT19ZyMzcwTNRI98k766bvwaofqLxzsgJuLazqu0ixJEQDpRlGEC22nvHwy",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Anil Gajjar",
+              "uri": "//maps.google.com/maps/contrib/109023651397395536729",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX7gzduUzyPkNbKi9Jo7tNkCh-TVdFXsHrXURQq7HRFSacC1Ezp=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJakdXAJA3v_Zdm4iwtyv78TJ4yqH0NKcSDUHW7jHGHDbGdGhQ7uoIt4wnK_K7Gyz5Ek7Sg45--GWxLkiFPYwKEoswkVIBrNwbCGcDMbw9GtkywDT8btw2TBPTCTjbRpUAPpgiX_fUpX3PZmZoAZEvk18RXuDUfCwOJ0",
+          "widthPx": 720,
+          "heightPx": 1224,
+          "authorAttributions": [
+            {
+              "displayName": "સાગર. મહેતા Mehta",
+              "uri": "//maps.google.com/maps/contrib/115102743054544692982",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXMGh_wW07LqiO3KWJKO0-7ak3GPOOjr3m0qS7ZAcPv6GexJqq6=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJa_tIPrHNyJ9CJ89hpXRsKgsL8bKMt4s-62G65TVLcXXDOVz8AcCPnyY782hYHhaV6sl2UYKER-6ICzrJrbClgpVMI3EZiFg4BxEw0w0dbRFLJRmqlPGdyVyvAxqVfKeEj_9oQZWcjh9qPatXFOJYI0VcCci30mgXxA",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "Manish singh",
+              "uri": "//maps.google.com/maps/contrib/101887234380715360589",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXNg5um4gMPSKTaa-bc-NI7nQCuxj_41Mvi8PnYloevK_oa3Nwg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ5fymhNolXDkRDIfxtCAsntM/photos/ATplDJaIGG6S4deO1B8W-bzKGJ5xZb2C0Wcz6v2i1ELhDgwU3UH6dxPEHF2jNTW4wnn2GjGKr8OrGy51yWmB-OcdcOvfIvs7xozN0jhe7AZ3NVQULms8uRFSEQjzvxPtnO98YswqtmxciJTTY2qn1Q7cQPtz34T4YlVMasaJ",
+          "widthPx": 4608,
+          "heightPx": 2592,
+          "authorAttributions": [
+            {
+              "displayName": "JoyKumar Acharya",
+              "uri": "//maps.google.com/maps/contrib/111281107718160622440",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXQd-LR3PHYcJeN3mQpUDRBpOZQgHy2ahz-gCiga_K_asS9_5Dv=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E",
+      "id": "ChIJR-krBy0lXDkRB0NVW_yI23E",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "9,Vakahariya nagar, near kapleshwar temple, Vardhaman Nagar, Kalol, Gujarat 382721, India",
+      "addressComponents": [
+        {
+          "longText": "kapleshwar temple",
+          "shortText": "kapleshwar temple",
+          "types": [
+            "landmark"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Vardhaman Nagar",
+          "shortText": "Vardhaman Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382721",
+          "shortText": "382721",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JMJ6FVR+36",
+        "compoundCode": "6FVR+36 Kalol, Gujarat, India"
+      },
+      "location": {
+        "latitude": 23.242639999999998,
+        "longitude": 72.4905119
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.241327819708495,
+          "longitude": 72.489089169708492
+        },
+        "high": {
+          "latitude": 23.244025780291498,
+          "longitude": 72.4917871302915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=8204301763630940935",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "9,Vakahariya nagar, near kapleshwar temple, \u003cspan class=\"extended-address\"\u003eVardhaman Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382721\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 59,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Kapileshwar Mahadev Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "9,Vakahariya nagar, kapleshwar temple, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/reviews/ChZDSUhNMG9nS0VJQ0FnSURkNnVuMVRBEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Don't expect much on having a Rs. 70 thali that too unlimited. But other than that, a nice place to visit with family and enjoy in gardens, mandirs and a lake in making",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Don't expect much on having a Rs. 70 thali that too unlimited. But other than that, a nice place to visit with family and enjoy in gardens, mandirs and a lake in making",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Piyush Solanki",
+            "uri": "https://www.google.com/maps/contrib/106584329978951754542/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWeBc8uPc6bNQo__A3HyEWoZZTkL0Mc6dDqaB3ryOh07scOD_OT=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-22T17:21:19Z"
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNU0zZEdnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "All Temples are there & Nice Piece full place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "All Temples are there & Nice Piece full place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "devendra studio76",
+            "uri": "https://www.google.com/maps/contrib/113637367049557874847/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-ru2Xw-ZuCSDQNQFu6tc_xqiG0UDT6NH-E-oPItRFfyxD86a-=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-04-18T12:36:42Z"
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/reviews/ChdDSUhNMG9nS0VJQ0FnSURvdUxuRmxnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Nice place for devotion and meditation. pure natural place.very old temple but renovation and known As mini Somnath,Nice maintain garden,Parking andfood court available with REASONABLE rate with good quality.sai and Shani dev temple Is in Same premises.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place for devotion and meditation. pure natural place.very old temple but renovation and known As mini Somnath,Nice maintain garden,Parking andfood court available with REASONABLE rate with good quality.sai and Shani dev temple Is in Same premises.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jogesh Kumar D Patel",
+            "uri": "https://www.google.com/maps/contrib/115286297919314086163/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBBwWzbRdwNlxcBYzjY8L4cIkc2A6eZPbZLXX3CXoifk9QjmAr=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2019-03-11T15:31:57Z"
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxcXNlbjRRRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "That's a good place and there's atmosphere is next level",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "That's a good place and there's atmosphere is next level",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rabari Alpesh",
+            "uri": "https://www.google.com/maps/contrib/117005223800985452343/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZDG4-GGtV6V_XgPBP9LGkohyhB-MfyTee9xMrQV-B9T1Dh407=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-01-06T15:17:30Z"
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/reviews/ChZDSUhNMG9nS0VJQ0FnSURCbHZQdlBREAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Om Namah Shivay 🙏🏻\nreligious place for devotion and meditation. pure natural place.very old temple but renovated and known As mini Somnath,Nice maintained garden. sai baba and Shani dev temple Is in Same premises.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Om Namah Shivay 🙏🏻\nreligious place for devotion and meditation. pure natural place.very old temple but renovated and known As mini Somnath,Nice maintained garden. sai baba and Shani dev temple Is in Same premises.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yogesh suthar",
+            "uri": "https://www.google.com/maps/contrib/114688204097968970752/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKj2W95iU1ibFF2w0cbOHEz9cWWnf883Urkbs7kwl-q6TDn6a_=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-01-18T18:23:46Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJY0_WYQ9uE1NXG2qXS1qHhjNuPiGZximxwrfDCX6Kzk8TXpnONfKV775uPYo7sXVDiyAoA3TjT4x21epgHvavDEsdBN8D3VQoOcVp-V-C5UVcNB9NbDTAPAbBznQzdq9nsxjeAW7NiqRBfDwX_3KJ55noYFBiBr4e0c",
+          "widthPx": 6944,
+          "heightPx": 9248,
+          "authorAttributions": [
+            {
+              "displayName": "Yogesh suthar",
+              "uri": "//maps.google.com/maps/contrib/114688204097968970752",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVKj2W95iU1ibFF2w0cbOHEz9cWWnf883Urkbs7kwl-q6TDn6a_=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJZeu_KH0Dr9kKqLIHGuX4WxRwazR_f8735_2jpqqj6c2RXY7JeJEZxgAu-CJK0_OpjwOm1CN5nCshFlejebxPCCaUlDt-HwHdNJSwe3PuQjWTM_b_t9GxnF6UrTFsQxoEVYzBW9YL6bAc5yO4mSnmf3fmPSZQxCBXc4",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Vijay B",
+              "uri": "//maps.google.com/maps/contrib/108244075954976119528",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVSYNYyP4qPvo_x9dpzRia26pIuMVeD1kH23KwYElgoa0Ct14as=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJY-kTTDRcCBbqjq2ldn4mwz8Gjr8pupShpHpWZVkVMrAneRPZ2XBCoe8c8IL2IEQybp7vV0rb8IVJ6adgFxTtVgXDT_BVeQQ_5Vf9sG-nXtjmjroOksuPZMxqILowF9wnI2XRd3jS7Afb_ACSRHPWvOIhF7E_NqWjtM",
+          "widthPx": 3072,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "PRADIP GAJJAR",
+              "uri": "//maps.google.com/maps/contrib/106916535668925323926",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKgRhzeqyRf7pVCfch07zmHu4YpihZZyy7VoWfxComlF7G2Xg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJai6dBEkmURiobKtypEt5ALzAlf_GLPop7pYe9ebTNtdKFopMnYrGgA4rqClMZVv8w_TOgrDc8qzmYyp7ibv3K_o0O_6ZAcHZngibhhBSAhfrSu9NQlWxOSzIu200BNjYa3BzvCmdqFAxFp7PZbURSvudx3lLCH_Qy4",
+          "widthPx": 8160,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Rajen Zinzuvadiya",
+              "uri": "//maps.google.com/maps/contrib/118351777655547160664",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVK7p0iqIVpUDE2KcL4OyV0wyxn5JUvx2VL4lUNzl9TpZPsGw3Y=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJaczRr8Qkm5LVBRRWC09nddgYMxwaZXGOXKGWtPYGI7jMFW5AlMr_WqsY3-VkIx6kTwIfg2vxnU35OK-YgP-TPY6s1IKZD-9bIlxVLtAGlUPvgjmmJAGkTE7N3IUu5vOmE4OcatE_Bk3NChc2YIcUD1OdG1oJqvpu5w",
+          "widthPx": 8160,
+          "heightPx": 6144,
+          "authorAttributions": [
+            {
+              "displayName": "Rajen Zinzuvadiya",
+              "uri": "//maps.google.com/maps/contrib/118351777655547160664",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVK7p0iqIVpUDE2KcL4OyV0wyxn5JUvx2VL4lUNzl9TpZPsGw3Y=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJaYEnaj4SfzqH4PNPxWOR3uYFd0Ho6VV36jyNir7-bXm_ZMKJRkcqfB9Lx2Y8VgAOmKq-w08VNAvJWBPN3MVzr6vjBiD6ofAGrzHgnSGcyzHtnIHXeshiuJ4tbh1f0jeB1_BhsEMeyHQVAV4J_uQ2rMDIroGZZ7V39t",
+          "widthPx": 6944,
+          "heightPx": 9248,
+          "authorAttributions": [
+            {
+              "displayName": "Yogesh suthar",
+              "uri": "//maps.google.com/maps/contrib/114688204097968970752",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVKj2W95iU1ibFF2w0cbOHEz9cWWnf883Urkbs7kwl-q6TDn6a_=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJZlESTKDTMYpu_MteAfYuQh90ySV-FQWGPJYA2j7vUftaqk9CjDiigqeUXzGwvJDZ9b8lUtu3sIbe4T8ILY8F9uZ9DG28drpwBljILWUkKUmoWfy8Iri8UBaLovgrMOO7W6ksw71oTsjH-62fJaApHI1wqoEFX_z8g-",
+          "widthPx": 6144,
+          "heightPx": 8160,
+          "authorAttributions": [
+            {
+              "displayName": "Rajen Zinzuvadiya",
+              "uri": "//maps.google.com/maps/contrib/118351777655547160664",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVK7p0iqIVpUDE2KcL4OyV0wyxn5JUvx2VL4lUNzl9TpZPsGw3Y=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJYKfEe0yQriftt5pmkQ5pXv1oza2uw2H3FGJqtX4YIPODOSzdN20K9YHF54dk0q1-bjfANxOJxj-d9ueETV4DJEALsQ5QeFb_QjYu0SsX8AGjgyb7WbyvSMEFXH1rwI88pS7GXcOSuwoe1URaC_ypkgAdIBzaFWYmde",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Jignesh Bariya",
+              "uri": "//maps.google.com/maps/contrib/104158752261768771132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW7vwzsuuNbHCXPV1zPr8kC3-BqqogqaePTMcwNLb9_n5AGLzTn=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJbuCja-bipg2dkcB5B2YBqlvGtNDesO8KvwfLJVgpgWn95CixFBqF8QR1_7AsivUapBakxsvzplzijxHJ9BMyMe0lhy-PynN9gtbSa3avckqV7MwaR85EsjWpALbwKDhBD0B68QZlRGXaDExmp2rIES-H_V8edlFmIg",
+          "widthPx": 6144,
+          "heightPx": 8160,
+          "authorAttributions": [
+            {
+              "displayName": "Rajen Zinzuvadiya",
+              "uri": "//maps.google.com/maps/contrib/118351777655547160664",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVK7p0iqIVpUDE2KcL4OyV0wyxn5JUvx2VL4lUNzl9TpZPsGw3Y=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJR-krBy0lXDkRB0NVW_yI23E/photos/ATplDJbbFYg6jIphfqMqKURo52KR8RxZLRUouCqqGHdfHx1u6AmPUZk-WlFTSQZU061-rjDMLRcFyzBWcoKm84JZaOXbfVGW0Z-6y2Q_kR40OunRkjzzp1AtkQxZjUHaUG7bZaWHlz9TLYrclqoBdfGesqB9Y7bfQe8HO1l1",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Rakesh jani [media]",
+              "uri": "//maps.google.com/maps/contrib/101130405309561760692",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCSw0Jp7_32rqQI8H9LdFSB77k1zyLDP4U3oXj4mS17Vinvy40=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4",
+      "id": "ChIJbVesh3QmXDkRrBetuJdjtf4",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6FMV+4J3, Panchvati Area., NR Jayvir Society, Ambika Nagar, Kalol, Gujarat 382721, India",
+      "addressComponents": [
+        {
+          "longText": "6FMV+4J3",
+          "shortText": "6FMV+4J3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Panchvati Area.",
+          "shortText": "Panchvati Area.",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "NR Jayvir Society",
+          "shortText": "NR Jayvir Society",
+          "types": [
+            "sublocality_level_3",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambika Nagar",
+          "shortText": "Ambika Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382721",
+          "shortText": "382721",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.2327591,
+        "longitude": 72.49405209999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.231411769708497,
+          "longitude": 72.4927135197085
+        },
+        "high": {
+          "latitude": 23.2341097302915,
+          "longitude": 72.495411480291509
+        }
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=18353685359707887532",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:30 – 11:30 AM",
+          "Tuesday: 5:30 – 11:30 AM",
+          "Wednesday: 5:30 – 11:30 AM",
+          "Thursday: 5:30 – 11:30 AM",
+          "Friday: 5:30 – 11:30 AM",
+          "Saturday: 5:30 – 11:30 AM",
+          "Sunday: 5:30 – 11:30 AM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6FMV+4J3, \u003cspan class=\"street-address\"\u003ePanchvati Area.\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNR Jayvir Society, Ambika Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382721\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 237,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Hanuman Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:30 – 11:30 AM",
+          "Tuesday: 5:30 – 11:30 AM",
+          "Wednesday: 5:30 – 11:30 AM",
+          "Thursday: 5:30 – 11:30 AM",
+          "Friday: 5:30 – 11:30 AM",
+          "Saturday: 5:30 – 11:30 AM",
+          "Sunday: 5:30 – 11:30 AM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6FMV+4J3, Panchvati Area., NR Jayvir Society, Ambika Nagar, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwbmZIVFR3EAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Hanuman Temple is famous place for Panchvati area. It is located in heart of PANCHVATI AREA. Centre location in the area. Its famous as PANCHVATI circle. Every event, market set here.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Hanuman Temple is famous place for Panchvati area. It is located in heart of PANCHVATI AREA. Centre location in the area. Its famous as PANCHVATI circle. Every event, market set here.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Patel 121",
+            "uri": "https://www.google.com/maps/contrib/112591214235746992053/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEezlzjfAeCRBGpjQKy7baX27hReLylRWEtHOrAvtLBwcnnIMPTw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-11-16T14:14:16Z"
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtbXY2RTNBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "This is \"Ram Doot Hanumanji Temple\" and called Hanumanji Mandir.\nIt's located in Panchavati area of Kalol.\nVery good religious place.\nSatsang and other religious activities going on here.\nNice place for mental peace. Small garden also here.\nPlace is very neat & Clean.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This is \"Ram Doot Hanumanji Temple\" and called Hanumanji Mandir.\nIt's located in Panchavati area of Kalol.\nVery good religious place.\nSatsang and other religious activities going on here.\nNice place for mental peace. Small garden also here.\nPlace is very neat & Clean.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Om Prajapati",
+            "uri": "https://www.google.com/maps/contrib/112773925488849318007/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0g5JpRNDw6uv3jSqi2wszmd-R1T-EB7UqqyZ5yZy_XmUkK-qa=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-11-27T10:06:25Z"
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/reviews/ChdDSUhNMG9nS0VJQ0FnSURsM1p2b213RRAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Our daily rutine for pray to Hanuman Dada in this temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Our daily rutine for pray to Hanuman Dada in this temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kamlesh Panchal",
+            "uri": "https://www.google.com/maps/contrib/108365382327134677220/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWz_YnJNIW9nhUdN0AozptU_ZPDxTgsKkv6cD5Ugjq3cxzJ5wiX=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-03T09:42:53Z"
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5cVlMM0x3EAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very peaceful place",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very peaceful place",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "bhatt kedar",
+            "uri": "https://www.google.com/maps/contrib/117224222040161491501/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4K8vzEIxHtS0snyx7Q_WfynmA6md0dkEZhuFpdyY5nd5VaPF0mg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-18T10:24:52Z"
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/reviews/ChZDSUhNMG9nS0VJQ0FnSURRMUxEU0F3EAE",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Peaceful just like all other temples and religious place... Has a little private garden in front of it where the owner doesn't mind if you sit for a bit... Temple is covered by roads on both sides so take care when crossing...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Peaceful just like all other temples and religious place... Has a little private garden in front of it where the owner doesn't mind if you sit for a bit... Temple is covered by roads on both sides so take care when crossing...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nitin Patel",
+            "uri": "https://www.google.com/maps/contrib/111596476062111094128/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUA25M1Ran7Lz6gkTneaRWFLUoES2ZJncyEEYtfFf_bWeqKV85vNg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2016-10-30T15:10:32Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJbHpy2jryAiZRRelvwyoMDnC1KtxKbZfsBqffKW6_wnR5S9SqnhoLScS4or-CFzzYvXzaN4r_T-Sb-fLE4PD8xj7HHAFgqzFJc81Ex5RU8D_iS6USfdhmIDeSVlfqiWIgKdN1rvmA-UzyB4wXVuKf1Zc0y44P2Mo0FF",
+          "widthPx": 2252,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "deepak solanki",
+              "uri": "//maps.google.com/maps/contrib/118279650945405482154",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU6teaBggqPHqgxvT2dlCKbkArLpH6bDw7oZqQ7lXBrAll2qsrw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJZgquMN5N55fi78yzJp8A9yB7ytp0LDcYAyENGMDJGSrfM-ov7CFrFKjPkqxqGkGiU6YHgSb9tOab9S9uWKyL-IWaWtkS3ZqlPlgxhCwHwrCa1weTMrq2_-BFhXv6T2_fDlXen9r5_peIFHzLk8njU8ZNdgzm66ew3C",
+          "widthPx": 2048,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Arpit Patel",
+              "uri": "//maps.google.com/maps/contrib/116853668078723794378",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1eSntsabY0l3rYwSBHdX3917mQy_AVMHf18B8hdEV6c9kkyW3=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJaJtb_Bomo1vFTCSgY33w6BcD41XTmc_0yEpuhG2WMLAa5CsvEITJn8u9fsIMqaL8rC9UaIZzR0j4rweSWUP0TnMClFvJ8VGNrdj1MNSH85HmrBoi4N2X2DJErIUkJMn1QcW-Hv073ePqPSXa_UEphBG5K0_4zv_aHE",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Nitin Patel",
+              "uri": "//maps.google.com/maps/contrib/111596476062111094128",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUA25M1Ran7Lz6gkTneaRWFLUoES2ZJncyEEYtfFf_bWeqKV85vNg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJYa0D88TLyW9n7EEZY4YWzaGAKy224A_DmiIhCSQ_kW9rIEM0UpkwuX5HLBlam_zgcDxHqpDqvEHlI6eQZuvnLJf67uOULoOIl8ewwtsLIgUB68iKMMaBD40BaXLLAU_U-arjxKIC1YpSeuGDCjJRJTV6Qv2j4U3sRp",
+          "widthPx": 2560,
+          "heightPx": 1440,
+          "authorAttributions": [
+            {
+              "displayName": "Patel 121",
+              "uri": "//maps.google.com/maps/contrib/112591214235746992053",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWEezlzjfAeCRBGpjQKy7baX27hReLylRWEtHOrAvtLBwcnnIMPTw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJYdSy6ni6nbDzr-qWE3GrV8M4V4mRXvTQPTBeX4oRpSRtTssE234oIAQXDLs9qJvPqp23F-Jz0qBiTaFJjGWJjETyBak30mxyzDDU_FNQgD15MQL4NkeOsGAPf2ohdEeoqtB0pI46wzfUbCI2x7rroVxXEqtl35-hbq",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Jignesh Bariya",
+              "uri": "//maps.google.com/maps/contrib/104158752261768771132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW7vwzsuuNbHCXPV1zPr8kC3-BqqogqaePTMcwNLb9_n5AGLzTn=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJaRnkr6eOq86qd50pHNdwEDjYLG03-2mgf8RVdXGFnLoTBIopHowpPaBbBTTv73RTg50Znvw0JvL6S1bsrY-QO2DZw2ofIPdUJ6pe1NabATsXdod8M6PPy9aGDRMysyYcZ3WbJQ-fTLdWP77JbLIkOqH90pUQ_Uabx7",
+          "widthPx": 2048,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "Arpit Patel",
+              "uri": "//maps.google.com/maps/contrib/116853668078723794378",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1eSntsabY0l3rYwSBHdX3917mQy_AVMHf18B8hdEV6c9kkyW3=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJbSAArcCoBjFx_8BNyHCzwr0hJvb25XM1SznTKK8N4L-4OVIiI408cH5tMca7DtPSEawKfGz1vFbZd7Tlwkgkr4zhKVwECWsZi0ZNakhVpRKEBUKUYsWsrqKs2TD8EcPEEs-KhBiSp_zLRCARQ1Tmno_8-yeUPEC2eS",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Jignesh Bariya",
+              "uri": "//maps.google.com/maps/contrib/104158752261768771132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW7vwzsuuNbHCXPV1zPr8kC3-BqqogqaePTMcwNLb9_n5AGLzTn=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJYsBhcEfWAjRdMhwr-qr7bEpWiPZ0s1yAtWt6k5Sp8LEHLmfywdQUR7sVzXjUlHm7c4abwM1RsRLw_bITf56BqIK91uS1R_AzZb4KMveiwjMfzSazAJaMaP1IYit6iMmq19OzLy0il6jmX4pXcFfHoAQktEjD44OGbK",
+          "widthPx": 2252,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "deepak solanki",
+              "uri": "//maps.google.com/maps/contrib/118279650945405482154",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU6teaBggqPHqgxvT2dlCKbkArLpH6bDw7oZqQ7lXBrAll2qsrw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJYkOWx06ITBt2M2p7iM9BtOXoJFhyoiJdB5BZiSS4bCgH0m-1ZiDKPsW1515RB_sG5myeyfpXGskAKJWUeIcoTQH0W0opnGEOmzbQxGBQ1KLSfaqGvcEJW8Aie38W2VjW8T5MYOvVnRNab7aEq-BfynQafgt9rvTjNk",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "B K (B K RAJPUT)",
+              "uri": "//maps.google.com/maps/contrib/100760147876709610998",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVxihZDLPmEoSroba7mVXnrZx4j0gNoJsYUNjEuQNLYgj7CrIGiGA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJbVesh3QmXDkRrBetuJdjtf4/photos/ATplDJZhixcix4UYyTzsHBWFMFu3UDUdnegZ5G1kRS9XCwGup47mwxScWCbZvanRk9RagbQa4qDJ2_aiYG0dWMZz_Htadtfo6QOmYOv24tRbpuOChV6DmY4eIu4h8pa4sUE2JF4vF4284U3LpYig-VVSLZ1iw1GYZgo94Nxw",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Jignesh Bariya",
+              "uri": "//maps.google.com/maps/contrib/104158752261768771132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW7vwzsuuNbHCXPV1zPr8kC3-BqqogqaePTMcwNLb9_n5AGLzTn=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": false
+      }
+    },
+    {
+      "name": "places/ChIJn686iNolXDkR4VnknqjMl1g",
+      "id": "ChIJn686iNolXDkR4VnknqjMl1g",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "095745 62732",
+      "internationalPhoneNumber": "+91 95745 62732",
+      "formattedAddress": "6FWP+78H, Janta Nagar, Kalol, Gujarat 382721, India",
+      "addressComponents": [
+        {
+          "longText": "6FWP+78H",
+          "shortText": "6FWP+78H",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Janta Nagar",
+          "shortText": "Janta Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382721",
+          "shortText": "382721",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.2456984,
+        "longitude": 72.485862099999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.244368469708498,
+          "longitude": 72.484630869708482
+        },
+        "high": {
+          "latitude": 23.2470664302915,
+          "longitude": 72.4873288302915
+        }
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=6383796021413304801",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6FWP+78H, \u003cspan class=\"extended-address\"\u003eJanta Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382721\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 82,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "sopan-1,Gayatri Mandir , Amd Mehsana Highway.Kalol",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6FWP+78H TOWER-4, SOPAN RESIDENCY-1, Janta Nagar, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0MjkyZEZ3EAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SURESH Thakor",
+            "uri": "https://www.google.com/maps/contrib/104216473491089130562/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUup8PpNkM8ljcT0t72JwVvkt5azf2uY7-089SS4h4ooAYKFP9a=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2024-02-07T08:48:28Z"
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwdHZ2NmNBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Nice residential area near highway",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice residential area near highway",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "SUKHDEV RAO",
+            "uri": "https://www.google.com/maps/contrib/108949741676055006764/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoyAeGlTEkSovCLMb2RWh3QmVmnxcXtkBRbczcx48I3j_rkXQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-11-04T15:09:31Z"
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwNmFLUVpREAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Near highway many people living in flate",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Near highway many people living in flate",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rakesh Patel",
+            "uri": "https://www.google.com/maps/contrib/105110756726146115242/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV57xvVB7Elufba1AVP8YgZBNdSDuTf1zFJgagy9ACI3dwhoVaV=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-10-02T04:40:00Z"
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwX296SEdBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Car Parking Not Available For Gest",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Car Parking Not Available For Gest",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jayeshkumar Joshi",
+            "uri": "https://www.google.com/maps/contrib/102680849331832132431/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYOzhtmnyrc6r5jSjDm6JoUcAJMWrbsVi6bFm_3O0vlf2PX9fERw=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2019-11-14T16:56:29Z"
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwb01MWDR3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Good residency area",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good residency area",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhavesh Patel",
+            "uri": "https://www.google.com/maps/contrib/101330854658081293591/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWw4fD6zJyDSHAvS4l7rymZVgXAzGza3CK94pDPQgkLWOT0j_eY=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-10-19T04:48:08Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/photos/ATplDJZIwtunX9K8LgaJPDWFD2qIK0Svfun0b1AV3neydhJAmPDdfPcslQ4A3cRd1uCjUTOm51pNvd3hGcdZ2jHfd_RYLGCxq6Q4-MX3kCdffd_5JYv3IUsZev7FC6KKsNuzbvjinHCUobCW1G5Chnl6pP85hAKjeTABEtRA",
+          "widthPx": 1492,
+          "heightPx": 1492,
+          "authorAttributions": [
+            {
+              "displayName": "jagannath mandir kalol-Ahmedabad",
+              "uri": "//maps.google.com/maps/contrib/115210394119832068034",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUvx33MJ3x84-VEm28SbORB2l2rKU_wL4zRKau0vgpLjjcr0Kw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/photos/ATplDJY6vmwwgYjd-ILea74hRcB_PeXIt9iuSe0Ok4Kzu_zJtvF9KVtW6kX7Acf6mfreq8dEij4cvrfYdeyk-FjudzIMQQ7wOQEbnjBb-gd7hQZVo8PFyhrEq6poK-FFZLWhLZUiek5Fqh5l0VstCyMQ64WD65v9DcfFlrPZ",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Rakeshsinh Chavda",
+              "uri": "//maps.google.com/maps/contrib/106532873721649883417",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWw1YeJVwuMk_wS_m2ZjaRulXDJkM_IWC_pbUxpcR0RP5WLvZxS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/photos/ATplDJYqJdTrckJkj1lDi8OLi8oCErcgHyByxAp6hM_2uPZbwZhhVbzx7fgbOeFjsFH8rluYfB6dT78UxM4HhuEqHPXI5ytsONb-ahr3s0sVbdjdAfreKeIBx_UDOcLLRgLoQ2eyAHI508_S2pVviIbos7kn0gfMdzapIQ6t",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Rakeshsinh Chavda",
+              "uri": "//maps.google.com/maps/contrib/106532873721649883417",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWw1YeJVwuMk_wS_m2ZjaRulXDJkM_IWC_pbUxpcR0RP5WLvZxS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/photos/ATplDJZBd1Nem8trgZFnK4-P_9O_hvyDSfRNUjQP444gk2NAS89B4w8V1kCd3femlEUzqzPhkzQqFEurROpxWd752nssvn0CwBYzBz8tHulftET3cHuq_QAbFJ9cksbDNOhigsdpVrod53MzPOMp0y9Cy_drrkFcYt9g_O-K",
+          "widthPx": 4128,
+          "heightPx": 2322,
+          "authorAttributions": [
+            {
+              "displayName": "Jayeshkumar Joshi",
+              "uri": "//maps.google.com/maps/contrib/102680849331832132431",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVYOzhtmnyrc6r5jSjDm6JoUcAJMWrbsVi6bFm_3O0vlf2PX9fERw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/photos/ATplDJYvxWmhqzz87uoSVwT2bU4Al3FzC1Tvv4k0CXPl6jiYICFxp0ihhSvDDIKnEDNthesaXw_LyuFmmEo2yxj3G56c8CVf9MUmhn3qMUtmQmxWvKZY2B9giFuoM13o3BizoDNm5FWDduhviwRxYVQ0XeOovyz48H4rE1NR",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "Rakeshsinh Chavda",
+              "uri": "//maps.google.com/maps/contrib/106532873721649883417",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWw1YeJVwuMk_wS_m2ZjaRulXDJkM_IWC_pbUxpcR0RP5WLvZxS=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJn686iNolXDkR4VnknqjMl1g/photos/ATplDJYozXgdqmvx_rBMOOvG2ohZ6ohSWi8w3Nx5z41D8hl8DtqWw7XQ5658sjCtQgEdF6PCw6T-xoPAseM0dYbiNrTHdsrtuvVLOIyzh9NoHfw2mROxyPQXZbbBjqm2Tqh2GmEdUAf9M9PujEIT8mHER0_vCFwSCK6T1USi",
+          "widthPx": 960,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Anil Sharma",
+              "uri": "//maps.google.com/maps/contrib/116800347409218055270",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKVP4UHIuk1WEwuiUt5YOdLSRwrpqdUztNvv7VR_UTXdn7SfwQ=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q",
+      "id": "ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6FJW+2FV, Tirupati Society, Ambika Nagar, Kalol, Gujarat 382725, India",
+      "addressComponents": [
+        {
+          "longText": "6FJW+2FV",
+          "shortText": "6FJW+2FV",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Tirupati Society",
+          "shortText": "Tirupati Society",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambika Nagar",
+          "shortText": "Ambika Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382725",
+          "shortText": "382725",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.2301133,
+        "longitude": 72.4961854
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.228703319708497,
+          "longitude": 72.4949429697085
+        },
+        "high": {
+          "latitude": 23.231401280291504,
+          "longitude": 72.49764093029151
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=16456143942228648179",
+      "websiteUri": "https://www.baps.org/",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6FJW+2FV, \u003cspan class=\"extended-address\"\u003eTirupati Society, Ambika Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382725\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 152,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "BAPS Swaminarayan Mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6FJW+2FV, Tirupati Society, Ambika Nagar, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURENGZqbU53EAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "The place where people find internal peace and true presence",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The place where people find internal peace and true presence",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JeNiSh PaTeL",
+            "uri": "https://www.google.com/maps/contrib/111727224609828108319/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaAww7g4o_h2OcwtF9r2S11_wAYOrxenNR40pYQTcXzSAZex5n=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-10T15:56:29Z"
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURJdmJDQXZnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Baps swaminarayan temple is located at sarangpur.which is favorite place of respected pramukh swami Maharaj.here there is a big temple of kastbhanjan Dev Hanuman ji .whish is manage by baps swaminarayan temple.\nSamadhi of pramukh swami Maharaj is here.\nThere are lot of rooms available here for staying.and this is  very devotional place .",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Baps swaminarayan temple is located at sarangpur.which is favorite place of respected pramukh swami Maharaj.here there is a big temple of kastbhanjan Dev Hanuman ji .whish is manage by baps swaminarayan temple.\nSamadhi of pramukh swami Maharaj is here.\nThere are lot of rooms available here for staying.and this is  very devotional place .",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rakesh K. Prajapati",
+            "uri": "https://www.google.com/maps/contrib/100866707531565781980/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWD27zIproNXmn-WYSjmvCGFg1u8AB-aZBGQhOYquFt07739TE=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-01-17T15:57:18Z"
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1eVpMWERnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent place of lord Swaminarayan in Kalol.\nSituated in Panchvati Area.\nSpreaded in vast area.\nDining area also available.\nWeekly satsang and sabha organize here.\nHall also available for family function.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent place of lord Swaminarayan in Kalol.\nSituated in Panchvati Area.\nSpreaded in vast area.\nDining area also available.\nWeekly satsang and sabha organize here.\nHall also available for family function.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ankit",
+            "uri": "https://www.google.com/maps/contrib/111174513400841367644/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKKRTxxAQadOjOjZDpStXkRZ9XeXv6OE2sb7B4VYkOtNtBWRlY=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2022-08-23T18:28:18Z"
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwOE5YVGJBEAE",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "👌",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "👌",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "C G",
+            "uri": "https://www.google.com/maps/contrib/115275746555987745288/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrTgUwtMkvVYw4GCuMkgwB5vHg8ssCAH-pb9NXrO75pONaOBTc=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-13T16:23:53Z"
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURraEtmUGZBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Jay Swaminarayan,\nI love this Temple hope of heaven. This temple build by St. Shri Pramukh Swami and Dr. Swami. This temple located in Panchvati Area, Kalol, Gandhinagar. All nearest villages and city people comes for pray and attend Weekly Shabha and specially Weekly Ravisabha for young child.\n\nJay Swaminarayan,",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jay Swaminarayan,\nI love this Temple hope of heaven. This temple build by St. Shri Pramukh Swami and Dr. Swami. This temple located in Panchvati Area, Kalol, Gandhinagar. All nearest villages and city people comes for pray and attend Weekly Shabha and specially Weekly Ravisabha for young child.\n\nJay Swaminarayan,",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Patel 121",
+            "uri": "https://www.google.com/maps/contrib/112591214235746992053/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEezlzjfAeCRBGpjQKy7baX27hReLylRWEtHOrAvtLBwcnnIMPTw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-06-24T17:01:16Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJaPrGZcCJVSlGPJub6tPIEIgOFDI3xj9_lL2I9U2baAKT8Zh6r7YfX2_8VtmPWkS13AWQ88SFrAf05V8oikazBoiDSIWM4RbThrKKjoNPEvIPuv3BHRZRq4Egi-DF0IqOpZHYREi_YZfbZwlkrUkmZtC89_TuEejOIc",
+          "widthPx": 3472,
+          "heightPx": 4640,
+          "authorAttributions": [
+            {
+              "displayName": "Kirtan Chauhan",
+              "uri": "//maps.google.com/maps/contrib/107306099260076745902",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWV36UoR1hjrdW0UkoS48npoMKy8kwfkamHyvpZMDNvIRBRGQm-=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJalLX_tkarb6UdGhIK-1LUIHu1dhvBPkD9xWpyZmz8fKHQxDlJlIS15G8lmyIu0A5fwrPfdWv6pWQzSWrd50TKQp4fRK3oFNXY62smbzF-qBWbxjOZKUB5RFGqLldJ5PaKogIHXHOy-PmZ2NihVUGzNpPT65cJEr0fc",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Rushichintandas Sadhu",
+              "uri": "//maps.google.com/maps/contrib/106001208629948303781",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIzBT-oTa_N3ajaAeqAGOIHsm6YbCNUU-r1z2Ei2fLnWMGUkA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJZMlX_jM9bdbr7ID7qy1iB8mCOQ1m1PWQeMExXKvAPfheIE-HfDdzBwH6c8XnwzyBZ9nrSb8Lr2m_2hcWxTr8JdQxuL3RqZnmqEq1f1krcoWWA1EJqf9j1yTuJyyq2vtZSjqAYcWATk8h1InQJRgeiwCjH5Vmt5Ln81",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "TOMAR UPENDRA",
+              "uri": "//maps.google.com/maps/contrib/108760453999217705264",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVaqxPi8SoeWAaTy1O4kcF1vsIZrO5SAUDBL1VvVzRDQk793eOdyw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJbRdukxEvoY8FQpjpVISZr01za_zI_0YW64KGP0uogkopgQbaGbUEtZiqi7eCANpqeVeJl4dhZ-O_7lgfZ7FQ2K_AttYL8JWI3AQSvANxsn1EkfiYBkZlDpa8eUou0uo5nqjUmBAUc9LWe4wQVZB8EUD3_tegb3RLCd",
+          "widthPx": 960,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Mandeep Acharya",
+              "uri": "//maps.google.com/maps/contrib/100763028906799848831",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUCM5c_V4uNcBPen_HgeJ484PS-x23ijYJAtZhz0K5oRm3IR8N8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJYLSfXFMmI0C0XpFOlot1xjq1ZjrEFqSXtIjBASpxsXr0aCMsniPPid3Z40WAt74uve3SDQGpsSqiiVrKw6Q8cHMa0fhiYYJuJuyuhQbG51M4agkPak-DGBJNBeIeg4dOVk06dCxXNidK7hoU-Lz3WRAz7Ig1eSd2up",
+          "widthPx": 1080,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Mandeep Acharya",
+              "uri": "//maps.google.com/maps/contrib/100763028906799848831",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUCM5c_V4uNcBPen_HgeJ484PS-x23ijYJAtZhz0K5oRm3IR8N8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJaP0B0LpFTjCX9znntzt5FKaGpnlU0EAJO6d4vgJZZ4RDZx8Oe6ZJbxU36jQdAu1hSY8cUnQtqtDuJuiS-RXmC5OrObkzRiHvGAU6AsiSZVGk_uU_Q6eVFADB_Kn0E6dDFMC0ym6ve1bGHh1TO3qRmCRhFX61nEdsFp",
+          "widthPx": 1024,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Mandeep Acharya",
+              "uri": "//maps.google.com/maps/contrib/100763028906799848831",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUCM5c_V4uNcBPen_HgeJ484PS-x23ijYJAtZhz0K5oRm3IR8N8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJb3nQA92eYCDNmEYQhtJ76Me68ssHow6D86-4BVlkCPPbNFqLaB8N22XD_UZ1B9TNNuWNM7zO-ypUHT3tBX0wkFWk9WYYDFGU4nClWkBhfawGcAVhTfQ_XW53on4czBTvATeIWM-dHjHkcmCayBqsrNRNZIi5vucEDt",
+          "widthPx": 3264,
+          "heightPx": 1836,
+          "authorAttributions": [
+            {
+              "displayName": "Kalpesh Patel",
+              "uri": "//maps.google.com/maps/contrib/118252962275169602216",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIfIDryBBJ7wBP1s5xLdE8h6ntUyT3oCy9WjxOrFFCQTwR9Mw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJZaBpnwf7bAQ5aXEleCHCHlpKaF5LYT4dcsD9PNyDZECgqzgVKvb4g_vt2SYdKwz29aw6ZOTd6B88OksWX-niSzFbVuCVV9jfxEFDo4RzyISaL1H6QngyIz1uGq7815QTfavPzyLvT4n5vGRDSAs9wIKL_9v54VP8a8",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Sheetal Patel",
+              "uri": "//maps.google.com/maps/contrib/113638821146485577589",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX79Qq7GhvhLdLkEvUpgBv2k-dumOtAk2cqfl4Gx4DvfV_yp-nEiQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJZnDr9J71ALMUKYVVDywTMdl1O3k7uU9QDrofTvou7F71oM4JYFCYDbwou6v5LoLfFbHNLKcAKYQjtiKHooy-hBMB3SDY_v4SVaWzfgWk-dTP_-pIhGHFUkkffitTHR2Md5sSE1aqJnxp7oX1CaX3i8ht57PuCVuPED",
+          "widthPx": 960,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Mandeep Acharya",
+              "uri": "//maps.google.com/maps/contrib/100763028906799848831",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUCM5c_V4uNcBPen_HgeJ484PS-x23ijYJAtZhz0K5oRm3IR8N8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_Tn-LnMmXDkR8yA8Ibr3X-Q/photos/ATplDJYZN_OAQQ9Llh285K6yAu0s3aUU1OtdwG29xZ19-pbsmomMvF2vHLd1EGaFFvQ_yiodnjtEnOIMjO91D9gaS1dzI7MOL1bv73aH4rsot8vjxgHUpejyelX8OC29ZzO3u-e66P6VSVTwTcsb3oHOi2Y0UTYLsfgiA8Q0",
+          "widthPx": 960,
+          "heightPx": 640,
+          "authorAttributions": [
+            {
+              "displayName": "Mandeep Acharya",
+              "uri": "//maps.google.com/maps/contrib/100763028906799848831",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUCM5c_V4uNcBPen_HgeJ484PS-x23ijYJAtZhz0K5oRm3IR8N8=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k",
+      "id": "ChIJ_8MV89QlXDkRafcEogP5i7k",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6FQF+QRM, Sitaram Nagar, Kalol, Gujarat 382725, India",
+      "addressComponents": [
+        {
+          "longText": "6FQF+QRM",
+          "shortText": "6FQF+QRM",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Sitaram Nagar",
+          "shortText": "Sitaram Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382725",
+          "shortText": "382725",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.239454499999997,
+        "longitude": 72.4745439
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.238108619708495,
+          "longitude": 72.473216919708491
+        },
+        "high": {
+          "latitude": 23.2408065802915,
+          "longitude": 72.4759148802915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=13370053712777901929",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6FQF+QRM, \u003cspan class=\"extended-address\"\u003eSitaram Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382725\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 13,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Vadinath Mahadev mandir",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6FQF+QRM, Sitaram Nagar, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2cUp2V213RRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very old shiv temple in kalol city outside on piyaj village road. Parking area is very good.yagn shala available for religious havan and pooja.small garden there for children playing and good time spand.nagdevta and baliyadev temple also in premises.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very old shiv temple in kalol city outside on piyaj village road. Parking area is very good.yagn shala available for religious havan and pooja.small garden there for children playing and good time spand.nagdevta and baliyadev temple also in premises.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jogesh Kumar D Patel",
+            "uri": "https://www.google.com/maps/contrib/115286297919314086163/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBBwWzbRdwNlxcBYzjY8L4cIkc2A6eZPbZLXX3CXoifk9QjmAr=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2021-08-29T15:04:29Z"
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlbXFpdWxRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "It's very old and sacred place\n.... must visit in shravan month. In shravan every monday there is fair and lots of people visit the temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It's very old and sacred place\n.... must visit in shravan month. In shravan every monday there is fair and lots of people visit the temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chandralekha chaudhary",
+            "uri": "https://www.google.com/maps/contrib/118151940633240177459/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUq7XcIm0HupMS6r4m56smxNmkoh5wekhC9IfTXw_ohyx2574=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-09-11T15:49:05Z"
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/reviews/ChdDSUhNMG9nS0VJQ0FnSURPdU9TQW1nRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 4,
+          "text": {
+            "text": "Nilang make ABP 160 TPH Plant in Fortune Builders, Kalol",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nilang make ABP 160 TPH Plant in Fortune Builders, Kalol",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "hEmAl bArAiYa",
+            "uri": "https://www.google.com/maps/contrib/106460085020577550052/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWesk5xH-P22CeBqOVysT4AkRI29VziB9HeU_tFndc0KIgaS2cQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-06-27T07:24:10Z"
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXOFl6R01BEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Oldest shiv temple in kalol...\nMust visit this place one time",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Oldest shiv temple in kalol...\nMust visit this place one time",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JoyKumar Acharya",
+            "uri": "https://www.google.com/maps/contrib/111281107718160622440/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQd-LR3PHYcJeN3mQpUDRBpOZQgHy2ahz-gCiga_K_asS9_5Dv=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-03-01T13:20:40Z"
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwMWZXWWZnEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Relatively small temple...but good ambience",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Relatively small temple...but good ambience",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mr. Mechanic",
+            "uri": "https://www.google.com/maps/contrib/109350802569676984748/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQ5-WIhuAShIhsgFxUp4wx9Y5hXKV0TtxSTk2NHmtyIXbws1dV=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2020-01-23T12:54:02Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/photos/ATplDJbBv6bnyZFbEmNz7Hfgl7C9N1kCfwLDk4QXoiwPPjxn5n-zTA4DIKl6cStgDxSFv_VVonZ_nffHYBRak1h5rmpR8hdzTTVovpNRTuRtaKAzez2QK_GFigIL_g7dDOREkOnhVBtOXSNr4rTYZHTIa6huNsQRUzvEIEw",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Ravi Prajapati",
+              "uri": "//maps.google.com/maps/contrib/101323961856083683671",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVgsbD0fZkDvakemNvNHoVmdFbc_Z5xtXiLWrcfzhpKPqdy7Y4=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/photos/ATplDJaJ9-bcLczDiUd0OJCamIURsPrUQ9SGvh__9epzAIv0Emik_gmpUAf9mV6sVqfuEmtrePSHj9Rxc1PEu86Ub49p_7Ua8loLww5wd65qCtjr6kiKgU26IrQdLoT-84yHALSCBzGogNyoBVfcIkcl-CFWf_BecEDXoVcl",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Mehul Mistri",
+              "uri": "//maps.google.com/maps/contrib/115525009102167838071",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKfr6X2ehCwl6ZfWOWO1BLugAP1ZEW8CwTT8eUJ_AIvSHqFKce=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/photos/ATplDJbljtsrq08tfKTpMKfZ2UkicYj5OJJJiWpiTgne6XKoTBPola0h7CYsVivF4IuDOYrfhql7l1DOLUPQLqWFdJZddpKt6xiDnTZfM_aGAnMnbWbzShiZQmxlJdHwBg6TBvMYZOoLVJACEcmdRmdByxsRkL5F9uP2QV_k",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Mehul Mistri",
+              "uri": "//maps.google.com/maps/contrib/115525009102167838071",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKfr6X2ehCwl6ZfWOWO1BLugAP1ZEW8CwTT8eUJ_AIvSHqFKce=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/photos/ATplDJZTE4i6XDkNcn3GA63oantlL_h9Bqfi3D-vt8rNBSVDovlTCBz-VdPPBMQnZWDwb30jrXnnL2bcBt3cNM7-miXzvDEj8c5S0SosR1MWEo_vxRe3uazqEDpk_xlLyMFWbgK-opldHcBaF0zH4J283BLalXfRQHoyjAXa",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Mehul Mistri",
+              "uri": "//maps.google.com/maps/contrib/115525009102167838071",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIKfr6X2ehCwl6ZfWOWO1BLugAP1ZEW8CwTT8eUJ_AIvSHqFKce=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/photos/ATplDJYbgjVwA3r3ipORCknGpjRqNuxgqcnyuGrvpsOC5a2jZIwLCOo08Mxe34vZ6xgJZFKBesA8RbNHySCeb3boiFtdvhdjW_Q4Yc9c2lpJwm6giXYrgUsSSZnafymj5L156jz2BQfEJoVviD-BWrqmpY2MjEs7UAi5iqMA",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Jogesh Kumar D Patel",
+              "uri": "//maps.google.com/maps/contrib/115286297919314086163",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBBwWzbRdwNlxcBYzjY8L4cIkc2A6eZPbZLXX3CXoifk9QjmAr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ_8MV89QlXDkRafcEogP5i7k/photos/ATplDJZr6Me51nii8-1pzDFJHRt5cuPhhtLH1KUgbawFTQxJjQpiuH42LdDnwDDECayQSfSo-Qd8m0SSKhnX3z3yZaYOB_qGmVLhOcQ7gKCHEff7NBthyT-Hc7HQoDuHhok2QUDTaulPLUcfuhS2RDTbYNkTVO9SBMdX6bIf",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Jogesh Kumar D Patel",
+              "uri": "//maps.google.com/maps/contrib/115286297919314086163",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBBwWzbRdwNlxcBYzjY8L4cIkc2A6eZPbZLXX3CXoifk9QjmAr=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8",
+      "id": "ChIJM-GsXXMmXDkRmTK3CR_KCD8",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "02764 250 316",
+      "internationalPhoneNumber": "+91 2764 250 316",
+      "formattedAddress": "Near Shayog Society, Hanuman Temple, Sahyog Society, Panchavati, Ambika Nagar, Kalol, Gujarat 382721, India",
+      "addressComponents": [
+        {
+          "longText": "Hanuman Temple",
+          "shortText": "Hanuman Temple",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Sahyog Society",
+          "shortText": "Sahyog Society",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Panchavati",
+          "shortText": "Panchavati",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambika Nagar",
+          "shortText": "Ambika Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382721",
+          "shortText": "382721",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7JMJ6FJW+P6",
+        "compoundCode": "6FJW+P6 Kalol, Gujarat, India"
+      },
+      "location": {
+        "latitude": 23.2318368,
+        "longitude": 72.49551919999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.230498869708494,
+          "longitude": 72.494202269708481
+        },
+        "high": {
+          "latitude": 23.2331968302915,
+          "longitude": 72.4969002302915
+        }
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=4542102458858943129",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 8:30 PM",
+          "Tuesday: 5:00 AM – 8:30 PM",
+          "Wednesday: 5:00 AM – 8:30 PM",
+          "Thursday: 5:00 AM – 8:30 PM",
+          "Friday: 5:00 AM – 8:30 PM",
+          "Saturday: 5:00 AM – 8:30 PM",
+          "Sunday: 5:00 AM – 8:30 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "Near Shayog Society, Hanuman Temple, \u003cspan class=\"extended-address\"\u003eSahyog Society, Panchavati, Ambika Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382721\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 173,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Swaminarayan Mandir Kalol(Narnarayan Dev Gadi)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Place of Worship",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 8:30 PM",
+          "Tuesday: 5:00 AM – 8:30 PM",
+          "Wednesday: 5:00 AM – 8:30 PM",
+          "Thursday: 5:00 AM – 8:30 PM",
+          "Friday: 5:00 AM – 8:30 PM",
+          "Saturday: 5:00 AM – 8:30 PM",
+          "Sunday: 5:00 AM – 8:30 PM"
+        ]
+      },
+      "primaryType": "place_of_worship",
+      "shortFormattedAddress": "Hanuman Temple, Near Shayog Society, Panchavati, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1c3VlWWJBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Very beautiful temple of lord Shree Swaminarayan under kalupur gadi.\nVery nice murti darshan of Gopinathji and Nar-Narayan dev.\nYou will feel clam and peaceful on entering the temple.\nA must visit place for Swaminarayan devotees.\nJay Shree Swaminarayan.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very beautiful temple of lord Shree Swaminarayan under kalupur gadi.\nVery nice murti darshan of Gopinathji and Nar-Narayan dev.\nYou will feel clam and peaceful on entering the temple.\nA must visit place for Swaminarayan devotees.\nJay Shree Swaminarayan.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Virat Patel",
+            "uri": "https://www.google.com/maps/contrib/114445789094175152125/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRyOXswYQvi9WLqTRyC82EMs7jKsaOpWkU-OO1Q837f_37An2i=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2022-08-17T15:25:07Z"
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/reviews/ChZDSUhNMG9nS0VJQ0FnSURwdEpmcmRnEAE",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Beautiful Temple of Lord Swaminarayan",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beautiful Temple of Lord Swaminarayan",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jaimin .p",
+            "uri": "https://www.google.com/maps/contrib/107894297426107894548/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLnLrujpmNdP_WUiSrS9C_Cvc-qlCOxr_u140crIOcREFz1jG7=s128-c0x00000000-cc-rp-mo-ba7"
+          },
+          "publishTime": "2024-01-27T17:36:20Z"
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/reviews/ChZDSUhNMG9nS0VJQ0FnSURRaHZmeVFBEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This temple is very beutiful. Everytime we go there we feel Bhagwan Swaminarayan is there. This temple has the original gyry parampara Bhagwan Swaminarayan has given us. It is under Shree Narnarayandev Gadi. It is built new recently with nice shikarbandh Mandir.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This temple is very beutiful. Everytime we go there we feel Bhagwan Swaminarayan is there. This temple has the original gyry parampara Bhagwan Swaminarayan has given us. It is under Shree Narnarayandev Gadi. It is built new recently with nice shikarbandh Mandir.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shree Swaminarayan Sampraday",
+            "uri": "https://www.google.com/maps/contrib/105037407939175504567/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhnTpzPuXHpFDEEB_2jf9I7hviZ1WkPGQdAUPQHigvLHhMsIQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2017-11-23T19:04:09Z"
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/reviews/ChdDSUhNMG9nS0VJQ0FnSURZb3N2YnhBRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Peaceful place. You feel to touch god",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Peaceful place. You feel to touch god",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "BHAVSAR HARDIK",
+            "uri": "https://www.google.com/maps/contrib/106731656253580016507/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL_KXC8fLKNaieVj9k3b7DBbO9Xoxv8Fq-Cwkwh44ItoSru6A=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2019-05-05T06:53:36Z"
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/reviews/ChdDSUhNMG9nS0VJQ0FnSURrLVBQenp3RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Good spiritual place located in centre of PANCHVATI area. KALOL. so I like this temple and I often visit here. But one problem is parking.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good spiritual place located in centre of PANCHVATI area. KALOL. so I like this temple and I often visit here. But one problem is parking.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Patel 121",
+            "uri": "https://www.google.com/maps/contrib/112591214235746992053/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEezlzjfAeCRBGpjQKy7baX27hReLylRWEtHOrAvtLBwcnnIMPTw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2019-06-24T15:50:56Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJZzOJ1hG6eRNrUHoivJr1Ael0kWyastLAilAalIgbhiWJ7h5yXZwE0-fiABkpxMaaxl8BARxekm1sSnGEt-8q5ORfVHPV4nUBIIANmTIllghr_HycrbgCAUTOYyqlAl7hKGDTN816f2S0PY2FZohtHQOLCGMBcPBwLv",
+          "widthPx": 634,
+          "heightPx": 358,
+          "authorAttributions": [
+            {
+              "displayName": "Swaminarayan Mandir Kalol(Narnarayan Dev Gadi)",
+              "uri": "//maps.google.com/maps/contrib/116057057742590483452",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVe9KyCeCIOSpELXsJZ7MFfJzP4mvq4HM2H1A-EdLIAT7_AAUU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJZ3vEq3R3lgDGJtKbTgDxYfAC-_RzoZBEbKppPszT3x6bwz4_b8Us4KYCkYtA5YBz900s3IP0yiSQOIPrLhJSQ0_4D-LlGc6y_62O8g2-U7T9T0OHvm9Qrh7DDUxDI_xscyHRHylSWtjn0jj0e2iVbNqBCZVxcByeHn",
+          "widthPx": 1080,
+          "heightPx": 608,
+          "authorAttributions": [
+            {
+              "displayName": "Holiday Today",
+              "uri": "//maps.google.com/maps/contrib/108866953538963336367",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLpT0QNnazU1lcZScnQJNlfrC8LoM6G_SYirHC_J9Pz_5Jdc10=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJZLnzVDc_4_F66LoSBYCyAZzfNAL6SxE1MGVfBqCrf5zN_ljqXGRFi7mQZx3d7rrGuwSVuiXuyxq7NJljyH4px3apgGHCDj7cheS2EUhY4fxZylyqg7kU40F-8gMRK52-fdmaMyM0oLoKod0FiHRVZ7iCimQmk_mxIy",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Swaminarayan Mandir Kalol(Narnarayan Dev Gadi)",
+              "uri": "//maps.google.com/maps/contrib/116057057742590483452",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVe9KyCeCIOSpELXsJZ7MFfJzP4mvq4HM2H1A-EdLIAT7_AAUU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJbRwnPa-oAsjNdmyto5xxKfCHtxoDbRZ96pciFJXGfoxX3E0Ph1csSY-H8LxWojoD91a-0pDZ3_0Svpp2sOfwOAtWZk1FXyZ14F9eBoulHrCGpeMShEKMpXJVldFMYoavdKeh5szikx2vMoOUP1BbeVMEJfP3E7dBTH",
+          "widthPx": 1152,
+          "heightPx": 864,
+          "authorAttributions": [
+            {
+              "displayName": "Swaminarayan Mandir Kalol(Narnarayan Dev Gadi)",
+              "uri": "//maps.google.com/maps/contrib/116057057742590483452",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVe9KyCeCIOSpELXsJZ7MFfJzP4mvq4HM2H1A-EdLIAT7_AAUU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJaFSu4fgbhKBphRJBQUNxxq_1WDUtARQYPKdV98j1VmJXbrMSsfAQnnABz6aOn0cG8YEkb3t20q0Rydel3BrirlHW0qVVeyD9z5TbxC324C29Smv3qqtM11bgOZnJIQnqCR21LIDSfVoiasmqKNAuyRpzeS-EqCBtf6",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Swaminarayan Mandir Kalol(Narnarayan Dev Gadi)",
+              "uri": "//maps.google.com/maps/contrib/116057057742590483452",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVe9KyCeCIOSpELXsJZ7MFfJzP4mvq4HM2H1A-EdLIAT7_AAUU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJa9wkMQDK-nv2Xv67kuSPzcxgyoMDHFu98rZ6eIFDaoq8fehjaOHUqiObOlHc4iXwAKBqFOPjVxYQooA6ynZPRBvNUtPJHHvTxMaK96-8tZOySFNCMdj79wjYssno44qg9WFV4r8mTAZtaQsGNGD3NS_MNlzDwcH8cr",
+          "widthPx": 960,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Swaminarayan Mandir Kalol(Narnarayan Dev Gadi)",
+              "uri": "//maps.google.com/maps/contrib/116057057742590483452",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVe9KyCeCIOSpELXsJZ7MFfJzP4mvq4HM2H1A-EdLIAT7_AAUU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJanrKu48Xdid5XipWrWHNq8Kf_K6egQk0deYzY8Wg5-xtuNTq6cDeWsxYgYRMK-pgIePYRmeiyaDKjFAXTsO1zt-YIcsJpBytnDeRYcRgSztS0ZzjZNMYx3LZYlRyEDxQg6oA_nscsmGJrXngm1WhXkOqsf6Hk8QdaU",
+          "widthPx": 3840,
+          "heightPx": 2160,
+          "authorAttributions": [
+            {
+              "displayName": "Virat Patel",
+              "uri": "//maps.google.com/maps/contrib/114445789094175152125",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRyOXswYQvi9WLqTRyC82EMs7jKsaOpWkU-OO1Q837f_37An2i=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJYTPVi_CcdCVgwgBi986z5ilMr_2X6KTuuc1Rq3nTLbwkJ4PADV5b_fAilywZAIdUZwyJuuZdbGN9LeajLiXwql7UtoQnN56LQFje-ivPDgwBl0Lo5UIYN4mMv8ilTl4QUjWB372I-XbLHjZ35W54Mpe3oKV3UofuAf",
+          "widthPx": 1280,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Swaminarayan Mandir Kalol(Narnarayan Dev Gadi)",
+              "uri": "//maps.google.com/maps/contrib/116057057742590483452",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVe9KyCeCIOSpELXsJZ7MFfJzP4mvq4HM2H1A-EdLIAT7_AAUU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJYgTUY2D-CvIKm7ymLZJSdeK8dpP7y_ZdsUS5ra1xzHbJeLyjv_xJYLNlq9ht94LkD_49JHm_XqQTFsf8o58lyqRVLgMNKVgZgMu9DoWBz55B7oPF9XrLw45shrl9PfjSGHKXu8quaR3Cuhlo6DeqXXZpDhW1tkErgY",
+          "widthPx": 1242,
+          "heightPx": 808,
+          "authorAttributions": [
+            {
+              "displayName": "Swaminarayan Mandir Kalol(Narnarayan Dev Gadi)",
+              "uri": "//maps.google.com/maps/contrib/116057057742590483452",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVe9KyCeCIOSpELXsJZ7MFfJzP4mvq4HM2H1A-EdLIAT7_AAUU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJM-GsXXMmXDkRmTK3CR_KCD8/photos/ATplDJbiO-FwueT1Vm92hiq7VoVX3je1-myoAkE_ahemwdFhohyZvS4N6Y8q_grfyXGlj4LTV9PdcVS7kystIQu6-WVw4xBU7BOqHn3NhMPu-bA9zwj2KlpXvUibENqOhcsoCua28bcCsrY9H6bPNTvrKar1Y0MZ7HaVagf5",
+          "widthPx": 1280,
+          "heightPx": 852,
+          "authorAttributions": [
+            {
+              "displayName": "Holiday Today",
+              "uri": "//maps.google.com/maps/contrib/108866953538963336367",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLpT0QNnazU1lcZScnQJNlfrC8LoM6G_SYirHC_J9Pz_5Jdc10=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE",
+      "id": "ChIJ50F3FXAnXDkRWk4rLoMa1gE",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6F8F+4XJ, kalol, Sherisa, Gujarat 382725, India",
+      "addressComponents": [
+        {
+          "longText": "6F8F+4XJ",
+          "shortText": "6F8F+4XJ",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "kalol",
+          "shortText": "kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Sherisa",
+          "shortText": "Sherisa",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382725",
+          "shortText": "382725",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.215332099999998,
+        "longitude": 72.4749016
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.213980969708494,
+          "longitude": 72.473417819708487
+        },
+        "high": {
+          "latitude": 23.216678930291497,
+          "longitude": 72.4761157802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=132322389771636314",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6F8F+4XJ, \u003cspan class=\"locality\"\u003ekalol, Sherisa\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382725\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 59,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "અંધારીયા જોગણી માં",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6F8F+4XJ, kalol, Sherisa",
+      "reviews": [
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEcjV1RUJnEAE",
+          "relativePublishTimeDescription": "2 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Good place to visit near borishna gam\nQuite place\nEvery Sunday Fair",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good place to visit near borishna gam\nQuite place\nEvery Sunday Fair",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ShiddhiVinayak pvc Furniture",
+            "uri": "https://www.google.com/maps/contrib/116519370383992839122/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLTQUfD6qEeX6wOIw1OLSZpPmLpGfkuOc1KKhig3MG-RR2CiQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-03T14:27:32Z"
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoX2FiTnNnRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice place, you can rest there and take blessings of Jogni maa..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice place, you can rest there and take blessings of Jogni maa..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JIGESH PRAJAPATI",
+            "uri": "https://www.google.com/maps/contrib/117781814357821855344/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJxs1GEdrcvnPoW1ykZPVZTuhXRsJEyPxJlKlw7V_WjAjQ8HA=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-02-20T12:48:42Z"
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxLWFYRWNnEAE",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 4,
+          "text": {
+            "text": "Jay shree Ram",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jay shree Ram",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Vasu S",
+            "uri": "https://www.google.com/maps/contrib/108989233834040535473/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViS01rQeX11tPL2N_L8Lztzy1PjwhGxHCzBXgdJQAAT_Z3e1Pm=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-01T15:51:21Z"
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsa2RtVC1nRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Nice work 👏",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Nice work 👏",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mukesh Thakor",
+            "uri": "https://www.google.com/maps/contrib/107273016897137478072/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLfyW5iKPGpanzAlcEHiL2UbST884jNYTBBZMg6yPTzEyLqNQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-20T15:30:33Z"
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoaHVXaFFnEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Jay jogani ma\nNice temple",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jay jogani ma\nNice temple",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jagdish Devad",
+            "uri": "https://www.google.com/maps/contrib/107028889219657179310/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLST9gD0rWGAVo65gcyPGlwTmPUdk1LHht2jlVcCMPaQYN4xvE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-02-11T13:11:58Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJaA_9hEZXhX3y1rcSvaZkVIcIVUGb9nPueLcIRIzNy5M2QflC5MUg9h-9q_5e5f4BEK7Ks9JPSD_q03GRU4fCYrmK_t-1MBxaFgjv6nEJ6Vn4KgptQSP2dWL8S1e7K5oh_8VX9Ln9rcpUjPbg4zStAxLajwu2N0Lj2Q",
+          "widthPx": 3072,
+          "heightPx": 4080,
+          "authorAttributions": [
+            {
+              "displayName": "Raj Surya",
+              "uri": "//maps.google.com/maps/contrib/107323572940883256464",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUUJQLN1-vL9P5MHx92EStC8dEWs0wUOY02Fs4FEK2r6_KwnXTJ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJaS_3DbPMjAwUqGIeystEHr7LYTrrkZSN6nxYXrfEFEvmdd1dCCsOsUOAvpiFKl5RvBu47Be4IvUwJwlk-5E3BckSpQr_U1zLRYqdmF95V-GpNGpWfPil3kd_pkknhD1YqGgwnyy36xUKRbVc6psHX4dxhWmjLI52em",
+          "widthPx": 3120,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Mayur Raval",
+              "uri": "//maps.google.com/maps/contrib/112516142767804302133",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLVN_DzqWkEHzB3FjTCs-tfrqeDiVQJ4VcRSIUpMWITD7P51A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJaNUKN0BZUyUxY5fayQOr0y35e5DPsQJlfEdkf4udbAGlPvVCQdLGu5FeIq0N2BzQ4cnLAxTZSPHXg-Wjo3r8yU_Idy3YIpFOiX0o2-AYksn26tghzNXqnlE34QTh77uj8NS3D-yerMp0Dg_WrHeHPKfplDAqD8dVmL",
+          "widthPx": 1440,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Suresh Thakor",
+              "uri": "//maps.google.com/maps/contrib/104753383446252714048",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXnbbJ2ExYFOWf9C_tIm5RW6yxtePjfdNDMfJhcSs81Ijz9pTpw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJavoGUS5E6xfCrMe1tzh4x_qg39uPyuBXpRT0tIYDT-zq5OCx7CF6W5qhLXdV_BQ51SNAMn6WF_oSBwGzyod-GsSkt7-uGB9GoStlAApazsuuw0plIpFWK9oGjgYXn4-jkOSdGf44y3ShjjJ86HWtj561C_deX2fHrN",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Jani haresh",
+              "uri": "//maps.google.com/maps/contrib/111811944042840351542",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUfaL2RqHFj3hp1U5Eez9nxsZEt00CuSIcLxDopxvHNgS2QHhcj=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJYFNaKsbRUC8Xna3sPejtokyk21Ms1xDI6WUVBNN46IzhnWb7u-z9QsU9ct57FA9cERq2dpXXrrX0RW0kp2SUsFlj4d2I6FSnlAEk570MLZIIUjGAjqsqTw1rCWReshr27tE5t13wIyozWqKGc4tPWBbYU8LMvSIKlj",
+          "widthPx": 720,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "Raval Babu",
+              "uri": "//maps.google.com/maps/contrib/100412133674711428219",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKkf8HorqKM8bh4lOUNfBlrUGDS3rxB7n0iX2iiM6LqT1u8RA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJYopo9SKnYfJOBS9Ltiji0F40_OKQchPLr_8MiotlH3w_nTuY9E2R42kT8908gAxOfxPLjQlWtk8D-A8ODo7-0xhCQ2SKf-2RtdDTJMZmaonTcRrSiPkWOfrAgmrhFYuJzw4EQKqHeGAJNdJ5l58EKt3Z2jB_FRJte-",
+          "widthPx": 1080,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "પ્રવીણ ઠાકોર",
+              "uri": "//maps.google.com/maps/contrib/112667180553611052841",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUItyLVjRpd7tINskrlCua51A4jXbKGvd8rb8bGR1oyxZcaiG0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJaVUS4ZnKrfNVIr2mjuyj-tbiRLxM5DQHc2M3PRcmpaOpzJvJPjIc4yUEpjfAZ15q_9aX12qlVWdI0biiU2RUymHNK7ofrVlA_U_mObkwZs29m8uwWpGkwPZ7V32xb99g28da4dHW86ekcZ00y2zVtxX6_iJhFTxMkK",
+          "widthPx": 864,
+          "heightPx": 864,
+          "authorAttributions": [
+            {
+              "displayName": "પ્રવીણ ઠાકોર",
+              "uri": "//maps.google.com/maps/contrib/112667180553611052841",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUItyLVjRpd7tINskrlCua51A4jXbKGvd8rb8bGR1oyxZcaiG0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJZYEs0JpXUlk1XJwpbcVueZDcAD7hY1rHpgSMNV9UF5ti6ssQiNj6BHTvR7UVDazfKaceL1NLOXgLSP4BHwOSyF-6V8peT0_cqE4jReXLisHqLH8G3e4D4frKo6h34Lv9MOppKdV7BVK2EGFEK0RpbSbMjTGSoZZNMR",
+          "widthPx": 992,
+          "heightPx": 992,
+          "authorAttributions": [
+            {
+              "displayName": "Mayur Raval",
+              "uri": "//maps.google.com/maps/contrib/112516142767804302133",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLVN_DzqWkEHzB3FjTCs-tfrqeDiVQJ4VcRSIUpMWITD7P51A=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJafoOjZdoJyDtvYZS2Y07EnU9PAwAK4xBTAmqyfJbXamztCmBd9PROOuIYFq7-ySnIHGIngAFBDpM2PtkOpxrd2Guj0JKBLpOpZYUBVZkXeZiADtqhUZM-Muq3TOz9vwF7s7zjzMMfamrztbztNgR2EWDuwCZa18m9n",
+          "widthPx": 3000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "પ્રવીણ ઠાકોર",
+              "uri": "//maps.google.com/maps/contrib/112667180553611052841",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUItyLVjRpd7tINskrlCua51A4jXbKGvd8rb8bGR1oyxZcaiG0=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJ50F3FXAnXDkRWk4rLoMa1gE/photos/ATplDJb2qx2JLES_OJlCILIkftXWKf2j1O6CwJKiHTfEvYxWtW9jvJgQR_yF2ESYFvbxz9EgKWAOkr9kRqGRpHl3Lc9GBXpRNAYPVwmSBzjxVUP1gwN5Nyds9tsD1xmfgV7VC1AkJ3R_nrLvzg-we5pGXUzJ3i7-Eert_12D",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Jayesh Gupta",
+              "uri": "//maps.google.com/maps/contrib/114580860194891000009",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU6SrmwBvZJiBQqAuLzkNV39jinhCr33iDVr3OrA28FrxW5sDYmvA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true
+      }
+    },
+    {
+      "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE",
+      "id": "ChIJB6mAW3YmXDkRCCjqoPMxtuE",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "NR Jayvir Society,, 6FPQ+2J3, NR Jayvir Society, Panchavati, Ambika Nagar, Kalol, Gujarat 382721, India",
+      "addressComponents": [
+        {
+          "longText": "6FPQ+2J3",
+          "shortText": "6FPQ+2J3",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "NR Jayvir Society",
+          "shortText": "NR Jayvir Society",
+          "types": [
+            "sublocality_level_3",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Panchavati",
+          "shortText": "Panchavati",
+          "types": [
+            "sublocality_level_2",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Ambika Nagar",
+          "shortText": "Ambika Nagar",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382721",
+          "shortText": "382721",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.2350225,
+        "longitude": 72.48905289999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.233634119708498,
+          "longitude": 72.487680819708487
+        },
+        "high": {
+          "latitude": 23.2363320802915,
+          "longitude": 72.4903787802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=16264242026741639176",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:30 AM – 9:00 PM",
+          "Tuesday: 5:30 AM – 9:00 PM",
+          "Wednesday: 5:30 AM – 9:00 PM",
+          "Thursday: 5:30 AM – 9:00 PM",
+          "Friday: 5:30 AM – 9:00 PM",
+          "Saturday: 5:30 AM – 9:00 PM",
+          "Sunday: 5:30 AM – 9:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "NR Jayvir Society,, 6FPQ+2J3, \u003cspan class=\"extended-address\"\u003eNR Jayvir Society, Panchavati, Ambika Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382721\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 67,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Someshwar Mahadev Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 29
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:30 AM – 9:00 PM",
+          "Tuesday: 5:30 AM – 9:00 PM",
+          "Wednesday: 5:30 AM – 9:00 PM",
+          "Thursday: 5:30 AM – 9:00 PM",
+          "Friday: 5:30 AM – 9:00 PM",
+          "Saturday: 5:30 AM – 9:00 PM",
+          "Sunday: 5:30 AM – 9:00 PM"
+        ]
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6FPQ+2J3, NR Jayvir Society,, Panchavati, Ambika Nagar, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5bnVDd3JRRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Peaceful place to spend time with lord shiva.\nIf you are a grandparent then do visit with your grandchildren & both of you will never forget this place.\n\nAlso i notice only this place in entire gujrat is holding his prayer in hindi.\n\nMorning 5.45-6.00 prayer must be attand once.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Peaceful place to spend time with lord shiva.\nIf you are a grandparent then do visit with your grandchildren & both of you will never forget this place.\n\nAlso i notice only this place in entire gujrat is holding his prayer in hindi.\n\nMorning 5.45-6.00 prayer must be attand once.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mehul Kothari",
+            "uri": "https://www.google.com/maps/contrib/112348735585401178896/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIzimOGtpTygXGv63ojYH7tlD5J1L5OslePX7equ3IvmCNPTw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-03-08T13:07:45Z"
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvNy1pZ3F3RRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 4,
+          "text": {
+            "text": "god of shiva temple very Nice place.common ground and all ritual follows there.in month of shravan and any festival crowd found there.Only Parking PROBLEM there.No Parking zone available.Main road side",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "god of shiva temple very Nice place.common ground and all ritual follows there.in month of shravan and any festival crowd found there.Only Parking PROBLEM there.No Parking zone available.Main road side",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jogesh Kumar D Patel",
+            "uri": "https://www.google.com/maps/contrib/115286297919314086163/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBBwWzbRdwNlxcBYzjY8L4cIkc2A6eZPbZLXX3CXoifk9QjmAr=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2019-03-06T08:08:22Z"
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaenJXNHB3RRAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Fully adhyatmik feelings there. Vibe are very good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Fully adhyatmik feelings there. Vibe are very good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Suresh Patel",
+            "uri": "https://www.google.com/maps/contrib/100825853897827804586/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsd3JHSQ2xzv9pIQ_OBPrZcAkjVqskiSF-6gPpSCo4WtuN8kzn=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2023-09-10T16:55:44Z"
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/reviews/ChZDSUhNMG9nS0VJQ0FnSUREd2Rxa1ZBEAE",
+          "relativePublishTimeDescription": "a week ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "PATEL SANJAY",
+            "uri": "https://www.google.com/maps/contrib/112198669008637926791/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnllPIAe3p-aGKZhNuUlz1iYeiiZje6ZDaH8_u2th9THPg20K1=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-10T12:01:35Z"
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/reviews/ChdDSUhNMG9nS0VJQ0FnSURzN0kzd25RRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Local meeting point for senior citizens and arrange good spiritual functions.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Local meeting point for senior citizens and arrange good spiritual functions.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Patel 121",
+            "uri": "https://www.google.com/maps/contrib/112591214235746992053/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEezlzjfAeCRBGpjQKy7baX27hReLylRWEtHOrAvtLBwcnnIMPTw=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2020-02-26T07:44:37Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJbX-uR8y94NBYQAS_5JSCmuYyutfzMAz1lwS6ItRkSKn2gKi_RnNNYFfV8wB29MGUCrHKww_5WhzZR-JLPJfcgSpcaq1WkwMWEzSwsZwOsUpNfpP5Bh2qPToFB_wjBxWEPVnPTL9VjY7r0nmavLcd3Vk_Ff_v8-Npg7",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Pravinbhai Gajjar",
+              "uri": "//maps.google.com/maps/contrib/112910909910706046026",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX0CJC_ziglpY-C9KlHtI1Obd4QgD8XO7Ur3zLVTmPpKRjLQ8jL3g=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJZaSC7MjojjFUhOF3uViczj6imRl3kIMxk1jU0MnPoDvNmYzg2YX56YsV3LBI2gPvtRmqMNXBQ-HVHWJExWE7qzkIgPsIHz3bcBxxgYWDCBrkIcXIdFG3J6W09ccKGef-4Ws_1cX46MLkxY6qvkrxcfsCbl0L3TyOTU",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Krishna",
+              "uri": "//maps.google.com/maps/contrib/114339145911290156151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3-3UeyPT4A-0y4aSdDwEezEWoHW1SjA88ysxNt-dLvxhJ2agtdA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJZ4fVJvYOjPhd_MZJws15uhyer_gb1CI9fh6ZMXuilVmDalM-RvIJTWH9hG4kDBeoxr_kAqg_GL2KfthX8WWDY2U-RyEUgIt07vLHKHiU96NU2D2qY0Lk8lcvdEphP_KCVBr7-RaYaSLlMURocLrGvF5fEgnmt1pAlu",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Krishna",
+              "uri": "//maps.google.com/maps/contrib/114339145911290156151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3-3UeyPT4A-0y4aSdDwEezEWoHW1SjA88ysxNt-dLvxhJ2agtdA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJbBHoZD3HsYZsTHltVcI0kaLQ0cnXRF5YDzGAyhDQO_LNeFTxuxOjP55xLQtOADlpBx7vMnRd6xu9qVfju9aXdWpoLPxJz2cvAaxHojVytP6oNIi0DhkYhFHepIpkujSOVKAsTWLpaDyzzXIYi4cypNyELBpQ5dzS7I",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Jignesh Bariya",
+              "uri": "//maps.google.com/maps/contrib/104158752261768771132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW7vwzsuuNbHCXPV1zPr8kC3-BqqogqaePTMcwNLb9_n5AGLzTn=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJYkacFPvndnNHJCYfF12AiNM2u0gWggT-P2-CniCrCihFXtEAWBjmju8dQni1lU51zEH81xzJk0pURCc0CwHA0VXFKxSco2b47AWo0my197D_BHpqfdqMXyLX21EDYtM8ecz1AJQO4tLEnM8QeAPCiRa_ggFqWCIJpk",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Krishna",
+              "uri": "//maps.google.com/maps/contrib/114339145911290156151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3-3UeyPT4A-0y4aSdDwEezEWoHW1SjA88ysxNt-dLvxhJ2agtdA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJZ93o09S4_3z_01rXT1rerTYxT1WNb_NYKi9r-mqY5hMPYddI8myJdpX0DZkN6kRgdVLIPil_z28mBj80-IDfjwurulSgiQmdHxT1UnOY23tqGwxFguZHorB79QI-S5Ly9jS3sxJNEuZqdt-2YSQlt9llWcelPfQN_k",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Krishna",
+              "uri": "//maps.google.com/maps/contrib/114339145911290156151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3-3UeyPT4A-0y4aSdDwEezEWoHW1SjA88ysxNt-dLvxhJ2agtdA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJb5siIEUb4YBnfJiWmWE_RTBoraQqisLfkz487N77e16H9n_sCnsjfdiBC0HQ199BZym_gxI9cFlxcbUirQNPiBFrOwadaWTfP42t-WsB44BUrL5-fzaELs4aEAbPVGLRw4ew4gPTo9HTEo6ekgGR2zHYNP3C5vJSfx",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Ranjeet Kumar",
+              "uri": "//maps.google.com/maps/contrib/101534276340170179297",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJXijNF1NXSBqKRlhvcZquwe9SxtdRXatrTo8_L5E3MXpUCMJ8=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJaFwsu134M3QUFBccxEgqpxL7QvCQqyvC2WFC6yDG9qjEddK1dBiFVIlD4mUSVUnKgB-shcX7eA3fn3tfTA4IP_3q8UQoy6tF41gjl7NqTw2a-4NyrwkZGnCdf7UtTntz7kigTtt2xSqmXKtwxT4ivpNMqgQ-NTDRlM",
+          "widthPx": 4624,
+          "heightPx": 3468,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Krishna",
+              "uri": "//maps.google.com/maps/contrib/114339145911290156151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3-3UeyPT4A-0y4aSdDwEezEWoHW1SjA88ysxNt-dLvxhJ2agtdA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJbOYLyNNZwl9TwP_faBS3I1ItAqGKBbLlBYOVKxU80fzUgZQmahMv6WufOnzkkyDkIR7NEgxaXQKblhJ6K_9x_q-AfEKbg54XOD1xhRkxaBAyeXZ6RRcB3ObxE5In4ISlAhYZlBdQkaOwyvbP2XkGeWlGiWRKEjjR8y",
+          "widthPx": 4608,
+          "heightPx": 3456,
+          "authorAttributions": [
+            {
+              "displayName": "Vijay B",
+              "uri": "//maps.google.com/maps/contrib/108244075954976119528",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVSYNYyP4qPvo_x9dpzRia26pIuMVeD1kH23KwYElgoa0Ct14as=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJB6mAW3YmXDkRCCjqoPMxtuE/photos/ATplDJbjBQ1_Wy3_o-RDdKe-4VbpK3jSQAzHgbtG39BY_zO-ceFMOpQA2PmMSTYjLfcpb62CJzhtiBN8ZFViWy0iCaXbp4tXyyldDxCvuiW3HCfmtUhHGyfbjoSPAHy5hLmv9cG9TU3f_fXoQ0PdTcXq8tNAflHisjMjddDe",
+          "widthPx": 3468,
+          "heightPx": 4624,
+          "authorAttributions": [
+            {
+              "displayName": "Ram Krishna",
+              "uri": "//maps.google.com/maps/contrib/114339145911290156151",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX3-3UeyPT4A-0y4aSdDwEezEWoHW1SjA88ysxNt-dLvxhJ2agtdA=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA",
+      "id": "ChIJVSKBdd4lXDkRnMnKBY_q3uA",
+      "types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6FVW+G3C, Ghanchiwad, Kalol, Gujarat 382721, India",
+      "addressComponents": [
+        {
+          "longText": "6FVW+G3C",
+          "shortText": "6FVW+G3C",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Ghanchiwad",
+          "shortText": "Ghanchiwad",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kalol",
+          "shortText": "Kalol",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gandhinagar",
+          "shortText": "Gandhinagar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Gujarat",
+          "shortText": "GJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "382721",
+          "shortText": "382721",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 23.2438205,
+        "longitude": 72.495136899999991
+      },
+      "viewport": {
+        "low": {
+          "latitude": 23.2422815697085,
+          "longitude": 72.493883719708492
+        },
+        "high": {
+          "latitude": 23.244979530291506,
+          "longitude": 72.4965816802915
+        }
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=16203646409324022172",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "6FVW+G3C, \u003cspan class=\"extended-address\"\u003eGhanchiwad\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKalol\u003c/span\u003e, \u003cspan class=\"region\"\u003eGujarat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e382721\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 87,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Matri Mata Temple",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hindu Temple",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hindu_temple",
+      "shortFormattedAddress": "6FVW+G3C, Ghanchiwad, Kalol",
+      "reviews": [
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/reviews/ChdDSUhNMG9nS0VJQ0FnSUROczlMN3pnRRAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Jay Matri Mata. The Almighty Goddess Matri Mata blessed me well.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jay Matri Mata. The Almighty Goddess Matri Mata blessed me well.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kamal Rao",
+            "uri": "https://www.google.com/maps/contrib/109226614714684414740/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmOgEBbtr_3iAS-KP-k5vUjpGCBEWaPsl8CxYVoACPeyRlWlE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-01-25T20:10:24Z"
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5a2FmWGpnRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Very positive atmosphere and energy.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very positive atmosphere and energy.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Hardik Prajapati",
+            "uri": "https://www.google.com/maps/contrib/111880579899487343152/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLLqea0HFO1vnD00nBnWSxWjJ3kU9bO7tzgiWqOxlvm-gSpSw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-03-06T14:43:31Z"
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwc09YMFVBEAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "It is my maternal kuldevi temple and I am having faith in Matari mata.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "It is my maternal kuldevi temple and I am having faith in Matari mata.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rupal Trivedi",
+            "uri": "https://www.google.com/maps/contrib/104622491447404075220/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNbHR661dDc9lwhdTyi4AWwJVm9o2j_-JwQUX2OgfbxGuM9Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-09-12T03:06:17Z"
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/reviews/ChZDSUhNMG9nS0VJQ0FnSURNd01LYk53EAE",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Hindu Barot and Brahmbhatt and Rao community goddess Temple.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Hindu Barot and Brahmbhatt and Rao community goddess Temple.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Bhaumik Brahmbhatt",
+            "uri": "https://www.google.com/maps/contrib/108617204079779139025/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKVuOhafnsM-IjbcGclNiMhGyDxtiot3udNZwKLZKSvK_O7KIb=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-12-12T13:50:29Z"
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5eF9DeTF3RRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Rushabh Barot",
+            "uri": "https://www.google.com/maps/contrib/103626893582041134321/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUydahMdmaq4w7J5x-NjikaSZ5FdHS-ZtXwUUQaw0Psz6Et08xw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-21T19:06:25Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJYj1ASD0sjHMWhSbO8lIGV4gMFK0thDO0DIBt7zBYCQaas69qZyb4r__ZzpT175TJsDlFt-hG64hND2gSc2QuWY-FR3YFodC1Diqc294P96SBcSydbZJyrUKo1ShyhIKJbadt5G276ZJHdyecRAp1mPcZFJ3cYVWgNc",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Avkaash Barot",
+              "uri": "//maps.google.com/maps/contrib/105465649232629222603",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK2B5rq9lqgZ6E3ImIbL7stYqBVRWxc9eF2BLJl1o_QxX8rTA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJbPruuUL6ENFib-f1LgPiQmOH-0O0KhkD_RyBxqjgmxTsQVQy6t9YgulKA8ANzV_M35c-GfVapU2edP3q6w0eOh8bq6M0akaohAKEvySZAAgpgZBwsXZsJFYxU_uhry7x1jFXGYHrBWtDa-EdS7folIoi01D7vhOq0q",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Bharat Rao",
+              "uri": "//maps.google.com/maps/contrib/117943149243040107738",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVliEh4fO7wKO0iR36Z3Tan-ATA-SN6sh6cQXNwCRWtJwMLWIlU=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJbfURFLzzB-H4bZm9EuPgiIr2QVwI_eBhixWGKAmjTozomdgNAniM-s7iZF3jv3AEO-vwzwyj5l-tSEAYdDu_Q_stxRwEOaaHQAS6bBxaBCDbQheVCNAXdPeB8CChORLaaNvFVYSTK0LeqSVZLFM6qfZjmLCuZ18eY4",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Dinesh Shastri",
+              "uri": "//maps.google.com/maps/contrib/100880246032083802933",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU0lF_-ftR5CfyXMS_ormtKv_yND0Ug5HYLtqUGQg_qylw2-j_dNQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJalV5NPF0iQFDQEyIsg9rbVtkBVIXo52d5clsHQjY7qFBP3P5ODNk7zTp4W1txmJhB0HkwSM8Yljf1m2B01_kjZDv2Omo7Pywo0k5UauTbJ_8SiL84YrPmojdTEcbLq2WB_H8WchfuTaKXe_tWL7VOA1k3zkwtOyZMo",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Dinesh Shastri",
+              "uri": "//maps.google.com/maps/contrib/100880246032083802933",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU0lF_-ftR5CfyXMS_ormtKv_yND0Ug5HYLtqUGQg_qylw2-j_dNQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJY0ksZ2_qXj8mlFYUgfluNR-FXSQowkAQ_7tVNyHPbDkUgyxOWRgCRh9oGexyfhEsKiaJEz9-Yo9FDhRIeAFydQfdqUcHbWPcJLoQpTU0vucdx_QBSJ6amWQ4OoRxVW7or8-1RrpO3ct8-XhFAgAZ0bpMbzrlz5AEzd",
+          "widthPx": 3096,
+          "heightPx": 4128,
+          "authorAttributions": [
+            {
+              "displayName": "VASHISHT D B",
+              "uri": "//maps.google.com/maps/contrib/113863177036384642962",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIi_c-WnVilIT4JZeSirD0n9XnUzj9zs83iEegU8rURADdqiwaRQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJaP9ZSjwJ97gTwTGu-0e7gjFsG0nmQzGSGFc8w8wL1iq8E4cn-I2dKlihaIBF1pv4S8efhZ77NMviGgBKzMbMehiLhjHP04-2TqRJuevQlrJl5TNsD3URY0Srk7i2kixIonb0xMLtpVlO1rlm6MUD-6Sx1qW-pRRQE",
+          "widthPx": 3264,
+          "heightPx": 2448,
+          "authorAttributions": [
+            {
+              "displayName": "Durgasankar pradhan",
+              "uri": "//maps.google.com/maps/contrib/106154578869194436452",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX8F1a4Tj-Hwb_caf0ks_TU6CK9AtFjDsLX87ezDFrpboHFALM=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJZUdw5ZW3s3kg9LCo55AhrgXyhuzHITCxc4w1w4NLLvbTQSldEGYqs4XuC7wwZAfIcjVYlslv2Vf6ZVwkXfUyqsDsZti9RTq4SLRHMIjRxyh-P1AlKEuBPRVssqWnRZdqdP_s8-hu5bSdxMEtyXfIi3Ih4VCtb_XBc2",
+          "widthPx": 4160,
+          "heightPx": 3120,
+          "authorAttributions": [
+            {
+              "displayName": "Joshi Nitesh",
+              "uri": "//maps.google.com/maps/contrib/100199633106642074531",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLHV9NAYtmh0nxu7XkkYvQp9q9zajkAsB_dBeDwkIGpiDpehg=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJZwStiq8wp5lHNAqO5wrGIHdOWgupwJ9rdh-nyjKIMpsuXxnStmxIm-VBNfmPVsGWBz48JgIqUURUb2T5zhgg5KvsQek8vNQCJYw4Uzbqe7eVWVCq78s9uLpqK-03TNcbs3BVOUCJD3wSYtZl7TAbQH5GVxv39zWyBr",
+          "widthPx": 3120,
+          "heightPx": 4160,
+          "authorAttributions": [
+            {
+              "displayName": "Bhankhodiya Anil",
+              "uri": "//maps.google.com/maps/contrib/106538219655401545093",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUQ3epbK_qKa1YLRRPCLbEoUov0z29XvVHOke0D2DBaMWqPBXbr=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJZJ5l8b73Hr6_GbHM4-8yX9loZ7SA-5FpHcbhNk5IOfqjmWhwDRjyOWAmEulaDMQJz1aXlNcknX7aXm1RNYBwQqEmNVkuaLKISPyIZX0ukunVaEW4hmZnlzXSNoqrGY57SC2B4od-Ll6181QbhurpQn3KRqRzIpr408",
+          "widthPx": 4096,
+          "heightPx": 2304,
+          "authorAttributions": [
+            {
+              "displayName": "GOPAL KUMAR GOPAL",
+              "uri": "//maps.google.com/maps/contrib/102372335823792198406",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlUDAzsJjEC10H75Xep61UxU0vO7vmrGdmEyLtOOeKj0yt3hZt=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJVSKBdd4lXDkRnMnKBY_q3uA/photos/ATplDJZFf-SOHw2r9k3npEIMnrDYJEgQDPIGIN-ucAfyOnWSnLH1GNBrL3BTulCdNbFJVjuwjyuljKl7YpCxHLHqtkxIarbVaffuK-aiG5ESZf5p_JN3pAXYFwwwJVT5pVO5TpzXo0agp2UxNNS21KpjgNdsVBrTclM2qrbU",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "RAJPUT He",
+              "uri": "//maps.google.com/maps/contrib/103373023737394839675",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVDAu0kApdSn9tqkztC5zjdNO0FB3HwuXyIytFxDPyP37FxoD35=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

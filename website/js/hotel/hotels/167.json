@@ -1,0 +1,720 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k",
+      "id": "ChIJg3DuTB8drzsRlMX4Kqn-i3k",
+      "types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "formattedAddress": "Hosahalli cross, Kollegal Rd, Malavalli, Karnataka 571430, India",
+      "addressComponents": [
+        {
+          "longText": "Hosahalli cross",
+          "shortText": "Hosahalli cross",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Kollegal Road",
+          "shortText": "Kollegal Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Malavalli",
+          "shortText": "Malavalli",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mandya",
+          "shortText": "Mandya",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "571430",
+          "shortText": "571430",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "7J4V74PG+V4",
+        "compoundCode": "74PG+V4 Malavalli, Karnataka, India"
+      },
+      "location": {
+        "latitude": 12.287218200000002,
+        "longitude": 77.1253005
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.2858702697085,
+          "longitude": 77.123962819708481
+        },
+        "high": {
+          "latitude": 12.288568230291505,
+          "longitude": 77.1266607802915
+        }
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=8758373902875936148",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 6:30 AM – 5:00 PM",
+          "Wednesday: 7:00 AM – 8:00 PM",
+          "Thursday: 7:00 AM – 8:00 PM",
+          "Friday: 7:00 AM – 8:00 PM",
+          "Saturday: 7:00 AM – 8:00 PM",
+          "Sunday: 7:00 AM – 8:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003eHosahalli cross, Kollegal Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMalavalli\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e571430\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 111,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "GreenTouch Resorts",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Resort hotel",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 22
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 24
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 25
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 26
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 4,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 6:30 AM – 5:00 PM",
+          "Wednesday: 7:00 AM – 8:00 PM",
+          "Thursday: 7:00 AM – 8:00 PM",
+          "Friday: 7:00 AM – 8:00 PM",
+          "Saturday: 7:00 AM – 8:00 PM",
+          "Sunday: 7:00 AM – 8:00 PM"
+        ]
+      },
+      "primaryType": "resort_hotel",
+      "shortFormattedAddress": "Hosahalli cross, Kollegal Rd, Malavalli",
+      "reviews": [
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNscUtQN0hBEAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "The place sure is a get away destination from the busy day to day urban life. Not very far from the main road, the resort is surprisingly calm, lush green and engaging in many ways. The staff is very friendly, welcoming and warmly accommodating. There are big open spaces to play just whatever you wish to, or to just sit around and chat. The breakfast and lunch were delicious. The staff was so humble that they even went out of the menu and prepared something for our family, on request. The place is, all in all, so calm and relaxing with the right company, that we didn’t feel like leaving the place. A must try if you are looking for a weekend escape with not much traveling.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The place sure is a get away destination from the busy day to day urban life. Not very far from the main road, the resort is surprisingly calm, lush green and engaging in many ways. The staff is very friendly, welcoming and warmly accommodating. There are big open spaces to play just whatever you wish to, or to just sit around and chat. The breakfast and lunch were delicious. The staff was so humble that they even went out of the menu and prepared something for our family, on request. The place is, all in all, so calm and relaxing with the right company, that we didn’t feel like leaving the place. A must try if you are looking for a weekend escape with not much traveling.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Varshitha K",
+            "uri": "https://www.google.com/maps/contrib/103122192938264520254/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMR2WypNMIhjeNkPQYxN-selc2vruaR_tySV8mEJHkK5CEiwst=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-13T14:11:25Z"
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsN2ZPV0JnEAE",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Wonderful ambiance and good staff. Spacious rooms, well maintained wash rooms and hygiene food. Overall family visit resort with all amenities for children.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Wonderful ambiance and good staff. Spacious rooms, well maintained wash rooms and hygiene food. Overall family visit resort with all amenities for children.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Praveen Gk",
+            "uri": "https://www.google.com/maps/contrib/107040630547359242838/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbHCqFEdsLftFgNTS9GlFXIvp9AARfh3fxGm1W96EShYYH3YEh=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-24T16:26:41Z"
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEb1l2RjFRRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Service is good, location is best in monsoon season, resort ambience is great, less crowded food is great.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Service is good, location is best in monsoon season, resort ambience is great, less crowded food is great.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Akshay kumar",
+            "uri": "https://www.google.com/maps/contrib/113598773957021114520/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1N5l1AN-v45ghTpyAxUOPTlwQNqCPLZSHmKKe7yNhmCQq3y_o=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-03-29T05:47:40Z"
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbXVxc0R3EAE",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 4,
+          "text": {
+            "text": "I hd a great experience at Green Touch and would definitely recommend it to others........ The food is delicious and healthy, the service is excellent, and the atmosphere is relaxed and inviting.\nBest place to visit with friends and family ...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I hd a great experience at Green Touch and would definitely recommend it to others........ The food is delicious and healthy, the service is excellent, and the atmosphere is relaxed and inviting.\nBest place to visit with friends and family ...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Sandhya R",
+            "uri": "https://www.google.com/maps/contrib/111274883317960652807/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIk3otSKt3ZJInsX5Wtqa5kAvYrP-FUgBEU464FjELONPXHog=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-16T10:41:51Z"
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsNnBleTRRRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "We thoroughly enjoyed. The staffs were always very  helpfull  . The food was excellent...",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We thoroughly enjoyed. The staffs were always very  helpfull  . The food was excellent...",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "thanusha siva",
+            "uri": "https://www.google.com/maps/contrib/113704793789602229089/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMYBMFXTuUvIHsnoleDTyphVYw9agY_XuVv9ez8zKBf9Of2kJT=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-11-16T09:01:22Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJZpSz4ul57YrTlDkAJm-ScJl2yxsyO8EXnyfjd0eRG701sPkEAhMpDZRWOUErS0iKU1wly0PsPK8oON1gNncstFGvTxJ8OJJ2uQxCXdRzr5QeHDKnZYK_cWkEEUB_9h9BB61R215-WnI66gRsfc4kHgDJPGdKrK5ipz",
+          "widthPx": 1440,
+          "heightPx": 1440,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJYTqFqW8K5D6gA6fvv9T7rtqSKaPAOXn3Sc9tgG6wcRVXlwYowRVK0x_kIImRc9jNHX95f0kfKsnrymQ-tSl_YEBhlpXQObZtTP8dJ34aESdc-gHdf5QrjaM0CXkGhcGcTAGXWsDMa8UTywV1aUhvUvRlj4yk9I3zm3",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJYSB845vqcDX3Glsk3xK9Jtbm7p2GSPVAmluB2QU7OEM-VwwZ9vjUGws5ye0W_IMTkBasGJbojLG42QkCNDVXpZMKyOJkYOJ54dq0wnftGTCr7saBv62GwQ_bFlvlCzKU0FhFRY0tWk49xuJGH_XqZskxu_6k8lLy4G",
+          "widthPx": 4496,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJYrALkA9S0-wo1LT1zhUwljCUXvTod3YLn0yY2GlhZgHyntgxOfVkMRIqtBQP3Xw3D1QeLs0ZzF_3ec7e6cTup-6jt83SfZ7ioQVOs8NDaLjQv2C4okEZQiNPd3Cg6EGJ7Gdw8SgPcDEDHj26_qZyLtJ366QG_n-Lng",
+          "widthPx": 1080,
+          "heightPx": 612,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJYTNpZkaQWJI9yooohslnmaIsVtPcJFiLhI9YVw0PuHJRNi3lEOeQvWOuToEZE9KSYhKHsB4nfpP58dKbD6X15KG9ccxGmgGd3HgEa8GRbIZ5PGgi8-SrKhfvpbYBy0iod9Zs7GVMVP3ajFiAJHuSFnBsOpi2X7yJJr",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJaJZsn4KcTZkPwswgJo0OoaDt41yzEsQUPt8SkbwgHJv-ZfJgm3eT9QkpNpArIVipW1Knk0kmNxj6SZR9lktqMPK_0Zi6j2YH7SsgT23Qewzi2YVPUYSbKhT-16Y0lxQD76IrPGFqTNS48-aDLuU9BL6y7V2bHzv7Ng",
+          "widthPx": 4496,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJbpOPolKxBYlqYy_0bgEgcxfGbR8qGBCGdSvi4vDdT7EyUiOknk0r2lx8P0tdv8stVZYQpNInxR9ThuQieqYwwTCJWCFuKu572xUriYJ-AU14Ocj1mCW4hoivjfK7co-xlYZkeg5Lq2wJ3bUNE75yPubYgQxINFlVJa",
+          "widthPx": 6000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJZdNaQCLsovvx2PojrK8tbCCFSqevGYrGNjtJ08I4oY_0tMaUXfkB32KABUO54Ggh9p6YmjfMu4yQKurRGrbvPd3ZxIz8cJt2yEcHt1BIRnMqnO5Q4msQ7gcHKrzCGH2_K73Y6v8wH814A6rwba4Utgr4gXI8ss3-Uu",
+          "widthPx": 4496,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJYi2Zr2ovu2PiiGzaOJFM8F_jkkQlb1Znwy5WRSR1jq5S7JB2wnfxrUBwenSsO3wKkgMweFkuTrejSS01qWDITVEFnO3OvBVW5bPWt7fKMsYomXlJ4C_U91ruBRtRaJc1tynh_67IGtmRSYBVJoUnzfD4vJZAmizDDj",
+          "widthPx": 4496,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJg3DuTB8drzsRlMX4Kqn-i3k/photos/ATplDJbhiniBsiFdOdLUw_ZddqGhLBufLbuc8HTr9OK4eYXFl9O0nePM1GByOpqFowKRHvCyZ5ffkk-3TNn8wG1c4OEeMe9oM2igg26URPmbNpRNHcV20Q1f5uZWbqUj6CsPIp_tCtb9j_NMfVKpY-8s_IaQWMNnmIAijUU8",
+          "widthPx": 1020,
+          "heightPx": 546,
+          "authorAttributions": [
+            {
+              "displayName": "GreenTouch Resorts",
+              "uri": "//maps.google.com/maps/contrib/109659819100907019111",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpDeavd8xk759aJct7oqh2Eezi5e1wqTx6GJi8brPnn5i4LWE=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "goodForChildren": true,
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    },
+    {
+      "name": "places/ChIJwfsXzLAdrzsR8eyTTKJU9ws",
+      "id": "ChIJwfsXzLAdrzsR8eyTTKJU9ws",
+      "types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "South, 746W+3F6, C.M.Samudra, Karnataka 571417, India",
+      "addressComponents": [
+        {
+          "longText": "746W+3F6",
+          "shortText": "746W+3F6",
+          "types": [
+            "plus_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "C.M.Samudra",
+          "shortText": "C.M.Samudra",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mandya",
+          "shortText": "Mandya",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mysore Division",
+          "shortText": "Mysore Division",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Karnataka",
+          "shortText": "KA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "India",
+          "shortText": "IN",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "571417",
+          "shortText": "571417",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 12.2601557,
+        "longitude": 77.1461396
+      },
+      "viewport": {
+        "low": {
+          "latitude": 12.259109319708498,
+          "longitude": 77.1448319197085
+        },
+        "high": {
+          "latitude": 12.261807280291503,
+          "longitude": 77.1475298802915
+        }
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=862250909710937329",
+      "utcOffsetMinutes": 330,
+      "adrFormatAddress": "South, 746W+3F6, \u003cspan class=\"locality\"\u003eC.M.Samudra\u003c/span\u003e, \u003cspan class=\"region\"\u003eKarnataka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e571417\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "iconBackgroundColor": "#909CE1",
+      "displayName": {
+        "text": "South Indian city",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Hotel",
+        "languageCode": "en-US"
+      },
+      "primaryType": "hotel",
+      "shortFormattedAddress": "746W+3F6, South, C.M.Samudra",
+      "goodForChildren": true
+    }
+  ]
+}
+
