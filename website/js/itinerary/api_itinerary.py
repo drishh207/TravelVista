@@ -44,7 +44,7 @@ def get_itinerary():
 
         # Make a POST request to the API endpoint
         response = requests.post(
-            'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDLRQP-7VqPcia7GDRoJsi_Pa5X7mIQf_M',
+            'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=<API_KEY>',
             json=payload
         )
 
