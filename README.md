@@ -40,7 +40,7 @@ Travel planning is an intricate process that often involves extensive research, 
 **Implementation Diagram**
 ![TravelVista Diagram.png](https://github.com/drishh207/TravelVista/blob/main/TravelVista%20Diagram.png)
 
-As we advace in the webiste, we will apply *Collaborative Filtering* to improve the personalization and provide better recommendations to first time users. 
+As we advance in the website, we will apply *Collaborative Filtering* to improve the personalization and provide better recommendations to first time users. 
 
 ## Usage Details
 1. Clone the repository.
